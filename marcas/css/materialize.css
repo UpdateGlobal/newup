@@ -5319,6 +5319,7 @@ button.btn-floating {
   left: auto;
   width: 500px;
   /*width 100% only goes to width of button container */
+      letter-spacing: -25px;
 }
 
 .fixed-action-btn.horizontal ul li {

@@ -130,7 +130,6 @@
   font-size: 30px;
 }
 
-}
 </style>
 
 </head>
@@ -138,11 +137,7 @@
 <!--desktop-->
 <div class="responform2">
 
-
-
-
-
-  <?php
+<?php
 
 include('../modulos/menuprincipal.php');
 
@@ -159,59 +154,57 @@ include('../modulos/menuprincipal.php');
     <span class="handle"></span>
   </div>
 
-<div class="container dir">
-  <div class="row">
-        <div class="col s2 animated fadeInLeft">
-           <h1 class="rotar">Marcas</h1>
+        <div class="container dir">
+          <div class="row">
+                <div class="col s2 animated fadeInLeft">
+                   <h1 class="rotar">Marcas</h1>
+                </div>
+            <div class="col s10">
+              <div class="row" style="display: inline-block;">
+                               <div class="col s4 c-test js-tilt responsive-img"  style="background-image: url(img/1.jpg); background-repeat: no-repeat;">
+                                 
+                               </div>
+                                <div class="col s8 thin animated fadeInRightBig">
+                                  <h5 style=" color: #50bdbe;">Descripcion</h5>
+                                  <h5>Empresa</h5>
+                                  <span>Conceptualizacion</span>
+                                  <p class="thin" style="font-size: 2em;">The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.</p>
+                                          <div class="chip">
+                                            Jane Doe
+                                          </div>
+                                          <div class="chip">
+                                            Jane Doe
+                                          </div>
+                                          <div class="chip">
+                                            Jane Doe
+                                          </div>
+                                </div>
+                          
+              </div>
+              <div class="row" align="right" style="display: inline-block;">
+                                <div class="col s8 thin animated fadeInLeftBig" >
+                                  <h5 style=" color: #50bdbe;">Descripcion</h5>
+                                  <h5>Empresa</h5>
+                                  <span>Conceptualizacion</span>
+                                  <p class="thin" style="font-size: 2em;">The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.</p>
+                                          <div class="chip">
+                                            Jane Doe
+                                          </div>
+                                          <div class="chip">
+                                            Jane Doe
+                                          </div>
+                                          <div class="chip">
+                                            Jane Doe
+                                          </div>
+                                </div>
+                                <div class="col s4 c-test js-tilt responsive-img"  style="background-image: url(img/1.jpg); background-repeat: no-repeat; "> 
+                                </div>
+              </div>
+          </div>
         </div>
-    <div class="col s10">
-      <div class="row" style="display: inline-block;">
-                       <div class="col s4 c-test js-tilt responsive-img"  style="background-image: url(img/1.jpg); background-repeat: no-repeat;">
-                         
-                       </div>
-                        <div class="col s8 thin animated fadeInRightBig">
-                          <h5 style=" color: #50bdbe;">Descripcion</h5>
-                          <h5>Empresa</h5>
-                          <span>Conceptualizacion</span>
-                          <p class="thin" style="font-size: 2em;">The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.</p>
-                                  <div class="chip">
-                                    Jane Doe
-                                  </div>
-                                  <div class="chip">
-                                    Jane Doe
-                                  </div>
-                                  <div class="chip">
-                                    Jane Doe
-                                  </div>
-                        </div>
-                  
-      </div>
-      <div class="row" align="right" style="display: inline-block;">
-                        <div class="col s8 thin animated fadeInLeftBig" >
-                          <h5 style=" color: #50bdbe;">Descripcion</h5>
-                          <h5>Empresa</h5>
-                          <span>Conceptualizacion</span>
-                          <p class="thin" style="font-size: 2em;">The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.</p>
-                                  <div class="chip">
-                                    Jane Doe
-                                  </div>
-                                  <div class="chip">
-                                    Jane Doe
-                                  </div>
-                                  <div class="chip">
-                                    Jane Doe
-                                  </div>
-                        </div>
-                        <div class="col s4 c-test js-tilt responsive-img"  style="background-image: url(img/1.jpg); background-repeat: no-repeat; "> 
-                        </div>
-      </div>
-  </div>
-</div>
 
 
 <style type="text/css">
-
-
 #padre{
 
     border-radius: 4px;
@@ -229,9 +222,7 @@ include('../modulos/menuprincipal.php');
 
 
   <div id="padre">Servicios</div>
-
     <div id="uno">
-      
       <div class="row">
         <div class="col s4" align="center">
         <blockquote>
@@ -297,7 +288,7 @@ include('../modulos/menuprincipal.php');
         
 
 
-  <?php
+<?php
 
 include('../modulos/menuprincipal.php');
 
@@ -306,14 +297,14 @@ include('../modulos/menuprincipal.php');
 
 
 
-<div class="row " align="left">
+<div class="row responform" align="left">
   <div class="col">
     <h1 class="thin titlesmoviles">Diseñamos Marcas</h1>
   </div>
 </div>
 
 
-<div class="row">
+<div class="row responform">
   <div class="col m6 container"><img src="img/1.jpg"></div>
     <div class="col m6 thin animated fadeInLeftBig" >
       <h5 style=" color: #50bdbe;">Descripcion</h5>
@@ -333,9 +324,9 @@ include('../modulos/menuprincipal.php');
   </div>
 </div>
 
-<div class="row">
-  <div class="col m6 container"><img src="img/1.jpg" style="animation-delay: 3s;"></div>
-    <div class="col m6 thin animated fadeInRightBig" style="animation-delay: 3s;">
+<div class="row responform">
+  <div class="col m6 container"><img src="img/1.jpg" style="animation-delay: 1s;"></div>
+    <div class="col m6 thin animated fadeInRightBig" style="animation-delay: 1s;">
       <h5 style=" color: #50bdbe;">Descripcion</h5>
         <h5>Empresa</h5>
         <span>Conceptualizacion</span>
@@ -357,13 +348,13 @@ include('../modulos/menuprincipal.php');
 
 
 
-<div class="row" align="left">
+<div class="row responform" align="left">
 <h1 class="thin titlesmoviles">Servicios</h1>
 </div>
 
 
       
-      <div class="row ">
+      <div class="row responform">
         <div class="col m4 updateservices" align="center">
           <i class="fa fa-cubes fa-5x2" aria-hidden="true"></i>
           <br><br>
