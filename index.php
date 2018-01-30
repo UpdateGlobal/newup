@@ -68,21 +68,44 @@
 <!--menuTop-->
 
 
+
+<ul id="slide-out" class="side-nav">
+  <li>
+      <script id="bx24_form_inline" data-skip-moving="true">
+            (function(w,d,u,b){w['Bitrix24FormObject']=b;w[b] = w[b] || function(){arguments[0].ref=u;
+                    (w[b].forms=w[b].forms||[]).push(arguments[0])};
+                    if(w[b]['forms']) return;
+                    var s=d.createElement('script');s.async=1;s.src=u+'?'+(1*new Date());
+                    var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+            })(window,document,'https://updatemarketing.bitrix24.es/bitrix/js/crm/form_loader.js','b24form');
+
+            b24form({"id":"8","lang":"la","sec":"82jy61","type":"inline"});
+    </script>
+  </li>
+</ul>
+
+
+
 <div class="navbar-fixed">
  <nav>
 
       <a href="#" class="brand-logo"><img src="img/log1.png" class="responsive-img" width="32%" style="left: 20px;" id=""></a>
 
+
+
+
+
+
+
+
+
   </nav>
 </div>
 
 
-
-
-
-          <video class="responsive-video" autoplay="  " loop="loop" style="width: 100%; height: 80%; margin-top: -62px;">
-            <source src="sliderfinal01.mp4" type="video/mp4">
-          </video>
+<video class="responsive-video" autoplay="  " loop="loop" style="width: 100%; height: 80%; margin-top: -62px;">
+  <source src="sliderfinal01.mp4" type="video/mp4">
+</video>
 
 
 <!--botonndownrigth-->
@@ -112,6 +135,7 @@ include ('modulos/menuprincipal.php');
  
 
     $('.tooltipped').tooltip({delay: 0});
+      $(".button-collapse").sideNav();
    
     });
       </script>

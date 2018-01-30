@@ -101,7 +101,7 @@
   bottom: 0;
   width: 4px;
   margin-left: -2px;
-  background: rgba(0, 0, 0, 0.5);
+    background: rgb(81, 189, 190);
   cursor: ew-resize;
 }
 .handle:after {
@@ -147,9 +147,9 @@ include('../modulos/menuprincipal.php');
 
 
   <div class="ba-slider">
-    <img src="img/1.1.png" alt="">       
+    <img src="img/1.1.jpg" alt="">       
     <div class="resize">
-      <img src="img/1.2.png" alt="">
+      <img src="img/1.2.jpg" alt="">
     </div>
     <span class="handle"></span>
   </div>
