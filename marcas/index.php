@@ -1,6 +1,6 @@
 
 <!doctype html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
  <meta charset="utf-8">
@@ -31,117 +31,24 @@
   <!--Import Google Icon Font-->
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-<!--<link rel="stylesheet" href="css/style.css">-->
+<link rel="stylesheet" type="text/css" href="css/responsivemarcas.css">
 
-<style>
-@media only screen and (min-width: 500px) {
-
-/* estas es la version que se vera en moviles*/  
-
-.responform {
-  display: none;   !important;
- }
-}
-
-@media only screen and (max-width: 499px) {
-.responform2 {
-  display: none;   !important;
- }
-}
-
-
-.c-test {
-  position: absolute: ;
-  width: 320px;
-  height: 320px;
-  margin: 0 auto;
-  /*
-  display: flex;
-  */
-  align-items: center;
-  justify-content: center;
-  transform-style: preserve-3d;
-}
-
-  .rotar{
-    
-   transform: rotate(90deg) scale(3);
-   margin-left: 20%;
-   color: #50bdbe;
-   opacity: 0.2;  
-   font-size: 80px;
-   padding-left: 15%;
-   padding-top: 25%;
-
-
-  }
-
-
-  .ba-slider {
-  position: relative;
-  overflow: hidden;
-}
-.ba-slider img {
-  width: 100%;
-  display: block;
-}
-.resize {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 50%;
-  overflow: hidden;
-}
-.handle {
-  /* Thin line seperator */
-  position: absolute;
-  left: 50%;
-  top: 0;
-  bottom: 0;
-  width: 4px;
-  margin-left: -2px;
-    background: rgb(81, 189, 190);
-  cursor: ew-resize;
-}
-.handle:after {
-  /* Big orange knob  */
-  position: absolute;
-  top: 50%;
-  width: 64px;
-  height: 64px;
-  margin: -32px 0 0 -30px;
-  content: '\21d4';
-  color: #51bdbe;
-  font-weight: bold;
-  font-size: 36px;
-  text-align: center;
-  line-height: 64px;
-  /* darken(@orange, 5%) */
-  border-radius: 50%;
-  transition: all 0.3s ease;
-
-}
-.draggable:after {
-  width: 48px;
-  height: 48px;
-  margin: -24px 0 0 -24px;
-  line-height: 48px;
-  font-size: 30px;
-}
-
-</style>
 
 </head>
 <body>
-<!--desktop-->
-<div class="responform2">
+
+
+
+
 
 <?php
 
 include('../modulos/menuprincipal.php');
 
 ?>
+
+<!--desktop-->
+<div class="responform2">
 
   
 
@@ -264,39 +171,6 @@ include('../modulos/menuprincipal.php');
 
 <!--version only movil-->
 
-<style type="text/css">
-  
-.updateservices{
-      margin: 51px -10px 30px;
-
-}
-
-.fa-5x2{
-  font-size: 12rem;
-}
-
-.titlesmoviles{
-    font-size: 40px;
-    color: #56bfc0;
-    letter-spacing: 15px;
-    padding-left: 10px;
-
-}
-</style>
-
-
-        
-
-
-<?php
-
-include('../modulos/menuprincipal.php');
-
-?>
-
-
-
-
 <div class="row responform" align="left">
   <div class="col">
     <h1 class="thin titlesmoviles">Diseñamos Marcas</h1>
@@ -344,16 +218,9 @@ include('../modulos/menuprincipal.php');
   </div>
 </div>
 
-
-
-
-
-<div class="row responform" align="left">
-<h1 class="thin titlesmoviles">Servicios</h1>
-</div>
-
-
-      
+      <div class="row responform" align="left">
+        <h1 class="thin titlesmoviles">Servicios</h1>
+      </div>      
       <div class="row responform">
         <div class="col m4 updateservices" align="center">
           <i class="fa fa-cubes fa-5x2" aria-hidden="true"></i>
@@ -380,37 +247,14 @@ include('../modulos/menuprincipal.php');
           consequat. </h5>
         </div>  
       </div>
-
     </div>
-
-
-
-
-
-
-
-
-
-
-
-<div class="row responform" style="background-color: #51bdbe; margin: 0px; padding-bottom: 4%; padding-top: 4%;">
-  <div class="container">
-  <p class="thin white-text"> Derechos reservados movil</p>
-  </div>
-</div>
-
-
-
-
+      <div class="row responform" style="background-color: #51bdbe; margin: 0px; padding-bottom: 4%; padding-top: 4%;">
+        <div class="container">
+        <p class="thin white-text"> Derechos reservados movil</p>
+        </div>
+      </div>
 
 <!--version only movil-->
-
-
-
-
-
-
-
 
 <!--beforandaftersslider-->
 <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>

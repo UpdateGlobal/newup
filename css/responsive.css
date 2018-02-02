@@ -1,0 +1,26 @@
+    #img-logo {
+                      -webkit-animation: anim 5s infinite linear;
+                      animation: anim 5s infinite linear;
+                  }
+
+                  @-webkit-keyframes anim {
+                      from {-webkit-transform: rotateY(0deg);}
+                      to {-webkit-transform: rotateY(360deg);}
+                  }
+
+                  @keyframes anim {
+                      from {transform: rotateY(0deg);}
+                      to {transform: rotateY(360deg);}
+                  }
+
+                     body {
+                      margin: 0;
+                      padding: 0;
+                      background-color: #ffffff;
+                  }
+
+                  #video-background {
+                      height: 100%;
+                      position: fixed;
+                      width: 100%;
+                  }

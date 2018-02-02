@@ -1,0 +1,111 @@
+@media only screen and (min-width: 500px) {
+
+/* estas es la version que se vera en moviles*/  
+
+.responform {
+  display: none;   !important;
+ }
+}
+
+@media only screen and (max-width: 499px) {
+.responform2 {
+  display: none;   !important;
+ }
+}
+
+
+.c-test {
+  position: absolute: ;
+  width: 320px;
+  height: 320px;
+  margin: 0 auto;
+  /*
+  display: flex;
+  */
+  align-items: center;
+  justify-content: center;
+  transform-style: preserve-3d;
+}
+
+  .rotar{
+    
+   transform: rotate(90deg) scale(3);
+   margin-left: 20%;
+   color: #50bdbe;
+   opacity: 0.2;  
+   font-size: 80px;
+   padding-left: 15%;
+   padding-top: 25%;
+
+
+  }
+
+
+  .ba-slider {
+  position: relative;
+  overflow: hidden;
+}
+.ba-slider img {
+  width: 100%;
+  display: block;
+}
+.resize {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 50%;
+  overflow: hidden;
+}
+.handle {
+  /* Thin line seperator */
+  position: absolute;
+  left: 50%;
+  top: 0;
+  bottom: 0;
+  width: 4px;
+  margin-left: -2px;
+    background: rgb(81, 189, 190);
+  cursor: ew-resize;
+}
+.handle:after {
+  /* Big orange knob  */
+  position: absolute;
+  top: 50%;
+  width: 64px;
+  height: 64px;
+  margin: -32px 0 0 -30px;
+  content: '\21d4';
+  color: #51bdbe;
+  font-weight: bold;
+  font-size: 36px;
+  text-align: center;
+  line-height: 64px;
+  /* darken(@orange, 5%) */
+  border-radius: 50%;
+  transition: all 0.3s ease;
+
+}
+.draggable:after {
+  width: 48px;
+  height: 48px;
+  margin: -24px 0 0 -24px;
+  line-height: 48px;
+  font-size: 30px;
+}
+.updateservices{
+      margin: 51px -10px 30px;
+
+}
+
+.fa-5x2{
+  font-size: 12rem;
+}
+
+.titlesmoviles{
+    font-size: 40px;
+    color: #56bfc0;
+    letter-spacing: 15px;
+    padding-left: 10px;
+
+}
