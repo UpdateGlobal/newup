@@ -18,6 +18,8 @@
     <link href="https://fonts.googleapis.com/css?family=Fira+Sans+Extra+Condensed" rel="stylesheet">
     <script src="https://use.fontawesome.com/3c86cf9c2d.js"></script>
 
+ <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+
     <link rel="stylesheet" type="text/css" href="assets/font-awesome.css">
     <link rel="stylesheet" type="text/css" href="assets/materialize.css">
     <link rel="stylesheet" type="text/css" href="assets/normalize.css">
@@ -61,6 +63,55 @@ include('../modulos/menuprincipal.php');
                 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                 <br>
                     <a class="waves-effect waves-light btn" href="https://naricitasplaza.pe/" target="_new">Ver Web</a>
+                    <ul class="progress1" style="display: flex;">
+                        <!--  Item  -->
+                        <li data-name="Diseño" data-percent="50%">
+                            <svg viewBox="-10 -10 220 220">
+                            <g fill="none" stroke-width="3" transform="translate(100,100)">
+                            <path d="M 0,-100 A 100,100 0 0,1 86.6,-50" stroke="url(#cl1)"/>
+                            <path d="M 86.6,-50 A 100,100 0 0,1 86.6,50" stroke="url(#cl2)"/>
+                            <path d="M 86.6,50 A 100,100 0 0,1 0,100" stroke="url(#cl3)"/>
+                            <path d="M 0,100 A 100,100 0 0,1 -86.6,50" stroke="url(#cl4)"/>
+                            <path d="M -86.6,50 A 100,100 0 0,1 -86.6,-50" stroke="url(#cl5)"/>
+                            <path d="M -86.6,-50 A 100,100 0 0,1 0,-100" stroke="url(#cl6)"/>
+                            </g>
+                            </svg>
+                            <svg viewBox="-10 -10 220 220">
+                            <path d="M200,100 C200,44.771525 155.228475,0 100,0 C44.771525,0 0,44.771525 0,100 C0,155.228475 44.771525,200 100,200 C155.228475,200 200,155.228475 200,100 Z" stroke-dashoffset="500"></path>
+                            </svg>
+                        </li>
+                        <!--  Item  -->
+                        <li data-name="Usabilidad" data-percent="82%">
+                            <svg viewBox="-10 -10 220 220">
+                            <g fill="none" stroke-width="3" transform="translate(100,100)">
+                            <path d="M 0,-100 A 100,100 0 0,1 86.6,-50" stroke="url(#cl1)"/>
+                            <path d="M 86.6,-50 A 100,100 0 0,1 86.6,50" stroke="url(#cl2)"/>
+                            <path d="M 86.6,50 A 100,100 0 0,1 0,100" stroke="url(#cl3)"/>
+                            <path d="M 0,100 A 100,100 0 0,1 -86.6,50" stroke="url(#cl4)"/>
+                            <path d="M -86.6,50 A 100,100 0 0,1 -86.6,-50" stroke="url(#cl5)"/>
+                            <path d="M -86.6,-50 A 100,100 0 0,1 0,-100" stroke="url(#cl6)"/>
+                            </g>
+                            </svg>
+                            <svg viewBox="-10 -10 220 220">
+                            <path d="M200,100 C200,44.771525 155.228475,0 100,0 C44.771525,0 0,44.771525 0,100 C0,155.228475 44.771525,200 100,200 C155.228475,200 200,155.228475 200,100 Z" stroke-dashoffset="81"></path>
+                            </svg>
+                        </li>
+                        <li data-name="Creatividad" data-percent="69%">
+                            <svg viewBox="-10 -10 220 220">
+                            <g fill="none" stroke-width="3" transform="translate(100,100)">
+                            <path d="M 0,-100 A 100,100 0 0,1 86.6,-50" stroke="url(#cl1)"/>
+                            <path d="M 86.6,-50 A 100,100 0 0,1 86.6,50" stroke="url(#cl2)"/>
+                            <path d="M 86.6,50 A 100,100 0 0,1 0,100" stroke="url(#cl3)"/>
+                            <path d="M 0,100 A 100,100 0 0,1 -86.6,50" stroke="url(#cl4)"/>
+                            <path d="M -86.6,50 A 100,100 0 0,1 -86.6,-50" stroke="url(#cl5)"/>
+                            <path d="M -86.6,-50 A 100,100 0 0,1 0,-100" stroke="url(#cl6)"/>
+                            </g>
+                            </svg>
+                            <svg viewBox="-10 -10 220 220">
+                            <path d="M200,100 C200,44.771525 155.228475,0 100,0 C44.771525,0 0,44.771525 0,100 C0,155.228475 44.771525,200 100,200 C155.228475,200 200,155.228475 200,100 Z" stroke-dashoffset="81"></path>
+                            </svg>
+                        </li>
+                    </ul>   
                 <br><br>
             </div>
         </div>
@@ -102,12 +153,20 @@ include('../modulos/menuprincipal.php');
                 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
                 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                 <br>
-                        <a class="waves-effect waves-light btn" href="http://frelatos.pe/" target="_new">Ver Web</a>
+
+                 <a class="waves-effect waves-light btn" href="https://naricitasplaza.pe/" target="_new">Ver Web</a>
+
                 <br><br>
             </div>
         </div>
     </section>  
 </div>    
+
+
+
+
+
+
 
 </footer>
 <!-- jQuery -->
@@ -118,10 +177,16 @@ include('../modulos/menuprincipal.php');
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"
         integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn"
         crossorigin="anonymous"></script>
+
+
+
+
+
 <!--Paroller-->
 <script src="dist/jquery.paroller.js"></script>
 <script type="text/javascript" src="js/materialize.js"></script>
 <script type="text/javascript" src="js/materialize.min.js"></script>
+<script type="text/javascript" src="js/js.js"></script>
 
 <script>
     $(function () {
