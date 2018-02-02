@@ -63,7 +63,9 @@ include('../modulos/menuprincipal.php');
                 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                 <br>
                     <a class="waves-effect waves-light btn" href="https://naricitasplaza.pe/" target="_new">Ver Web</a>
-                    <ul class="progress1" style="display: flex;">
+
+            
+                    <ul class="progress1" style="display: flex; width: 100%;">
                         <!--  Item  -->
                         <li data-name="Diseño" data-percent="50%">
                             <svg viewBox="-10 -10 220 220">
@@ -112,6 +114,7 @@ include('../modulos/menuprincipal.php');
                             </svg>
                         </li>
                     </ul>   
+
                 <br><br>
             </div>
         </div>
