@@ -21,17 +21,17 @@
       <meta name="twitter:image" content="" />
       <meta name="twitter:url" content="" />
 
-<link type="text/css" rel="stylesheet" href="css/materialize.css"  media="screen,projection"/> 
-<link rel="stylesheet" type="text/css" href="css/animate.css">  
+      <link type="text/css" rel="stylesheet" href="css/materialize.css"  media="screen,projection"/> 
+      <link rel="stylesheet" type="text/css" href="css/animate.css">  
 
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.css">
-<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,600,700" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Fira+Sans+Extra+Condensed" rel="stylesheet">
-<script src="https://use.fontawesome.com/3c86cf9c2d.js"></script>
-  <!--Import Google Icon Font-->
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.css">
+      <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,600,700" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Fira+Sans+Extra+Condensed" rel="stylesheet">
+      <script src="https://use.fontawesome.com/3c86cf9c2d.js"></script>
+        <!--Import Google Icon Font-->
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-<link rel="stylesheet" type="text/css" href="css/responsivemarcas.css">
+      <link rel="stylesheet" type="text/css" href="css/responsivemarcas.css">
 
 
 </head>
@@ -60,6 +60,9 @@ include('../modulos/menuprincipal.php');
     </div>
     <span class="handle"></span>
   </div>
+
+
+
 
         <div class="container dir">
           <div class="row">
@@ -257,7 +260,8 @@ include('../modulos/menuprincipal.php');
 <!--version only movil-->
 
 <!--beforandaftersslider-->
-<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script src='js/sliderchange.min.js'></script>
+
 <script  src="js/index.js"></script>
 <!--beforandaftersslider-->
 <script type="text/javascript" src="js/materialize.js"></script>
