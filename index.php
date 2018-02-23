@@ -33,13 +33,15 @@
 
     <body>
 <!--menuTop-->
-<div class="navbar-fixed">
+<!-- <div class="navbar">
  <nav>
       <a href="#" class="brand-logo"><img src="img/log1.png" class="responsive-img" width="32%" style="left: 20px;" id=""></a>
   </nav>
-</div>
+</div> -->
 
-<video class="responsive-video" autoplay="  " loop="loop" style="width: 100%; height: 80%; margin-top: -62px;">
+<img src="img/log1.png" class="responsive-img" width="32%" style="position: fixed; top: 0px; left: 0px;z-index: 1; size: 20px; width: 20%;" id="">
+
+<video class="responsive-video" autoplay="" muted="" loop="loop" style="width: 100%; height: 80%; margin-top: 0px; color-interpolation: ">
   <source src="sliderfinal01.mp4" type="video/mp4">
 </video>
 
@@ -50,6 +52,12 @@ include ('modulos/menuprincipal.php');
 
 ?>
 <!--botonndownrigth-->
+<!-- 
+<div class="container">
+  <div class="row">
+    <h1 class="thin">Deberiamos poner algo aqui Lucho</h1>
+  </div>
+</div> -->
 
 
       <!--Import jQuery before materialize.js-->
