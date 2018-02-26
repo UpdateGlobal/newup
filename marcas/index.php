@@ -51,84 +51,60 @@ include('../modulos/menuprincipal.php');
 <!--desktop-->
 <div class="responform2">
 
-  
-<div style="margin: 0px 200px 0px; width: auto;">
+<div style="border-bottom: 1.5px solid #9e9e9e ;">
 
-  <div class="ba-slider">
-    <img src="img/1.1.jpg" alt="">       
-    <div class="resize">
-      <img src="img/1.2.jpg" alt="" style="margin: 0px 200px 0px; margin-left: 0px; width: auto;">
+  <div style="margin: 0px 200px 0px; width: auto; ">
+
+    <div class="ba-slider">
+      <img src="img/11.png" alt="">       
+      <div class="resize">
+        <img src="img/12.png" alt="" style="margin: 0px 200px 0px; margin-left: 0px; width: auto;">
+      </div>
+      <span class="handle"></span>
     </div>
-    <span class="handle"></span>
+
   </div>
+
 </div>
 
-
-
+<div style="background-color: #53bcbd; margin-top: 0px;" align="center">
+  <div class="row" style="padding: 100px 100px 100px;">
+  <h1 class="uptext">Desarrollo de <span class="gris">Marcas Exitantes</span> </h1>
+  <h1 class="updateregular">De  mas mejor calidad.</h1>
+  </div>
+</div>
+<br><br><br>
         <div class="container dir">
           <div class="row">
-                <div class="col s2 animated fadeInLeft">
-                   <h1 class="rotar">Marcas</h1>
-                </div>
-            <div class="col s10">
-              <div class="row" style="display: inline-block;">
-                               <div class="col s5 c-test js-tilt responsive-img "  style="background-image: url(img/sanus.png); background-repeat: no-repeat; margin-top: 10%; ">
+           
+            <div class="col s12" align="left">
+             <!--  <h1 class="rotar">Marcas</h1> -->
+                          <div class="row" style="display: inline-block;">
+                            <div class="col s6 c-test js-tilt responsive-img"  style="background-image: url(img/sanus.png); background-repeat: no-repeat; margin-top: -7%; ">
+                            </div>
                                  
-                               </div>
-                                <div class="col s7 thin animated fadeInRightBig">
+                             
+
+                                <div class="col s6 thin animated fadeInRightBig">
                                   <h5 style=" color: #50bdbe;">Descripcion</h5>
                                   <h5>Empresa</h5>
                                   <span>Conceptualizacion</span>
                                   <p class="thin" style="font-size: 0.8em;">The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the imagesThe first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images</p>
-                             
-                                    <!-- Modal Trigger -->
-                                    <a class="waves-effect waves-light chip modal-trigger" href="#modal1">Modal</a>
-
-                                    <!-- Modal Structure -->
-                                    <div id="modal1" class="modal">
-                                      <div class="modal-content">
-                                        <h4>Modal Header</h4>
-                                        <p>A bunch of text</p>
-                                      </div>
-                                      <div class="modal-footer">
-                                        <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Agree</a>
-                                      </div>
-                                    </div>
-
-
-
-
-
-
-
-
-
-
                                 </div>
-                          
-              </div>
-              <hr style="    position: absolute;
-    font-family: 'FontAwesome';
-    content: \f107;
-    width: 22px;
-    height: 22px;
-    border-radius: 50%;
-    background: #fff;
-    border: 1px solid #e0e2e4;
-    color: #c0c1c2;
-    text-align: center;
-    font-size: 18px;
-    line-height: 20px;
-    top: -11px;
-    left: 50%;
-    margin-left: -11px;
-    text-indent: 1px;">
+
+                              </div>
+                       
+
+
+<div class="hrtes"></div>
+
+
               <div class="row" align="right" style="display: inline-block;">
-                                <div class="col s7 thin animated fadeInLeftBig" >
+                                <div class="col s6 thin animated fadeInLeftBig" >
                                   <h5 style=" color: #50bdbe;">Descripcion</h5>
                                   <h5>Empresa</h5>
                                   <span>Conceptualizacion</span>
-                                  <p class="thin" style="font-size: 1em;">The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.</p>
+                                  <p class="thin" style="font-size: 0.8em;">The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.</p>
                                           <div class="chip">
                                             Jane Doe
                                           </div>
@@ -139,18 +115,19 @@ include('../modulos/menuprincipal.php');
                                             Jane Doe
                                           </div>
                                 </div>
-                                <div class="col s5 c-test js-tilt responsive-img"  style="background-image: url(img/iso.png); background-repeat: no-repeat;"> 
+                                <div class="col s6 c-test js-tilt responsive-img"  style="background-image: url(img/iso.png); background-repeat: no-repeat;margin-top: -7%; "> 
                                 </div>
               </div>
+<div class="hrtes"></div>              
               <div class="row" style="display: inline-block;">
-                               <div class="col s5 c-test js-tilt responsive-img"  style="background-image: url(img/frelatos.png); background-repeat: no-repeat; ">
+                               <div class="col s6 c-test js-tilt responsive-img"  style="background-image: url(img/frelatos.png); background-repeat: no-repeat; margin-top: -7%; ">
                                  
                                </div>
-                                <div class="col s7 thin animated fadeInRightBig">
+                                <div class="col s6 thin animated fadeInRightBig">
                                   <h5 style=" color: #50bdbe;">Descripcion</h5>
                                   <h5>Empresa</h5>
                                   <span>Conceptualizacion</span>
-                                  <p class="thin" style="font-size: 1em;">The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.</p>
+                                  <p class="thin" style="font-size: 0.8em;">The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.</p>
                                           <div class="chip">
                                             Jane Doe
                                           </div>
@@ -162,12 +139,25 @@ include('../modulos/menuprincipal.php');
                                           </div>
                                 </div>
                           
-              </div>
+            </div>
           </div>
         </div>
+</div>
 
+<div class="row" align="center">
 
-<style type="text/css">
+ <ul class="pagination">
+    <li class="disabled"><a href="#!"><i class="material-icons">chevron_left</i></a></li>
+    <li class="active"><a href="#!">1</a></li>
+    <li class="waves-effect"><a href="#!">2</a></li>
+    <li class="waves-effect"><a href="#!">3</a></li>
+    <li class="waves-effect"><a href="#!">4</a></li>
+    <li class="waves-effect"><a href="#!">5</a></li>
+    <li class="waves-effect"><a href="#!"><i class="material-icons">chevron_right</i></a></li>
+  </ul>
+
+</div>
+<!-- <style type="text/css">
 #padre{
 
     border-radius: 4px;
@@ -211,7 +201,7 @@ include('../modulos/menuprincipal.php');
       </div>
 
     </div>
-  </div>
+  </div> -->
 
   <div class="row responform2" style="background-color: #51bdbe; margin: 0px; padding-bottom: 4%; padding-top: 4%;">
     <div class="container">
@@ -222,7 +212,6 @@ include('../modulos/menuprincipal.php');
 
 
 
-</div> 
 <!--desktop-->
 
 <!--version only movil-->

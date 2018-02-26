@@ -16,8 +16,8 @@
 
 .c-test {
   position: absolute: ;
-  width: 512px;
-  height: 340px;
+  width: 320px;
+  height: 200px;
   margin: 0 auto;
   /*
   display: flex;
@@ -34,8 +34,8 @@
    color: #50bdbe;
    opacity: 0.2;  
    font-size: 40px;
-   padding-left: 15%;
-   padding-top: 25%;
+/*   padding-left: 10%;
+   padding-top: 100%;*/
 
 
   }

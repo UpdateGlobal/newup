@@ -2677,18 +2677,19 @@ video.responsive-video {
 
 .pagination li {
   display: inline-block;
-  border-radius: 2px;
+  border-radius: 21px;
   text-align: center;
   vertical-align: top;
   height: 30px;
 }
 
 .pagination li a {
-  color: #444;
+  color: #76767678;
   display: inline-block;
-  font-size: 1.2rem;
+  font-size: 0.9rem;
   padding: 0 10px;
   line-height: 30px;
+  /* border-radius: 9px; */
 }
 
 .pagination li.active a {
@@ -2696,7 +2697,7 @@ video.responsive-video {
 }
 
 .pagination li.active {
-  background-color: #ee6e73;
+  background-color: #51bdbe;
 }
 
 .pagination li.disabled a {
@@ -2705,7 +2706,7 @@ video.responsive-video {
 }
 
 .pagination li i {
-  font-size: 2rem;
+  font-size: 1rem;
 }
 
 .pagination li.pages ul li {
@@ -5826,7 +5827,7 @@ button.btn-floating {
 .chip {
   display: inline-block;
   height: 32px;
-  font-size: 13px;
+  font-size: 9px;
   font-weight: 500;
   color: rgba(0, 0, 0, 0.6);
   line-height: 32px;
@@ -9416,3 +9417,90 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   stroke-linecap: round;
   /*shape-rendering: crispEdges;*/
 }
+
+
+
+/*++++++divider---->>*/
+.hrtes{
+  position:relative;
+  background:#e0e2e4;
+  float:left;
+  width:100%;
+  height:1px;
+  margin:0px 0px 50px;
+  display:block;
+  margin-top: 40px;
+}
+
+.hrtes:before{
+  position:absolute;
+  font-family: 'FontAwesome';
+  content: "\f107";
+  width:22px;
+  height:22px;
+  border-radius:50%;
+  background:#fff;
+  border:1px solid #e0e2e4;
+  color:#c0c1c2;
+  text-align:center;
+  font-size:18px;
+  line-height:20px;
+  top:-11px;
+  left:50%;
+  margin-left:-11px;
+  text-indent:0px;
+}
+
+.hrtes.hrtes-2x{
+  height:2px;
+}
+
+.hrtes.hrtes-3x{
+  height:3px;
+}
+
+.hrtes.hrtes-4x{
+  height:4px;
+}
+
+.gray-container .hrtes{
+  background:#a6a8aa;
+}
+
+@font-face {
+    font-family: "update";
+    src: url('../rimouski.ttf') format("opentype");
+}
+
+.uptext {
+    color: #fff;
+    font-family: "update";
+    font-size:52px;
+}
+
+
+@font-face {
+    font-family: "updateregular";
+    src: url('../rimouskiregular.ttf') format("opentype");
+}
+
+.updateregular {
+    color: #a9e9e2;
+    font-family: "updateregular";
+    font-size:32px;
+}
+
+.gris{
+  color: #857F7F;
+}
+
+
+
+
+
+
+
+
+
+
+
