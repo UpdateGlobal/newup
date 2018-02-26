@@ -107,7 +107,22 @@ include('../modulos/menuprincipal.php');
                                 </div>
                           
               </div>
-              <hr>
+              <hr style="    position: absolute;
+    font-family: 'FontAwesome';
+    content: \f107;
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    background: #fff;
+    border: 1px solid #e0e2e4;
+    color: #c0c1c2;
+    text-align: center;
+    font-size: 18px;
+    line-height: 20px;
+    top: -11px;
+    left: 50%;
+    margin-left: -11px;
+    text-indent: 1px;">
               <div class="row" align="right" style="display: inline-block;">
                                 <div class="col s7 thin animated fadeInLeftBig" >
                                   <h5 style=" color: #50bdbe;">Descripcion</h5>
