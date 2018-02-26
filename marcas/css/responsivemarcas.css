@@ -16,8 +16,8 @@
 
 .c-test {
   position: absolute: ;
-  width: 320px;
-  height: 320px;
+  width: 512px;
+  height: 340px;
   margin: 0 auto;
   /*
   display: flex;
@@ -33,7 +33,7 @@
    margin-left: 20%;
    color: #50bdbe;
    opacity: 0.2;  
-   font-size: 80px;
+   font-size: 40px;
    padding-left: 15%;
    padding-top: 25%;
 
@@ -44,10 +44,12 @@
   .ba-slider {
   position: relative;
   overflow: hidden;
+
 }
 .ba-slider img {
   width: 100%;
-  display: block;
+  display: block; 
+
 }
 .resize {
   position: absolute;

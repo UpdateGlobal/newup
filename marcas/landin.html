@@ -1,45 +1,40 @@
- <!DOCTYPE html>
-  <html>
-    <head>
-      <meta charset="utf-8">
-      <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <title>New Update</title>
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-      <meta name="description" content="DESCRIPCION DEL SITIO" />
-      <meta name="keywords" content="PALABRAS CLAVER" />
-      <meta name="author" content="luis alberto bernal fuentes" />
 
-        <!-- Facebook and Twitter integration -->
-      <meta property="og:title" content=""/>
-      <meta property="og:image" content=""/>
-      <meta property="og:url" content=""/>
-      <meta property="og:site_name" content=""/>
-      <meta property="og:description" content=""/
-      <meta name="twitter:title" content="" />
-      <meta name="twitter:image" content="" />
-      <meta name="twitter:url" content="" />
-      
-      <!--Import Google Icon Font-->
-      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-      <link rel="stylesheet" type="text/css" href="css/flaticon.css"> 
-      <!--Import materialize.css-->
-      <link type="text/css" rel="stylesheet" href="css/materialize.css"  media="screen,projection"/>
-      <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.css">
+<html>
+  <head>
+    <!-- This stylesheet contains specific styles for displaying the map
+         on this page. Replace it with your own styles as described in the
+         documentation:
+         https://developers.google.com/maps/documentation/javascript/tutorial -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/css/materialize.min.css">
 
-      <!--Let browser know website is optimized for mobile-->
-      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-
-    </head>
-
-    <body style="background: linear-gradient(#50bdbe, white); background-repeat: no-repeat; background-size: cover; " class="fullscreen">
-<div class="container" align="center" >
-	<div class="row"><br><br><br><br>
-		<img src="img/log1.png" class="responsive-img">
-		<h1 class="thin">Proximamente</h1>
-		<div class="btn"><a href="https://www.update.pe" style="color: #fff;"> Web Antigua</a></div>
-		<div class="btn"><a href="index.php" style="color: #fff;">Atras</a></div>
-	</div>
+  </head>
+  <body>
+    <!-- Modal Trigger -->
+<div class="row section">
+  <div class="col">
+    <!-- Modal Trigger -->
+    <a class="waves-effect waves-light btn modal-trigger" href="#modal1">Modal</a>
+    <p>You have to include jQuery and Materialize JS + CSS for the modal to work. You can include it from <a href="http://materializecss.com/getting-started.html">CDN (getting started)</a>.
+  </div>
+</div>
+<!-- Modal Structure -->
+<div id="modal1" class="modal">
+  <div class="modal-content">
+    <h4>Modal Header</h4>
+    <p>A bunch of text</p>
+  </div>
+  <div class="modal-footer">
+    <a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat">Agree</a>
+  </div>
 </div>
 
-    </body>
-  </html>
+  </body>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js"></script>
+<script type="text/javascript">
+     $(document).ready(function(){
+    // the "href" attribute of .modal-trigger must specify the modal ID that wants to be triggered
+    $('.modal').modal();
+  });
+</script>
+</html>

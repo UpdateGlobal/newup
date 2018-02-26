@@ -23,6 +23,7 @@
 
       <link type="text/css" rel="stylesheet" href="css/materialize.css"  media="screen,projection"/> 
       <link rel="stylesheet" type="text/css" href="css/animate.css">  
+      <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
       <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.css">
       <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,600,700" rel="stylesheet">
@@ -51,16 +52,16 @@ include('../modulos/menuprincipal.php');
 <div class="responform2">
 
   
-
+<div style="margin: 0px 200px 0px; width: auto;">
 
   <div class="ba-slider">
     <img src="img/1.1.jpg" alt="">       
     <div class="resize">
-      <img src="img/1.2.jpg" alt="">
+      <img src="img/1.2.jpg" alt="" style="margin: 0px 200px 0px; margin-left: 0px; width: auto;">
     </div>
     <span class="handle"></span>
   </div>
-
+</div>
 
 
 
@@ -71,14 +72,70 @@ include('../modulos/menuprincipal.php');
                 </div>
             <div class="col s10">
               <div class="row" style="display: inline-block;">
-                               <div class="col s4 c-test js-tilt responsive-img"  style="background-image: url(img/1.jpg); background-repeat: no-repeat;">
+                               <div class="col s5 c-test js-tilt responsive-img "  style="background-image: url(img/sanus.png); background-repeat: no-repeat; margin-top: 10%; ">
                                  
                                </div>
-                                <div class="col s8 thin animated fadeInRightBig">
+                                <div class="col s7 thin animated fadeInRightBig">
                                   <h5 style=" color: #50bdbe;">Descripcion</h5>
                                   <h5>Empresa</h5>
                                   <span>Conceptualizacion</span>
-                                  <p class="thin" style="font-size: 2em;">The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.</p>
+                                  <p class="thin" style="font-size: 0.8em;">The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the imagesThe first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images</p>
+                             
+                                    <!-- Modal Trigger -->
+                                    <a class="waves-effect waves-light chip modal-trigger" href="#modal1">Modal</a>
+
+                                    <!-- Modal Structure -->
+                                    <div id="modal1" class="modal">
+                                      <div class="modal-content">
+                                        <h4>Modal Header</h4>
+                                        <p>A bunch of text</p>
+                                      </div>
+                                      <div class="modal-footer">
+                                        <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Agree</a>
+                                      </div>
+                                    </div>
+
+
+
+
+
+
+
+
+
+
+                                </div>
+                          
+              </div>
+              <hr>
+              <div class="row" align="right" style="display: inline-block;">
+                                <div class="col s7 thin animated fadeInLeftBig" >
+                                  <h5 style=" color: #50bdbe;">Descripcion</h5>
+                                  <h5>Empresa</h5>
+                                  <span>Conceptualizacion</span>
+                                  <p class="thin" style="font-size: 1em;">The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.</p>
+                                          <div class="chip">
+                                            Jane Doe
+                                          </div>
+                                          <div class="chip">
+                                            Jane Doe
+                                          </div>
+                                          <div class="chip">
+                                            Jane Doe
+                                          </div>
+                                </div>
+                                <div class="col s5 c-test js-tilt responsive-img"  style="background-image: url(img/iso.png); background-repeat: no-repeat;"> 
+                                </div>
+              </div>
+              <div class="row" style="display: inline-block;">
+                               <div class="col s5 c-test js-tilt responsive-img"  style="background-image: url(img/frelatos.png); background-repeat: no-repeat; ">
+                                 
+                               </div>
+                                <div class="col s7 thin animated fadeInRightBig">
+                                  <h5 style=" color: #50bdbe;">Descripcion</h5>
+                                  <h5>Empresa</h5>
+                                  <span>Conceptualizacion</span>
+                                  <p class="thin" style="font-size: 1em;">The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.</p>
                                           <div class="chip">
                                             Jane Doe
                                           </div>
@@ -90,25 +147,6 @@ include('../modulos/menuprincipal.php');
                                           </div>
                                 </div>
                           
-              </div>
-              <div class="row" align="right" style="display: inline-block;">
-                                <div class="col s8 thin animated fadeInLeftBig" >
-                                  <h5 style=" color: #50bdbe;">Descripcion</h5>
-                                  <h5>Empresa</h5>
-                                  <span>Conceptualizacion</span>
-                                  <p class="thin" style="font-size: 2em;">The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.</p>
-                                          <div class="chip">
-                                            Jane Doe
-                                          </div>
-                                          <div class="chip">
-                                            Jane Doe
-                                          </div>
-                                          <div class="chip">
-                                            Jane Doe
-                                          </div>
-                                </div>
-                                <div class="col s4 c-test js-tilt responsive-img"  style="background-image: url(img/1.jpg); background-repeat: no-repeat; "> 
-                                </div>
               </div>
           </div>
         </div>
@@ -123,7 +161,7 @@ include('../modulos/menuprincipal.php');
     opacity: 0.2;
     margin-bottom: -80px;
     padding-top: 67px;
-    margin-left: -72px;
+    margin-left: -2px;
 }
 </style>
 
@@ -187,7 +225,7 @@ include('../modulos/menuprincipal.php');
       <h5 style=" color: #50bdbe;">Descripcion</h5>
         <h5>Empresa</h5>
         <span>Conceptualizacion</span>
-        <p class="thin" style="font-size: 2em;">The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.</p>
+        <p class="thin" style="font-size: 1em;">The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.</p>
       <div class="chip">
         Jane Doe
       </div>
@@ -207,7 +245,7 @@ include('../modulos/menuprincipal.php');
       <h5 style=" color: #50bdbe;">Descripcion</h5>
         <h5>Empresa</h5>
         <span>Conceptualizacion</span>
-        <p class="thin" style="font-size: 2em;">The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.</p>
+        <p class="thin" style="font-size: 1em;">The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.</p>
       <div class="chip">
         Jane Doe
       </div>
@@ -259,24 +297,25 @@ include('../modulos/menuprincipal.php');
 
 <!--version only movil-->
 
-<!--beforandaftersslider-->
-<script src='js/sliderchange.min.js'></script>
-
-<script  src="js/index.js"></script>
-<!--beforandaftersslider-->
-<script type="text/javascript" src="js/materialize.js"></script>
-<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js"></script> 
-<script type="text/javascript" src="js/vaiven.js"></script>
-<script type="text/javascript" src="js/vaiven2.js"></script>
-<script type="text/javascript" src="js/jquery-3.2.1.js"></script>
 
 
 
- <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+
+  <script type="text/javascript" src="js/materialize.js"></script>
+
+
+  <script src='js/sliderchange.min.js'></script>
+  <script  src="js/index.js"></script>
+  <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js"></script> 
+  <script type="text/javascript" src="js/vaiven.js"></script>
+  <script type="text/javascript" src="js/vaiven2.js"></script>
+  <script type="text/javascript" src="js/jquery-3.2.1.js"></script>
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
 
 
   <script type="text/javascript">
     $(document).ready(function() {
+         $('.modal').modal();
         $('select').material_select();
         $('.slider').slider({
           indicators: false,

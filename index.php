@@ -52,12 +52,12 @@ include ('modulos/menuprincipal.php');
 
 ?>
 <!--botonndownrigth-->
-<!-- 
-<div class="container">
+
+<div class="container" align="center" style="margin-top: 150PX;">
   <div class="row">
     <h1 class="thin">Deberiamos poner algo aqui Lucho</h1>
   </div>
-</div> -->
+</div>
 
 
       <!--Import jQuery before materialize.js-->
