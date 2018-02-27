@@ -28,6 +28,11 @@
         <!--Import Google Icon Font-->
       <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
       <link rel="stylesheet" type="text/css" href="css/responsivemarcas.css">
+
+      <!--owlcarrusel-->
+      <link rel="stylesheet" type="text/css" href="css/owl.carousel.css">
+      <link rel="stylesheet" href="css/owl.theme.default.css">
+
 </head>
 <body>
 <?php
@@ -79,13 +84,21 @@ include('../modulos/menuprincipal.php');
 
               <!-- Modal Structure -->
               <div id="modal123" class="modal">
-                <div class="modal-content carousel" controls>
-                            <a class="carousel-item" href="#one!"><img src="img/sanus.png" width="320" height="220"></a>
-                            <a class="carousel-item" href="#two!"><img src="img/frelatos.png" width="320" height="220"></a>
-                            <a class="carousel-item" href="#three!"><img src="img/iso.png" width="320" height="220"></a>
+                <div class="modal-content" >
+
+
+
+                          <div class="carousel">
+                            <a class="carousel-item" href="#one!"><img class="materialboxed" src="img/frelatos.png"></a>
+                            <a class="carousel-item" href="#two!"><img class="materialboxed" src="img/sanus.png"></a>
+                            <a class="carousel-item" href="#three!"><img class="materialboxed" src="img/iso.png"></a>
+                          </div>
+
+                         
+
                 </div>
                 <div class="modal-footer">
-                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Salir</a>
+                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">X</a>
                 </div>
               </div>
 
@@ -260,6 +273,7 @@ include('../modulos/menuprincipal.php');
 
 
 
+<script src="js/owl.carousel.js"></script>
 
 
 
@@ -283,6 +297,27 @@ include('../modulos/menuprincipal.php');
         $(".button-collapse").sideNav();
 
       });
+
+
+
+    $(document).ready(function(){
+$('.owl-carousel').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:3
+        },
+        1000:{
+            items:5
+        }
+    }
+})
+});
   </script>
  </body>
  </html>
