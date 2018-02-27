@@ -8197,7 +8197,7 @@ input[type=range]:focus::-ms-fill-upper {
   overflow: hidden;
   position: relative;
   width: 100%;
-  height: 400px;
+  height: 200px;
   -webkit-perspective: 500px;
           perspective: 500px;
   -webkit-transform-style: preserve-3d;
@@ -9475,7 +9475,7 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
 .uptext {
     color: #fff;
     font-family: "update";
-    font-size:52px;
+    font-size:42px;
 }
 
 
@@ -9495,7 +9495,11 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
 }
 
 
+p .uptextregular{
+    font-family: "updateregular";
+    font-size:32px;
 
+}
 
 
 
