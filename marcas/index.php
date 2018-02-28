@@ -91,9 +91,9 @@ include('../modulos/menuprincipal.php');
       <div class="col s4 offset-s2 c-test js-tilt responsive-img"  style="background-image: url(img/sanus.png); background-repeat: no-repeat; margin-top: -4%;"></div>
       <div class="col s6 thin">
             <h1 class="uptext " style=" color: #50bdbe;"><a href="" class="effect-box"> Sanus</a></h1>
-            <h3 class="updateregular black-text">Una Historia de Telesalud</h3>
-            <span class="updateregular black-text" style="font-size: 12px;">Conceptualizacion</span>
-            <p class="updateregular black-text" style="font-size: 0.8em;">The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the imagesThe first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images</p>
+            <h3 class="updateregular">Una Historia de Telesalud</h3>
+            <span class="updateregular" style="font-size: 12px;">Conceptualizacion</span>
+            <p class="updateregular" style="font-size: 0.8em;">The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the imagesThe first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images</p>
       </div>
 </div>
 <div class="col s6 offset-s6">
@@ -174,9 +174,9 @@ include('../modulos/menuprincipal.php');
       <div class="col s4 offset-s2 c-test js-tilt responsive-img"  style="background-image: url(img/frelatos.png); background-repeat: no-repeat; margin-top: -4%;"></div>
       <div class="col s6 thin">
             <h1 class="uptext " style=" color: #50bdbe;"><a href="" class="effect-box">Frelatos</a></h1>
-            <h3 class="updateregular black-text">Empresa</h3>
-            <span class="updateregular black-text" style="font-size: 12px;">Conceptualizacion</span>
-            <p class="updateregular black-text" style="font-size: 0.8em;">The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the imagesThe first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images</p>
+            <h3 class="updateregular ">Empresa</h3>
+            <span class="updateregular " style="font-size: 12px;">Conceptualizacion</span>
+            <p class="updateregular " style="font-size: 0.8em;">The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the imagesThe first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images</p>
       </div>
 </div>
 <div class="col s6 offset-s6">
@@ -256,9 +256,9 @@ include('../modulos/menuprincipal.php');
       <div class="col s4 offset-s2 c-test js-tilt responsive-img"  style="background-image: url(img/iso.png); background-repeat: no-repeat; margin-top: -4%;"></div>
       <div class="col s6 thin">
             <h1 class="uptext " style=" color: #50bdbe;"><a href="" class="effect-box">Isotech</a></h1>
-            <h3 class="updateregular black-text">Empresa</h3>
-            <span class="updateregular black-text" style="font-size: 12px;">Conceptualizacion</span>
-            <p class="updateregular black-text" style="font-size: 0.8em;">The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the imagesThe first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images</p>
+            <h3 class="updateregular">Empresa</h3>
+            <span class="updateregular" style="font-size: 12px;">Conceptualizacion</span>
+            <p class="updateregular" style="font-size: 0.8em;">The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the imagesThe first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images</p>
       </div>
 </div>
 <div class="col s6 offset-s6">
