@@ -101,21 +101,22 @@ include('../modulos/menuprincipal.php');
               <a class="waves-effect waves-light chip modal-trigger" href="#modal123" href="#down">Diseños</a>
 
               <!-- Modal Structure -->
-              <div id="modal123" class="modal">
+              <div id="modal123" class="modal" style="background-color: rgb(63, 187, 197);">
                 <div class="modal-content "  align="center">
 
                   <div class="row" align="right" style="margin-right: 30px;">
-                     <i class="material-icons" style="font-size: 32px;" >arrow_downward</i>
+                     <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/frelatos.png"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/iso.png"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/sanus.png"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/folder-SANUS.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/hoja-SANUS.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/monitor-sanus.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/tarjetas-sanus.jpg" style="width: 300px; height: 185px;"></li>
                   </ul>
                  </div>
 
                 <div class="modal-footer">
-                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">X</a>
+                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat"><p style="color:#fff;">X</p></a>
                 </div>
               </div>
 
@@ -171,9 +172,9 @@ include('../modulos/menuprincipal.php');
 
 
 <div class="row wrapper" style="display: inline-block;">
-      <div class="col s4 offset-s2 c-test js-tilt responsive-img"  style="background-image: url(img/frelatos.png); background-repeat: no-repeat; margin-top: -4%;"></div>
+      <div class="col s4 offset-s2 c-test js-tilt responsive-img"  style="background-image: url(img/idr.png); background-repeat: no-repeat; margin-top: -4%;"></div>
       <div class="col s6 thin">
-            <h1 class="uptext " style=" color: #50bdbe;"><a href="" class="effect-box">Frelatos</a></h1>
+            <h1 class="uptext " style=" color: #50bdbe;"><a href="" class="effect-box">Idr - professionals</a></h1>
             <h3 class="updateregular ">Empresa</h3>
             <span class="updateregular " style="font-size: 12px;">Conceptualizacion</span>
             <p class="updateregular " style="font-size: 0.8em;">The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the imagesThe first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images</p>

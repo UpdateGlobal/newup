@@ -5672,7 +5672,7 @@ button.btn-floating {
 
 .modal .modal-footer {
   border-radius: 0 0 2px 2px;
-  background-color: #fafafa;
+  background-color: #2067b0;
   padding: 4px 6px;
   height: 56px;
   width: 100%;
@@ -5829,13 +5829,28 @@ button.btn-floating {
   height: 32px;
   font-size: 9px;
   font-weight: 500;
-  color: rgba(0, 0, 0, 0.6);
+  color: #fff;
   line-height: 32px;
   padding: 0 12px;
   border-radius: 16px;
-  background-color: #e4e4e4;
+  background-color: #50bdbe;
   margin-bottom: 5px;
   margin-right: 5px;
+}
+
+
+.chip:hover {
+    display: inline-block;
+    height: 32px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #fff;
+    line-height: 32px;
+    padding: 0 12px;
+    border-radius: 16px;
+    background-color: #3c817d;
+    margin-bottom: 5px;
+    margin-right: 5px;
 }
 
 .chip > img {
@@ -9475,7 +9490,7 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
 .uptext {
     color: #fff;
     font-family: "update";
-    font-size:42px;
+    font-size:50px;
 }
 
 
