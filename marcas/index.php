@@ -90,7 +90,7 @@ include('../modulos/menuprincipal.php');
 <div class="row wrapper" style="display: inline-block;">
       <div class="col s4 offset-s2 c-test js-tilt responsive-img"  style="background-image: url(img/sanus.png); background-repeat: no-repeat; margin-top: -4%;"></div>
       <div class="col s6 thin">
-            <h1 class="uptext " style=" color: #50bdbe;"><a href="" class="effect-box"> Sanus</a></h1>
+            <h1 class="uptext " ><a href="" class="effect-box "style=" color: #50bdbe;"> Sanus</a></h1>
             <h3 class="updateregular">Una Historia de Telesalud</h3>
             <span class="updateregular" style="font-size: 12px;">Conceptualizacion</span>
             <p class="updateregular" style="font-size: 0.8em;">The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the imagesThe first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images</p>
@@ -98,7 +98,7 @@ include('../modulos/menuprincipal.php');
 </div>
 <div class="col s6 offset-s6">
               <!-- Modal Trigger -->
-              <a class="waves-effect waves-light chip modal-trigger" href="#modal123" href="#down">Diseños</a>
+              <a class="waves-effect waves-light chip modal-trigger sanuscolor" href="#modal123" href="#down">Diseños</a>
 
               <!-- Modal Structure -->
               <div id="modal123" class="modal" style="background-color: rgb(63, 187, 197);">
@@ -112,69 +112,70 @@ include('../modulos/menuprincipal.php');
                         <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/hoja-SANUS.jpg" style="width: 300px; height: 185px;"></li>
                         <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/monitor-sanus.jpg" style="width: 300px; height: 185px;"></li>
                         <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/tarjetas-sanus.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sobre-sanus.jpg" style="width: 300px; height: 185px;"></li>
                   </ul>
                  </div>
 
-                <div class="modal-footer">
-                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat"><p style="color:#fff;">X</p></a>
+                <div class="modal-footer" style="background-color: rgb(63, 187, 197);">
+                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat" style="margin-top: 10px;"><i class="material-icons" style="font-size: 32px; color: white;" >close</i></a>
                 </div>
               </div>
 
 
               <!-- Modal Trigger -->
-              <a class="waves-effect waves-light chip modal-trigger" href="#modal">Webs</a>
+              <a class="waves-effect waves-light chip modal-trigger sanuscolor" href="#ashfg">Webs</a>
 
               <!-- Modal Structure -->
-              <div id="modal" class="modal">
+              <div id="ashfg" class="modal" style="background-color: rgb(63, 187, 197);">
                 <div class="modal-content "  align="center">
 
                   <div class="row" align="right" style="margin-right: 30px;">
-                     <i class="material-icons" style="font-size: 32px;" >arrow_downward</i>
+                    <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/frelatos.png"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/iso.png"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/sanus.png"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/folder-SANUS.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/hoja-SANUS.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/monitor-sanus.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/tarjetas-sanus.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sobre-sanus.jpg" style="width: 300px; height: 185px;"></li>
                   </ul>
                  </div>
 
-                <div class="modal-footer">
-                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">X</a>
+                <div class="modal-footer" style="background-color: rgb(63, 187, 197);">
+                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat" style="margin-top: 10px;"><i class="material-icons" style="font-size: 32px; color: white;" >close</i></a>
                 </div>
               </div>
 
               <!-- Modal Trigger -->
-              <a class="waves-effect waves-light chip modal-trigger" href="#modals">Marketing</a>
+              <a class="waves-effect waves-light chip modal-trigger sanuscolor" href="#odsifosh">Marketing</a>
 
               <!-- Modal Structure -->
-              <div id="modals" class="modal">
+              <div id="odsifosh" class="modal" style="background-color: rgb(63, 187, 197);">
                 <div class="modal-content "  align="center">
 
                   <div class="row" align="right" style="margin-right: 30px;">
-                     <i class="material-icons" style="font-size: 32px;" >arrow_downward</i>
+                     <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/frelatos.png"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/iso.png"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/sanus.png"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/folder-SANUS.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/hoja-SANUS.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/monitor-sanus.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/tarjetas-sanus.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sobre-sanus.jpg" style="width: 300px; height: 185px;"></li>
                   </ul>
                  </div>
-                <div class="modal-footer">
-                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">X</a>
+                <div class="modal-footer" style="background-color: rgb(63, 187, 197);">
+                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat" style="margin-top: 10px;"><i class="material-icons" style="font-size: 32px; color: white;" >close</i></a>
                 </div>
               </div>
 </div><!--modales-->
 
-
 <div class="hrtes"></div>
-
-
-
 
 <div class="row wrapper" style="display: inline-block;">
       <div class="col s4 offset-s2 c-test js-tilt responsive-img"  style="background-image: url(img/idr.png); background-repeat: no-repeat; margin-top: -4%;"></div>
       <div class="col s6 thin">
-            <h1 class="uptext " style=" color: #50bdbe;"><a href="" class="effect-box">Idr - professionals</a></h1>
+            <h1 class="uptext " <a href="" class="effect-box" style=" color: #000000;">>Idr - professionals</a></h1>
             <h3 class="updateregular ">Empresa</h3>
             <span class="updateregular " style="font-size: 12px;">Conceptualizacion</span>
             <p class="updateregular " style="font-size: 0.8em;">The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the imagesThe first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images</p>
@@ -182,76 +183,76 @@ include('../modulos/menuprincipal.php');
 </div>
 <div class="col s6 offset-s6">
               <!-- Modal Trigger -->
-              <a class="waves-effect waves-light chip modal-trigger" href="#modal1">Diseños</a>
+              <a class="waves-effect waves-light chip modal-trigger idrcolor" href="#asfef">Diseños</a>
 
               <!-- Modal Structure -->
-              <div id="modal1" class="modal">
+              <div id="asfef" class="modal" style="background-color: rgb(16, 109, 186);">
                 <div class="modal-content "  align="center">
 
                   <div class="row" align="right" style="margin-right: 30px;">
-                     <i class="material-icons" style="font-size: 32px;" >arrow_downward</i>
+                     <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/frelatos.png"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/iso.png"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/sanus.png"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/folder-IDR.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/hoja-IDR.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/monitor-IDR.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/tarjetas-IDR.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sobre-IDR.jpg" style="width: 300px; height: 185px;"></li>
                   </ul>
                  </div>
-                <div class="modal-footer">
-                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">X</a>
+                <div class="modal-footer" style="background-color: rgb(16, 109, 186);">
+                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat" style="margin-top: 10px;"><i class="material-icons" style="font-size: 32px; color: white;" >close</i></a>
                 </div>
               </div>
 
 
               <!-- Modal Trigger -->
-              <a class="waves-effect waves-light chip modal-trigger" href="#modal">Webs</a>
+              <a class="waves-effect waves-light chip modal-trigger idrcolor" href="#asdasda">Webs</a>
 
               <!-- Modal Structure -->
-              <div id="modal" class="modal">
+              <div id="asdasda" class="modal" style="background-color: rgb(16, 109, 186);">
                 <div class="modal-content "  align="center">
 
                   <div class="row" align="right" style="margin-right: 30px;">
-                     <i class="material-icons" style="font-size: 32px;" >arrow_downward</i>
+                     <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/frelatos.png"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/iso.png"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/sanus.png"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/folder-IDR.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/hoja-IDR.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/monitor-IDR.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/tarjetas-IDR.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sobre-IDR.jpg" style="width: 300px; height: 185px;"></li>
                   </ul>
                  </div>
-                <div class="modal-footer">
-                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">X</a>
+                <div class="modal-footer" style="background-color: rgb(16, 109, 186);">
+                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat" style="margin-top: 10px;"><i class="material-icons" style="font-size: 32px; color: white;" >close</i></a>
                 </div>
               </div>
 
               <!-- Modal Trigger -->
-              <a class="waves-effect waves-light chip modal-trigger" href="#modals">Marketing</a>
+              <a class="waves-effect waves-light chip modal-trigger idrcolor" href="#asdasdsad">Marketing</a>
 
               <!-- Modal Structure -->
-              <div id="modals" class="modal">
+              <div id="asdasdsad" class="modal" style="background-color: rgb(16, 109, 186);">
                 <div class="modal-content "  align="center">
 
                   <div class="row" align="right" style="margin-right: 30px;">
-                     <i class="material-icons" style="font-size: 32px;" >arrow_downward</i>
+                     <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/frelatos.png"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/iso.png"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/sanus.png"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/folder-IDR.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/hoja-IDR.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/monitor-IDR.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/tarjetas-IDR.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sobre-IDR.jpg" style="width: 300px; height: 185px;"></li>
                   </ul>
-                 </div>
-                <div class="modal-footer">
-                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">X</a>
+                 </div> style="background-color: rgb(16, 109, 186);">
+                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat" style="margin-top: 10px;"><i class="material-icons" style="font-size: 32px; color: white;" >close</i></a>
                 </div>
               </div>
 </div><!--modales-->
 
-
-
-
 <div class="hrtes"></div>
-
-
 
 <div class="row wrapper" style="display: inline-block;">
       <div class="col s4 offset-s2 c-test js-tilt responsive-img"  style="background-image: url(img/iso.png); background-repeat: no-repeat; margin-top: -4%;"></div>
@@ -264,66 +265,72 @@ include('../modulos/menuprincipal.php');
 </div>
 <div class="col s6 offset-s6">
               <!-- Modal Trigger -->
-              <a class="waves-effect waves-light chip modal-trigger" href="#modal1">Diseños</a>
+              <a class="waves-effect waves-light chip modal-trigger isocolor" href="#modal1">Diseños</a>
 
               <!-- Modal Structure -->
-              <div id="modal1" class="modal">
+              <div id="modal1" class="modal" style="background-color: rgb(254, 105, 42);">
                 <div class="modal-content "  align="center">
 
                   <div class="row" align="right" style="margin-right: 30px;">
-                     <i class="material-icons" style="font-size: 32px;" >arrow_downward</i>
+                     <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/frelatos.png"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/iso.png"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/sanus.png"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/folder-ISOTECH-WEB.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/hoja-isotech.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/monitor-ISOTECH.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/tarjeta-ISOTECH-BASE.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sobre-ISOTECH.jpg" style="width: 300px; height: 185px;"></li>
                   </ul>
                  </div>
-                <div class="modal-footer">
-                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">X</a>
+                <div class="modal-footer" style="background-color: rgb(254, 105, 42);">
+                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat" style="margin-top: 10px;"><i class="material-icons" style="font-size: 32px; color: white;" >close</i></a>
                 </div>
               </div>
 
 
               <!-- Modal Trigger -->
-              <a class="waves-effect waves-light chip modal-trigger" href="#modal">Webs</a>
+              <a class="waves-effect waves-light chip modal-trigger isocolor" href="#modal">Webs</a>
 
               <!-- Modal Structure -->
-              <div id="modal" class="modal">
+              <div id="modal" class="modal" style="background-color: rgb(254, 105, 42);">
                 <div class="modal-content "  align="center">
 
                   <div class="row" align="right" style="margin-right: 30px;">
-                     <i class="material-icons" style="font-size: 32px;" >arrow_downward</i>
+                     <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/frelatos.png"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/iso.png"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/sanus.png"></li>
+                         <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/folder-ISOTECH-WEB.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/hoja-isotech.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/monitor-ISOTECH.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/tarjeta-ISOTECH-BASE.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sobre-ISOTECH.jpg" style="width: 300px; height: 185px;"></li>
                   </ul>
                  </div>
-                <div class="modal-footer">
-                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">X</a>
+                <div class="modal-footer" style="background-color: rgb(254, 105, 42);">
+                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat" style="margin-top: 10px;"><i class="material-icons" style="font-size: 32px; color: white;" >close</i></a>
                 </div>
               </div>
 
               <!-- Modal Trigger -->
-              <a class="waves-effect waves-light chip modal-trigger" href="#modals">Marketing</a>
+              <a class="waves-effect waves-light chip modal-trigger isocolor" href="#modals">Marketing</a>
 
               <!-- Modal Structure -->
-              <div id="modals" class="modal">
+              <div id="modals" class="modal" style="background-color: rgb(254, 105, 42);">
                 <div class="modal-content "  align="center">
 
                   <div class="row" align="right" style="margin-right: 30px;">
-                     <i class="material-icons" style="font-size: 32px;" >arrow_downward</i>
+                     <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/frelatos.png"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/iso.png"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/sanus.png"></li>
+                         <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/folder-ISOTECH-WEB.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/hoja-isotech.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/monitor-ISOTECH.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/tarjeta-ISOTECH-BASE.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sobre-ISOTECH.jpg" style="width: 300px; height: 185px;"></li>
                   </ul>
                  </div>
-                <div class="modal-footer">
-                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">X</a>
+                <div class="modal-footer" style="background-color: rgb(254, 105, 42);">
+                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat" style="margin-top: 10px;"><i class="material-icons" style="font-size: 32px; color: white;" >close</i></a>
                 </div>
               </div>
 </div><!--modales-->
