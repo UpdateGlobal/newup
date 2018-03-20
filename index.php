@@ -31,65 +31,73 @@
       <link rel="stylesheet" type="text/css" href="css/responsive.css">
     </head>
 
-    <body>
-<!--menuTop-->
-<!-- <div class="navbar">
- <nav>
-      <a href="#" class="brand-logo"><img src="img/log1.png" class="responsive-img" width="32%" style="left: 20px;" id=""></a>
-  </nav>
-</div> -->
 
-<img src="img/log1.png" class="responsive-img" width="32%" style="position: fixed; top: 0px; left: 0px;z-index: 1; size: 20px; width: 20%;" id="">
 
-<video class="responsive-video" autoplay="" muted="" loop="loop" style="width: 100%; height: 80%; margin-top: 0px; color-interpolation: ">
-  <source src="sliderfinal01.mp4" type="video/mp4">
-</video>
+<style type="text/css">
+  
 
-<!--botonndownrigth-->
-<?php
+  @media only screen and (min-width: 720px) {
+.less {
+  display: none;   !important;
+ }
+}
+@media only screen and (max-width: 720px) {
+.less2 {
+  display: none;   !important;
+ }
+}
+</style>
 
-include ('modulos/menuprincipal.php');
+<body>
 
-?>
-<!--botonndownrigth-->
+  <video class="responsive-video less2" autoplay="" muted="" loop="loop" style="width: 100%; height: 80%; margin-top: 0px; color-interpolation: ">
+    <source src="sliderfinal01.mp4" type="video/mp4">
+  </video>
 
-<div class="container" align="center" style="margin-top: 150PX;">
-  <div class="row">
-    <h1 class="thin">Deberiamos poner algo aqui Lucho</h1>
+    <video class="responsive-video less" autoplay="" muted="" loop="loop">
+      <source src="slider-responsive.mp4" type="video/mp4">
+    </video>
+
+
+    <?php
+        include ('modulos/menuprincipal.php');
+    ?>
+
+    <!--Import jQuery before materialize.js-->
+    <script type="text/javascript" src="js/jquery-3.2.1.js"></script>
+    <script type="text/javascript" src="js/materialize.js"></script>
+
+    <script type="text/javascript">
+       $(document).ready(function(){
+       $('.slider').slider({
+          effect: 'random',
+       // setTimeout: 1000;
+          interval: 4000,
+          indicators: false,
+          autoplay: true,
+          transition: 500
+                          });
+        $('.tooltipped').tooltip({delay: 0});
+        $(".button-collapse").sideNav();
+                                   });
+    </script>
+
+
+
+<div class="row" align="left">
+  <div class="col m12 s12">
+    
+      <!-- BEGIN JIVOSITE CODE {literal} -->
+      <script type='text/javascript'>
+      (function(){ var widget_id = 'h1kdq1YcU2';var d=document;var w=window;function l(){
+      var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
+      <!-- {/literal} END JIVOSITE CODE -->
+
   </div>
 </div>
 
 
 
 
-      <!--Import jQuery before materialize.js-->
-      <script type="text/javascript" src="js/jquery-3.2.1.js"></script>
-      <script type="text/javascript" src="js/materialize.js"></script>
-
-      <script type="text/javascript">
-         $(document).ready(function(){
-          $('.slider').slider({
-            effect: 'random',
-           // setTimeout: 1000;
-            interval: 4000,
-            indicators: false,
-            autoplay: true,
-            transition: 500
-          });
-
- 
-
-    $('.tooltipped').tooltip({delay: 0});
-      $(".button-collapse").sideNav();
-   
-    });
-      </script>
-
-
-<!-- BEGIN JIVOSITE CODE {literal} -->
-<script type='text/javascript'>
-(function(){ var widget_id = 'h1kdq1YcU2';var d=document;var w=window;function l(){
-var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
-<!-- {/literal} END JIVOSITE CODE -->
     </body>
   </html>
