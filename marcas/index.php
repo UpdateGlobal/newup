@@ -4,10 +4,10 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <title>New Update</title>
+      <title>Update - Desarrollo de Marca</title>
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <meta name="description" content="DESCRIPCION DEL SITIO" />
-      <meta name="keywords" content="PALABRAS CLAVER" />
+      <meta name="description" content="En Update desarrollamos tu Marca o la imagen de tu empresa con el objetivo de comunicar un concepto fuerte" />
+      <meta name="keywords" content="desarrollo de marca, branding, empresas de branding, diseño grafico, marketing" />
       <meta name="author" content="luis alberto bernal fuentes" />
         <!-- Facebook and Twitter integration -->
       <meta property="og:title" content=""/>
@@ -55,15 +55,15 @@ include('../modulos/menuprincipal.php');
 
 <div style="background-color: #53bcbd; margin-top: 0px;" align="center">
   <div class="row" style="padding: 30px 30px 30px;">
-<h1 class="uptext">Desarrollamos todo en  <span class="gris" id="typed"></span></h1>
-  <h1 class="updateregular">Con los mas altos estandares.</h1> 
+<h1 class="uptext">Desarrollamos <span class="gris" id="typed"></span></h1>
+  <h1 class="updateregular">Con los más altos estandares.</h1> 
 
 
 
         <script type="text/javascript">
           $(function(){
             $("#typed").typed({
-              strings: ["Marcas", "Webs", "Plataformas", "Marketing Digital"],
+              strings: ["Marcas Poderosas", "Conceptos Fuertes", "Marcas que enganchan", "Ideas que venden"],
               typeSpeed: 30,
               backDelay: 500,
               loop: true,
@@ -93,12 +93,12 @@ include('../modulos/menuprincipal.php');
             <h1 class="uptext " ><a href="" class="effect-box "style=" color: #50bdbe;"> Sanus</a></h1>
             <h3 class="updateregular">Una Historia de Telesalud</h3>
             <span class="updateregular" style="font-size: 12px;">Conceptualizacion</span>
-            <p class="updateregular" style="font-size: 0.8em;">The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the imagesThe first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images</p>
+            <p class="updateregular" style="font-size: 0.8em;">Sanus es una plataforma digital que nació del emprendimiento médico, con vocación de servicio. Originado en la visión de la telesalud con experiencia de usuario. Sanus acorta distancias de consulta médica mediante la tecnología. Por eso creamos un concepto de atención a distancia, creando una marca fuerte y desarrollando su linea de comunicación de forma que los usuarios puedan obtener una estadía placentera en la clínica virtual. </p>
       </div>
 </div>
 <div class="col s6 offset-s6">
               <!-- Modal Trigger -->
-              <a class="waves-effect waves-light chip modal-trigger sanuscolor" href="#modal123" href="#down">Diseños</a>
+              <a class="waves-effect waves-light chip modal-trigger sanuscolor" href="#modal123" href="#down">Diseño de Logotipo</a>
 
               <!-- Modal Structure -->
               <div id="modal123" class="modal" style="background-color: rgb(63, 187, 197);">
@@ -123,7 +123,7 @@ include('../modulos/menuprincipal.php');
 
 
               <!-- Modal Trigger -->
-              <a class="waves-effect waves-light chip modal-trigger sanuscolor" href="#ashfg">Webs</a>
+              <a class="waves-effect waves-light chip modal-trigger sanuscolor" href="#ashfg">Línea Gráfica</a>
 
               <!-- Modal Structure -->
               <div id="ashfg" class="modal" style="background-color: rgb(63, 187, 197);">
@@ -147,7 +147,7 @@ include('../modulos/menuprincipal.php');
               </div>
 
               <!-- Modal Trigger -->
-              <a class="waves-effect waves-light chip modal-trigger sanuscolor" href="#odsifosh">Marketing</a>
+              <a class="waves-effect waves-light chip modal-trigger sanuscolor" href="#odsifosh">Presentación Comercial</a>
 
               <!-- Modal Structure -->
               <div id="odsifosh" class="modal" style="background-color: rgb(63, 187, 197);">
@@ -168,6 +168,30 @@ include('../modulos/menuprincipal.php');
                   <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat" style="margin-top: 10px;"><i class="material-icons" style="font-size: 32px; color: white;" >close</i></a>
                 </div>
               </div>
+
+              <!-- Modal Trigger -->
+              <a class="waves-effect waves-light chip modal-trigger sanuscolor" href="#ashfg">Desarrollo website</a>
+
+              <!-- Modal Structure -->
+              <div id="ashfg" class="modal" style="background-color: rgb(63, 187, 197);">
+                <div class="modal-content "  align="center">
+
+                  <div class="row" align="right" style="margin-right: 30px;">
+                    <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
+                  </div>
+                  <ul>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/folder-SANUS.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/hoja-SANUS.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/monitor-sanus.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/tarjetas-sanus.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sobre-sanus.jpg" style="width: 300px; height: 185px;"></li>
+                  </ul>
+                 </div>
+
+                <div class="modal-footer" style="background-color: rgb(63, 187, 197);">
+                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat" style="margin-top: 10px;"><i class="material-icons" style="font-size: 32px; color: white;" >close</i></a>
+                </div>
+              </div>
 </div><!--modales-->
 
 <div class="hrtes"></div>
@@ -175,7 +199,8 @@ include('../modulos/menuprincipal.php');
 <div class="row wrapper" style="display: inline-block;">
       <div class="col s4 offset-s2 c-test js-tilt responsive-img"  style="background-image: url(img/idr.png); background-repeat: no-repeat; margin-top: -4%;"></div>
       <div class="col s6 thin">
-            <h1 class="uptext " <a href="" class="effect-box" style=" color: #000000;">>Idr - professionals</a></h1>
+        
+            <h1 class="uptext " ><a href="" class="effect-box "style=" color: #2074bd;"> IDR - Profesionals</a></h1>
             <h3 class="updateregular ">Empresa</h3>
             <span class="updateregular " style="font-size: 12px;">Conceptualizacion</span>
             <p class="updateregular " style="font-size: 0.8em;">The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the imagesThe first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images</p>
@@ -257,7 +282,7 @@ include('../modulos/menuprincipal.php');
 <div class="row wrapper" style="display: inline-block;">
       <div class="col s4 offset-s2 c-test js-tilt responsive-img"  style="background-image: url(img/iso.png); background-repeat: no-repeat; margin-top: -4%;"></div>
       <div class="col s6 thin">
-            <h1 class="uptext " style=" color: #50bdbe;"><a href="" class="effect-box">Isotech</a></h1>
+            <h1 class="uptext " style=" color: #fa6a29;"><a href="" class="effect-box">Isotech</a></h1>
             <h3 class="updateregular">Empresa</h3>
             <span class="updateregular" style="font-size: 12px;">Conceptualizacion</span>
             <p class="updateregular" style="font-size: 0.8em;">The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the imagesThe first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images</p>
