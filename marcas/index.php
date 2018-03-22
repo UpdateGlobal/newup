@@ -92,7 +92,7 @@ include('../modulos/menuprincipal.php');
       <div class="col s6 thin">
             <h1 class="uptext " ><a href="" class="effect-box "style=" color: #50bdbe;"> Sanus</a></h1>
             <h3 class="updateregular">Una Historia de Telesalud</h3>
-            <span class="updateregular" style="font-size: 12px;">Conceptualizacion</span>
+            <span class="updateregular" style="font-size: 12px;">Servicio brindado</span>
             <p class="updateregular" style="font-size: 0.8em;">Sanus es una plataforma digital que nació del emprendimiento médico, con vocación de servicio. Originado en la visión de la telesalud con experiencia de usuario. Sanus acorta distancias de consulta médica mediante la tecnología. Por eso creamos un concepto de atención a distancia, creando una marca fuerte y desarrollando su linea de comunicación de forma que los usuarios puedan obtener una estadía placentera en la clínica virtual. </p>
       </div>
 </div>
@@ -201,14 +201,14 @@ include('../modulos/menuprincipal.php');
       <div class="col s6 thin">
         
             <h1 class="uptext " ><a href="" class="effect-box "style=" color: #2074bd;"> IDR - Profesionals</a></h1>
-            <h3 class="updateregular ">Empresa</h3>
-            <span class="updateregular " style="font-size: 12px;">Conceptualizacion</span>
-            <p class="updateregular " style="font-size: 0.8em;">The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the imagesThe first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images</p>
+            <h3 class="updateregular ">Una experiencia Científica</h3>
+            <span class="updateregular " style="font-size: 12px;">Servicio brindado</span>
+            <p class="updateregular " style="font-size: 0.8em;">IDR - Profesionals es una empresa consultora en investigación científica. Se busco conceptualizar una experiencia y una linea gráfica acorde con la amplia naturaleza  de sus servicios. Un froyecto muy ambicioso en estructura y contenido. El resultado fue una imagen limpia, fresca y como mucha fuerza de comunicación.</p>
       </div>
 </div>
 <div class="col s6 offset-s6">
               <!-- Modal Trigger -->
-              <a class="waves-effect waves-light chip modal-trigger idrcolor" href="#asfef">Diseños</a>
+              <a class="waves-effect waves-light chip modal-trigger idrcolor" href="#asfef">Diseño de logotipo</a>
 
               <!-- Modal Structure -->
               <div id="asfef" class="modal" style="background-color: rgb(16, 109, 186);">
@@ -232,7 +232,7 @@ include('../modulos/menuprincipal.php');
 
 
               <!-- Modal Trigger -->
-              <a class="waves-effect waves-light chip modal-trigger idrcolor" href="#asdasda">Webs</a>
+              <a class="waves-effect waves-light chip modal-trigger idrcolor" href="#asdasda">Línea gráfica</a>
 
               <!-- Modal Structure -->
               <div id="asdasda" class="modal" style="background-color: rgb(16, 109, 186);">
@@ -255,7 +255,30 @@ include('../modulos/menuprincipal.php');
               </div>
 
               <!-- Modal Trigger -->
-              <a class="waves-effect waves-light chip modal-trigger idrcolor" href="#asdasdsad">Marketing</a>
+              <a class="waves-effect waves-light chip modal-trigger idrcolor" href="#asdasda">Presentación Comercial</a>
+
+              <!-- Modal Structure -->
+              <div id="asdasda" class="modal" style="background-color: rgb(16, 109, 186);">
+                <div class="modal-content "  align="center">
+
+                  <div class="row" align="right" style="margin-right: 30px;">
+                     <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
+                  </div>
+                  <ul>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/folder-IDR.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/hoja-IDR.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/monitor-IDR.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/tarjetas-IDR.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sobre-IDR.jpg" style="width: 300px; height: 185px;"></li>
+                  </ul>
+                 </div>
+                <div class="modal-footer" style="background-color: rgb(16, 109, 186);">
+                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat" style="margin-top: 10px;"><i class="material-icons" style="font-size: 32px; color: white;" >close</i></a>
+                </div>
+              </div>
+
+              <!-- Modal Trigger -->
+              <a class="waves-effect waves-light chip modal-trigger idrcolor" href="#asdasdsad">Desarollo website</a>
 
               <!-- Modal Structure -->
               <div id="asdasdsad" class="modal" style="background-color: rgb(16, 109, 186);">
@@ -282,15 +305,15 @@ include('../modulos/menuprincipal.php');
 <div class="row wrapper" style="display: inline-block;">
       <div class="col s4 offset-s2 c-test js-tilt responsive-img"  style="background-image: url(img/iso.png); background-repeat: no-repeat; margin-top: -4%;"></div>
       <div class="col s6 thin">
-            <h1 class="uptext " style=" color: #fa6a29;"><a href="" class="effect-box">Isotech</a></h1>
+            <h1 class="uptext " ><a href="" class="effect-box "style=" color: #fa6928;"> Isotech</a></h1>
             <h3 class="updateregular">Empresa</h3>
-            <span class="updateregular" style="font-size: 12px;">Conceptualizacion</span>
-            <p class="updateregular" style="font-size: 0.8em;">The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images.The first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the imagesThe first CSS block is similar to the code in Example 1. In addition, we have added what should happen when a user hovers over one of the images</p>
+            <span class="updateregular" style="font-size: 12px;">Servicio brindado</span>
+            <p class="updateregular" style="font-size: 0.8em;">Isotech Perú es una empresa que comercializa insumos para la industria del plástico. Se requería refrescar la imagen de la empresa con el objetivo de comunicar seriedad, confianza y solidez. Se estableció una linea gráfica nueva empezando por un logotipo ágil, un diseño web que propone una escalabilidad al e-comerce y con una navegabilidad optima con el objetivo que el usuario encuentre lo que busca.</p>
       </div>
 </div>
 <div class="col s6 offset-s6">
               <!-- Modal Trigger -->
-              <a class="waves-effect waves-light chip modal-trigger isocolor" href="#modal1">Diseños</a>
+              <a class="waves-effect waves-light chip modal-trigger isocolor" href="#modal1">Desarrollo logotipo</a>
 
               <!-- Modal Structure -->
               <div id="modal1" class="modal" style="background-color: rgb(254, 105, 42);">
@@ -314,7 +337,7 @@ include('../modulos/menuprincipal.php');
 
 
               <!-- Modal Trigger -->
-              <a class="waves-effect waves-light chip modal-trigger isocolor" href="#modal">Webs</a>
+              <a class="waves-effect waves-light chip modal-trigger isocolor" href="#modal">Línea Gráfica</a>
 
               <!-- Modal Structure -->
               <div id="modal" class="modal" style="background-color: rgb(254, 105, 42);">
@@ -337,7 +360,30 @@ include('../modulos/menuprincipal.php');
               </div>
 
               <!-- Modal Trigger -->
-              <a class="waves-effect waves-light chip modal-trigger isocolor" href="#modals">Marketing</a>
+              <a class="waves-effect waves-light chip modal-trigger isocolor" href="#modal">Presentación comercial</a>
+
+              <!-- Modal Structure -->
+              <div id="modal" class="modal" style="background-color: rgb(254, 105, 42);">
+                <div class="modal-content "  align="center">
+
+                  <div class="row" align="right" style="margin-right: 30px;">
+                     <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
+                  </div>
+                  <ul>
+                         <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/folder-ISOTECH-WEB.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/hoja-isotech.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/monitor-ISOTECH.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/tarjeta-ISOTECH-BASE.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sobre-ISOTECH.jpg" style="width: 300px; height: 185px;"></li>
+                  </ul>
+                 </div>
+                <div class="modal-footer" style="background-color: rgb(254, 105, 42);">
+                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat" style="margin-top: 10px;"><i class="material-icons" style="font-size: 32px; color: white;" >close</i></a>
+                </div>
+              </div>
+
+              <!-- Modal Trigger -->
+              <a class="waves-effect waves-light chip modal-trigger isocolor" href="#modals">Dsarrollo website</a>
 
               <!-- Modal Structure -->
               <div id="modals" class="modal" style="background-color: rgb(254, 105, 42);">
