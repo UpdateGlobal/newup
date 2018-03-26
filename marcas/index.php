@@ -56,7 +56,7 @@ include('../modulos/menuprincipal.php');
 <div style="background-color: #53bcbd; margin-top: 0px;" align="center">
   <div class="row" style="padding: 30px 30px 30px;">
 <h1 class="uptext">Desarrollamos <span class="gris" id="typed"></span></h1>
-  <h1 class="updateregular">Con los más altos estandares.</h1> 
+  <h1 class="updateregular">Con los más altos estandares</h1> 
 
 
 
@@ -108,11 +108,8 @@ include('../modulos/menuprincipal.php');
                      <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/folder-SANUS.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/hoja-SANUS.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/monitor-sanus.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/tarjetas-sanus.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sobre-sanus.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sanus/book-sanus-logo-lineas.jpg" style="width: 405px; height: 250px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sanus/monitor-sanus-logo.jpg" style="width: 405px; height: 250px;"></li>
                   </ul>
                  </div>
 
@@ -133,11 +130,11 @@ include('../modulos/menuprincipal.php');
                     <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/folder-SANUS.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/hoja-SANUS.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/monitor-sanus.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/tarjetas-sanus.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sobre-sanus.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sanus/tarjetas-sanus.jpg" style="width: 405px; height: 250px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sanus/sobre-sanus.jpg" style="width: 405px; height: 250px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sanus/folder-SANUS.jpg" style="width: 405px; height: 250px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sanus/hoja-SANUS.jpg" style="width: 405px; height: 250px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sanus/monitor-sanus.jpg" style="width: 405px; height: 250px;"></li>
                   </ul>
                  </div>
 
@@ -157,11 +154,11 @@ include('../modulos/menuprincipal.php');
                      <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/folder-SANUS.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/hoja-SANUS.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/monitor-sanus.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/tarjetas-sanus.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sobre-sanus.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sanus/tarjetas-sanus.jpg" style="width: 405px; height: 250px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sanus/sobre-sanus.jpg" style="width: 405px; height: 250px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sanus/folder-SANUS.jpg" style="width: 405px; height: 250px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sanus/hoja-SANUS.jpg" style="width: 405px; height: 250px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sanus/monitor-sanus.jpg" style="width: 405px; height: 250px;"></li>
                   </ul>
                  </div>
                 <div class="modal-footer" style="background-color: rgb(63, 187, 197);">
@@ -180,11 +177,7 @@ include('../modulos/menuprincipal.php');
                     <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/folder-SANUS.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/hoja-SANUS.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/monitor-sanus.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/tarjetas-sanus.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sobre-sanus.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sanus/monitor-sanus.jpg" style="width: 405px; height: 250px;"></li>
                   </ul>
                  </div>
 
@@ -218,11 +211,8 @@ include('../modulos/menuprincipal.php');
                      <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/folder-IDR.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/hoja-IDR.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/monitor-IDR.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/tarjetas-IDR.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sobre-IDR.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/idr/book-idr-logo-lineas.jpg" style="width: 405px; height: 250px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/idr/monitor-IDR-logo.jpg" style="width: 405px; height: 250px;"></li>
                   </ul>
                  </div>
                 <div class="modal-footer" style="background-color: rgb(16, 109, 186);">
@@ -242,11 +232,11 @@ include('../modulos/menuprincipal.php');
                      <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/folder-IDR.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/hoja-IDR.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/monitor-IDR.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/tarjetas-IDR.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sobre-IDR.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/idr/tarjetas-IDR.jpg" style="width: 405px; height: 250px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/idr/folder-IDR.jpg" style="width: 405px; height: 250px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/idr/sobre-IDR.jpg" style="width: 405px; height: 250px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/idr/hoja-IDR.jpg" style="width: 405px; height: 250px;"></li>
+                        
                   </ul>
                  </div>
                 <div class="modal-footer" style="background-color: rgb(16, 109, 186);">
@@ -265,11 +255,11 @@ include('../modulos/menuprincipal.php');
                      <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/folder-IDR.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/hoja-IDR.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/monitor-IDR.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/tarjetas-IDR.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sobre-IDR.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/idr/tarjetas-IDR.jpg" style="width: 405px; height: 250px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/idr/folder-IDR.jpg" style="width: 405px; height: 250px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/idr/sobre-IDR.jpg" style="width: 405px; height: 250px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/idr/hoja-IDR.jpg" style="width: 405px; height: 250px;"></li>
+                       
                   </ul>
                  </div>
                 <div class="modal-footer" style="background-color: rgb(16, 109, 186);">
@@ -288,17 +278,24 @@ include('../modulos/menuprincipal.php');
                      <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/folder-IDR.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/hoja-IDR.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/monitor-IDR.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/tarjetas-IDR.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sobre-IDR.jpg" style="width: 300px; height: 185px;"></li>
+                        
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/idr/monitor-IDR.jpg" style="width: 405px; height: 250px;"></li>
                   </ul>
-                 </div> style="background-color: rgb(16, 109, 186);">
+                 </div>
+                  <div class="modal-footer" style="background-color: rgb(16, 109, 186);">
                   <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat" style="margin-top: 10px;"><i class="material-icons" style="font-size: 32px; color: white;" >close</i></a>
                 </div>
-              </div>
-</div><!--modales-->
+
+            
+
+
+
+</div> </div><!--modales-->
+
+
+
+
+<!---->
 
 <div class="hrtes"></div>
 
@@ -323,11 +320,8 @@ include('../modulos/menuprincipal.php');
                      <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/folder-ISOTECH-WEB.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/hoja-isotech.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/monitor-ISOTECH.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/tarjeta-ISOTECH-BASE.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sobre-ISOTECH.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/book-isotech-logo-lineas.jpg" style="width: 405px; height: 250px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/monitor-ISOTECH-logo.jpg" style="width: 405px; height: 250px;"></li>
                   </ul>
                  </div>
                 <div class="modal-footer" style="background-color: rgb(254, 105, 42);">
@@ -347,12 +341,11 @@ include('../modulos/menuprincipal.php');
                      <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                         <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/folder-ISOTECH-WEB.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/hoja-isotech.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/monitor-ISOTECH.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/tarjeta-ISOTECH-BASE.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sobre-ISOTECH.jpg" style="width: 300px; height: 185px;"></li>
-                  </ul>
+                         <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/tarjeta-ISOTECH-BASE.jpg" style="width: 405px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/hoja-isotech.jpg" style="width: 405px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/folder-ISOTECH-WEB.jpg" style="width: 405px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/sobre-ISOTECH.jpg" style="width: 405px; height: 185px;"></li>
+                                          </ul>
                  </div>
                 <div class="modal-footer" style="background-color: rgb(254, 105, 42);">
                   <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat" style="margin-top: 10px;"><i class="material-icons" style="font-size: 32px; color: white;" >close</i></a>
@@ -370,12 +363,11 @@ include('../modulos/menuprincipal.php');
                      <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                         <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/folder-ISOTECH-WEB.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/hoja-isotech.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/monitor-ISOTECH.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/tarjeta-ISOTECH-BASE.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sobre-ISOTECH.jpg" style="width: 300px; height: 185px;"></li>
-                  </ul>
+                         <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/tarjeta-ISOTECH-BASE.jpg" style="width: 405px; height: 250px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/hoja-isotech.jpg" style="width: 405px; height: 250px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/folder-ISOTECH-WEB.jpg" style="width: 405px; height: 250px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/sobre-ISOTECH.jpg" style="width: 405px; height: 250px;"></li>
+                        </ul>
                  </div>
                 <div class="modal-footer" style="background-color: rgb(254, 105, 42);">
                   <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat" style="margin-top: 10px;"><i class="material-icons" style="font-size: 32px; color: white;" >close</i></a>
@@ -393,11 +385,7 @@ include('../modulos/menuprincipal.php');
                      <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                         <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/folder-ISOTECH-WEB.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/hoja-isotech.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/monitor-ISOTECH.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/tarjeta-ISOTECH-BASE.jpg" style="width: 300px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sobre-ISOTECH.jpg" style="width: 300px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/monitor-ISOTECH.jpg" style="width: 405px; height: 250px;"></li>
                   </ul>
                  </div>
                 <div class="modal-footer" style="background-color: rgb(254, 105, 42);">
