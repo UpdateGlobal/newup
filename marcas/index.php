@@ -401,7 +401,9 @@ include('../modulos/menuprincipal.php');
  </div><!--row-->
 </div><!--conatiner dir-->
 
-
+        <?php
+        include('../modulos/footer.php');
+        ?>
 
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>

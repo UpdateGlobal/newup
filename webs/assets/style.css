@@ -217,4 +217,56 @@ nav {
         background-color: lightblue;
     }
 }
+/*footer*/
+.text_foot{
+  font-size: 12px;
+}
 
+.social{
+    display: inline-block;
+    vertical-align: top;
+    height: 37px;
+    width: 37px;
+    line-height: 33px;
+    border: 2px solid #fff;
+    border-radius: 100%;
+    text-align: center;
+    margin-right: 10px;
+    font-size: 18px;
+    color: #2cb8c7;
+    float: center;
+    margin-top: 4px;
+    background-color: black;
+}
+
+
+.social:hover{
+    display: inline-block;
+    vertical-align: top;
+    height: 37px;
+    width: 37px;
+    line-height: 33px;
+    border: 2px solid #fff;
+    border-radius: 100%;
+    text-align: center;
+    margin-right: 10px;
+    font-size: 18px;
+    color: white;
+    float: center;
+    margin-top: 4px;
+    background-color: #2cb8c7;
+}
+.img_foo{
+  padding: 15px;
+}
+.respon_vide{
+  width: 105%;
+  height: 66%;
+}
+
+.text_banner{
+  position: absolute;
+  padding-top: 25%;
+  text-align: center;
+  float: center;
+}
