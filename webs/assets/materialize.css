@@ -5821,11 +5821,12 @@ button.btn-floating {
   font-weight: 200;
   color: #fff;
   line-height: 32px;
-  padding: 0 12px;
+  padding: 0px 12px;
   border-radius: 16px;
   background-color: #50bdbe;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
   margin-right: 5px;
+  margin-top: 10px;
 }
 
 .chip > img {

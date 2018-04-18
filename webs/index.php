@@ -32,101 +32,78 @@
     <?php
     include('../modulos/menuprincipal.php');
     ?>
- <!--    <style>
-        #myVideo {
-        position: fixed;
-        right: 0;
-        bottom: 0;
-        min-width: 100%; 
-        min-height: 100%;
-    }
 
-    .content {
-        position: fixed;
-        bottom: 0;
-        background: rgba(0, 0, 0, 0.5);
-        color: #f1f1f1;
-        width: 100%;
-        padding: 20px;
-    }
 
-    #myBtn {
-        width: 1000px;
-        font-size: 18px;
-        padding: 10px;
-        border: none;
-        background: #000;
-        color: #fff;
-        cursor: pointer;
-    }
-
-    #myBtn:hover {
-        background: #ddd;
-        color: black;
-    }
-    </style>
-      
-    <video autoplay muted loop id="myVideo">
-      <source src="video-mano.mp4" type="video/mp4">
-      Your browser does not support HTML5 video.
-    </video>
-
-    <div class="content">
-      <h1>Heading</h1>
-      <p>Lorem ipsum dolor sit amet, an his etiam torquatos. Tollit soleat phaedrum te duo, eum cu recteque expetendis neglegentur. Cu mentitum maiestatis persequeris pro, pri ponderum tractatos ei. Id qui nemore latine molestiae, ad mutat oblique delicatissimi pro.</p>
-      <button id="myBtn" onclick="myFunction()">Pause</button>
+<!-- <div>
+    <div class="row text_banner">
+        <h1>hola</h1>
     </div>
-
-    <script>
-    var video = document.getElementById("myVideo");
-    var btn = document.getElementById("myBtn");
-
-    function myFunction() {
-      if (video.paused) {
-        video.play();
-        btn.innerHTML = "Pause";
-      } else {
-        video.pause();
-        btn.innerHTML = "Play";
-      }
-    }
-    </script>
+    <video class="respon_vide" play>
+        <source src="video-mano.mp4" type="video/mp4">
+    </video>
+</div>
  -->
 
 
-<div>
-<div class="row text_banner">
-    <h1>hola</h1>
+<style type="text/css">
+video{
+    position: fixed;
+   /* min-height: 100%;*/
+    min-width: 100%;
+    margin-top: 8px;
+    /*top: 50%;
+    left: 50%;*/
+    /*transform: translateX(-50%);
+    transform: translateY(-50%);*/
+    z-index: -1;}
+.main{
+    background-color: rgb(0,0,0,0.5);
+    position: absolute;
+    /*padding-top: 50%;
+    padding: 20px 100px 20px;
+    margin: 14% 41%;}*/
+</style>
+
+
+<div class="sliders">
+    <video src="video-mano.mp4" autoplay loop poster="img/log1.png"></video>
+    
+    <div class="container">
+    <div class="row" align="center">
+        <div class="col s12 line" >
+        
+            <h1 class="animated fadeInLeft title_bn">PAGINAS WEBS</h1>
+            <h3 class="animated fadeInRight subtitle_bn">A medida de tus necesidades</h3>
+
+           
+        </div>
+            <!-- <span><img src="img/icontablet.png"></span>
+            <span><img src="img/iconpc.png"></span>
+            <span><img src="img/icontelefono.png"></span> -->
+    </div>
+    </div>
+
 </div>
-<video class="respon_vide" play>
-
-    <source src="video-mano.mp4" type="video/mp4">
-
-  </video>
-
+<div class="container-fluid info_txt" align="center">
+    <div class="container">
+    <h1 class="thin">Nuestro Diseños Webs</h1> 
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    </div> 
 </div>
 
 
 
+      
 
-
-
-
-
-
-            <div class="container">
-            <h1 class="thin">Nuestro Diseños Webs</h1> 
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-            </div>
-            <section id="horizontal" class="">
+            <section id="horizontal">
                 <div class="jumbotron text-left" style="background: url('img/web2.png') repeat center;" data-paroller-factor="2" data-paroller-direction="horizontal">
-                    <div class="card-block addcard container" align="left">
-                        <h1 class="py-5 text-white thin">frelatos.pe/</h1>
+                    <div class="card-block addcard container" align="center">
+                        <h1 class="py-2 text-white thin">frelatos.pe/</h1>
                         <p class="text-white thin">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -143,11 +120,11 @@
                         <div class="chip thin">javaScript</div>
                         <div class="chip thin">Materializecss</div>
                         <div class="chip thin">Jquery</div>
-                        <div class="chip thin">Frontend</div> 
                     </div>
                 </div>
+
                 <div class="jumbotron text-center" style="background: url('img/web1.png') center;" data-paroller-factor="-2" data-paroller-direction="horizontal">
-                    <div class="card-block addcard container" align="left">
+                    <div class="card-block addcard container" align="center">
                         <h1 class="py-5 text-white thin">Naricitasplaza.pe</h1>
                         <p class="text-white thin">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -165,12 +142,11 @@
                         <div class="chip thin">javaScript</div>
                         <div class="chip thin">Materializecss</div>
                         <div class="chip thin">Jquery</div>
-                        <div class="chip thin">Frontend</div> 
                         <br><br>
                     </div>
                 </div>
                 <div class="jumbotron text-center" style="background: url('img/web6.jpg') center;" data-paroller-factor="2" data-paroller-direction="horizontal">
-                    <div class="card-block addcard container" align="left">
+                    <div class="card-block addcard container" align="center">
                         <h1 class="py-5 text-white thin">Isotech.pe</h1>
                         <p class="text-white thin">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -188,12 +164,11 @@
                         <div class="chip thin">javaScript</div>
                         <div class="chip thin">Materializecss</div>
                         <div class="chip thin">Jquery</div>
-                        <div class="chip thin">Frontend</div> 
                         <br><br>
                     </div>
                 </div>
                 <div class="jumbotron text-center" style="background: url('img/web4.png') center; background-size: cover;" data-paroller-factor="-2" data-paroller-direction="horizontal">
-                    <div class="card-block addcard container" align="left">
+                    <div class="card-block addcard container" align="center">
                         <h1 class="py-5 text-white thin">Elaperu.org/</h1>
                         <p class="text-white thin">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -211,12 +186,11 @@
                         <div class="chip thin">javaScript</div>
                         <div class="chip thin">Materializecss</div>
                         <div class="chip thin">Jquery</div>
-                        <div class="chip thin">Frontend</div> 
                         <br><br>
                     </div>
                 </div>
                 <div class="jumbotron text-center" style="background: url('img/web5.jpg') center; background-size: cover;" data-paroller-factor="2" data-paroller-direction="horizontal">
-                    <div class="card-block addcard container" align="left">
+                    <div class="card-block addcard container" align="center">
                         <h1 class="py-5 text-white thin">Sanus.pe/</h1>
                         <p class="text-white thin">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -234,12 +208,11 @@
                         <div class="chip thin">javaScript</div>
                         <div class="chip thin">Materializecss</div>
                         <div class="chip thin">Jquery</div>
-                        <div class="chip thin">Frontend</div> 
                         <br><br>
                     </div>
                 </div>
                 <div class="jumbotron text-center" style="background: url('img/web7.jpg') center; background-size: cover;" data-paroller-factor="-2" data-paroller-direction="horizontal">
-                    <div class="card-block addcard container" align="left">
+                    <div class="card-block addcard container" align="center">
                         <h1 class="py-5 text-white thin">integro365.com/</h1>
                         <p class="text-white thin">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -257,12 +230,10 @@
                         <div class="chip thin">javaScript</div>
                         <div class="chip thin">Materializecss</div>
                         <div class="chip thin">Jquery</div>
-                        <div class="chip thin">Frontend</div> 
                         <br><br>
                     </div>
-                </div>
+                </div> 
             </section>  
-        </div>    
 
         <?php
         include('../modulos/footer.php');
