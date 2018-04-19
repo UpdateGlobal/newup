@@ -29,128 +29,95 @@
 
 <body class="my-body" data-spy="scroll" data-target="#main-navbar" data-offset="70">
 
-    <div class="headere">
-      <div class="progress-container">
-        <div class="progress-bar" id="myBar"></div>
-      </div>  
-    </div>
+            <div class="headere">
+              <div class="progress-container">
+                <div class="progress-bar" id="myBar"></div>
+              </div>  
+            </div>
 
-    <?php
-    include('../modulos/menuprincipal.php');
-    ?>
+            <?php
+            include('../modulos/menuprincipal.php');
+            ?>
 
+            <style type="text/css">
+            video{
+                position: fixed;
+               /* min-height: 100%;*/
+                min-width: 100%;
+                margin-top: 8px;
+                /*top: 50%;
+                left: 50%;*/
+                /*transform: translateX(-50%);
+                transform: translateY(-50%);*/
+                z-index: -1;}
+            </style>
+            <div class="sliders">
+                <video src="video-mano.mp4" autoplay loop></video>
+                
+                <div class="container">
+                <div class="row" align="center">
+                    <div class="col s12 line" >
+                    
+                        <h1 class="animated fadeInLeft title_bn uptext">PAGINAS WEBS</h1>
+                        <h3 class="animated fadeInRight subtitle_bn uptext">A medida de tus necesidades</h3>
 
-<!-- <div>
-    <div class="row text_banner">
-        <h1>hola</h1>
-    </div>
-    <video class="respon_vide" play>
-        <source src="video-mano.mp4" type="video/mp4">
-    </video>
-</div>
- -->
+                       
+                    </div>
+                        <span><img src="img/icontablet.png"></span>
+                        <span><img src="img/iconpc.png"></span>
+                        <span><img src="img/icontelefono.png"></span>
+                </div>
+                </div>
 
+            </div>
 
-<style type="text/css">
-video{
-    position: fixed;
-   /* min-height: 100%;*/
-    min-width: 100%;
-    margin-top: 8px;
-    /*top: 50%;
-    left: 50%;*/
-    /*transform: translateX(-50%);
-    transform: translateY(-50%);*/
-    z-index: -1;}
-.main{
-    background-color: rgb(0,0,0,0.5);
-    position: absolute;
-    /*padding-top: 50%;
-    padding: 20px 100px 20px;
-    margin: 14% 41%;}*/
-</style>
+            <div style="background-color: #53bcbd; margin-top: 0px;" align="center">
+              <div class="row" style="padding: 30px 30px 30px; margin-bottom: 0px;">
+            <h1 class="maq_wri">Desarrollamos <span class="gris" id="typed"></span></h1>
+              <h1 class="updateregular">Con los más altos estandares</h1> 
 
+                    <script type="text/javascript">
+                      $(function(){
+                        $("#typed").typed({
+                          strings: ["Marcas Poderosas", "Conceptos Fuertes", "Marcas que enganchan", "Ideas que venden"],
+                          typeSpeed: 30,
+                          backDelay: 500,
+                          loop: true,
+                          loopCount: false,
+                          callback: function(){ foo(); }
+                        });
+                        function foo(){ console.log("Callback"); }
+                      });
+                    </script>
 
-<div class="sliders">
-    <video src="video-mano.mp4" autoplay loop></video>
-    
-    <div class="container">
-    <div class="row" align="center">
-        <div class="col s12 line" >
-        
-            <h1 class="animated fadeInLeft title_bn uptext">PAGINAS WEBS</h1>
-            <h3 class="animated fadeInRight subtitle_bn uptext">A medida de tus necesidades</h3>
-
-           
-        </div>
-            <span><img src="img/icontablet.png"></span>
-            <span><img src="img/iconpc.png"></span>
-            <span><img src="img/icontelefono.png"></span>
-    </div>
-    </div>
-
-</div>
-
-
-
-<div style="background-color: #53bcbd; margin-top: 0px;" align="center">
-  <div class="row" style="padding: 30px 30px 30px; margin-bottom: 0px;">
-<h1 class="maq_wri">Desarrollamos <span class="gris" id="typed"></span></h1>
-  <h1 class="updateregular">Con los más altos estandares</h1> 
-
-
-
-        <script type="text/javascript">
-          $(function(){
-            $("#typed").typed({
-              strings: ["Marcas Poderosas", "Conceptos Fuertes", "Marcas que enganchan", "Ideas que venden"],
-              typeSpeed: 30,
-              backDelay: 500,
-              loop: true,
-              loopCount: false,
-              callback: function(){ foo(); }
-            });
-            function foo(){ console.log("Callback"); }
-          });
-        </script>
-
-  </div>
-</div>
-
-
-
-
-
-<div class="container-fluid info_txt" align="center">
-    <div class="container">
-        <div class="row">
-    <div class="col s6 l3 s3"> 
-        <span><img src="img/iconpc.png"></span>
-        <h5>loren Ipsum</h5>
-        <p>loren Ipsum Cachapa con queso rallo y cochino friot</p>
-    </div>
-    <div class="col s6 l3 s3"> 
-        <span><img src="img/iconpc.png"></span>
-        <h5>loren Ipsum</h5>
-        <p>loren Ipsum Cachapa con queso rallo y cochino friot</p>
-    </div>
-    <div class="col s6 l3 s3"> 
-        <span><img src="img/iconpc.png"></span>
-        <h5>loren Ipsum</h5>
-        <p>loren Ipsum Cachapa con queso rallo y cochino friot</p>
-    </div>
-    <div class="col s6 l3 s3"> 
-        <span><img src="img/iconpc.png"></span>
-        <h5>loren Ipsum</h5>
-        <p>loren Ipsum Cachapa con queso rallo y cochino friot</p>
-    </div>
-</div>
-    </div> 
-</div>
-
-
-
-      
+              </div>
+            </div>
+            <div class="container-fluid info_txt" align="center">
+                <div class="container">
+                    <div class="row">
+                <div class="col s6 l3 s3"> 
+                    <span><img src="img/iconpc.png"></span>
+                    <h5>loren Ipsum</h5>
+                    <p>loren Ipsum Cachapa con queso rallo y cochino friot</p>
+                </div>
+                <div class="col s6 l3 s3"> 
+                    <span><img src="img/iconpc.png"></span>
+                    <h5>loren Ipsum</h5>
+                    <p>loren Ipsum Cachapa con queso rallo y cochino friot</p>
+                </div>
+                <div class="col s6 l3 s3"> 
+                    <span><img src="img/iconpc.png"></span>
+                    <h5>loren Ipsum</h5>
+                    <p>loren Ipsum Cachapa con queso rallo y cochino friot</p>
+                </div>
+                <div class="col s6 l3 s3"> 
+                    <span><img src="img/iconpc.png"></span>
+                    <h5>loren Ipsum</h5>
+                    <p>loren Ipsum Cachapa con queso rallo y cochino friot</p>
+                </div>
+            </div>
+                </div> 
+            </div>
 
             <section id="horizontal">
                 <div class="jumbotron text-left" style="background: url('img/web2.png') repeat center;" data-paroller-factor="2" data-paroller-direction="horizontal">
