@@ -1,5 +1,4 @@
-<!--botonndownrigth-->
-
+<!--menuluis-->
 
 <style type="text/css">
   .colormenu1{
@@ -27,8 +26,6 @@
 }
 </style>
 
-
-
 <ul id="slide-out" class="side-nav">
   <li>
       <script id="bx24_form_inline" data-skip-moving="true">
@@ -43,7 +40,6 @@
     </script>
   </li>
 </ul>
-
 
 
  <div class="fixed-action-btn vertical click-to-toggle">
@@ -61,4 +57,4 @@
       <li><a href="marcas/index.php" class="btn-floating colormenu3 tooltipped" data-position="left" data-delay="50" data-tooltip="Desarrollo de Marcas" href=""><i class="material-icons">brush</i></a></li>       
     </ul>
   </div>
-<!--botonndownrigth-->
+<!--menuluis-->
