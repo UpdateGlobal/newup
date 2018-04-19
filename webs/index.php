@@ -19,6 +19,12 @@
     <link rel="stylesheet" type="text/css" href="assets/font-awesome.css">
     <link rel="stylesheet" type="text/css" href="assets/materialize.css">
     <link rel="stylesheet" type="text/css" href="assets/normalize.css">
+
+
+    <!--Machinewrite-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+
 </head>
 
 <body class="my-body" data-spy="scroll" data-target="#main-navbar" data-offset="70">
@@ -66,33 +72,79 @@ video{
 
 
 <div class="sliders">
-    <video src="video-mano.mp4" autoplay loop poster="img/log1.png"></video>
+    <video src="video-mano.mp4" autoplay loop></video>
     
     <div class="container">
     <div class="row" align="center">
         <div class="col s12 line" >
         
-            <h1 class="animated fadeInLeft title_bn">PAGINAS WEBS</h1>
-            <h3 class="animated fadeInRight subtitle_bn">A medida de tus necesidades</h3>
+            <h1 class="animated fadeInLeft title_bn uptext">PAGINAS WEBS</h1>
+            <h3 class="animated fadeInRight subtitle_bn uptext">A medida de tus necesidades</h3>
 
            
         </div>
-            <!-- <span><img src="img/icontablet.png"></span>
+            <span><img src="img/icontablet.png"></span>
             <span><img src="img/iconpc.png"></span>
-            <span><img src="img/icontelefono.png"></span> -->
+            <span><img src="img/icontelefono.png"></span>
     </div>
     </div>
 
 </div>
+
+
+
+<div style="background-color: #53bcbd; margin-top: 0px;" align="center">
+  <div class="row" style="padding: 30px 30px 30px; margin-bottom: 0px;">
+<h1 class="maq_wri">Desarrollamos <span class="gris" id="typed"></span></h1>
+  <h1 class="updateregular">Con los más altos estandares</h1> 
+
+
+
+        <script type="text/javascript">
+          $(function(){
+            $("#typed").typed({
+              strings: ["Marcas Poderosas", "Conceptos Fuertes", "Marcas que enganchan", "Ideas que venden"],
+              typeSpeed: 30,
+              backDelay: 500,
+              loop: true,
+              loopCount: false,
+              callback: function(){ foo(); }
+            });
+            function foo(){ console.log("Callback"); }
+          });
+        </script>
+
+  </div>
+</div>
+
+
+
+
+
 <div class="container-fluid info_txt" align="center">
     <div class="container">
-    <h1 class="thin">Nuestro Diseños Webs</h1> 
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <div class="row">
+    <div class="col s6 l3 s3"> 
+        <span><img src="img/iconpc.png"></span>
+        <h5>loren Ipsum</h5>
+        <p>loren Ipsum Cachapa con queso rallo y cochino friot</p>
+    </div>
+    <div class="col s6 l3 s3"> 
+        <span><img src="img/iconpc.png"></span>
+        <h5>loren Ipsum</h5>
+        <p>loren Ipsum Cachapa con queso rallo y cochino friot</p>
+    </div>
+    <div class="col s6 l3 s3"> 
+        <span><img src="img/iconpc.png"></span>
+        <h5>loren Ipsum</h5>
+        <p>loren Ipsum Cachapa con queso rallo y cochino friot</p>
+    </div>
+    <div class="col s6 l3 s3"> 
+        <span><img src="img/iconpc.png"></span>
+        <h5>loren Ipsum</h5>
+        <p>loren Ipsum Cachapa con queso rallo y cochino friot</p>
+    </div>
+</div>
     </div> 
 </div>
 
@@ -239,11 +291,11 @@ video{
         include('../modulos/footer.php');
         ?>
 
+        <!--Machinewrite-->
+        <script  src="js/index.js"></script>
          <!-- Compiled and minified JavaScript -->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
-
-        <!-- jQuery -->
-        <script src="https://code.jquery.com/jquery-3.2.1.min.js" crossorigin="anonymous"></script>
+       
         <!-- Bootstrap 4-->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"></script>

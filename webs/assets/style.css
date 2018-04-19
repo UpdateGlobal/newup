@@ -50,12 +50,15 @@ nav {
 
 .jumbotron {
     -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-    filter: grayscale(100%);
+    filter: grayscale(100%) blur(5px);
+
+
 }
 .jumbotron:hover{
 
--webkit-filter: grayscale(1%); /* Safari 6.0 - 9.0 */
+-webkit-filter: grayscale(1%); 
     filter: grayscale(1%);
+
 
 }
 
@@ -79,15 +82,13 @@ nav {
 }
 
 .addcard{
-    background-color: #00000050;
-/*    opacity: 0.6;*/
+    background-color: #ffffff50;
+    /*    opacity: 0.6;*/
     color: #fff;
     margin-right: 5rem;
     margin-top: 0px;
-
     margin-left: 4rem;
     padding: 7px 20px 20px 20px;
-
 }
 
 .fiximg{.
@@ -258,9 +259,23 @@ nav {
     margin-top: 4px;
     background-color: #2cb8c7;
 }
+.img_foo{
+  padding: 15px;
+}
 
 
 /*Banner Home*/
+
+
+@font-face {
+    font-family: "update";
+    src: url('../rimouski.ttf') format("opentype");
+}
+
+.uptext {
+    font-family: "update";
+}
+
 
 .sliders{
   width: 100%;
@@ -274,28 +289,27 @@ nav {
 
 }
 .title_bn{
- font-size: 120px;
-  /*text-shadow: 5px 5px pink;*/
+ font-size: 90px;
  color: black;
  /* background: -webkit-linear-gradient(#E31E5E, #50bdbe);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;*/
-  font-weight: 900;
-  margin: 0px;
-  text-align: center;
-  font-family: lato;
+  font-size: 100px;
+ font-weight: 900;
+ margin: 40px;
+ text-align: center;
+
 }
 .subtitle_bn{
  font-size: 30px;
- letter-spacing: 17px;
-  /*text-shadow: 5px 5px pink;*/
- color: black;
+ letter-spacing: 8px;
+ color: #5a5a5a;
  /* background: -webkit-linear-gradient(#E31E5E, #50bdbe);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;*/
   font-weight: 100;
-  margin: 20px;
-    font-family: lato;
+  margin: 40px;
+
 
 }
 
@@ -304,7 +318,7 @@ nav {
 border-style: solid;
 border-color: #50bdbe;
 border-width: 5px;
-margin:20%;
+margin:12%;
 padding: 10px;
 }
 
@@ -314,7 +328,6 @@ padding: 10px;
 
 .title_bn{
  font-size: 80px;
-  /*text-shadow: 5px 5px pink;*/
  color: black;
  /* background: -webkit-linear-gradient(#E31E5E, #50bdbe);
   -webkit-background-clip: text;
@@ -322,23 +335,33 @@ padding: 10px;
   font-weight: 900;
   margin: 0px;
   text-align: center;
-  font-family: lato;
+
 }
 .subtitle_bn{
  font-size: 10px;
- letter-spacing: 17px;
-  /*text-shadow: 5px 5px pink;*/
- color: black;
+ letter-spacing: 8px;
+ color: white;
  /* background: -webkit-linear-gradient(#E31E5E, #50bdbe);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;*/
   font-weight: 100;
   margin: 20px;
-    font-family: lato;
+
 }
    
 }
 
+.maq_wri{
+      color: #fff;
+    font-family: "update";
+    font-size: 50px;
+}
+.gris{
+  color: grey;
+}
 
-
-
+.updateregular{
+    color: #595858;
+    font-family: "update";
+    font-size: 24px;
+  }
