@@ -1,30 +1,39 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="">
-    <meta name="keywords" content="">
-    <title>Diseños Webs</title>
-    <link rel="stylesheet" href="assets/style.css">
-    <script src="https://use.fontawesome.com/9576790a31.js"></script>
-    <link rel="stylesheet" type="text/css" href="assets/animate.css">
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.css">
-    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,600,700" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Fira+Sans+Extra+Condensed" rel="stylesheet">
-    <script src="https://use.fontawesome.com/3c86cf9c2d.js"></script>
-    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="assets/font-awesome.css">
-    <link rel="stylesheet" type="text/css" href="assets/materialize.css">
-    <link rel="stylesheet" type="text/css" href="assets/normalize.css">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <title>Update - Desarrollo de Webs</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="description" content="En Update desarrollamos tu Marca o la imagen de tu empresa con el objetivo de comunicar un concepto fuerte" />
+      <meta name="keywords" content="desarrollo de marca, branding, empresas de branding, diseño grafico, marketing" />
+      <meta name="author" content="luis alberto bernal fuentes" />
+      <!-- Facebook and Twitter integration -->
+      <meta property="og:title" content=""/>
+      <meta property="og:image" content=""/>
+      <meta property="og:url" content=""/>
+      <meta property="og:site_name" content=""/>
+      <meta property="og:description" content=""/>
+      <meta name="twitter:title" content="" />
+      <meta name="twitter:image" content="" />
+      <meta name="twitter:url" content="" />
 
 
-    <!--Machinewrite-->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-
-
+      <link rel="stylesheet" href="assets/style.css">
+      <script src="https://use.fontawesome.com/9576790a31.js"></script>
+      <link rel="stylesheet" type="text/css" href="assets/animate.css">
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.css">
+      <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,600,700" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Fira+Sans+Extra+Condensed" rel="stylesheet">
+      <script src="https://use.fontawesome.com/3c86cf9c2d.js"></script>
+      <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+      <link rel="stylesheet" type="text/css" href="assets/font-awesome.css">
+      <link rel="stylesheet" type="text/css" href="assets/materialize.css">
+      <link rel="stylesheet" type="text/css" href="assets/normalize.css">
+      <!--Machinewrite-->
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 </head>
 
 <body class="my-body" data-spy="scroll" data-target="#main-navbar" data-offset="70">
@@ -37,10 +46,47 @@
             </div>
 
       
-    <?php
-    include('../modulos/menuprincipal.php');
-    ?>
+<!-- BEGIN JIVOSITE CODE {literal} -->
+<script type='text/javascript'>
+              (function(){ var widget_id = 'h1kdq1YcU2';var d=document;var w=window;function l(){
+              var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
+<!-- {/literal} END JIVOSITE CODE -->
+<!--menuluis-->
 
+<style type="text/css">
+.colormenu1{background-color: #00897b;}
+.colormenu2{background-color: #009688;}
+.colormenu3{background-color: #26a69a;}
+.colormenu4{background-color: #4db6ac;}
+.colormenu5{background-color: #80cbc4;}
+.colormenu6{background-color: #b2dfdb;}
+</style>
+<ul id="slide-out" class="side-nav">
+  <li>
+      <script id="bx24_form_inline" data-skip-moving="true">
+            (function(w,d,u,b){w['Bitrix24FormObject']=b;w[b] = w[b] || function(){arguments[0].ref=u;
+                    (w[b].forms=w[b].forms||[]).push(arguments[0])};
+                    if(w[b]['forms']) return;
+                    var s=d.createElement('script');s.async=1;s.src=u+'?'+(1*new Date());
+                    var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+            })(window,document,'https://updatemarketing.bitrix24.es/bitrix/js/crm/form_loader.js','b24form');
+
+            b24form({"id":"8","lang":"la","sec":"82jy61","type":"inline"});
+    </script>
+  </li>
+</ul>
+ <div class="fixed-action-btn vertical click-to-toggle">
+    <a class="btn-floating btn-large colormenu1 pulse" >
+      <i class="large material-icons">apps</i>
+    </a>
+    <ul>
+      <li><a href="#" class="btn-floating colormenu2 tooltipped button-collapse" data-position="left"  data-delay="50" data-tooltip="Contacto" data-activates="slide-out"><i class="material-icons">perm_phone_msg</i></a></li>
+      <li><a href="#" class="btn-floating colormenu2 tooltipped button-collapse" data-position="left"  data-delay="50" data-tooltip="+51934244258" data-activates="slide-out"><i class="fab fa-whatsapp"></i></a></li>
+      <li><a href="#!" class="btn-floating colormenu5 tooltipped" data-position="left" data-delay="50" data-tooltip="Blog">   <i class="material-icons">developer_mode</i></a></li>
+      <li><a href="../marcas/index.php" class="btn-floating colormenu3 tooltipped" data-position="left" data-delay="50" data-tooltip="Desarrollo de Marcas" href=""><i class="material-icons">brush</i></a></li>       
+    </ul>
+  </div>
+<!--menuluis-->
 
 
 
@@ -113,22 +159,22 @@ video{
     <div class="container">
         <div class="row">
         <div class="col s6 l3 s3" align="center"> 
-        <span><img src="img/icono-4.png" class="item_img" ></span>
+        <span><img src="img/icon16161.png" class="item_img" ></span>
         <h3 class="item_info uptext">DISEÑO COMERCIAL(UX)</h3>
         <p>Diseños web que cumplen un Objetivo Comercial, ayudan a vender. (UX)</p>
     </div>
     <div class="col s6 l3 s3"> 
-        <span><img src="img/icono-4.png" class="item_img" ></span>
+        <span><img src="img/icon18406469.png" class="item_img" ></span>
         <h3 class="item_info uptext">WEBS MULTIDISPOSITIVO</h3>
         <p>Webs perfectamente visibles en dispositivos smartphones, tablets, pc. (Responsive)</p>
     </div>
     <div class="col s6 l3 s3"> 
-        <span><img src="img/icono-6.png" class="item_img" ></span>
+        <span><img src="img/icon5469333.png" class="item_img" ></span>
         <h3 class="item_info uptext">GOOGLE OPTIMIZACIÓN</h3>
         <p>Webs listas con palabras clave para ser encontradas en google (SEO).</p>
     </div>
     <div class="col s6 l3 s3"> 
-        <span><img src="img/icono-3.png" class="item_img" ></span>
+        <span><img src="img/icon16.png" class="item_img" ></span>
         <h3 class="item_info uptext">AUTO ADMINISTRABLES</h3>
         <p>Webs con gestión de contenidos. Administras tus fotos y texto (CMS).</p>
     </div>
@@ -304,7 +350,24 @@ video{
          });
          $('body').scrollspy({target: '#main-navbar'});
          });
+     
         </script>
+          <script type="text/javascript">
+            $(document).ready(function() {
+                $('.scrollspy').scrollSpy();
+                $('.carousel').carousel();
+                $('.materialboxed').materialbox();
+                $('.modal').modal();
+                $('select').material_select();
+                $('.slider').slider({
+                  indicators: false,
+                  height: 600
+                });
+                $(".button-collapse").sideNav();
+
+              });
+
+          </script>
         <script>
             // When the user scrolls the page, execute myFunction 
             window.onscroll = function() {myFunction()};
