@@ -79,7 +79,7 @@ video{
         <div class="col s12 line" >
         
             <h1 class="animated fadeInLeft title_bn uptext">PAGINAS WEBS</h1>
-            <h3 class="animated fadeInRight subtitle_bn uptext">A medida de tus necesidades</h3>
+            <h3 class="animated fadeInRight subtitle_bn uptext">QUE GENERAN OPORTUNIDADES</h3>
 
            
         </div>
@@ -96,14 +96,14 @@ video{
 <div style="background-color: #53bcbd; margin-top: 0px;" align="center">
   <div class="row" style="padding: 30px 30px 30px; margin-bottom: 0px;">
 <h1 class="maq_wri">Desarrollamos <span class="gris" id="typed"></span></h1>
-  <h1 class="updateregular">Con los más altos estandares</h1> 
+  <h1 class="updateregular">Acorde a las últimas tendencias de desarrollo digital</h1> 
 
 
 
         <script type="text/javascript">
           $(function(){
             $("#typed").typed({
-              strings: ["Marcas Poderosas", "Conceptos Fuertes", "Marcas que enganchan", "Ideas que venden"],
+              strings: ["Magia digital","Webs que venden", "webs con User Experience", "Tiendas Virtuales",],
               typeSpeed: 30,
               backDelay: 500,
               loop: true,
@@ -124,26 +124,27 @@ video{
 <div class="container-fluid info_txt" align="center">
     <div class="container">
         <div class="row">
-    <div class="col s6 l3 s3"> 
+        <div class="col s6 l3 s3"> 
         <span><img src="img/iconpc.png"></span>
-        <h5>loren Ipsum</h5>
-        <p>loren Ipsum Cachapa con queso rallo y cochino friot</p>
+        <h5>DISEÑO COMERCIAL(UX)</h5> 
+        <p>Diseños web que cumplen un Objetivo Comercial, ayudan a vender. (UX)</p>
     </div>
     <div class="col s6 l3 s3"> 
         <span><img src="img/iconpc.png"></span>
-        <h5>loren Ipsum</h5>
-        <p>loren Ipsum Cachapa con queso rallo y cochino friot</p>
+        <h5>WEBS MULTIDISPOSITIVO</h5>
+        <p>Webs perfectamente visibles en dispositivos smartphones, tablets, pc. (Responsive)</p>
     </div>
     <div class="col s6 l3 s3"> 
         <span><img src="img/iconpc.png"></span>
-        <h5>loren Ipsum</h5>
-        <p>loren Ipsum Cachapa con queso rallo y cochino friot</p>
+        <h5>GOOGLE OPTIMIZACIÓN</h5>
+        <p>Webs listas con palabras clave para ser encontradas en google (SEO).</p>
     </div>
     <div class="col s6 l3 s3"> 
         <span><img src="img/iconpc.png"></span>
-        <h5>loren Ipsum</h5>
-        <p>loren Ipsum Cachapa con queso rallo y cochino friot</p>
+        <h5>AUTO ADMINISTRABLES</h5>
+        <p>Webs con gestión de contenidos. Administras tus fotos y texto (CMS).</p>
     </div>
+
 </div>
     </div> 
 </div>
@@ -165,13 +166,14 @@ video{
                         <br>
                         <a class="waves-effect waves-light btn" href="http://frelatos.pe/" target="_new" style=" background-color: #e91e63;">Ver Web</a>
                         <br> <br>
-                        <div class="chip thin">Diseños webs</div>
-                        <div class="chip thin">Estilos</div>
-                        <div class="chip thin">Html5</div>
-                        <div class="chip thin">Css3</div>
-                        <div class="chip thin">javaScript</div>
-                        <div class="chip thin">Materializecss</div>
+                        <div class="chip thin">Html 5</div>
+                        <div class="chip thin">Css 3</div>
+                        <div class="chip thin">Php 7.1</div>
+                        <div class="chip thin">J.S</div>
                         <div class="chip thin">Jquery</div>
+                        <div class="chip thin">Bootstrap 4</div>
+                        <div class="chip thin">C.M.S</div>
+                        
                     </div>
                 </div>
 
@@ -187,13 +189,13 @@ video{
                         <br>
                             <a class="waves-effect waves-light btn" href="https://naricitasplaza.pe/" target="_new" style=" background-color: #e91e63;">Ver Web</a>
                         <br> <br>
-                        <div class="chip thin">Diseños webs</div>
-                        <div class="chip thin">Estilos</div>
-                        <div class="chip thin">Html5</div>
-                        <div class="chip thin">Css3</div>
-                        <div class="chip thin">javaScript</div>
-                        <div class="chip thin">Materializecss</div>
+                        <div class="chip thin">Html 5</div>
+                        <div class="chip thin">Css 3</div>
+                        <div class="chip thin">Php 7.1</div>
+                        <div class="chip thin">J.S</div>
                         <div class="chip thin">Jquery</div>
+                        <div class="chip thin">Bootstrap 4</div>
+                        <div class="chip thin">C.M.S</div>
                         <br><br>
                     </div>
                 </div>
@@ -209,13 +211,13 @@ video{
                         <br>
                             <a class="waves-effect waves-light btn" href="http://www.isotechperu.com/" target="_new" style=" background-color: #e91e63;">Ver Web</a>
                         <br> <br>
-                        <div class="chip thin">Diseños webs</div>
-                        <div class="chip thin">Estilos</div>
-                        <div class="chip thin">Html5</div>
-                        <div class="chip thin">Css3</div>
-                        <div class="chip thin">javaScript</div>
-                        <div class="chip thin">Materializecss</div>
+                        <div class="chip thin">Html 5</div>
+                        <div class="chip thin">Css 3</div>
+                        <div class="chip thin">Php 7.1</div>
+                        <div class="chip thin">J.S</div>
                         <div class="chip thin">Jquery</div>
+                        <div class="chip thin">Bootstrap 4</div>
+                        <div class="chip thin">C.M.S</div>
                         <br><br>
                     </div>
                 </div>
@@ -231,13 +233,13 @@ video{
                         <br>
                             <a class="waves-effect waves-light btn" href="http://www.elaperu.org/" target="_new" style=" background-color: #e91e63;">Ver Web</a>
                         <br> <br>
-                        <div class="chip thin">Diseños webs</div>
-                        <div class="chip thin">Estilos</div>
-                        <div class="chip thin">Html5</div>
-                        <div class="chip thin">Css3</div>
-                        <div class="chip thin">javaScript</div>
-                        <div class="chip thin">Materializecss</div>
+                        <div class="chip thin">Html 5</div>
+                        <div class="chip thin">Css 3</div>
+                        <div class="chip thin">Php 7.1</div>
+                        <div class="chip thin">J.S</div>
                         <div class="chip thin">Jquery</div>
+                        <div class="chip thin">Bootstrap 4</div>
+                        <div class="chip thin">C.M.S</div>
                         <br><br>
                     </div>
                 </div>
@@ -253,13 +255,13 @@ video{
                         <br>
                             <a class="waves-effect waves-light btn" href="http://www.elaperu.org/" target="_new" style=" background-color: #e91e63;">Ver Web</a>
                         <br> <br>
-                        <div class="chip thin">Diseños webs</div>
-                        <div class="chip thin">Estilos</div>
-                        <div class="chip thin">Html5</div>
-                        <div class="chip thin">Css3</div>
-                        <div class="chip thin">javaScript</div>
-                        <div class="chip thin">Materializecss</div>
+                        <div class="chip thin">Html 5</div>
+                        <div class="chip thin">Css 3</div>
+                        <div class="chip thin">Php 7.1</div>
+                        <div class="chip thin">J.S</div>
                         <div class="chip thin">Jquery</div>
+                        <div class="chip thin">Bootstrap 4</div>
+                        <div class="chip thin">C.M.S</div>
                         <br><br>
                     </div>
                 </div>
@@ -275,13 +277,13 @@ video{
                         <br>
                             <a class="waves-effect waves-light btn" href="http://www.integro365.com/" target="_new" style=" background-color: #e91e63;">Ver Web</a>
                         <br> <br>
-                        <div class="chip thin">Diseños webs</div>
-                        <div class="chip thin">Estilos</div>
-                        <div class="chip thin">Html5</div>
-                        <div class="chip thin">Css3</div>
-                        <div class="chip thin">javaScript</div>
-                        <div class="chip thin">Materializecss</div>
+                        <div class="chip thin">Html 5</div>
+                        <div class="chip thin">Css 3</div>
+                        <div class="chip thin">Php 7.1</div>
+                        <div class="chip thin">J.S</div>
                         <div class="chip thin">Jquery</div>
+                        <div class="chip thin">Bootstrap 4</div>
+                        <div class="chip thin">C.M.S</div>
                         <br><br>
                     </div>
                 </div> 
