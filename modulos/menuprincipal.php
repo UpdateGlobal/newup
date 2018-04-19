@@ -57,8 +57,8 @@
       <li><a href="landin.html" class="btn-floating colormenu6 tooltipped" data-position="left" data-delay="50" data-tooltip="Marketing Digital">  <i class="material-icons">timeline</i></a></li>
       <li><a href="landin.html" class="btn-floating colormenu5 tooltipped" data-position="left" data-delay="50" data-tooltip="Plataformas Webs">   <i class="material-icons">developer_mode</i></a></li> -->
       <li><a href="#!" class="btn-floating colormenu5 tooltipped" data-position="left" data-delay="50" data-tooltip="Blog">   <i class="material-icons">developer_mode</i></a></li>
-      <li><a href="../webs" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Diseño Web">  <i class="material-icons">desktop_mac</i></a></li>
-      <li><a href="../marcas" class="btn-floating colormenu3 tooltipped" data-position="left" data-delay="50" data-tooltip="Desarrollo de Marcas" href=""><i class="material-icons">brush</i></a></li>       
+      <li><a href="../webs/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Diseño Web">  <i class="material-icons">desktop_mac</i></a></li>
+      <li><a href="marcas/index.php" class="btn-floating colormenu3 tooltipped" data-position="left" data-delay="50" data-tooltip="Desarrollo de Marcas" href=""><i class="material-icons">brush</i></a></li>       
     </ul>
   </div>
 <!--botonndownrigth-->

@@ -309,8 +309,6 @@ nav {
   -webkit-text-fill-color: transparent;*/
   font-weight: 100;
   margin: 40px;
-
-
 }
 
 
@@ -366,6 +364,41 @@ padding: 10px;
     font-size: 24px;
   }
 
+.item_img{
+
+    transition: transform .2s; /* Animation */
+    width: 100px;
+    height: 100px;
+
+
+}
+
+
+.item_img:hover{
+transform: scale(1.5);
+width: 110px;
+height: 110px;
+
+
+
+
+
+}
+
+.item_title{
+    margin-top: 60px;
+    margin-bottom: 80px;
+    color: #808080;
+    font-size: 36px;
+}
+.item_info{
+ font-size: 21px;
+    color: #50bdbe;
+    font-weight: 900;
+    margin: 10px;
+    letter-spacing: 2px;
+    text-align: center;
+}
 
 
 /*
