@@ -29,6 +29,7 @@
 
 <body class="my-body" data-spy="scroll" data-target="#main-navbar" data-offset="70">
 
+<<<<<<< HEAD
             <div class="headere">
               <div class="progress-container">
                 <div class="progress-bar" id="myBar"></div>
@@ -68,6 +69,129 @@
                         <span><img src="img/icontelefono.png"></span>
                 </div>
                 </div>
+=======
+    <div class="headere">
+      <div class="progress-container">
+        <div class="progress-bar" id="myBar"></div>
+      </div>  
+    </div>
+
+    <?php
+    include('../modulos/menuprincipal.php');
+    ?>
+
+
+<!-- <div>
+    <div class="row text_banner">
+        <h1>hola</h1>
+    </div>
+    <video class="respon_vide" play>
+        <source src="video-mano.mp4" type="video/mp4">
+    </video>
+</div>
+ -->
+
+
+<style type="text/css">
+video{
+    position: fixed;
+   /* min-height: 100%;*/
+    min-width: 100%;
+    margin-top: 8px;
+    /*top: 50%;
+    left: 50%;*/
+    /*transform: translateX(-50%);
+    transform: translateY(-50%);*/
+    z-index: -1;}
+.main{
+    background-color: rgb(0,0,0,0.5);
+    position: absolute;
+    /*padding-top: 50%;
+    padding: 20px 100px 20px;
+    margin: 14% 41%;}*/
+</style>
+
+
+<div class="sliders">
+    <video src="video-mano.mp4" autoplay loop></video>
+    
+    <div class="container">
+    <div class="row" align="center">
+        <div class="col s12 line" >
+        
+            <h1 class="animated fadeInLeft title_bn uptext">PAGINAS WEBS</h1>
+            <h3 class="animated fadeInRight subtitle_bn uptext">QUE GENERAN OPORTUNIDADES</h3>
+
+           
+        </div>
+            <span><img src="img/icontablet.png"></span>
+            <span><img src="img/iconpc.png"></span>
+            <span><img src="img/icontelefono.png"></span>
+    </div>
+    </div>
+
+</div>
+
+
+
+<div style="background-color: #53bcbd; margin-top: 0px;" align="center">
+  <div class="row" style="padding: 30px 30px 30px; margin-bottom: 0px;">
+<h1 class="maq_wri">Desarrollamos <span class="gris" id="typed"></span></h1>
+  <h1 class="updateregular">Acorde a las últimas tendencias de desarrollo digital</h1> 
+
+
+
+        <script type="text/javascript">
+          $(function(){
+            $("#typed").typed({
+              strings: ["Magia digital","Webs que venden", "webs con User Experience", "Tiendas Virtuales",],
+              typeSpeed: 30,
+              backDelay: 500,
+              loop: true,
+              loopCount: false,
+              callback: function(){ foo(); }
+            });
+            function foo(){ console.log("Callback"); }
+          });
+        </script>
+
+  </div>
+</div>
+
+
+
+
+
+<div class="container-fluid info_txt" align="center">
+    <div class="container">
+        <div class="row">
+        <div class="col s6 l3 s3"> 
+        <span><img src="img/iconpc.png"></span>
+        <h5>DISEÑO COMERCIAL(UX)</h5> 
+        <p>Diseños web que cumplen un Objetivo Comercial, ayudan a vender. (UX)</p>
+    </div>
+    <div class="col s6 l3 s3"> 
+        <span><img src="img/iconpc.png"></span>
+        <h5>WEBS MULTIDISPOSITIVO</h5>
+        <p>Webs perfectamente visibles en dispositivos smartphones, tablets, pc. (Responsive)</p>
+    </div>
+    <div class="col s6 l3 s3"> 
+        <span><img src="img/iconpc.png"></span>
+        <h5>GOOGLE OPTIMIZACIÓN</h5>
+        <p>Webs listas con palabras clave para ser encontradas en google (SEO).</p>
+    </div>
+    <div class="col s6 l3 s3"> 
+        <span><img src="img/iconpc.png"></span>
+        <h5>AUTO ADMINISTRABLES</h5>
+        <p>Webs con gestión de contenidos. Administras tus fotos y texto (CMS).</p>
+    </div>
+
+</div>
+    </div> 
+</div>
+
+
+>>>>>>> 32433c3cd8c06acd929bc50508e266f86372cb06
 
             </div>
 
@@ -132,13 +256,14 @@
                         <br>
                         <a class="waves-effect waves-light btn" href="http://frelatos.pe/" target="_new" style=" background-color: #e91e63;">Ver Web</a>
                         <br> <br>
-                        <div class="chip thin">Diseños webs</div>
-                        <div class="chip thin">Estilos</div>
-                        <div class="chip thin">Html5</div>
-                        <div class="chip thin">Css3</div>
-                        <div class="chip thin">javaScript</div>
-                        <div class="chip thin">Materializecss</div>
+                        <div class="chip thin">Html 5</div>
+                        <div class="chip thin">Css 3</div>
+                        <div class="chip thin">Php 7.1</div>
+                        <div class="chip thin">J.S</div>
                         <div class="chip thin">Jquery</div>
+                        <div class="chip thin">Bootstrap 4</div>
+                        <div class="chip thin">C.M.S</div>
+                        
                     </div>
                 </div>
 
@@ -154,13 +279,13 @@
                         <br>
                             <a class="waves-effect waves-light btn" href="https://naricitasplaza.pe/" target="_new" style=" background-color: #e91e63;">Ver Web</a>
                         <br> <br>
-                        <div class="chip thin">Diseños webs</div>
-                        <div class="chip thin">Estilos</div>
-                        <div class="chip thin">Html5</div>
-                        <div class="chip thin">Css3</div>
-                        <div class="chip thin">javaScript</div>
-                        <div class="chip thin">Materializecss</div>
+                        <div class="chip thin">Html 5</div>
+                        <div class="chip thin">Css 3</div>
+                        <div class="chip thin">Php 7.1</div>
+                        <div class="chip thin">J.S</div>
                         <div class="chip thin">Jquery</div>
+                        <div class="chip thin">Bootstrap 4</div>
+                        <div class="chip thin">C.M.S</div>
                         <br><br>
                     </div>
                 </div>
@@ -176,13 +301,13 @@
                         <br>
                             <a class="waves-effect waves-light btn" href="http://www.isotechperu.com/" target="_new" style=" background-color: #e91e63;">Ver Web</a>
                         <br> <br>
-                        <div class="chip thin">Diseños webs</div>
-                        <div class="chip thin">Estilos</div>
-                        <div class="chip thin">Html5</div>
-                        <div class="chip thin">Css3</div>
-                        <div class="chip thin">javaScript</div>
-                        <div class="chip thin">Materializecss</div>
+                        <div class="chip thin">Html 5</div>
+                        <div class="chip thin">Css 3</div>
+                        <div class="chip thin">Php 7.1</div>
+                        <div class="chip thin">J.S</div>
                         <div class="chip thin">Jquery</div>
+                        <div class="chip thin">Bootstrap 4</div>
+                        <div class="chip thin">C.M.S</div>
                         <br><br>
                     </div>
                 </div>
@@ -198,13 +323,13 @@
                         <br>
                             <a class="waves-effect waves-light btn" href="http://www.elaperu.org/" target="_new" style=" background-color: #e91e63;">Ver Web</a>
                         <br> <br>
-                        <div class="chip thin">Diseños webs</div>
-                        <div class="chip thin">Estilos</div>
-                        <div class="chip thin">Html5</div>
-                        <div class="chip thin">Css3</div>
-                        <div class="chip thin">javaScript</div>
-                        <div class="chip thin">Materializecss</div>
+                        <div class="chip thin">Html 5</div>
+                        <div class="chip thin">Css 3</div>
+                        <div class="chip thin">Php 7.1</div>
+                        <div class="chip thin">J.S</div>
                         <div class="chip thin">Jquery</div>
+                        <div class="chip thin">Bootstrap 4</div>
+                        <div class="chip thin">C.M.S</div>
                         <br><br>
                     </div>
                 </div>
@@ -220,13 +345,13 @@
                         <br>
                             <a class="waves-effect waves-light btn" href="http://www.elaperu.org/" target="_new" style=" background-color: #e91e63;">Ver Web</a>
                         <br> <br>
-                        <div class="chip thin">Diseños webs</div>
-                        <div class="chip thin">Estilos</div>
-                        <div class="chip thin">Html5</div>
-                        <div class="chip thin">Css3</div>
-                        <div class="chip thin">javaScript</div>
-                        <div class="chip thin">Materializecss</div>
+                        <div class="chip thin">Html 5</div>
+                        <div class="chip thin">Css 3</div>
+                        <div class="chip thin">Php 7.1</div>
+                        <div class="chip thin">J.S</div>
                         <div class="chip thin">Jquery</div>
+                        <div class="chip thin">Bootstrap 4</div>
+                        <div class="chip thin">C.M.S</div>
                         <br><br>
                     </div>
                 </div>
@@ -242,13 +367,13 @@
                         <br>
                             <a class="waves-effect waves-light btn" href="http://www.integro365.com/" target="_new" style=" background-color: #e91e63;">Ver Web</a>
                         <br> <br>
-                        <div class="chip thin">Diseños webs</div>
-                        <div class="chip thin">Estilos</div>
-                        <div class="chip thin">Html5</div>
-                        <div class="chip thin">Css3</div>
-                        <div class="chip thin">javaScript</div>
-                        <div class="chip thin">Materializecss</div>
+                        <div class="chip thin">Html 5</div>
+                        <div class="chip thin">Css 3</div>
+                        <div class="chip thin">Php 7.1</div>
+                        <div class="chip thin">J.S</div>
                         <div class="chip thin">Jquery</div>
+                        <div class="chip thin">Bootstrap 4</div>
+                        <div class="chip thin">C.M.S</div>
                         <br><br>
                     </div>
                 </div> 
