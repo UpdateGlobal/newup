@@ -109,7 +109,7 @@ video{
 
 
 <div class="container-fluid info_txt" align="center">
-    <h3 class="uptext item_title">Lo que me llega al picho</h3>
+    <h3 class="uptext item_title">Lo que conseguiras con tu diseño web:</h3>
     <div class="container">
         <div class="row">
         <div class="col s6 l3 s3" align="center"> 
