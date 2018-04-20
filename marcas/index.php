@@ -120,28 +120,28 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
 <!--efectmachiwrite-->
 <!--infoItem-->
 <div class="container-fluid info_txt bg_info" align="center">
-    <h3 class="uptext item_title">Lo que conseguiras con tu diseño web:</h3>
+    <h3 class="uptext item_title">Lo que conseguiras con tu Desarrollo de Marca:</h3>
   <div class="container">
     <div class="row" style="padding-bottom: 60px;">
       <div class="col s12 m6 l3" align="center"> 
         <span><img src="img/icon16161.png" class="item_img" ></span>
-        <h3 class="item_info uptext">DISEÑO COMERCIAL(UX)</h3>
-        <p>Diseños web que cumplen un Objetivo Comercial, ayudan a vender. (UX)</p>
+        <h3 class="item_info uptext">PERSONALIDAD DE MARCA</h3>
+        <p>Creamos un concepto fuerte explorando los caminos de tu target group.</p>
       </div>
       <div class="col s12 m6 l3"> 
         <span><img src="img/icon18406469.png" class="item_img" ></span>
-        <h3 class="item_info uptext">WEBS MULTIDISPOSITIVO</h3>
-        <p>Webs perfectamente visibles en dispositivos smartphones, tablets, pc. (Responsive)</p>
+        <h3 class="item_info uptext">LÍNEA GRÁFICA COHERENTE</h3>
+        <p>Desde el nombre o el logo llevamos tu concepto a toda epresentación gráfica.</p>
       </div>
       <div class="col s12 m6 l3"> 
         <span><img src="img/icon5469333.png" class="item_img" ></span>
-        <h3 class="item_info uptext">GOOGLE OPTIMIZACIÓN</h3>
-        <p>Webs listas con palabras clave para ser encontradas en google (SEO).</p>
+        <h3 class="item_info uptext">CREACIÓN DE VALOR</h3>
+        <p>Encontramos lo mejor de tu producto o servicio y lo potenciamos visualmente.</p>
       </div>
       <div class="col s12 m6 l3"> 
         <span><img src="img/icon16.png" class="item_img" ></span>
-        <h3 class="item_info uptext">AUTO ADMINISTRABLES</h3>
-        <p>Webs con gestión de contenidos. Administras tus fotos y texto (CMS).</p>
+        <h3 class="item_info uptext">RECONOCIMIENTO COMERCIAL</h3>
+        <p>Logra la ansiada asociación logotipo/servicio/producto, graficamente</p>
       </div>
     </div>
   </div>
