@@ -1,20 +1,33 @@
+/*GLOBALES*/
 .spacelist{
 	padding-bottom: 5px;
+	font-size: 12px;
 }
 
 .piclist{
 	margin: -15px 5px 5px;
 }
 
-.bannerblog{
-	font-size: 72px;
-	padding-top: 100px;
-	z-index: 99999;
 
-}
 
 .puntoblog{
 	color: #50bdbe;
 	background-color: #50bdbe;
 
 }
+
+
+@font-face {
+    font-family: "update";
+    src: url('../rimouski.ttf') format("opentype");
+}
+
+.uptext {
+    color: #585858;
+    font-family: "update";
+}
+ /*BANNER*/
+ .bg_banner{
+
+
+ }

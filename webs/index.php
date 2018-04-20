@@ -168,7 +168,7 @@ video{
 
 
             <section id="horizontal">
-                <div class="jumbotron text-left" style="background: url('img/web2.png') repeat center;" data-paroller-factor="2" data-paroller-direction="horizontal">
+                <div class="jumbotron text-left" style="background: url('img/web2.jpg') repeat center;" data-paroller-factor="-2" data-paroller-direction="horizontal">
                     <div class="card-block addcard container" align="center">
                         <h1 class="py-2 text-white thin">frelatos.pe/</h1>
                         <p class="text-white thin">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -191,7 +191,7 @@ video{
                     </div>
                 </div>
 
-                <div class="jumbotron text-center" style="background: url('img/web1.png') center;" data-paroller-factor="-2" data-paroller-direction="horizontal">
+                <div class="jumbotron text-center" style="background: url('img/web1.jpg') repeat center;" data-paroller-factor="2" data-paroller-direction="vertical">
                     <div class="card-block addcard container" align="center">
                         <h1 class="py-5 text-white thin">Naricitasplaza.pe</h1>
                         <p class="text-white thin">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -213,7 +213,7 @@ video{
                         <br><br>
                     </div>
                 </div>
-                <div class="jumbotron text-center" style="background: url('img/web6.jpg') center;" data-paroller-factor="2" data-paroller-direction="horizontal">
+                <div class="jumbotron text-center" style="background: url('img/web6.jpg') center;" data-paroller-factor="-2" data-paroller-direction="horizontal">
                     <div class="card-block addcard container" align="center">
                         <h1 class="py-5 text-white thin">Isotech.pe</h1>
                         <p class="text-white thin">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -235,7 +235,7 @@ video{
                         <br><br>
                     </div>
                 </div>
-                <div class="jumbotron text-center" style="background: url('img/web4.png') center; background-size: cover;" data-paroller-factor="-2" data-paroller-direction="horizontal">
+                <div class="jumbotron text-center" style="background: url('img/web4.jpg') center; background-size: cover;" data-paroller-factor="2" data-paroller-direction="vertical">
                     <div class="card-block addcard container" align="center">
                         <h1 class="py-5 text-white thin">Elaperu.org/</h1>
                         <p class="text-white thin">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -257,7 +257,7 @@ video{
                         <br><br>
                     </div>
                 </div>
-                <div class="jumbotron text-center" style="background: url('img/web5.jpg') center; background-size: cover;" data-paroller-factor="2" data-paroller-direction="horizontal">
+                <div class="jumbotron text-center" style="background: url('img/web5.jpg') center; background-size: cover;" data-paroller-factor="-2" data-paroller-direction="horizontal">
                     <div class="card-block addcard container" align="center">
                         <h1 class="py-5 text-white thin">Sanus.pe/</h1>
                         <p class="text-white thin">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -279,7 +279,7 @@ video{
                         <br><br>
                     </div>
                 </div>
-                <div class="jumbotron text-center" style="background: url('img/web7.jpg') center; background-size: cover;" data-paroller-factor="-2" data-paroller-direction="horizontal">
+                <div class="jumbotron text-center" style="background: url('img/web7.jpg') center; background-size: cover;" data-paroller-factor="2" data-paroller-direction="horizontal">
                     <div class="card-block addcard container" align="center">
                         <h1 class="py-5 text-white thin">integro365.com/</h1>
                         <p class="text-white thin">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod

@@ -88,9 +88,9 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
 <div style="border-bottom: 1.5px solid #9e9e9e ;" class="hide-on-med-and-down">
   <div style="margin: 0px 200px 0px; width: auto; ">
     <div class="ba-slider">
-      <img src="img/11.png" alt="">       
+      <img src="img/logo.jpg" alt="">       
       <div class="resize">
-        <img src="img/12.png" alt="" style="margin: 0px 200px 0px; margin-left: 0px; width: auto;">
+        <img src="img/boceto.jpg" alt="" style="margin: 0px 200px 0px; margin-left: 0px; width: auto;">
       </div>
       <span class="handle"></span>
     </div>
@@ -124,24 +124,24 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
   <div class="container">
     <div class="row" style="padding-bottom: 60px;">
       <div class="col s12 m6 l3" align="center"> 
-        <span><img src="img/icon16161.png" class="item_img" ></span>
+        <span><img src="img/person.png" class="item_img" ></span>
         <h3 class="item_info uptext">PERSONALIDAD DE MARCA</h3>
-        <p>Creamos un concepto fuerte explorando los caminos de tu target group.</p>
+        <p class="uptext_icon">Creamos un concepto fuerte explorando los caminos de tu target group.</p>
       </div>
       <div class="col s12 m6 l3"> 
-        <span><img src="img/icon18406469.png" class="item_img" ></span>
+        <span><img src="img/pincel.png" class="item_img" ></span>
         <h3 class="item_info uptext">LÍNEA GRÁFICA COHERENTE</h3>
-        <p>Desde el nombre o el logo llevamos tu concepto a toda representación gráfica.</p>
+        <p class="uptext_icon">Desde el nombre o el logo llevamos tu concepto a toda representación gráfica.</p>
       </div>
       <div class="col s12 m6 l3"> 
-        <span><img src="img/icon5469333.png" class="item_img" ></span>
+        <span><img src="img/lupa.png" class="item_img" ></span>
         <h3 class="item_info uptext">CREACIÓN DE VALOR</h3>
-        <p>Encontramos lo mejor de tu producto o servicio y lo potenciamos visualmente.</p>
+        <p class="uptext_icon">Encontramos lo mejor de tu producto o servicio y lo potenciamos visualmente.</p>
       </div>
       <div class="col s12 m6 l3"> 
-        <span><img src="img/icon16.png" class="item_img" ></span>
+        <span><img src="img/reconocimiento.png" class="item_img" ></span>
         <h3 class="item_info uptext">RECONOCIMIENTO COMERCIAL</h3>
-        <p>Logra la ansiada asociación: grafica => servicio/producto, con nosotros.</p>
+        <p class="uptext_icon">Logra la ansiada asociación: grafica => servicio/producto, con nosotros.</p>
       </div>
     </div>
   </div>
@@ -372,20 +372,24 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
 
 
 
-<!---->
+
 
 <div class="hrtes"></div>
 
 <div class="row wrapper" style="display: inline-block;">
-      <div class="col s4 offset-s2 c-test js-tilt responsive-img"  style="background-image: url(img/iso.png); background-repeat: no-repeat; margin-top: -4%;"></div>
-      <div class="col s6 thin">
+      <div class="col s12 l4 offset-l2 c-test js-tilt responsive-img hide-on-small-only hide-on-med-only"  style="background-image: url(img/iso.png); background-repeat: no-repeat; margin-top: -4%;"></div>
+      <div class="col s12 l4 offset-l2 hide-on-large-only" align="center">
+        <img class="responsive-img" src="img/iso.png">
+      </div>
+
+      <div class="col s12 l6 thin">
             <h1 class="uptext " ><a href="" class="effect-box "style=" color: #fa6928;"> Isotech</a></h1>
             <h3 class="updateregular">Empresa</h3>
-            <span class="updateregular" style="font-size: 12px;">Servicio brindado</span>
-            <p class="updateregular" style="font-size: 0.8em;">Isotech Perú es una empresa que comercializa insumos para la industria del plástico. Se requería refrescar la imagen de la empresa con el objetivo de comunicar seriedad, confianza y solidez. Se estableció una linea gráfica nueva empezando por un logotipo ágil, un diseño web que propone una escalabilidad al e-comerce y con una navegabilidad optima con el objetivo que el usuario encuentre lo que busca.</p>
+            <span class="updateregular" style="font-size: 14px;">Servicio brindado</span>
+            <p class="updateregular justi" style="font-size: 14px;">Isotech Perú es una empresa que comercializa insumos para la industria del plástico. Se requería refrescar la imagen de la empresa con el objetivo de comunicar seriedad, confianza y solidez. Se estableció una linea gráfica nueva empezando por un logotipo ágil, un diseño web que propone una escalabilidad al e-comerce y con una navegabilidad optima con el objetivo que el usuario encuentre lo que busca.</p>
       </div>
 </div>
-<div class="col s6 offset-s6">
+<div class="col s12 l6 offset-l6">
               <!-- Modal Trigger -->
               <a class="waves-effect waves-light chip modal-trigger isocolor" href="#modal1">Desarrollo logotipo</a>
 
@@ -397,8 +401,8 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
                      <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/book-isotech-logo-lineas.jpg"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/monitor-ISOTECH-logo.jpg"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/isotech/book-isotech-logo-lineas.jpg"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/isotech/monitor-ISOTECH-logo.jpg"></li>
                   </ul>
                  </div>
                 <div class="modal-footer" style="background-color: rgb(254, 105, 42);">
@@ -418,10 +422,10 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
                      <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                         <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/tarjeta-ISOTECH-BASE.jpg" style="width: 405px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/hoja-isotech.jpg" style="width: 405px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/folder-ISOTECH-WEB.jpg" style="width: 405px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/sobre-ISOTECH.jpg" style="width: 405px; height: 185px;"></li>
+                         <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 " src="img/modal/isotech/tarjeta-ISOTECH-BASE.jpg" style="width: 405px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 " src="img/modal/isotech/hoja-isotech.jpg" style="width: 405px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 " src="img/modal/isotech/folder-ISOTECH-WEB.jpg" style="width: 405px; height: 185px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 " src="img/modal/isotech/sobre-ISOTECH.jpg" style="width: 405px; height: 185px;"></li>
                                           </ul>
                  </div>
                 <div class="modal-footer" style="background-color: rgb(254, 105, 42);">
@@ -440,10 +444,10 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
                      <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                         <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/tarjeta-ISOTECH-BASE.jpg"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/hoja-isotech.jpg"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/folder-ISOTECH-WEB.jpg"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/sobre-ISOTECH.jpg"></li>
+                         <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/isotech/tarjeta-ISOTECH-BASE.jpg"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/isotech/hoja-isotech.jpg"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/isotech/folder-ISOTECH-WEB.jpg"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/isotech/sobre-ISOTECH.jpg"></li>
                         </ul>
                  </div>
                 <div class="modal-footer" style="background-color: rgb(254, 105, 42);">
@@ -462,7 +466,7 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
                      <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/monitor-ISOTECH.jpg"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/isotech/monitor-ISOTECH.jpg"></li>
                   </ul>
                  </div>
                 <div class="modal-footer" style="background-color: rgb(254, 105, 42);">
@@ -470,11 +474,6 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
                 </div>
               </div>
 </div><!--modales-->
-
-
-
-
-
 
 
  </div><!--row-->

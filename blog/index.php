@@ -4,13 +4,13 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <title>Titulo del Sitio</title>
+      <title>Update - Blog</title>
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta name="description" content="DESCRIPCION DEL SITIO" />
       <meta name="keywords" content="PALABRAS CLAVER" />
       <meta name="author" content="luis alberto bernal fuentes" />
 
-        <!-- Facebook and Twitter integration -->
+      <!-- Facebook and Twitter integration -->
       <meta property="og:title" content=""/>
       <meta property="og:image" content=""/>  
       <meta property="og:url" content=""/>
@@ -40,57 +40,42 @@
 
           <!--contenidoBODY-->
 
-    <div class="parallax-container">
-      <div class="parallax puntoblog center">
-        <h1 class="thin white-text bannerblog">Nuestro Blog</h1>
-        <img src="img/base-icon.jpg" >
-             <h1 class="thin white-text">Nuestro Blog</h1>
-      </div>
-    </div>
-
-
-
-
-
-  <div class="parallax-container">
-    <div class="parallax"><img src="images/parallax1.jpg"></div>
+<div class="parallax-container bg_banner" >
+  <div class="parallax puntoblog center">
+    <h1 class="thin white-text uptext">Nuestro Blog</h1>
+    <h1 class="thin white-text">Nuestro Blog</h1>
   </div>
-  <div class="section white">
-    <div class="row container">
-      <h2 class="header">Parallax</h2>
-      <p class="grey-text text-darken-3 lighten-3">Parallax is an effect where the background content or image in this case, is moved at a different speed than the foreground content while scrolling.</p>
-    </div>
-  </div>
-  <div class="parallax-container">
-    <div class="parallax"><img src="images/parallax2.jpg"></div>
-  </div>
+</div>
+
+
+
 
 <div class="container">
     <div class="row">
       <div class="col s12 m3">
 
-        <h1 class="regular">Categorias</h1>
+        <h1 class="regular uptext">Categorias</h1>
         <ul>
-          <li class="thin spacelist">Categoria</li>
-          <li class="thin spacelist">Categoria</li>
-          <li class="thin spacelist">Categoria</li>
-          <li class="thin spacelist">Categoria</li>
-          <li class="thin spacelist">Categoria</li>
+          <li class="thin spacelist uptext">Categoria</li>
+          <li class="thin spacelist uptext">Categoria</li>
+          <li class="thin spacelist uptext">Categoria</li>
+          <li class="thin spacelist uptext">Categoria</li>
+          <li class="thin spacelist uptext">Categoria</li>
         </ul>
 
         <div class="divider"></div>
-        <h1 class="regular">Tags</h1>
-        <div class="chip">Webs</div>
-        <div class="chip">Plataformas</div>
-        <div class="chip">Redes sociales</div>
-        <div class="chip">Frontend</div>
-        <div class="chip">Backend</div>
-        <div class="chip">Diseño</div>
-        <div class="chip">Luis</div>
+        <h1 class="regular uptext">Tags</h1>
+        <div class="chip uptext">Webs</div>
+        <div class="chip uptext">Plataformas</div>
+        <div class="chip uptext">Redes sociales</div>
+        <div class="chip uptext">Frontend</div>
+        <div class="chip uptext">Backend</div>
+        <div class="chip uptext">Diseño</div>
+        <div class="chip uptext">Luis</div>
         <br><br>
 
         <div class="divider"></div>         
-        <h1 class="regular">Nuevos Post</h1>
+        <h1 class="regular uptext">Nuevos Post</h1>
         <ul style=" display: flex;">
           <li><a href="#"><img src="http://via.placeholder.com/60x60" class="piclist responsive-img"></a></li>
           <li><a href="#"><img src="http://via.placeholder.com/60x60" class="piclist responsive-img"></a></li>
@@ -120,18 +105,21 @@
                   <div class="card">
                     <div class="card-image">
                       <img src="http://via.placeholder.com/400x300">
-                      <span class="card-title">Titulo</span>
+                      <span class="card-title uptext">Titulo</span>
                       <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
                     </div>
                     <div class="card-content">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                      consequat.</p>
+                      <p class="text-white thin">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                      <p class="uptext">12/12/2018</p>
                     </div>
                   </div>
                 </div>
-            <br><br><br>
+  
                   <div class="col s12 m6">
                   <div class="card">
                     <div class="card-image">
@@ -140,10 +128,13 @@
                       <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
                     </div>
                     <div class="card-content">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                      consequat.</p>
+                      <p class="text-white thin">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                      <p class="uptext">12/12/2018</p>
                     </div>
                   </div>
                 </div>
@@ -151,7 +142,6 @@
 
               <div class="row">
                 <div class="col s12 m6" style="">
-            <br><br><br>
                   <div class="card">
                     <div class="card-image">
                       <img src="http://via.placeholder.com/400x300">
@@ -159,10 +149,13 @@
                       <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
                     </div>
                     <div class="card-content">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                      consequat.</p>
+                      <p class="text-white thin">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                      <p class="uptext">12/12/2018</p>
                     </div>
                   </div>
                 </div>
@@ -175,10 +168,13 @@
                       <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
                     </div>
                     <div class="card-content">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                      consequat.</p>
+                     <p class="text-white thin">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                      <p class="uptext">12/12/2018</p>
                     </div>
                   </div>
                 </div>

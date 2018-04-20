@@ -49,14 +49,10 @@ nav {
 
 
 .jumbotron {
-    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-    filter: grayscale(100%) blur(5px);
-
-
+    -webkit-filter: grayscale(100%); 
 }
 .jumbotron:hover{
-
--webkit-filter: grayscale(1%); 
+    -webkit-filter: grayscale(1%); 
     filter: grayscale(1%);
 
 
@@ -275,7 +271,8 @@ nav {
 .uptext {
     color: #fff;
     font-family: "update";
-    font-size:42px;}
+    font-size:42px;
+}
 
 
 .sliders{

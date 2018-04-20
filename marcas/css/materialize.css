@@ -9493,6 +9493,10 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
     font-size:42px;
 }
 
+.uptext_icon{
+   color: #585858;
+    font-family: "update";
+}
 
 .item_title {
     margin-top: 0px; 
