@@ -117,7 +117,7 @@ video{
 <div style="background-color: #53bcbd; " align="center">
   <div class="row" style="padding: 30px 30px 30px; margin-bottom: 0px;">
   <h1 class="uptext">Desarrollamos <span class="gris" id="typed"></span></h1>
-  <h1 class="updateregular">Con los más altos estandares</h1> 
+  <h1 class="uptextregular">Con los más altos estandares</h1> 
         <script type="text/javascript">
           $(function(){
             $("#typed").typed({

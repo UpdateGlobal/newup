@@ -84,7 +84,7 @@
 }
 
 .red {
-  background-color: #F44336 !important;
+  background-color: #52bcbd !important;
 }
 
 .red-text {
@@ -2693,7 +2693,7 @@ video.responsive-video {
 }
 
 .pagination li.active {
-  background-color: #ee6e73;
+  background-color: #52bcbd;
 }
 
 .pagination li.disabled a {

@@ -53,8 +53,8 @@
 <!--efectmachiwrite-->
 <div style="background-color: #53bcbd; margin-top: 0px;" align="center">
   <div class="row" style="padding: 30px 30px 30px; margin-bottom: 0px;">
-  <h1 class="uptext white" >Desarrollamos <span class="gris" id="typed"></span></h1>
-  <h1 class="updateregular">Con los más altos estandares</h1> 
+  <h1 class="uptext2" style="color: white; font-size: 42px;" >Desarrollamos <span class="gris" id="typed"></span></h1>
+  <h1 class="uptextregular">Con los más altos estandares</h1> 
         <script type="text/javascript">
           $(function(){
             $("#typed").typed({
@@ -115,13 +115,14 @@
                       <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
                     </div>
                     <div class="card-content">
-                      <p class="uptextregular" align="justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                      <p class="card_text" align="justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
                         consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
                         cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
                         proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                      <p class="uptext">12/12/2018</p>
+                        <br>
+                     <span class="card_fa">12/12/2018</span>
                     </div>
                   </div>
                 </div>
@@ -134,13 +135,14 @@
                       <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
                     </div>
                     <div class="card-content">
-                      <p class="uptextregular" align="justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                      <p class="card_text" align="justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
                         consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
                         cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
                         proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                      <p class="uptext">12/12/2018</p>
+                        <br>
+                      <span class="card_fa">12/12/2018</span>
                     </div>
                   </div>
                 </div>
@@ -155,13 +157,14 @@
                       <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
                     </div>
                     <div class="card-content">
-                      <p class="uptextregular" align="justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                      <p class="card_text" align="justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
                         consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
                         cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
                         proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                      <p class="uptext">12/12/2018</p>
+                        <br>
+                     <span class="card_fa">12/12/2018</span>
                     </div>
                   </div>
                 </div>
@@ -174,13 +177,14 @@
                       <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
                     </div>
                     <div class="card-content">
-                     <p class="uptextregular" align="justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                     <p class="card_text" align="justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
                         consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
                         cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
                         proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                      <p class="uptext">12/12/2018</p>
+                        <br>
+                       <span class="card_fa">12/12/2018</span>
                     </div>
                   </div>
                 </div>

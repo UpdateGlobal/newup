@@ -31,13 +31,29 @@
 }
 
 .uptextregular {
-    color: #585858ab !important ;
+    color: #595858;
     font-family: "updateregular";
+    font-size: 24px;
+}
+
+
+.card_text {
+    color: #59585885 !important;
+    font-family: "updateregular";
+    font-size: 14px;
+}
+
+.card_fa {
+	padding-top: 20px;
+    color: #59585850 !important;
+    font-family: "updateregular";
+    font-size: 14px;
 }
 
 .uptext {
       color: #585858ab !important ;
     font-family: "update";
+
 }
 
  /*BANNER*/
@@ -49,13 +65,15 @@
 
 /*INFOS*/
 
-.uptext{
+.uptext2{
 
     font-family: "update";
+    color: white;
 
 }
 .white{
 	color: white;
+	font-family: "update";
 }
 
 .gris{

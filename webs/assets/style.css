@@ -389,6 +389,17 @@ padding: 10px;
  text-align: center;
 }
 
+@font-face {
+    font-family: "updateregular";
+    src: url('../rimouskiregular.ttf') format("opentype");
+}
+
+.uptextregular {
+    color: #595858;
+    font-family: "updateregular";
+    font-size: 24px;
+}
+
 
 /*
   video{
