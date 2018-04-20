@@ -38,14 +38,13 @@
 
 <body class="my-body" data-spy="scroll" data-target="#main-navbar" data-offset="70">
 
-
-            <div class="headere">
-              <div class="progress-container">
-                <div class="progress-bar" id="myBar"></div>
-              </div>  
-            </div>
-
-      
+<!--barraDeProgreso-->
+<div class="headere">
+  <div class="progress-container">
+    <div class="progress-bar" id="myBar"></div>
+  </div>  
+</div>
+<!--barraDeProgreso-->  
 <!-- BEGIN JIVOSITE CODE {literal} -->
 <script type='text/javascript'>
 (function(){ var widget_id = 'ori7edOZn5';var d=document;var w=window;function l(){
@@ -61,21 +60,23 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
 .colormenu5{background-color: #80cbc4;}
 .colormenu6{background-color: #b2dfdb;}
 </style>
-<ul id="slide-out" class="side-nav">
-  <li>
-      <script id="bx24_form_inline" data-skip-moving="true">
-            (function(w,d,u,b){w['Bitrix24FormObject']=b;w[b] = w[b] || function(){arguments[0].ref=u;
-                    (w[b].forms=w[b].forms||[]).push(arguments[0])};
-                    if(w[b]['forms']) return;
-                    var s=d.createElement('script');s.async=1;s.src=u+'?'+(1*new Date());
-                    var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
-            })(window,document,'https://updatemarketing.bitrix24.es/bitrix/js/crm/form_loader.js','b24form');
+    <!--sidenav-->
+    <ul id="slide-out" class="side-nav">
+      <li>
+          <script id="bx24_form_inline" data-skip-moving="true">
+                (function(w,d,u,b){w['Bitrix24FormObject']=b;w[b] = w[b] || function(){arguments[0].ref=u;
+                        (w[b].forms=w[b].forms||[]).push(arguments[0])};
+                        if(w[b]['forms']) return;
+                        var s=d.createElement('script');s.async=1;s.src=u+'?'+(1*new Date());
+                        var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+                })(window,document,'https://updatemarketing.bitrix24.es/bitrix/js/crm/form_loader.js','b24form');
 
-            b24form({"id":"8","lang":"la","sec":"82jy61","type":"inline"});
-    </script>
-  </li>
-</ul>
- <div class="fixed-action-btn vertical click-to-toggle">
+                b24form({"id":"8","lang":"la","sec":"82jy61","type":"inline"});
+        </script>
+      </li>
+    </ul>
+    <!--sidenav-->
+<div class="fixed-action-btn vertical click-to-toggle">
     <a class="btn-floating btn-large colormenu1 pulse" >
       <i class="large material-icons">apps</i>
     </a>
@@ -85,11 +86,9 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
       <li><a href="blog/index.php" class="btn-floating colormenu5 tooltipped" data-position="left" data-delay="50" data-tooltip="Blog">   <i class="material-icons">developer_mode</i></a></li>
       <li><a href="../marcas/index.php" class="btn-floating colormenu3 tooltipped" data-position="left" data-delay="50" data-tooltip="Desarrollo de Marcas" href=""><i class="material-icons">brush</i></a></li>       
     </ul>
-  </div>
+</div>
 <!--menuluis-->
-
-
-
+<!--slidervideo-->
 <style type="text/css">
 video{
     position: fixed;
@@ -102,39 +101,29 @@ video{
     transform: translateY(-50%);*/
     z-index: -1;}
 </style>
-
-
 <div class="sliders">
     <video src="video-mano.mp4" autoplay loop></video>
-    
     <div class="container">
-    <div class="row" align="center">
-        <div class="col s12 line" >
-        
-            <h1 class="animated fadeInLeft title_bn uptext">PAGINAS WEBS</h1>
-            <h3 class="animated fadeInRight subtitle_bn uptext">QUE GENERAN OPORTUNIDADES</h3>
-
-        </div>
+      <div class="row" align="center">
+          <div class="col s12 line" >
+              <h1 class="animated fadeInLeft title_bn uptext">PAGINAS WEBS</h1>
+              <h3 class="animated fadeInRight subtitle_bn uptext">QUE GENERAN OPORTUNIDADES</h3>
+          </div>
+      </div>
     </div>
-    </div>
-
 </div>
-
-
-
-<div style="background-color: #53bcbd; margin-top: 0px;" align="center">
+<!--slidervideo-->
+<!--efectmachiwrite-->
+<div style="background-color: #53bcbd; " align="center">
   <div class="row" style="padding: 30px 30px 30px; margin-bottom: 0px;">
-<h1 class="maq_wri">Desarrollamos <span class="gris" id="typed"></span></h1>
-  <h1 class="updateregular">Acorde a las últimas tendencias de desarrollo digital</h1> 
-
-
-
+  <h1 class="uptext">Desarrollamos <span class="gris" id="typed"></span></h1>
+  <h1 class="updateregular">Con los más altos estandares</h1> 
         <script type="text/javascript">
           $(function(){
             $("#typed").typed({
-              strings: ["Magia digital","Webs que venden", "webs con User Experience", "Tiendas Virtuales",],
+              strings: ["Marcas Poderosas", "Conceptos Fuertes", "Marcas que enganchan", "Ideas que venden"],
               typeSpeed: 30,
-              backDelay: 500,
+              backDelay: 1500,
               loop: true,
               loopCount: false,
               callback: function(){ foo(); }
@@ -142,44 +131,38 @@ video{
             function foo(){ console.log("Callback"); }
           });
         </script>
-
   </div>
 </div>
-
-
-
-
-
-<div class="container-fluid info_txt" align="center">
+<!--efectmachiwrite-->
+<!--infoItem-->
+<div class="container-fluid info_txt bg_info" align="center">
     <h3 class="uptext item_title">Lo que conseguiras con tu diseño web:</h3>
-    <div class="container">
-        <div class="row">
-        <div class="col s12 l3 s3" align="center"> 
+  <div class="container">
+    <div class="row" style="padding-bottom: 60px;">
+      <div class="col s12 m6 l3" align="center"> 
         <span><img src="img/icon16161.png" class="item_img" ></span>
         <h3 class="item_info uptext">DISEÑO COMERCIAL(UX)</h3>
         <p>Diseños web que cumplen un Objetivo Comercial, ayudan a vender. (UX)</p>
-    </div>
-    <div class="col s12 l3 s3"> 
+      </div>
+      <div class="col s12 m6 l3"> 
         <span><img src="img/icon18406469.png" class="item_img" ></span>
         <h3 class="item_info uptext">WEBS MULTIDISPOSITIVO</h3>
         <p>Webs perfectamente visibles en dispositivos smartphones, tablets, pc. (Responsive)</p>
-    </div>
-    <div class="col s12 l3 s3"> 
+      </div>
+      <div class="col s12 m6 l3"> 
         <span><img src="img/icon5469333.png" class="item_img" ></span>
         <h3 class="item_info uptext">GOOGLE OPTIMIZACIÓN</h3>
         <p>Webs listas con palabras clave para ser encontradas en google (SEO).</p>
-    </div>
-    <div class="col s12 l3 s3"> 
+      </div>
+      <div class="col s12 m6 l3"> 
         <span><img src="img/icon16.png" class="item_img" ></span>
         <h3 class="item_info uptext">AUTO ADMINISTRABLES</h3>
         <p>Webs con gestión de contenidos. Administras tus fotos y texto (CMS).</p>
+      </div>
     </div>
-
+  </div>
 </div>
-    </div> 
-</div>
-
-
+<!--infoItem-->
 
 
 

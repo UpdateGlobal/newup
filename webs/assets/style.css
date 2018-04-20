@@ -273,8 +273,9 @@ nav {
 }
 
 .uptext {
+    color: #fff;
     font-family: "update";
-}
+    font-size:42px;}
 
 
 .sliders{
@@ -365,24 +366,15 @@ padding: 10px;
   }
 
 .item_img{
-
     transition: transform .2s; /* Animation */
     width: 100px;
     height: 100px;
-
-
 }
 
-
 .item_img:hover{
-transform: scale(1.5);
-width: 110px;
-height: 110px;
-
-
-
-
-
+  transform: scale(1.5);
+  width: 110px;
+  height: 110px;
 }
 
 .item_title{

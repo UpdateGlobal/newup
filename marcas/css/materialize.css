@@ -9490,9 +9490,35 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
 .uptext {
     color: #fff;
     font-family: "update";
-    font-size:50px;
+    font-size:42px;
 }
 
+
+.item_title {
+    margin-top: 0px; 
+    color: #808080;
+    font-size: 36px;
+    padding-top: 60px;
+    padding-bottom: 60px;}
+.item_info {
+    font-size: 21px;
+    color: #53b6ba;
+    font-weight: 900;
+    margin: 10px;
+    letter-spacing: 2px;
+    text-align: center;
+}
+.item_img{
+    transition: transform .2s; /* Animation */
+    width: 100px;
+    height: 100px;
+}
+
+.item_img:hover{
+  transform: scale(1.5);
+  width: 110px;
+  height: 110px;
+}
 
 @font-face {
     font-family: "updateregular";
@@ -9508,11 +9534,14 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
 .gris{
   color: #595858;
 }
-
+.bg_info{
+  background-color: #52bcbd30;
+}
 
 p .uptextregular{
     font-family: "updateregular";
     font-size:32px;
+    letter-spacing: 1.5px;
 
 }
 

@@ -36,13 +36,20 @@
 
 </head>
 <body>
+
+<!--barraDeProgreso-->
+<div class="headere">
+  <div class="progress-container">
+    <div class="progress-bar" id="myBar"></div>
+  </div>  
+</div>
+<!--barraDeProgreso--> 
 <!-- BEGIN JIVOSITE CODE {literal} -->
 <script type='text/javascript'>
 (function(){ var widget_id = 'ori7edOZn5';var d=document;var w=window;function l(){
 var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
 <!-- {/literal} END JIVOSITE CODE -->
 <!--menuluis-->
-
 <style type="text/css">
 .colormenu1{background-color: #00897b;}
 .colormenu2{background-color: #009688;}
@@ -71,15 +78,14 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
     </a>
     <ul>
       <li><a href="#" class="btn-floating colormenu2 tooltipped button-collapse" data-position="left"  data-delay="50" data-tooltip="Contacto" data-activates="slide-out"><i class="material-icons">perm_phone_msg</i></a></li>
-      <li><a href="#" class="btn-floating colormenu2 tooltipped button-collapse" data-position="left"  data-delay="50" data-tooltip="+51934244258" data-activates="slide-out"><i class="fab fa-whatsapp"></i></a></li>
+      <li><a href="#" class="btn-floating colormenu2 tooltipped button-collapse" data-position="left"  data-delay="50" data-tooltip="+51934244258" data-activates="slide-out"><i class="fab fa-whatsapp fa-lg"></i></a></li>
       <li><a href="blog/index.php" class="btn-floating colormenu5 tooltipped" data-position="left" data-delay="50" data-tooltip="Blog">   <i class="material-icons">developer_mode</i></a></li>
       <li><a href="../webs/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Diseño Web">  <i class="material-icons">desktop_mac</i></a></li>      
     </ul>
   </div>
 <!--menuluis-->
-
-
-<div style="border-bottom: 1.5px solid #9e9e9e ;">
+<!--slider-->
+<div style="border-bottom: 1.5px solid #9e9e9e ;" class="hide-on-med-and-down">
   <div style="margin: 0px 200px 0px; width: auto; ">
     <div class="ba-slider">
       <img src="img/11.png" alt="">       
@@ -90,20 +96,18 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
     </div>
   </div>
 </div>
-
+<!--slider-->
+<!--efectmachiwrite-->
 <div style="background-color: #53bcbd; margin-top: 0px;" align="center">
-  <div class="row" style="padding: 30px 30px 30px;">
-<h1 class="uptext">Desarrollamos <span class="gris" id="typed"></span></h1>
+  <div class="row" style="padding: 30px 30px 30px; margin-bottom: 0px;">
+  <h1 class="uptext">Desarrollamos <span class="gris" id="typed"></span></h1>
   <h1 class="updateregular">Con los más altos estandares</h1> 
-
-
-
         <script type="text/javascript">
           $(function(){
             $("#typed").typed({
               strings: ["Marcas Poderosas", "Conceptos Fuertes", "Marcas que enganchan", "Ideas que venden"],
               typeSpeed: 30,
-              backDelay: 500,
+              backDelay: 1500,
               loop: true,
               loopCount: false,
               callback: function(){ foo(); }
@@ -111,30 +115,62 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
             function foo(){ console.log("Callback"); }
           });
         </script>
-
   </div>
 </div>
-<br><br><br>
-
+<!--efectmachiwrite-->
+<!--infoItem-->
+<div class="container-fluid info_txt bg_info" align="center">
+    <h3 class="uptext item_title">Lo que conseguiras con tu diseño web:</h3>
+  <div class="container">
+    <div class="row" style="padding-bottom: 60px;">
+      <div class="col s12 m6 l3" align="center"> 
+        <span><img src="img/icon16161.png" class="item_img" ></span>
+        <h3 class="item_info uptext">DISEÑO COMERCIAL(UX)</h3>
+        <p>Diseños web que cumplen un Objetivo Comercial, ayudan a vender. (UX)</p>
+      </div>
+      <div class="col s12 m6 l3"> 
+        <span><img src="img/icon18406469.png" class="item_img" ></span>
+        <h3 class="item_info uptext">WEBS MULTIDISPOSITIVO</h3>
+        <p>Webs perfectamente visibles en dispositivos smartphones, tablets, pc. (Responsive)</p>
+      </div>
+      <div class="col s12 m6 l3"> 
+        <span><img src="img/icon5469333.png" class="item_img" ></span>
+        <h3 class="item_info uptext">GOOGLE OPTIMIZACIÓN</h3>
+        <p>Webs listas con palabras clave para ser encontradas en google (SEO).</p>
+      </div>
+      <div class="col s12 m6 l3"> 
+        <span><img src="img/icon16.png" class="item_img" ></span>
+        <h3 class="item_info uptext">AUTO ADMINISTRABLES</h3>
+        <p>Webs con gestión de contenidos. Administras tus fotos y texto (CMS).</p>
+      </div>
+    </div>
   </div>
-
+</div>
+<!--infoItem-->
+<!--titulohorizontal-->
 <div class="container dir">
        <h1 class="rotar">Marcas</h1>
- <div class="row" >
-
+<div class="row" >
+<!--titulohorizontal-->
 
 
 <div class="col s12" align="left">
+<!--contenidoDeMarca-->
 <div class="row wrapper" style="display: inline-block;">
-      <div class="col s4 offset-s2 c-test js-tilt responsive-img"  style="background-image: url(img/sanus.png); background-repeat: no-repeat; margin-top: -4%;"></div>
-      <div class="col s6 thin">
-            <h1 class="uptext " ><a href="" class="effect-box "style=" color: #50bdbe;"> Sanus</a></h1>
+      <div class="col s12 l4 offset-l2 c-test js-tilt responsive-img hide-on-small-only hide-on-med-only"  style="background-image: url(img/sanus.png); background-repeat: no-repeat; margin-top: -4%;"></div>
+      <div class="col s12 l4 offset-l2 hide-on-large-only" align="center">
+        <img class="responsive-img" src="img/sanus.png">
+      </div>
+      <div class="col s12 l6 thin">
+            <h2 class="uptext " ><a href="" class="effect-box "style=" color: #50bdbe;"> Sanus</a></h2>
             <h3 class="updateregular">Una Historia de Telesalud</h3>
-            <span class="updateregular" style="font-size: 12px;">Servicio brindado</span>
-            <p class="updateregular" style="font-size: 0.8em;">Sanus es una plataforma digital que nació del emprendimiento médico, con vocación de servicio. Originado en la visión de la telesalud con experiencia de usuario. Sanus acorta distancias de consulta médica mediante la tecnología. Por eso creamos un concepto de atención a distancia, creando una marca fuerte y desarrollando su linea de comunicación de forma que los usuarios puedan obtener una estadía placentera en la clínica virtual. </p>
+            <span class="updateregular" style="font-size: 14px;">Servicio brindado</span>
+            <p class="updateregular justi" style="font-size: 14px;">Sanus es una plataforma digital que nació del emprendimiento médico, con vocación de servicio. Originado en la visión de la telesalud con experiencia de usuario. Sanus acorta distancias de consulta médica mediante la tecnología. Por eso creamos un concepto de atención a distancia, creando una marca fuerte y desarrollando su linea de comunicación de forma que los usuarios puedan obtener una estadía placentera en la clínica virtual. </p>
       </div>
 </div>
-<div class="col s6 offset-s6">
+<!--contenidoDeMarca-->
+
+          <div class="col  s12 l6 offset-l6">
               <!-- Modal Trigger -->
               <a class="waves-effect waves-light chip modal-trigger sanuscolor" href="#modal123" href="#down">Diseño de Logotipo</a>
 
@@ -146,8 +182,8 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
                      <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sanus/book-sanus-logo-lineas.jpg" style="width: 405px; height: 250px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sanus/monitor-sanus-logo.jpg" style="width: 405px; height: 250px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/sanus/book-sanus-logo-lineas.jpg"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/sanus/monitor-sanus-logo.jpg"></li>
                   </ul>
                  </div>
 
@@ -168,11 +204,11 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
                     <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sanus/tarjetas-sanus.jpg" style="width: 405px; height: 250px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sanus/sobre-sanus.jpg" style="width: 405px; height: 250px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sanus/folder-SANUS.jpg" style="width: 405px; height: 250px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sanus/hoja-SANUS.jpg" style="width: 405px; height: 250px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sanus/monitor-sanus.jpg" style="width: 405px; height: 250px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/sanus/tarjetas-sanus.jpg"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/sanus/sobre-sanus.jpg"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/sanus/folder-SANUS.jpg"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/sanus/hoja-SANUS.jpg"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/sanus/monitor-sanus.jpg"></li>
                   </ul>
                  </div>
 
@@ -192,21 +228,20 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
                      <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sanus/tarjetas-sanus.jpg" style="width: 405px; height: 250px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sanus/sobre-sanus.jpg" style="width: 405px; height: 250px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sanus/folder-SANUS.jpg" style="width: 405px; height: 250px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sanus/hoja-SANUS.jpg" style="width: 405px; height: 250px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sanus/monitor-sanus.jpg" style="width: 405px; height: 250px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/sanus/tarjetas-sanus.jpg"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/sanus/sobre-sanus.jpg"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/sanus/folder-SANUS.jpg"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/sanus/hoja-SANUS.jpg"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/sanus/monitor-sanus.jpg"></li>
                   </ul>
                  </div>
+
                 <div class="modal-footer" style="background-color: rgb(63, 187, 197);">
                   <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat" style="margin-top: 10px;"><i class="material-icons" style="font-size: 32px; color: white;" >close</i></a>
                 </div>
               </div>
-
               <!-- Modal Trigger -->
               <a class="waves-effect waves-light chip modal-trigger sanuscolor" href="#ashfg">Desarrollo website</a>
-
               <!-- Modal Structure -->
               <div id="ashfg" class="modal" style="background-color: rgb(63, 187, 197);">
                 <div class="modal-content "  align="center">
@@ -215,7 +250,7 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
                     <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/sanus/monitor-sanus.jpg" style="width: 405px; height: 250px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/sanus/monitor-sanus.jpg"></li>
                   </ul>
                  </div>
 
@@ -223,21 +258,25 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
                   <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat" style="margin-top: 10px;"><i class="material-icons" style="font-size: 32px; color: white;" >close</i></a>
                 </div>
               </div>
-</div><!--modales-->
+            </div><!--modales-->  
+          </div><!--cols12-->
+
 
 <div class="hrtes"></div>
 
 <div class="row wrapper" style="display: inline-block;">
-      <div class="col s4 offset-s2 c-test js-tilt responsive-img"  style="background-image: url(img/idr.png); background-repeat: no-repeat; margin-top: -4%;"></div>
-      <div class="col s6 thin">
-        
+      <div class="col s12 l4 offset-l2 c-test js-tilt responsive-img hide-on-small-only hide-on-med-only"  style="background-image: url(img/idr.png); background-repeat: no-repeat; margin-top: -4%;"></div>
+      <div class="col s12 l4 offset-l2 hide-on-large-only" align="center">
+        <img class="responsive-img" src="img/idr.png">
+      </div>
+      <div class="col s12 l6 thin">
             <h1 class="uptext " ><a href="" class="effect-box "style=" color: #2074bd;"> IDR - Profesionals</a></h1>
             <h3 class="updateregular ">Una experiencia Científica</h3>
-            <span class="updateregular " style="font-size: 12px;">Servicio brindado</span>
-            <p class="updateregular " style="font-size: 0.8em;">IDR - Profesionals es una empresa consultora en investigación científica. Se busco conceptualizar una experiencia y una linea gráfica acorde con la amplia naturaleza  de sus servicios. Un froyecto muy ambicioso en estructura y contenido. El resultado fue una imagen limpia, fresca y como mucha fuerza de comunicación.</p>
+            <span class="updateregular " style="font-size: 14px;">Servicio brindado</span>
+            <p class="updateregular justi" style="font-size: 14px;">IDR - Profesionals es una empresa consultora en investigación científica. Se busco conceptualizar una experiencia y una linea gráfica acorde con la amplia naturaleza  de sus servicios. Un froyecto muy ambicioso en estructura y contenido. El resultado fue una imagen limpia, fresca y como mucha fuerza de comunicación.</p>
       </div>
 </div>
-<div class="col s6 offset-s6">
+<div class="col s12 l6 offset-l6">
               <!-- Modal Trigger -->
               <a class="waves-effect waves-light chip modal-trigger idrcolor" href="#asfef">Diseño de logotipo</a>
 
@@ -249,8 +288,8 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
                      <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/idr/book-idr-logo-lineas.jpg" style="width: 405px; height: 250px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/idr/monitor-IDR-logo.jpg" style="width: 405px; height: 250px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/idr/book-idr-logo-lineas.jpg"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/idr/monitor-IDR-logo.jpg"></li>
                   </ul>
                  </div>
                 <div class="modal-footer" style="background-color: rgb(16, 109, 186);">
@@ -270,10 +309,10 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
                      <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/idr/tarjetas-IDR.jpg" style="width: 405px; height: 250px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/idr/folder-IDR.jpg" style="width: 405px; height: 250px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/idr/sobre-IDR.jpg" style="width: 405px; height: 250px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/idr/hoja-IDR.jpg" style="width: 405px; height: 250px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/idr/tarjetas-IDR.jpg"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/idr/folder-IDR.jpg"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/idr/sobre-IDR.jpg"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/idr/hoja-IDR.jpg"></li>
                         
                   </ul>
                  </div>
@@ -293,10 +332,10 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
                      <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/idr/tarjetas-IDR.jpg" style="width: 405px; height: 250px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/idr/folder-IDR.jpg" style="width: 405px; height: 250px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/idr/sobre-IDR.jpg" style="width: 405px; height: 250px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/idr/hoja-IDR.jpg" style="width: 405px; height: 250px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/idr/tarjetas-IDR.jpg"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/idr/folder-IDR.jpg"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/idr/sobre-IDR.jpg"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/idr/hoja-IDR.jpg"></li>
                        
                   </ul>
                  </div>
@@ -317,7 +356,7 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
                   </div>
                   <ul>
                         
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/idr/monitor-IDR.jpg" style="width: 405px; height: 250px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/idr/monitor-IDR.jpg"></li>
                   </ul>
                  </div>
                   <div class="modal-footer" style="background-color: rgb(16, 109, 186);">
@@ -358,8 +397,8 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
                      <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/book-isotech-logo-lineas.jpg" style="width: 405px; height: 250px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/monitor-ISOTECH-logo.jpg" style="width: 405px; height: 250px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/book-isotech-logo-lineas.jpg"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/monitor-ISOTECH-logo.jpg"></li>
                   </ul>
                  </div>
                 <div class="modal-footer" style="background-color: rgb(254, 105, 42);">
@@ -401,10 +440,10 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
                      <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                         <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/tarjeta-ISOTECH-BASE.jpg" style="width: 405px; height: 250px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/hoja-isotech.jpg" style="width: 405px; height: 250px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/folder-ISOTECH-WEB.jpg" style="width: 405px; height: 250px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/sobre-ISOTECH.jpg" style="width: 405px; height: 250px;"></li>
+                         <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/tarjeta-ISOTECH-BASE.jpg"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/hoja-isotech.jpg"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/folder-ISOTECH-WEB.jpg"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/sobre-ISOTECH.jpg"></li>
                         </ul>
                  </div>
                 <div class="modal-footer" style="background-color: rgb(254, 105, 42);">
@@ -423,7 +462,7 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
                      <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/monitor-ISOTECH.jpg" style="width: 405px; height: 250px;"></li>
+                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1" src="img/modal/isotech/monitor-ISOTECH.jpg"></li>
                   </ul>
                  </div>
                 <div class="modal-footer" style="background-color: rgb(254, 105, 42);">
@@ -433,9 +472,11 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
 </div><!--modales-->
 
 
-                   
-             
-      </div><!--cols12-->
+
+
+
+
+
  </div><!--row-->
 </div><!--conatiner dir-->
 
