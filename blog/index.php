@@ -34,6 +34,9 @@
 
       <!--Let browser know website is optimized for mobile-->
       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+      <!--maquina de escribir-->
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     </head>
 
     <body>
@@ -42,11 +45,32 @@
 
 <div class="parallax-container bg_banner" >
   <div class="parallax puntoblog center">
-    <h1 class="thin white-text uptext">Nuestro Blog</h1>
-    <h1 class="thin white-text">Nuestro Blog</h1>
+
+    <h1>hola</h1>
+   
   </div>
 </div>
-
+<!--efectmachiwrite-->
+<div style="background-color: #53bcbd; margin-top: 0px;" align="center">
+  <div class="row" style="padding: 30px 30px 30px; margin-bottom: 0px;">
+  <h1 class="uptext white" >Desarrollamos <span class="gris" id="typed"></span></h1>
+  <h1 class="updateregular">Con los más altos estandares</h1> 
+        <script type="text/javascript">
+          $(function(){
+            $("#typed").typed({
+              strings: ["Marcas Poderosas", "Conceptos Fuertes", "Marcas que enganchan", "Ideas que venden"],
+              typeSpeed: 30,
+              backDelay: 1500,
+              loop: true,
+              loopCount: false,
+              callback: function(){ foo(); }
+            });
+            function foo(){ console.log("Callback"); }
+          });
+        </script>
+  </div>
+</div>
+<!--efectmachiwrite-->
 
 
 
@@ -74,24 +98,6 @@
         <div class="chip uptext">Luis</div>
         <br><br>
 
-        <div class="divider"></div>         
-        <h1 class="regular uptext">Nuevos Post</h1>
-        <ul style=" display: flex;">
-          <li><a href="#"><img src="http://via.placeholder.com/60x60" class="piclist responsive-img"></a></li>
-          <li><a href="#"><img src="http://via.placeholder.com/60x60" class="piclist responsive-img"></a></li>
-          <li><a href="#"><img src="http://via.placeholder.com/60x60" class="piclist responsive-img"></a></li><br>
-        </ul>
-        <ul style=" display: flex;">
-          <li><a href="#"><img src="http://via.placeholder.com/60x60" class="piclist responsive-img"></a></li>
-          <li><a href="#"><img src="http://via.placeholder.com/60x60" class="piclist responsive-img"></a></li>
-          <li><a href="#"><img src="http://via.placeholder.com/60x60" class="piclist responsive-img"></a></li><br>
-        </ul>
-        <ul style=" display: flex;">
-          <li><a href="#"><img src="http://via.placeholder.com/60x60" class="piclist responsive-img"></a></li>
-          <li><a href="#"><img src="http://via.placeholder.com/60x60" class="piclist responsive-img"></a></li>
-          <li><a href="#"><img src="http://via.placeholder.com/60x60" class="piclist responsive-img"></a></li><br>
-        </ul>
-
       </div>
 
 
@@ -104,12 +110,12 @@
                 <div class="col s12 m6">
                   <div class="card">
                     <div class="card-image">
-                      <img src="http://via.placeholder.com/400x300">
+                      <img src="img/noty1.jpeg">
                       <span class="card-title uptext">Titulo</span>
                       <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
                     </div>
                     <div class="card-content">
-                      <p class="text-white thin">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                      <p class="uptextregular" align="justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
                         consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
@@ -123,12 +129,12 @@
                   <div class="col s12 m6">
                   <div class="card">
                     <div class="card-image">
-                      <img src="http://via.placeholder.com/400x300">
-                      <span class="card-title">Titulo</span>
+                      <img src="img/noty2.jpg">
+                      <span class="card-title uptext">Titulo</span>
                       <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
                     </div>
                     <div class="card-content">
-                      <p class="text-white thin">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                      <p class="uptextregular" align="justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
                         consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
@@ -144,12 +150,12 @@
                 <div class="col s12 m6" style="">
                   <div class="card">
                     <div class="card-image">
-                      <img src="http://via.placeholder.com/400x300">
-                      <span class="card-title">Titulo</span>
+                      <img src="img/noty3.jpg">
+                      <span class="card-title uptext">Titulo</span>
                       <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
                     </div>
                     <div class="card-content">
-                      <p class="text-white thin">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                      <p class="uptextregular" align="justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
                         consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
@@ -163,12 +169,12 @@
                   <div class="col s12 m6" >
                   <div class="card">
                     <div class="card-image">
-                      <img src="http://via.placeholder.com/400x300">
-                      <span class="card-title">Titulo</span>
+                      <img src="img/noty4.jpg">
+                      <span class="card-title uptext">Titulo</span>
                       <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
                     </div>
                     <div class="card-content">
-                     <p class="text-white thin">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                     <p class="uptextregular" align="justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
                         consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
@@ -205,16 +211,16 @@
 
           <!--contenidoBODY-->
                 <!--Import jQuery before materialize.js-->
-                <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-                <script type="text/javascript" src="js/materialize.min.js"></script>
-                  <script type="text/javascript" src="js/materialize.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  <script type="text/javascript" src="js/materialize.min.js"></script>
+  <script type="text/javascript" src="js/materialize.js"></script>
+  <script  src="js/index.js"></script><!--slider-->
+  <script type="text/javascript">
+    $(document).ready(function() {
+        $('.parallax').parallax();
 
-                <script type="text/javascript">
-                $(document).ready(function() {
-                  $('.parallax').parallax();
-  
-
-                });
-                </script>
+          });
+  </script>
     </body>
   </html>

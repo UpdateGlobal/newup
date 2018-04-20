@@ -83,7 +83,7 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
     <ul>
       <li><a href="#" class="btn-floating colormenu2 tooltipped button-collapse" data-position="left"  data-delay="50" data-tooltip="Contacto" data-activates="slide-out"><i class="material-icons">perm_phone_msg</i></a></li>
       <li><a href="#" class="btn-floating colormenu2 tooltipped button-collapse" data-position="left"  data-delay="50" data-tooltip="+51934244258" data-activates="slide-out"><i class="fab fa-whatsapp"></i></a></li>
-      <li><a href="blog/index.php" class="btn-floating colormenu5 tooltipped" data-position="left" data-delay="50" data-tooltip="Blog">   <i class="material-icons">developer_mode</i></a></li>
+      <!-- <li><a href="blog/index.php" class="btn-floating colormenu5 tooltipped" data-position="left" data-delay="50" data-tooltip="Blog">   <i class="material-icons">developer_mode</i></a></li> -->
       <li><a href="../marcas/index.php" class="btn-floating colormenu3 tooltipped" data-position="left" data-delay="50" data-tooltip="Desarrollo de Marcas" href=""><i class="material-icons">brush</i></a></li>       
     </ul>
 </div>

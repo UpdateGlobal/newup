@@ -2,17 +2,20 @@
 .spacelist{
 	padding-bottom: 5px;
 	font-size: 12px;
+	  color: #585858ab !important ;
 }
 
 .piclist{
 	margin: -15px 5px 5px;
+	  color: #585858ab !important ;
 }
 
 
 
-.puntoblog{
-	color: #50bdbe;
-	background-color: #50bdbe;
+.puntoblog{s
+	/*color: #50bdbe;*/
+	background-color: #50bdbe69;
+	  color: #585858ab !important ;
 
 }
 
@@ -22,12 +25,39 @@
     src: url('../rimouski.ttf') format("opentype");
 }
 
+@font-face {
+    font-family: "updateregular";
+    src: url('../rimouskiregular.ttf') format("opentype");
+}
+
+.uptextregular {
+    color: #585858ab !important ;
+    font-family: "updateregular";
+}
+
 .uptext {
-    color: #585858;
+      color: #585858ab !important ;
     font-family: "update";
 }
+
  /*BANNER*/
  .bg_banner{
-
+ 	background-color: #50bdbe69;
 
  }
+
+
+/*INFOS*/
+
+.uptext{
+
+    font-family: "update";
+
+}
+.white{
+	color: white;
+}
+
+.gris{
+	color: #585858;
+}
