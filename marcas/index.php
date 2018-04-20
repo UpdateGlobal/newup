@@ -131,7 +131,7 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
       <div class="col s12 m6 l3"> 
         <span><img src="img/icon18406469.png" class="item_img" ></span>
         <h3 class="item_info uptext">LÍNEA GRÁFICA COHERENTE</h3>
-        <p>Desde el nombre o el logo llevamos tu concepto a toda epresentación gráfica.</p>
+        <p>Desde el nombre o el logo llevamos tu concepto a toda representación gráfica.</p>
       </div>
       <div class="col s12 m6 l3"> 
         <span><img src="img/icon5469333.png" class="item_img" ></span>
