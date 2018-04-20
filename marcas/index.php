@@ -141,7 +141,7 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
       <div class="col s12 m6 l3"> 
         <span><img src="img/icon16.png" class="item_img" ></span>
         <h3 class="item_info uptext">RECONOCIMIENTO COMERCIAL</h3>
-        <p>Logra la ansiada asociación logotipo/servicio/producto, graficamente</p>
+        <p>Logra la ansiada asociación: grafica => servicio/producto, con nosotros.</p>
       </div>
     </div>
   </div>
