@@ -72,7 +72,7 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
     <ul>
       <li><a href="#" class="btn-floating colormenu2 tooltipped button-collapse" data-position="left"  data-delay="50" data-tooltip="Contacto" data-activates="slide-out"><i class="material-icons">perm_phone_msg</i></a></li>
       <li><a href="#" class="btn-floating colormenu2 tooltipped button-collapse" data-position="left"  data-delay="50" data-tooltip="+51934244258" data-activates="slide-out"><i class="fab fa-whatsapp"></i></a></li>
-      <li><a href="#!" class="btn-floating colormenu5 tooltipped" data-position="left" data-delay="50" data-tooltip="Blog">   <i class="material-icons">developer_mode</i></a></li>
+      <li><a href="blog/index.php" class="btn-floating colormenu5 tooltipped" data-position="left" data-delay="50" data-tooltip="Blog">   <i class="material-icons">developer_mode</i></a></li>
       <li><a href="../webs/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Diseño Web">  <i class="material-icons">desktop_mac</i></a></li>      
     </ul>
   </div>
@@ -121,10 +121,10 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
 <div class="container dir">
        <h1 class="rotar">Marcas</h1>
  <div class="row" >
-      <div class="col s12" align="left">
 
 
 
+<div class="col s12" align="left">
 <div class="row wrapper" style="display: inline-block;">
       <div class="col s4 offset-s2 c-test js-tilt responsive-img"  style="background-image: url(img/sanus.png); background-repeat: no-repeat; margin-top: -4%;"></div>
       <div class="col s6 thin">

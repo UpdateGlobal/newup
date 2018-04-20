@@ -82,7 +82,7 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
     <ul>
       <li><a href="#" class="btn-floating colormenu2 tooltipped button-collapse" data-position="left"  data-delay="50" data-tooltip="Contacto" data-activates="slide-out"><i class="material-icons">perm_phone_msg</i></a></li>
       <li><a href="#" class="btn-floating colormenu2 tooltipped button-collapse" data-position="left"  data-delay="50" data-tooltip="+51934244258" data-activates="slide-out"><i class="fab fa-whatsapp"></i></a></li>
-      <li><a href="#!" class="btn-floating colormenu5 tooltipped" data-position="left" data-delay="50" data-tooltip="Blog">   <i class="material-icons">developer_mode</i></a></li>
+      <li><a href="blog/index.php" class="btn-floating colormenu5 tooltipped" data-position="left" data-delay="50" data-tooltip="Blog">   <i class="material-icons">developer_mode</i></a></li>
       <li><a href="../marcas/index.php" class="btn-floating colormenu3 tooltipped" data-position="left" data-delay="50" data-tooltip="Desarrollo de Marcas" href=""><i class="material-icons">brush</i></a></li>       
     </ul>
   </div>
@@ -114,11 +114,7 @@ video{
             <h1 class="animated fadeInLeft title_bn uptext">PAGINAS WEBS</h1>
             <h3 class="animated fadeInRight subtitle_bn uptext">QUE GENERAN OPORTUNIDADES</h3>
 
-           
         </div>
-           <!--  <span><img src="img/icontablet.png"></span>
-            <span><img src="img/iconpc.png"></span>
-            <span><img src="img/icontelefono.png"></span> -->
     </div>
     </div>
 
@@ -158,22 +154,22 @@ video{
     <h3 class="uptext item_title">Lo que conseguiras con tu diseño web:</h3>
     <div class="container">
         <div class="row">
-        <div class="col s6 l3 s3" align="center"> 
+        <div class="col s12 l3 s3" align="center"> 
         <span><img src="img/icon16161.png" class="item_img" ></span>
         <h3 class="item_info uptext">DISEÑO COMERCIAL(UX)</h3>
         <p>Diseños web que cumplen un Objetivo Comercial, ayudan a vender. (UX)</p>
     </div>
-    <div class="col s6 l3 s3"> 
+    <div class="col s12 l3 s3"> 
         <span><img src="img/icon18406469.png" class="item_img" ></span>
         <h3 class="item_info uptext">WEBS MULTIDISPOSITIVO</h3>
         <p>Webs perfectamente visibles en dispositivos smartphones, tablets, pc. (Responsive)</p>
     </div>
-    <div class="col s6 l3 s3"> 
+    <div class="col s12 l3 s3"> 
         <span><img src="img/icon5469333.png" class="item_img" ></span>
         <h3 class="item_info uptext">GOOGLE OPTIMIZACIÓN</h3>
         <p>Webs listas con palabras clave para ser encontradas en google (SEO).</p>
     </div>
-    <div class="col s6 l3 s3"> 
+    <div class="col s12 l3 s3"> 
         <span><img src="img/icon16.png" class="item_img" ></span>
         <h3 class="item_info uptext">AUTO ADMINISTRABLES</h3>
         <p>Webs con gestión de contenidos. Administras tus fotos y texto (CMS).</p>
