@@ -6,8 +6,8 @@
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <title>Update - Desarrollo de Webs</title>
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <meta name="description" content="En Update desarrollamos tu Marca o la imagen de tu empresa con el objetivo de comunicar un concepto fuerte" />
-      <meta name="keywords" content="desarrollo de marca, branding, empresas de branding, diseño grafico, marketing" />
+      <meta name="description" content="Somos una Agencia de Marketing en Perú, especializada en desarrollo de marca, Diseño y Desarrollo web, Estrategias de Marketing tradicional y Marketing Digital con visión global, anteponemos tus objetivos comerciales sin dejar el lado creativo." />
+      <meta name="keywords" content="marketing, marketing digital, diseño web, diseño grafico, desarrollo de marca, creación de logotipos, paginas webs, branding" />
       <meta name="author" content="luis alberto bernal fuentes" />
       <!-- Facebook and Twitter integration -->
       <meta property="og:title" content=""/>
@@ -114,14 +114,14 @@ video{
 </div>
 <!--slidervideo-->
 <!--efectmachiwrite-->
-<div style="background-color: #53bcbd; " align="center">
+<div style="background-color: #53bcbd; margin-top: 0px;" align="center">
   <div class="row" style="padding: 30px 30px 30px; margin-bottom: 0px;">
   <h1 class="uptext">Desarrollamos <span class="gris" id="typed"></span></h1>
-  <h1 class="uptextregular">Con los más altos estandares</h1> 
+  <h1 class="updateregular">Acorde a las últimas tendencias de desarrollo digital</h1> 
         <script type="text/javascript">
           $(function(){
             $("#typed").typed({
-              strings: ["Marcas Poderosas", "Conceptos Fuertes", "Marcas que enganchan", "Ideas que venden"],
+              strings: ["Magia Digital", "Webs que venden", "Webs con User Experience", "Tiendas virtuales con resultados"],
               typeSpeed: 30,
               backDelay: 1500,
               loop: true,

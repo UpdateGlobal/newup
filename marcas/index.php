@@ -6,8 +6,8 @@
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <title>Update - Desarrollo de Marca</title>
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <meta name="description" content="En Update desarrollamos tu Marca o la imagen de tu empresa con el objetivo de comunicar un concepto fuerte" />
-      <meta name="keywords" content="desarrollo de marca, branding, empresas de branding, diseño grafico, marketing" />
+      <meta name="description" content="Somos una Agencia de Marketing en Perú, especializada en desarrollo de marca, Diseño y Desarrollo web, Estrategias de Marketing tradicional y Marketing Digital con visión global, anteponemos tus objetivos comerciales sin dejar el lado creativo." />
+      <meta name="keywords" content="marketing, marketing digital, diseño web, diseño grafico, desarrollo de marca, creación de logotipos, paginas webs, branding" />
       <meta name="author" content="luis alberto bernal fuentes" />
         <!-- Facebook and Twitter integration -->
       <meta property="og:title" content=""/>
@@ -120,7 +120,7 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
 <!--efectmachiwrite-->
 <!--infoItem-->
 <div class="container-fluid info_txt bg_info" align="center">
-    <h3 class="uptext item_title">Lo que conseguiras con tu Desarrollo de Marca:</h3>
+    <h3 class="uptext item_title">Lo que conseguirás con el Desarrollo de tu Marca:</h3>
   <div class="container">
     <div class="row" style="padding-bottom: 60px;">
       <div class="col s12 m6 l3" align="center"> 
