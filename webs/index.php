@@ -6,6 +6,7 @@
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <title>Update - Desarrollo de Webs</title>
       <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel=”canonical” href=”https://update.pe/webs>
       <meta name="description" content="Somos una Agencia de Marketing en Perú, especializada en desarrollo de marca, Diseño y Desarrollo web, Estrategias de Marketing tradicional y Marketing Digital con visión global, anteponemos tus objetivos comerciales sin dejar el lado creativo." />
       <meta name="keywords" content="marketing, marketing digital, diseño web, diseño grafico, desarrollo de marca, creación de logotipos, paginas webs, branding" />
       <meta name="author" content="luis alberto bernal fuentes" />
@@ -34,6 +35,19 @@
       <link rel="stylesheet" type="text/css" href="assets/normalize.css">
       <!--Machinewrite-->
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+      <!-- Global site tag (gtag.js) - Google Pichuytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-74004200-1"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'UA-74004200-1');
+        </script>
+       <!-- Global site tag (gtag.js) - Google Pichuytics -->
+
+
 </head>
 
 <body class="my-body" data-spy="scroll" data-target="#main-navbar" data-offset="70">
@@ -106,8 +120,8 @@ video{
     <div class="container">
       <div class="row" align="center">
           <div class="col s12 line" >
-              <h1 class="animated fadeInLeft title_bn uptext">PAGINAS WEBS</h1>
-              <h3 class="animated fadeInRight subtitle_bn uptext">QUE GENERAN OPORTUNIDADES</h3>
+              <h1 class="animated fadeInLeft title_bn uptext">PÁGINAS WEBS</h1>
+              <h3 class="animated fadeInRight subtitle_bn uptext">QUE GENERA OPORTUNIDADES</h3>
           </div>
       </div>
     </div>
@@ -136,7 +150,7 @@ video{
 <!--efectmachiwrite-->
 <!--infoItem-->
 <div class="container-fluid info_txt bg_info" align="center">
-    <h3 class="uptext item_title">Lo que conseguiras con tu diseño web:</h3>
+    <h3 class="uptext item_title">Lo que conseguirás con tu diseño web:</h3>
   <div class="container">
     <div class="row" style="padding-bottom: 60px;">
       <div class="col s12 m6 l3" align="center"> 
@@ -171,12 +185,7 @@ video{
                 <div class="jumbotron text-left" style="background: url('img/web2.jpg') repeat center;" data-paroller-factor="-2" data-paroller-direction="horizontal">
                     <div class="card-block addcard container" align="center">
                         <h1 class="py-2 text-white thin">frelatos.pe/</h1>
-                        <p class="text-white thin">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                        <p class="text-white thin">El proyecto de Desarrollo de Marca de la heladería Frelatos incluyó el desarrollo de un sitio web. Propusimos conceptualizar el sitio web como una extensión de la propuesta comercial del cliente. El resultado  fue un sitio con el diseño de páginas web orientadas a destacar el producto utilizando una gama de color de background muy divertida y que cumpla con los objetivos de comunicación visual que se necesita en esta categoría.</p>
                         <br>
                         <a class="waves-effect waves-light btn" href="http://frelatos.pe/" target="_new" style=" background-color: #e91e63;">Ver Web</a>
                         <br> <br>

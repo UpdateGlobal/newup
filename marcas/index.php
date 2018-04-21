@@ -6,6 +6,7 @@
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <title>Update - Desarrollo de Marca</title>
       <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel=”canonical” href=”https://update.pe/marcas>
       <meta name="description" content="Somos una Agencia de Marketing en Perú, especializada en desarrollo de marca, Diseño y Desarrollo web, Estrategias de Marketing tradicional y Marketing Digital con visión global, anteponemos tus objetivos comerciales sin dejar el lado creativo." />
       <meta name="keywords" content="marketing, marketing digital, diseño web, diseño grafico, desarrollo de marca, creación de logotipos, paginas webs, branding" />
       <meta name="author" content="luis alberto bernal fuentes" />
@@ -17,9 +18,7 @@
       <meta property="og:description" content=""/>
       <meta name="twitter:title" content="" />
       <meta name="twitter:image" content="" />
-      <meta name="twitter:url" content="" />
-
-      <link rel="stylesheet" type="text/css" href="css/materialize.css" /> 
+      <meta name="twitter:url" content="" /> <link rel="stylesheet" type="text/css" href="css/materialize.css" /> 
       <link rel="stylesheet" type="text/css" href="css/animate.css">  
       <link rel="stylesheet" type="text/css" href="css/style.css">
       <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.css">
@@ -30,6 +29,16 @@
       <script src="https://use.fontawesome.com/3c86cf9c2d.js"></script>
       <!--Import Google Icon Font-->
       <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <!-- Global site tag (gtag.js) - Google Pichuytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-74004200-1"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'UA-74004200-1');
+        </script>
+       <!-- Global site tag (gtag.js) - Google Pichuytics -->
       <!--maquina de escribir-->
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
       

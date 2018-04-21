@@ -3,11 +3,12 @@
     <head>
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <title>New Update</title>
+      <title>New Update Global Marketing</title>
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta name="description" content="Somos una Agencia de Marketing en Perú, especializada en desarrollo de marca, Diseño y Desarrollo web, Estrategias de Marketing tradicional y Marketing Digital con visión global, anteponemos tus objetivos comerciales sin dejar el lado creativo." />
       <meta name="keywords" content="marketing, marketing digital, diseño web, diseño grafico, desarrollo de marca, creación de logotipos, paginas webs, branding" />
-      <meta name="author" content="" />
+      <meta name="author" content="Update Global Marketing" />
+      <link rel=”canonical” href=”https://update.pe”/>
 
         <!-- Facebook and Twitter integration -->
       <meta property="og:title" content=""/>
@@ -29,6 +30,16 @@
       <!--Let browser know website is optimized for mobile-->
       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
       <link rel="stylesheet" type="text/css" href="css/responsive.css">
+      <!-- Global site tag (gtag.js) - Google Pichuytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-74004200-1"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'UA-74004200-1');
+        </script>
+      <!-- Global site tag (gtag.js) - Google Pichuytics -->
     </head>
     <style type="text/css">
     @media only screen and (min-width: 720px) {
