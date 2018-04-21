@@ -9,6 +9,7 @@
       <meta name="keywords" content="marketing, marketing digital, diseño web, diseño grafico, desarrollo de marca, creación de logotipos, paginas webs, branding" />
       <meta name="author" content="Update Global Marketing" />
       <link rel=”canonical” href=”https://update.pe”/>
+      <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
         <!-- Facebook and Twitter integration -->
       <meta property="og:title" content=""/>
@@ -26,6 +27,9 @@
       <!--Import materialize.css-->
       <link type="text/css" rel="stylesheet" href="css/materialize.css"  media="screen,projection"/>
       <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.css">
+  
+      <script src="https://use.fontawesome.com/3c86cf9c2d.js"></script>
+   
 
       <!--Let browser know website is optimized for mobile-->
       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>

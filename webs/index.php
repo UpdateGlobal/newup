@@ -7,6 +7,7 @@
       <title>Update - Desarrollo de Webs</title>
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <link rel=”canonical” href=”https://update.pe/webs>
+      <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
       <meta name="description" content="Somos una Agencia de Marketing en Perú, especializada en desarrollo de marca, Diseño y Desarrollo web, Estrategias de Marketing tradicional y Marketing Digital con visión global, anteponemos tus objetivos comerciales sin dejar el lado creativo." />
       <meta name="keywords" content="marketing, marketing digital, diseño web, diseño grafico, desarrollo de marca, creación de logotipos, paginas webs, branding" />
       <meta name="author" content="luis alberto bernal fuentes" />
