@@ -121,7 +121,7 @@ video{
     <div class="container">
       <div class="row" align="center">
           <div class="col s12 line" >
-              <h1 class="animated fadeInLeft title_bn uptext">DISEÑO WEBSSW</h1>
+              <h1 class="animated fadeInLeft title_bn uptext">DISEÑO WEB</h1>
               <h3 class="animated fadeInRight subtitle_bn uptext">QUE GENERA OPORTUNIDADES</h3>
           </div>
       </div>
