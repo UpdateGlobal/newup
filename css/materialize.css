@@ -84,7 +84,7 @@
 }
 
 .red {
-  background-color: #F44336 !important;
+  background-color: #26a599 !important;
 }
 
 .red-text {
@@ -4895,7 +4895,7 @@ small {
 }
 
 .card .card-action a:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating) {
-  color: #ffab40;
+  color: #26a599;
   margin-right: 24px;
   -webkit-transition: color .3s ease;
   transition: color .3s ease;
@@ -9467,3 +9467,26 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
 .justi{
     text-align: justify;
 }  
+
+
+
+@font-face {
+    font-family: "update";
+    src: url('../rimouski.ttf') format("opentype");
+}
+
+@font-face {
+    font-family: "updateregular";
+    src: url('../rimouskiregular.ttf') format("opentype");
+}
+
+
+.uptextregular {
+   color: #595858;
+    font-family: "updateregular";
+}
+
+.uptext {
+    font-family: "update";
+     color: #595858;
+}

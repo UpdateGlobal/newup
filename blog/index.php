@@ -151,10 +151,10 @@
                   <div class="card">
                     <div class="card-image">
                       <img src="img/noty1.jpeg">
-                      <span class="card-title uptext upcolor">Titulo</span>
                       <a class="btn-floating halfway-fab waves-effect waves-light red"  href="post.php" target="blank_"><i class="material-icons">add</i></a>
                     </div>
                     <div class="card-content">
+                      <span class="card-title uptext">Titulo</span>
                       <p class="card_text" align="justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -172,10 +172,10 @@
                   <div class="card">
                     <div class="card-image">
                       <img src="img/noty2.jpg">
-                      <span class="card-title uptext upcolor">Titulo</span>
                        <a class="btn-floating halfway-fab waves-effect waves-light red"  href="post.php" target="blank_"><i class="material-icons">add</i></a>
                     </div>
                     <div class="card-content">
+                      <span class="card-title uptext">Titulo</span>
                       <p class="card_text" align="justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -195,10 +195,10 @@
                   <div class="card">
                     <div class="card-image">
                       <img src="img/noty3.jpg">
-                      <span class="card-title uptext upcolor">Titulo</span>
                        <a class="btn-floating halfway-fab waves-effect waves-light red"  href="post.php" target="blank_"><i class="material-icons">add</i></a>
                     </div>
                     <div class="card-content">
+                      <span class="card-title uptext">Titulo</span>
                       <p class="card_text" align="justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -216,12 +216,13 @@
                   <div class="card">
                     <div class="card-image">
                       <img src="img/noty4.jpg">
-                      <span class="card-title uptext upcolor">Titulo</span>
+
                       <a class="btn-floating halfway-fab waves-effect waves-light"  href="post.php" target="blank_" style="right: 70px;"><i class="material-icons">perm_identity
 </i></a>
                       <a class="btn-floating halfway-fab waves-effect waves-light red"  href="post.php" target="blank_"><i class="material-icons">add</i></a>
                     </div>
                     <div class="card-content">
+                      <span class="card-title uptext">Titulo</span>
                      <p class="card_text" align="justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo

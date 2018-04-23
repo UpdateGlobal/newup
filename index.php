@@ -110,7 +110,65 @@
   <source src="slider-responsive.mp4" type="video/mp4">
 </video>
 
+<br><br><br>
 
+<div class="container">
+  <div class="row">
+
+    <h3 class="uptext">Ultimas Publicaciones</h3>
+
+    <div class="col s12 m4">
+      <div class="card z-depth-2">
+        <div class="card-image">
+          <img src="img/noty1.jpeg">
+          <a class="btn-floating halfway-fab waves-effect waves-light red"  href="post.php" target="blank_"><i class="material-icons">add</i></a>
+        </div>
+        <div class="card-content">
+          <span class="card-title uptext">Card Title</span>
+          <p class="uptextregular">I am a very simple card. I am good at containing small bits of information.
+          I am convenient because I require little markup to use effectively.</p>
+        </div>
+        <div class="card-action uptextregular">
+          <a href="#">This is a link</a>
+        </div>
+      </div>
+    </div>
+    <div class="col s12 m4">
+     <div class="card z-depth-2">
+        <div class="card-image">
+          <img src="img/noty2.jpg">
+          <a class="btn-floating halfway-fab waves-effect waves-light red"  href="post.php" target="blank_"><i class="material-icons">add</i></a>
+        </div>
+        <div class="card-content">
+          <span class="card-title uptext">Card Title</span>
+          <p class="uptextregular">I am a very simple card. I am good at containing small bits of information.
+          I am convenient because I require little markup to use effectively.</p>
+        </div>
+        <div class="card-action uptextregular">
+          <a href="#">This is a link</a>
+        </div>
+      </div>
+    </div>
+    <div class="col s12 m4">
+       <div class="card z-depth-2">
+        <div class="card-image">
+          <img src="img/noty3.jpg">
+          <a class="btn-floating halfway-fab waves-effect waves-light red"  href="post.php" target="blank_"><i class="material-icons">add</i></a>
+        </div>
+        <div class="card-content">
+          <span class="card-title uptext">Card Title</span>
+          <p class="uptextregular">I am a very simple card. I am good at containing small bits of information.
+          I am convenient because I require little markup to use effectively.</p>
+        </div>
+        <div class="card-action uptextregular">
+          <a href="#">This is a link</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+</div>
 
  
 <div class="row" align="left">
@@ -130,9 +188,38 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
 </div>
 
 
-<?php
-        include('modulos/footer.php');
-?>
+<footer class="page-footer">
+          <div class="container" align="center">
+            <div class="row">
+              <div class="col l12 s12">
+                <img src="img/logo-update-2018.png" class="img_foo">
+                <p class="grey-text text-lighten-4 text_foot img_foo">Somos una Agencia de Marketing en Perú, especializada en Desarrollo de marca, Diseño y Desarrollo web, Estrategias de Marketing Tradicional y Marketing Digital con visión global, anteponemos tus objetivos comerciales sin dejar el lado creativo.</p>
+                  <div class="row img_foo">
+                    <a href="https://www.behance.net/ventas326d" target="_blank"><span class="social"> <i class="fab fa-behance"></i></span></a>
+                    <a href="https://www.linkedin.com/company/update-global-marketing" target="_blank"><span class="social"> <i class="fab fa-linkedin-in"></i></span></a>
+                    <a href="https://www.facebook.com/updatemarketing/" target="_blank"><span class="social"> <i class="fab fa-facebook-f"></i></span></a>
+                    <a href="https://www.instagram.com/update.pe/" target="_blank"><span class="social"> <i class="fab fa-instagram"></i></span></a>
+                     
+                  </div>
+              </div>
+            </div>
+          </div>
+          <div class="footer-copyright bgfoote">
+
+             <div class="container" style="font-size: 10px;">
+               <a class="grey-text text-lighten-4 right">Update Global Marketing © | <i class="material-icons" style="vertical-align: middle; font-size: 10px;">perm_phone_msg</i>+51934244258 | <i class="material-icons" style="vertical-align: middle; font-size: 10px;">mail_outline</i>info@update.pe</a>
+            </div>
+           <!--  <div class="container">
+              <div class="row" align="center">
+              <div class="col s12 m4" align="right">Update Global Marketing © </div>
+              <div class="col s12 m4"><i class="material-icons" style="vertical-align: middle;">perm_phone_msg</i>+51934244258</div>
+              <div class="col s12 m4" align="left"><i class="material-icons" style="vertical-align: middle;">mail_outline</i>info@update.pe</div> 
+              </div>  
+            </div> -->
+          </div>
+</footer>
+            
+<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
 
 
 
