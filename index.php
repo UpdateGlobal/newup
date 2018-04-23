@@ -112,7 +112,7 @@
 
 <div class="container-fluid" style="background-color: #52bcbd50;">
 <div class="container">
-<div class="row">
+<div class="row" style="margin: 0px;">
 
     <h3 class="uptext center-align" style=" margin-top: 0px; padding-top: 50px;">Ultimas Publicaciones</h3>
     <p class="uptextregular subtitulo_info" align="center">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -125,7 +125,7 @@
       <div class="card z-depth-2">
         <div class="card-image">
           <img src="img/noty1.jpeg">
-          <a class="btn-floating halfway-fab waves-effect waves-light red"  href="post.php" target="blank_"><i class="material-icons">add</i></a>
+          <a class="btn-floating halfway-fab waves-effect waves-light red"  href="blog/post.php" target="blank_"><i class="material-icons">add</i></a>
         </div>
         <div class="card-content">
           <span class="card-title uptext">TENDENCIAS PARA EL DISEÑO WEB 2018</span>
@@ -144,10 +144,10 @@
      <div class="card z-depth-2">
         <div class="card-image">
           <img src="img/noty2.jpg">
-          <a class="btn-floating halfway-fab waves-effect waves-light red"  href="post.php" target="blank_"><i class="material-icons">add</i></a>
+          <a class="btn-floating halfway-fab waves-effect waves-light red"  href="blog/post.php" target="blank_"><i class="material-icons">add</i></a>
         </div>
         <div class="card-content">
-          <span class="card-title uptext">SIN PROSPECCIÓN NO HAY VENTAS </span>
+          <span class="card-title uptext">OJO, SIN PROSPECCIÓN NO HAY VENTAS </span>
           <p class="uptextregular" align="justify" style="font-size: 14px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
           tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
           quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -163,7 +163,7 @@
        <div class="card z-depth-2">
         <div class="card-image">
           <img src="img/noty3.jpg">
-          <a class="btn-floating halfway-fab waves-effect waves-light red"  href="post.php" target="blank_"><i class="material-icons">add</i></a>
+          <a class="btn-floating halfway-fab waves-effect waves-light red"  href="blog/post.php" target="blank_"><i class="material-icons">add</i></a>
         </div>
         <div class="card-content">
           <span class="card-title uptext">TENGO MI EMPRESA Y QUIERO VENDER MÁS</span>
@@ -183,9 +183,7 @@
 </div>
 </div>
 
- 
-<div class="row" align="left">
-  <div class="col m12 s12">
+
 
 <!--Start of Zendesk Chat Script-->
 <script type="text/javascript">
@@ -196,9 +194,7 @@ $.src="https://v2.zopim.com/?5eb2dhLOYkK9hUr7TrwizgJSyPxysQlv";z.t=+new Date;$.
 type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
 </script>
 <!--End of Zendesk Chat Script-->
-  <!-- {/literal} END JIVOSITE CODE -->
-  </div>
-</div>
+
 
 
 <footer class="page-footer">

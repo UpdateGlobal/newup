@@ -179,7 +179,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
                       <a class="btn-floating halfway-fab waves-effect waves-light red"  href="post.php" target="blank_"><i class="material-icons">add</i></a>
                     </div>
                     <div class="card-content">
-                      <span class="card-title uptext">Titulo</span>
+                      <span class="card-title uptext">TENDENCIAS PARA EL DISEÑO WEB 2018</span>
                       <p class="card_text" align="justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -200,7 +200,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
                        <a class="btn-floating halfway-fab waves-effect waves-light red"  href="post.php" target="blank_"><i class="material-icons">add</i></a>
                     </div>
                     <div class="card-content">
-                      <span class="card-title uptext">Titulo</span>
+                      <span class="card-title uptext">OJO, SIN PROSPECCIÓN NO HAY VENTAS </span>
                       <p class="card_text" align="justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -223,7 +223,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
                        <a class="btn-floating halfway-fab waves-effect waves-light red"  href="post.php" target="blank_"><i class="material-icons">add</i></a>
                     </div>
                     <div class="card-content">
-                      <span class="card-title uptext">Titulo</span>
+                      <span class="card-title uptext">TENGO MI EMPRESA Y QUIERO VENDER MÁS</span>
                       <p class="card_text" align="justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo

@@ -123,7 +123,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
                 <div class="col s12 m12">
                   <div class="card">
                     <div class="card-image">
-                      <img src="img/dios.jpg" style="height: 250px;">
+                      <img src="img/noty1.jpeg" style="height: 400px;">
                       <!-- <span class="card-title uptext whitex">Se roban cámaras que usaba Dios para supervisar a Venezuela</span> -->
                     </div>
                     <div class="card-content">
