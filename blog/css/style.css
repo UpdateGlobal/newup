@@ -148,3 +148,7 @@
 .justi{
     text-align: justify;
 }  
+
+.interline{
+    line-height: 22px;
+}

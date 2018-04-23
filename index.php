@@ -102,7 +102,7 @@
 
 
 
-<video class="responsive-video less2" autoplay="" muted="" loop="loop" style="width: 100%; height: 80%; margin-top: 0px; color-interpolation: ">
+<video class="responsive-video less2" autoplay="" muted="" loop="loop" style="width: 100%; height: 80%;">
   <source src="sliderfinal01.mp4" type="video/mp4">
 </video>
 
@@ -110,12 +110,16 @@
   <source src="slider-responsive.mp4" type="video/mp4">
 </video>
 
-<br><br><br>
-
+<div class="container-fluid" style="background-color: #52bcbd50;">
 <div class="container">
-  <div class="row">
+<div class="row">
 
-    <h3 class="uptext">Ultimas Publicaciones</h3>
+    <h3 class="uptext center-align" style=" margin-top: 0px; padding-top: 50px;">Ultimas Publicaciones</h3>
+    <p class="uptextregular subtitulo_info" align="center">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat.</p>
+
 
     <div class="col s12 m4">
       <div class="card z-depth-2">
@@ -124,13 +128,16 @@
           <a class="btn-floating halfway-fab waves-effect waves-light red"  href="post.php" target="blank_"><i class="material-icons">add</i></a>
         </div>
         <div class="card-content">
-          <span class="card-title uptext">Card Title</span>
-          <p class="uptextregular">I am a very simple card. I am good at containing small bits of information.
-          I am convenient because I require little markup to use effectively.</p>
-        </div>
-        <div class="card-action uptextregular">
-          <a href="#">This is a link</a>
-        </div>
+          <span class="card-title uptext">TENDENCIAS PARA EL DISEÑO WEB 2018</span>
+          <p class="uptextregular" align="justify" style="font-size: 14px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat.</p>
+          <div class="card_foo">
+            <span style="float: left;">12/12/2018</span> <span style="float: right;">BY: Luis Bernal</span>
+          </div>
+        </div> 
+        
       </div>
     </div>
     <div class="col s12 m4">
@@ -140,13 +147,16 @@
           <a class="btn-floating halfway-fab waves-effect waves-light red"  href="post.php" target="blank_"><i class="material-icons">add</i></a>
         </div>
         <div class="card-content">
-          <span class="card-title uptext">Card Title</span>
-          <p class="uptextregular">I am a very simple card. I am good at containing small bits of information.
-          I am convenient because I require little markup to use effectively.</p>
+          <span class="card-title uptext">SIN PROSPECCIÓN NO HAY VENTAS </span>
+          <p class="uptextregular" align="justify" style="font-size: 14px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat.</p>
+          <div class="card_foo">
+            <span style="float: left;">12/12/2018</span> <span style="float: right;">BY: Luis Bernal</span>
+          </div>
         </div>
-        <div class="card-action uptextregular">
-          <a href="#">This is a link</a>
-        </div>
+
       </div>
     </div>
     <div class="col s12 m4">
@@ -156,18 +166,21 @@
           <a class="btn-floating halfway-fab waves-effect waves-light red"  href="post.php" target="blank_"><i class="material-icons">add</i></a>
         </div>
         <div class="card-content">
-          <span class="card-title uptext">Card Title</span>
-          <p class="uptextregular">I am a very simple card. I am good at containing small bits of information.
-          I am convenient because I require little markup to use effectively.</p>
+          <span class="card-title uptext">TENGO MI EMPRESA Y QUIERO VENDER MÁS</span>
+          <p class="uptextregular" align="justify" style="font-size: 14px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat.</p>
+          <div class="card_foo">
+            <span style="float: left;">12/12/2018</span> <span style="float: right;">BY: Luis Bernal</span>
+          </div>
         </div>
-        <div class="card-action uptextregular">
-          <a href="#">This is a link</a>
-        </div>
+
       </div>
     </div>
 
-  </div>
-
+</div>
+</div>
 </div>
 
  

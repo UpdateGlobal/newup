@@ -84,7 +84,7 @@
 }
 
 .red {
-  background-color: #26a599 !important;
+  background-color: #52bcbd !important;
 }
 
 .red-text {
@@ -9482,11 +9482,24 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
 
 
 .uptextregular {
-   color: #595858;
+    color: #59585885 !important;
     font-family: "updateregular";
+    font-size: 14px;
 }
 
 .uptext {
     font-family: "update";
-     color: #595858;
+     color: #595858 !important;
+}
+
+.card_foo{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.subtitulo_info{
+    font-size: 12px;
+    padding-bottom: 25px;
+    padding-left: 60px;
+    padding-right: 60px;
 }
