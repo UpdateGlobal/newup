@@ -121,7 +121,7 @@ video{
     <div class="container">
       <div class="row" align="center">
           <div class="col s12 line" >
-              <h1 class="animated fadeInLeft title_bn uptext">PÁGINAS WEBS</h1>
+              <h1 class="animated fadeInLeft title_bn uptext">DISEÑO WEBSSW</h1>
               <h3 class="animated fadeInRight subtitle_bn uptext">QUE GENERA OPORTUNIDADES</h3>
           </div>
       </div>
@@ -204,12 +204,7 @@ video{
                 <div class="jumbotron text-center" style="background: url('img/web1.jpg') repeat center;" data-paroller-factor="2" data-paroller-direction="vertical">
                     <div class="card-block addcard container" align="center">
                         <h1 class="py-5 text-white thin">Naricitasplaza.pe</h1>
-                        <p class="text-white thin">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                        <p class="text-white thin">Naricitas Plaza es un E-Commerce desarrollado bajo un concepto fuerte de tienda virtual para pet lovers. La visión de Ecommerce planteada desde el inicio exigía una estrategia de comunicación fuerte, activa y siempre actualizable. Era preciso brindar un diseño y un flujo de comunicación ágil, divertido y con ese sentimiento que conlleva el mundo de los petlovers. Diseño de páginas webs desarrolladas en html5, css3 y PHP 7.1.</p>
                         <br>
                             <a class="waves-effect waves-light btn" href="https://naricitasplaza.pe/" target="_new" style=" background-color: #e91e63;">Ver Web</a>
                         <br> <br>
@@ -226,12 +221,7 @@ video{
                 <div class="jumbotron text-center" style="background: url('img/web6.jpg') center;" data-paroller-factor="-2" data-paroller-direction="horizontal">
                     <div class="card-block addcard container" align="center">
                         <h1 class="py-5 text-white thin">Isotech.pe</h1>
-                        <p class="text-white thin">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                        <p class="text-white thin">Isotech Perú fue un reto ambicioso de desarrollo de marca. Comenzando por plantear una nueva imagen que fue replicada a la línea gráfica y hacia el diseño web como extensión de la línea de comunicación. El resultado fue un nuevo sitio web corporativo con una imagen fuerte y un flujo de comunicación asertivo. El siguiente paso, dar el salto hacia la tienda virtual, en este sentido se dejó la opción de escalar hacia su desarrollo.</p>
                         <br>
                             <a class="waves-effect waves-light btn" href="http://www.isotechperu.com/" target="_new" style=" background-color: #e91e63;">Ver Web</a>
                         <br> <br>
@@ -248,12 +238,7 @@ video{
                 <div class="jumbotron text-center" style="background: url('img/web4.jpg') center; background-size: cover;" data-paroller-factor="2" data-paroller-direction="vertical">
                     <div class="card-block addcard container" align="center">
                         <h1 class="py-5 text-white thin">Elaperu.org/</h1>
-                        <p class="text-white thin">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                        <p class="text-white thin">Ela Perú es un proyecto desarrollado para una organización sin fines de lucro. Demandaba un flujo de información activo, propio de la misión de servir a personas que padecen la enfermedad de Esclerosis Lateral Amiotrófica. Se propuso una estrategia de comunicación muy dinámica, con énfasis en lo inmediato. El resultado, un sitio web con muchas herramientas que invita a leer, despierta el interés y cumple el objetivo: ayudar.</p>
                         <br>
                             <a class="waves-effect waves-light btn" href="http://www.elaperu.org/" target="_new" style=" background-color: #e91e63;">Ver Web</a>
                         <br> <br>
@@ -270,12 +255,7 @@ video{
                 <div class="jumbotron text-center" style="background: url('img/web5.jpg') center; background-size: cover;" data-paroller-factor="-2" data-paroller-direction="horizontal">
                     <div class="card-block addcard container" align="center">
                         <h1 class="py-5 text-white thin">Sanus.pe/</h1>
-                        <p class="text-white thin">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                        <p class="text-white thin">Sanus es un emprendimiento peruano de telesalud. Pionero en su rubro. Se desarrolló una plataforma web en php con VMC Laravel como framework, con mucho énfasis en la experiencia de usuario (UX) Este proyecto de software es sin duda un proyecto muy ambicioso de un servicio visionario. Cumple con las exigencias médicas de historia clínica, manejo de clientes y el punto a favor: la interconexión por video conferencia médico y paciente.</p>
                         <br>
                             <a class="waves-effect waves-light btn" href="http://www.elaperu.org/" target="_new" style=" background-color: #e91e63;">Ver Web</a>
                         <br> <br>
@@ -292,12 +272,7 @@ video{
                 <div class="jumbotron text-center" style="background: url('img/web7.jpg') center; background-size: cover;" data-paroller-factor="2" data-paroller-direction="horizontal">
                     <div class="card-block addcard container" align="center">
                         <h1 class="py-5 text-white thin">integro365.com/</h1>
-                        <p class="text-white thin">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                        <p class="text-white thin">Integro 365 es resultado del desarrollo de marca encargado a Update Global Marketing. Un sitio web con estrategia de comunicación onepage para enterar al usuario de manera rápida y precisa. muy dinámica y con formulario múltiple, conexión a redes sociales, blog y un editor de contenidos (CMS). Lo que una empresa que recién inicia necesita. Desarrollado en html5 y css3. 100% actualizable optimizada para google.</p>
                         <br>
                             <a class="waves-effect waves-light btn" href="http://www.integro365.com/" target="_new" style=" background-color: #e91e63;">Ver Web</a>
                         <br> <br>
