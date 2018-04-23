@@ -83,10 +83,17 @@
 	font-family: "update";
 }
 
+
+.upcolor{
+    color: #2cb8c7 !important;
+}
+
 .gris{
 	color: #585858;
 }
-
+.whitex{
+    color: white !important;
+}
 .card_foo{
     padding-top: 20px;
     padding-bottom: 20px;

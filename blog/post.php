@@ -67,7 +67,7 @@
 <!--efectmachiwrite-->
 <div style="background-color: #53bcbd; margin-top: 0px;" align="center">
   <div class="row" style="padding: 30px 30px 30px; margin-bottom: 50px;">
-  <h2 class="uptext2" style="color: white; font-size: 42px;" >Titulo del Post</h2>
+  <h2 class="uptext2" style="color: white; font-size: 42px;" >Se roban cámaras que usaba Dios para supervisar a Venezuela</h2>
   <h2 class="uptextregular">By Luis Bernal</h2> 
      
   </div>
@@ -106,16 +106,15 @@
                 <div class="col s12 m12">
                   <div class="card">
                     <div class="card-image">
-                      <img src="img/noty1.jpeg" style="height: 250px;">
-                      <span class="card-title uptext">Titulo</span>
+                      <img src="img/dios.jpg" style="height: 250px;">
+                      <!-- <span class="card-title uptext whitex">Se roban cámaras que usaba Dios para supervisar a Venezuela</span> -->
                     </div>
                     <div class="card-content">
-                      <p class="card_text" align="justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                      <p class="card_text" align="justify">Ni los artefactos celestiales se salvan de la delincuencia en nuestro país. Y esto quedó demostrado ayer, cuando la banda de delincuentes llamada “Los 666 de Cúa” robaron todas las cámaras que usaba Dios, mejor conocido como “Chuito”, para supervisar a Venezuela.
+                      En declaraciones, San Miguel Arcángel, quién antes aclaró que él no canta trap lascivo, explicó lo ocurrido con el sistema de vigilancia en Venezuela y expresó su molestia ante lo ocurrido. “¡Nos chorearon! Eso fue lo que pasó. De verdad aquí en el cielo estamos muy indignados. Una cosa es que los malandros roben celulares, joyas o los cables de internet de CANTV, pero material celestial si que no, ¡es pecado! Ahora cómo hace el Todopoderoso para ser omnipresente si ya no tiene cámaras en Venezuela, ¿ah? Qué rabia, lo mismo pasó años atrás en Corea del Norte. En serio, si siguen con este tipo de conductas delictivas jamás lograrán que el tiempo perfecto de Dios llegue. Ahora nos toca ver a quién conseguimos para que baje a volver a poner esas cámaras porque ni José Gregorio Hernández quiere volver a Venezuela… Tocará pedirle el favor a Changó”, finalizó San Miguel Arcángel mientras le llevaba a Chuito las fotos de los responsables del robo para que los castigara con disfunción eréctil.</p>
+                       <!-- Go to www.addthis.com/dashboard to customize your tools -->
+                       <br>
+                      <div class="addthis_inline_share_toolbox_5bu0"></div>
                           <div class="card_foo">
                             <span style="float: left;">12/12/2018</span> <span style="float: right;">BY: Luis Bernal</span>
                           </div>
@@ -144,5 +143,9 @@
 
           });
   </script>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5a392b411b1ea275"></script>
+
+
     </body>
   </html>

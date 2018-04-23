@@ -2884,7 +2884,7 @@ ul.staggered-list li {
 .page-footer {
   padding-top: 20px;
   color: #fff;
-  background-color: #ee6e73;
+  background-color: #343438;
 }
 
 .page-footer .footer-copyright {
@@ -2896,11 +2896,11 @@ ul.staggered-list li {
   display: flex;
   -webkit-box-align: center;
   -webkit-align-items: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   padding: 10px 0px;
   color: rgba(255, 255, 255, 0.8);
-  background-color: rgba(51, 51, 51, 0.08);
+  background-color: #000;
 }
 
 table, th, td {
@@ -9414,3 +9414,56 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   stroke-linecap: round;
   /*shape-rendering: crispEdges;*/
 }
+
+
+
+
+
+/*FOOTER*/
+
+.text_foot{
+  font-size: 12px;
+}
+
+.social{
+    display: inline-block;
+    vertical-align: top;
+    height: 37px;
+    width: 37px;
+    line-height: 33px;
+    border: 2px solid #fff;
+    border-radius: 100%;
+    text-align: center;
+    margin-right: 10px;
+    font-size: 18px;
+    color: #2cb8c7;
+    float: center;
+    margin-top: 4px;
+    background-color: black;
+}
+
+
+.social:hover{
+    display: inline-block;
+    vertical-align: top;
+    height: 37px;
+    width: 37px;
+    line-height: 33px;
+    border: 2px solid #fff;
+    border-radius: 100%;
+    text-align: center;
+    margin-right: 10px;
+    font-size: 18px;
+    color: white;
+    float: center;
+    margin-top: 4px;
+    background-color: #2cb8c7;
+}
+.img_foo{
+  padding: 15px;
+}
+
+
+.justi{
+    text-align: justify;
+}  

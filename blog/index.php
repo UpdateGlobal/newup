@@ -151,7 +151,7 @@
                   <div class="card">
                     <div class="card-image">
                       <img src="img/noty1.jpeg">
-                      <span class="card-title uptext">Titulo</span>
+                      <span class="card-title uptext upcolor">Titulo</span>
                       <a class="btn-floating halfway-fab waves-effect waves-light red"  href="post.php" target="blank_"><i class="material-icons">add</i></a>
                     </div>
                     <div class="card-content">
@@ -172,7 +172,7 @@
                   <div class="card">
                     <div class="card-image">
                       <img src="img/noty2.jpg">
-                      <span class="card-title uptext">Titulo</span>
+                      <span class="card-title uptext upcolor">Titulo</span>
                        <a class="btn-floating halfway-fab waves-effect waves-light red"  href="post.php" target="blank_"><i class="material-icons">add</i></a>
                     </div>
                     <div class="card-content">
@@ -195,7 +195,7 @@
                   <div class="card">
                     <div class="card-image">
                       <img src="img/noty3.jpg">
-                      <span class="card-title uptext">Titulo</span>
+                      <span class="card-title uptext upcolor">Titulo</span>
                        <a class="btn-floating halfway-fab waves-effect waves-light red"  href="post.php" target="blank_"><i class="material-icons">add</i></a>
                     </div>
                     <div class="card-content">
@@ -216,7 +216,9 @@
                   <div class="card">
                     <div class="card-image">
                       <img src="img/noty4.jpg">
-                      <span class="card-title uptext">Titulo</span>
+                      <span class="card-title uptext upcolor">Titulo</span>
+                      <a class="btn-floating halfway-fab waves-effect waves-light"  href="post.php" target="blank_" style="right: 70px;"><i class="material-icons">perm_identity
+</i></a>
                       <a class="btn-floating halfway-fab waves-effect waves-light red"  href="post.php" target="blank_"><i class="material-icons">add</i></a>
                     </div>
                     <div class="card-content">
