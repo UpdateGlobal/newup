@@ -23,7 +23,8 @@
 
 
       <link rel="stylesheet" href="assets/style.css">
-      <script src="https://use.fontawesome.com/9576790a31.js"></script>
+      <script defer src="https://use.fontawesome.com/releases/v5.0.10/js/all.js" integrity="sha384-slN8GvtUJGnv6ca26v8EzVaR9DC58QEwsIk9q1QXdCU8Yu8ck/tL/5szYlBbqmS+" crossorigin="anonymous"></script>
+      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css">
       <link rel="stylesheet" type="text/css" href="assets/animate.css">
       <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
       <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.css">
@@ -68,12 +69,7 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
 <!--menuluis-->
 
 <style type="text/css">
-.colormenu1{background-color: #00897b;}
-.colormenu2{background-color: #009688;}
-.colormenu3{background-color: #26a69a;}
 .colormenu4{background-color: #4db6ac;}
-.colormenu5{background-color: #80cbc4;}
-.colormenu6{background-color: #b2dfdb;}
 </style>
     <!--sidenav-->
     <ul id="slide-out" class="side-nav">
@@ -96,10 +92,16 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
       <i class="large material-icons">apps</i>
     </a>
     <ul>
-      <li><a href="#" class="btn-floating colormenu2 tooltipped button-collapse" data-position="left"  data-delay="50" data-tooltip="Contacto" data-activates="slide-out"><i class="material-icons">perm_phone_msg</i></a></li>
-      <li><a href="#" class="btn-floating colormenu2 tooltipped button-collapse" data-position="left"  data-delay="50" data-tooltip="+51934244258" data-activates="slide-out"><i class="fab fa-whatsapp"></i></a></li>
-      <!-- <li><a href="blog/index.php" class="btn-floating colormenu5 tooltipped" data-position="left" data-delay="50" data-tooltip="Blog">   <i class="material-icons">developer_mode</i></a></li> -->
-      <li><a href="../marcas/index.php" class="btn-floating colormenu3 tooltipped" data-position="left" data-delay="50" data-tooltip="Desarrollo de Marcas" href=""><i class="material-icons">brush</i></a></li>       
+      <li><a href="#" class="btn-floating colormenu4 tooltipped button-collapse" data-position="left"  data-delay="50" data-tooltip="Contacto" data-activates="slide-out"><i class="material-icons">perm_phone_msg</i></a></li>
+       <li><a href="https://api.whatsapp.com/send?phone=0051934244258" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Puedes Escribir por Whatsapp">
+        <img src="img/whatsapp.svg" width="27" style="color: white; padding-top: 6px;">
+      </a></li>
+      <li><a href="../blog/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Blog">   <i class="material-icons">developer_mode</i></a></li>
+      <li><a href="../marcas/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Desarrollo de Marcas" href=""><i class="material-icons">brush</i></a></li>
+      <li><a href="../index.php" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Ir al Inicio">
+        <img src="img/home.svg" width="27" style="color: white; padding-top: 8px;">
+      </a></li> 
+
     </ul>
 </div>
 <!--menuluis-->
@@ -128,6 +130,7 @@ video{
     </div>
 </div>
 <!--slidervideo-->
+
 <!--efectmachiwrite-->
 <div style="background-color: #53bcbd; margin-top: 0px;" align="center">
   <div class="row" style="padding: 30px 30px 30px; margin-bottom: 0px;">

@@ -61,12 +61,7 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
 <!-- {/literal} END JIVOSITE CODE -->
 <!--menuluis-->
 <style type="text/css">
-.colormenu1{background-color: #00897b;}
-.colormenu2{background-color: #009688;}
-.colormenu3{background-color: #26a69a;}
 .colormenu4{background-color: #4db6ac;}
-.colormenu5{background-color: #80cbc4;}
-.colormenu6{background-color: #b2dfdb;}
 </style>
 <ul id="slide-out" class="side-nav">
   <li>
@@ -87,10 +82,15 @@ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = 
       <i class="large material-icons">apps</i>
     </a>
     <ul>
-      <li><a href="#" class="btn-floating colormenu2 tooltipped button-collapse" data-position="left"  data-delay="50" data-tooltip="Contacto" data-activates="slide-out"><i class="material-icons">perm_phone_msg</i></a></li>
-      <li><a href="#" class="btn-floating colormenu2 tooltipped button-collapse" data-position="left"  data-delay="50" data-tooltip="+51934244258" data-activates="slide-out"><i class="fab fa-whatsapp fa-lg"></i></a></li>
-     <!--  <li><a href="blog/index.php" class="btn-floating colormenu5 tooltipped" data-position="left" data-delay="50" data-tooltip="Blog">   <i class="material-icons">developer_mode</i></a></li> -->
-      <li><a href="../webs/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Diseño Web">  <i class="material-icons">desktop_mac</i></a></li>      
+      <li><a href="#" class="btn-floating colormenu4 tooltipped button-collapse" data-position="left"  data-delay="50" data-tooltip="Contacto" data-activates="slide-out"><i class="material-icons">perm_phone_msg</i></a></li>
+      <li><a href="https://api.whatsapp.com/send?phone=0051934244258" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Puedes Escribir por Whatsapp">
+        <img src="img/whatsapp.svg" width="27" style="color: white; padding-top: 6px;">
+      </a></li>
+      <li><a href="blog/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Blog">   <i class="material-icons">developer_mode</i></a></li>
+      <li><a href="../webs/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Diseño Web">  <i class="material-icons">desktop_mac</i></a></li> 
+       <li><a href="../index.php" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Ir al Inicio">
+        <img src="img/home.svg" width="27" style="color: white; padding-top: 8px;">
+      </a></li>     
     </ul>
   </div>
 <!--menuluis-->

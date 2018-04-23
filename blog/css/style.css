@@ -9,7 +9,9 @@
 	margin: -15px 5px 5px;
 	  color: #585858ab !important ;
 }
-
+ .white.{
+    color: white !important;
+ }
 
 
 .puntoblog{s
@@ -56,9 +58,14 @@
 
 }
 
+.uptext_chip {
+    color: white !important ;
+    font-family: "update";
+}
+
  /*BANNER*/
  .bg_banner{
- 	background-color: #50bdbe69;
+ 
 
  }
 
@@ -79,3 +86,58 @@
 .gris{
 	color: #585858;
 }
+
+.card_foo{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+/*FOOTER*/
+
+.text_foot{
+  font-size: 12px;
+}
+
+.social{
+    display: inline-block;
+    vertical-align: top;
+    height: 37px;
+    width: 37px;
+    line-height: 33px;
+    border: 2px solid #fff;
+    border-radius: 100%;
+    text-align: center;
+    margin-right: 10px;
+    font-size: 18px;
+    color: #2cb8c7;
+    float: center;
+    margin-top: 4px;
+    background-color: black;
+}
+
+
+.social:hover{
+    display: inline-block;
+    vertical-align: top;
+    height: 37px;
+    width: 37px;
+    line-height: 33px;
+    border: 2px solid #fff;
+    border-radius: 100%;
+    text-align: center;
+    margin-right: 10px;
+    font-size: 18px;
+    color: white;
+    float: center;
+    margin-top: 4px;
+    background-color: #2cb8c7;
+}
+.img_foo{
+  padding: 15px;
+}
+
+
+.justi{
+    text-align: justify;
+}  

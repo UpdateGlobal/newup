@@ -5,6 +5,7 @@
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <title>Update - Blog</title>
+       <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta name="description" content="Somos una Agencia de Marketing en Perú, especializada en desarrollo de marca, Diseño y Desarrollo web, Estrategias de Marketing tradicional y Marketing Digital con visión global, anteponemos tus objetivos comerciales sin dejar el lado creativo." />
       <meta name="keywords" content="marketing, marketing digital, diseño web, diseño grafico, desarrollo de marca, creación de logotipos, paginas webs, branding" />
@@ -41,24 +42,63 @@
 
     <body>
 
-          <!--contenidoBODY-->
+<!--menuluis-->
+<style type="text/css">
+.colormenu4{background-color: #4db6ac;}
+</style>
+<ul id="slide-out" class="side-nav">
+  <li>
+    <script id="bx24_form_inline" data-skip-moving="true">
+            (function(w,d,u,b){w['Bitrix24FormObject']=b;w[b] = w[b] || function(){arguments[0].ref=u;
+                    (w[b].forms=w[b].forms||[]).push(arguments[0])};
+                    if(w[b]['forms']) return;
+                    var s=d.createElement('script');s.async=1;s.src=u+'?'+(1*new Date());
+                    var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+            })(window,document,'https://updatemarketing.bitrix24.es/bitrix/js/crm/form_loader.js','b24form');
 
-<div class="parallax-container bg_banner" >
-  <div class="parallax puntoblog center">
-
-    <h1>hola</h1>
-   
+            b24form({"id":"8","lang":"la","sec":"82jy61","type":"inline"});
+    </script>
+  </li>
+</ul>
+ <div class="fixed-action-btn vertical click-to-toggle">
+    <a class="btn-floating btn-large colormenu1 pulse" >
+      <i class="large material-icons">apps</i>
+    </a>
+    <ul>
+      <li><a href="#" class="btn-floating colormenu4 tooltipped button-collapse" data-position="left"  data-delay="50" data-tooltip="Contacto" data-activates="slide-out"><i class="material-icons">perm_phone_msg</i></a></li>
+      <li><a href="https://api.whatsapp.com/send?phone=0051934244258" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Puedes Escribir por Whatsapp">
+        <img src="img/whatsapp.svg" width="27" style="color: white; padding-top: 6px;">
+      </a></li>
+      <li><a href="../webs/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Diseño Web">  <i class="material-icons">desktop_mac</i></a></li> 
+      <li><a href="marcas/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Desarrollo de Marcas" href=""><i class="material-icons">brush</i></a></li> 
+       <li><a href="../index.php" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Ir al Inicio">
+        <img src="img/home.svg" width="27" style="color: white; padding-top: 8px;">
+      </a></li>     
+    </ul>
   </div>
+<!--menuluis-->
+
+<div class="parallax-container">
+      <div class="parallax"><img src="img/base-icon.jpg" style=" opacity: 0.5"></div>
+
+      <div class="row" align="center">
+        <h1 class="uptext2 gris" style="font-size: 72px;" >Blog de Noticias Update</h1>
+      </div>
+
 </div>
+
+
+
+
 <!--efectmachiwrite-->
 <div style="background-color: #53bcbd; margin-top: 0px;" align="center">
-  <div class="row" style="padding: 30px 30px 30px; margin-bottom: 0px;">
-  <h1 class="uptext2" style="color: white; font-size: 42px;" >Desarrollamos <span class="gris" id="typed"></span></h1>
-  <h1 class="uptextregular">Con los más altos estandares</h1> 
+  <div class="row" style="padding: 30px 30px 30px; margin-bottom: 50px;">
+  <h2 class="uptext2" style="color: white; font-size: 42px;" >Nuestro Blog hay Noticias de: <span class="gris" id="typed"></span></h2>
+  <h2 class="uptextregular">Con los más altos estandares</h2> 
         <script type="text/javascript">
           $(function(){
             $("#typed").typed({
-              strings: ["Marcas Poderosas", "Conceptos Fuertes", "Marcas que enganchan", "Ideas que venden"],
+              strings: ["Tecnologia", "Desarrollo", "Robotica", "de cualquier interes", "Pagínas Webs"],
               typeSpeed: 30,
               backDelay: 1500,
               loop: true,
@@ -78,7 +118,7 @@
     <div class="row">
       <div class="col s12 m3">
 
-        <h1 class="regular uptext">Categorias</h1>
+        <h5 class="regular uptext">Categorias</h5>
         <ul>
           <li class="thin spacelist uptext">Categoria</li>
           <li class="thin spacelist uptext">Categoria</li>
@@ -88,14 +128,14 @@
         </ul>
 
         <div class="divider"></div>
-        <h1 class="regular uptext">Tags</h1>
-        <div class="chip uptext">Webs</div>
-        <div class="chip uptext">Plataformas</div>
-        <div class="chip uptext">Redes sociales</div>
-        <div class="chip uptext">Frontend</div>
-        <div class="chip uptext">Backend</div>
-        <div class="chip uptext">Diseño</div>
-        <div class="chip uptext">Luis</div>
+        <h5 class="regular uptext">Tags</h5>
+        <div class="chip uptext_chip">Webs</div>
+        <div class="chip uptext_chip">Plataformas</div>
+        <div class="chip uptext_chip">Redes sociales</div>
+        <div class="chip uptext_chip">Frontend</div>
+        <div class="chip uptext_chip">Backend</div>
+        <div class="chip uptext_chip">Diseño</div>
+        <div class="chip uptext_chip">Luis</div>
         <br><br>
 
       </div>
@@ -112,7 +152,7 @@
                     <div class="card-image">
                       <img src="img/noty1.jpeg">
                       <span class="card-title uptext">Titulo</span>
-                      <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
+                      <a class="btn-floating halfway-fab waves-effect waves-light red"  href="post.php" target="blank_"><i class="material-icons">add</i></a>
                     </div>
                     <div class="card-content">
                       <p class="card_text" align="justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -121,8 +161,9 @@
                         consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
                         cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
                         proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                        <br>
-                     <span class="card_fa">12/12/2018</span>
+                          <div class="card_foo">
+                            <span style="float: left;">12/12/2018</span> <span style="float: right;">BY: Luis Bernal</span>
+                          </div>
                     </div>
                   </div>
                 </div>
@@ -132,7 +173,7 @@
                     <div class="card-image">
                       <img src="img/noty2.jpg">
                       <span class="card-title uptext">Titulo</span>
-                      <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
+                       <a class="btn-floating halfway-fab waves-effect waves-light red"  href="post.php" target="blank_"><i class="material-icons">add</i></a>
                     </div>
                     <div class="card-content">
                       <p class="card_text" align="justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -141,8 +182,9 @@
                         consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
                         cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
                         proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                        <br>
-                      <span class="card_fa">12/12/2018</span>
+                          <div class="card_foo">
+                            <span style="float: left;">12/12/2018</span> <span style="float: right;">BY: Luis Bernal</span>
+                          </div>
                     </div>
                   </div>
                 </div>
@@ -154,7 +196,7 @@
                     <div class="card-image">
                       <img src="img/noty3.jpg">
                       <span class="card-title uptext">Titulo</span>
-                      <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
+                       <a class="btn-floating halfway-fab waves-effect waves-light red"  href="post.php" target="blank_"><i class="material-icons">add</i></a>
                     </div>
                     <div class="card-content">
                       <p class="card_text" align="justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -163,8 +205,9 @@
                         consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
                         cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
                         proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                        <br>
-                     <span class="card_fa">12/12/2018</span>
+                        <div class="card_foo">
+                          <span style="float: left;">12/12/2018</span> <span style="float: right;">BY: Luis Bernal</span>
+                        </div>
                     </div>
                   </div>
                 </div>
@@ -174,7 +217,7 @@
                     <div class="card-image">
                       <img src="img/noty4.jpg">
                       <span class="card-title uptext">Titulo</span>
-                      <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
+                      <a class="btn-floating halfway-fab waves-effect waves-light red"  href="post.php" target="blank_"><i class="material-icons">add</i></a>
                     </div>
                     <div class="card-content">
                      <p class="card_text" align="justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -183,8 +226,9 @@
                         consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
                         cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
                         proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                        <br>
-                       <span class="card_fa">12/12/2018</span>
+                        <div class="card_foo">
+                          <span style="float: left;">12/12/2018</span> <span style="float: right;">BY: Luis Bernal</span>
+                        </div>
                     </div>
                   </div>
                 </div>
@@ -205,7 +249,9 @@
 </div>
 
 
-
+<?php
+        include('../modulos/footer.php');
+?>
 
 
 
@@ -215,16 +261,27 @@
 
           <!--contenidoBODY-->
                 <!--Import jQuery before materialize.js-->
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
-  <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-  <script type="text/javascript" src="js/materialize.min.js"></script>
-  <script type="text/javascript" src="js/materialize.js"></script>
-  <script  src="js/index.js"></script><!--slider-->
-  <script type="text/javascript">
-    $(document).ready(function() {
-        $('.parallax').parallax();
-
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js"></script>
+    <script type="text/javascript" src="js/materialize.min.js"></script>
+    <script type="text/javascript" src="js/materialize.js"></script>
+    <script  src="js/index.js"></script><!--slider-->
+    <script type="text/javascript">
+      $(document).ready(function() {
+          $('.parallax').parallax();
+          $('.scrollspy').scrollSpy();
+          $('.carousel').carousel();
+          $('.materialboxed').materialbox();
+          $('.modal').modal();
+          $('select').material_select();
+          $('.slider').slider({
+            indicators: false,
+            height: 600
           });
-  </script>
+          $(".button-collapse").sideNav();
+
+
+            });
+    </script>
     </body>
   </html>
