@@ -176,7 +176,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
                   <div class="card">
                     <div class="card-image">
                       <img src="img/post/tendenciasdiseno.jpg">
-                      <a class="btn-floating halfway-fab waves-effect waves-light red"  href="tendencias-diseño-web.php" target="blank_"><i class="material-icons">add</i></a>
+                      <a class="btn-floating halfway-fab waves-effect waves-light red" href="tendencias-diseno-web.php" target="blank_"><i class="material-icons">add</i></a>
                     </div>
                     <div class="card-content">
                       <span class="card-title uptext">TENDENCIAS PARA EL DISEÑO WEB 2018</span>
@@ -192,7 +192,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
                   <div class="card">
                     <div class="card-image">
                       <img src="img/post/sinprospeccionnohayventas.jpg">
-                       <a class="btn-floating halfway-fab waves-effect waves-light red"  href="sin-prospección-no-hay-ventas.php" target="blank_"><i class="material-icons">add</i></a>
+                       <a class="btn-floating halfway-fab waves-effect waves-light red"  href="sin-prospeccion-no-hay-ventas.php" target="blank_"><i class="material-icons">add</i></a>
                     </div>
                     <div class="card-content">
                       <span class="card-title uptext">OJO, SIN PROSPECCIÓN NO HAY VENTAS </span>

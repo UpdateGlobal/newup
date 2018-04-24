@@ -88,7 +88,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
            <li><a href="https://api.whatsapp.com/send?phone=0051934244258" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Puedes Escribir por Whatsapp" >
             <img src="img/whatsapp.svg" width="27" style="color: white; padding-top: 6px;">
           </a></li>
-          <li><a href="blog/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Blog"><i class="material-icons">developer_mode</i></a></li>
+          <li><a href="index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Blog"><i class="material-icons">developer_mode</i></a></li>
           <li><a href="webs/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Diseño Web">  <i class="material-icons">desktop_mac</i></a></li>
           <li><a href="marcas/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Desarrollo de Marcas" href=""><i class="material-icons">brush</i></a></li> 
           <li><a href="../index.php" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Ir al Inicio">
