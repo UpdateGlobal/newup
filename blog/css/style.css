@@ -152,3 +152,15 @@
 .interline{
     line-height: 22px;
 }
+
+
+.post_img{
+    height: 600px;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .post_img {
+        height: 300px;
+    }
+}

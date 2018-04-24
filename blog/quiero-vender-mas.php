@@ -60,6 +60,42 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
     </head>
 
     <body>
+      <!--menuluis-->
+    <style type="text/css">
+    .colormenu4{background-color: #4db6ac;}
+    </style>
+    <ul id="slide-out" class="side-nav">
+      <li>
+          <script id="bx24_form_inline" data-skip-moving="true">
+                (function(w,d,u,b){w['Bitrix24FormObject']=b;w[b] = w[b] || function(){arguments[0].ref=u;
+                        (w[b].forms=w[b].forms||[]).push(arguments[0])};
+                        if(w[b]['forms']) return;
+                        var s=d.createElement('script');s.async=1;s.src=u+'?'+(1*new Date());
+                        var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+                })(window,document,'https://updatemarketing.bitrix24.es/bitrix/js/crm/form_loader.js','b24form');
+
+                b24form({"id":"8","lang":"la","sec":"82jy61","type":"inline"});
+        </script>
+      </li>
+    </ul>
+     <div class="fixed-action-btn vertical click-to-toggle">
+        <a class="btn-floating btn-large colormenu1 pulse" >
+          <i class="large material-icons">apps</i>
+        </a>
+        <ul>
+          <li><a href="#" class="btn-floating colormenu4 tooltipped button-collapse" data-position="left"  data-delay="50" data-tooltip="Contacto" data-activates="slide-out"><i class="material-icons">perm_phone_msg</i></a></li>
+           <li><a href="https://api.whatsapp.com/send?phone=0051934244258" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Puedes Escribir por Whatsapp" >
+            <img src="img/whatsapp.svg" width="27" style="color: white; padding-top: 6px;">
+          </a></li>
+          <li><a href="blog/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Blog"><i class="material-icons">developer_mode</i></a></li>
+          <li><a href="webs/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Diseño Web">  <i class="material-icons">desktop_mac</i></a></li>
+          <li><a href="marcas/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Desarrollo de Marcas" href=""><i class="material-icons">brush</i></a></li> 
+          <li><a href="../index.php" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Ir al Inicio">
+            <img src="img/home.svg" width="27" style="color: white; padding-top: 8px;">
+          </a></li>       
+        </ul>
+      </div>
+    <!--menuluis-->
 
 
 
@@ -115,7 +151,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
                 <div class="col s12 m12">
                   <div class="card">
                     <div class="card-image">
-                      <img src="img/post/comovendermas.jpg" style="height: 400px;">
+                      <img src="img/post/comovendermas.jpg" class="post_img">
                       <!-- <span class="card-title uptext whitex">Se roban cámaras que usaba Dios para supervisar a Venezuela</span> -->
                     </div>
                     <div class="card-content">
@@ -150,6 +186,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
 ?>
 
 <!--Import jQuery before materialize.js-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script type="text/javascript" src="js/materialize.min.js"></script>
