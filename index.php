@@ -115,26 +115,20 @@
 <div class="row" style="margin: 0px;">
 
     <h3 class="uptext center-align" style=" margin-top: 0px; padding-top: 50px;">Ultimas Publicaciones</h3>
-    <p class="uptextregular subtitulo_info" align="center">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-          consequat.</p>
+    <p class="uptextregular subtitulo_info" align="center">Compartimos contigo novedades, tendencias y opiniones respecto al Marketing, el Desarrollo web, el marketing digital y la estrategia</p>
 
 
     <div class="col s12 m4">
       <div class="card z-depth-2">
         <div class="card-image">
-          <img src="img/noty1.jpeg">
-          <a class="btn-floating halfway-fab waves-effect waves-light red"  href="blog/post.php" target="blank_"><i class="material-icons">add</i></a>
+          <img src="img/post/tendenciasdiseno.jpg">
+          <a class="btn-floating halfway-fab waves-effect waves-light red"  href="blog/tendencias-diseño-web.php" target="blank_"><i class="material-icons">add</i></a>
         </div>
         <div class="card-content">
           <span class="card-title uptext">TENDENCIAS PARA EL DISEÑO WEB 2018</span>
-          <p class="uptextregular" align="justify" style="font-size: 14px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-          consequat.</p>
+          <p class="uptextregular" align="justify" style="font-size: 14px;">En Update Global Marketing analizamos las tendencias de diseño web para el 2018 como aspecto clave de cara al futuro, que es donde nuestras empresas deben apuntar. Este 2018 viene con muchas novedades en el diseño web. Desde la ...</p>
           <div class="card_foo">
-            <span style="float: left;">12/12/2018</span> <span style="float: right;">BY: Luis Bernal</span>
+            <span style="float: left;">23/04/2018</span> <span style="float: right;">BY: Luiz Enrique Haro</span>
           </div>
         </div> 
         
@@ -143,17 +137,14 @@
     <div class="col s12 m4">
      <div class="card z-depth-2">
         <div class="card-image">
-          <img src="img/noty2.jpg">
-          <a class="btn-floating halfway-fab waves-effect waves-light red"  href="blog/post.php" target="blank_"><i class="material-icons">add</i></a>
+          <img src="img/post/sinprospeccionnohayventas.jpg">
+          <a class="btn-floating halfway-fab waves-effect waves-light red"  href="blog/sin-prospección-no-hay-ventas.php" target="blank_"><i class="material-icons">add</i></a>
         </div>
         <div class="card-content">
-          <span class="card-title uptext">OJO, SIN PROSPECCIÓN NO HAY VENTAS </span>
-          <p class="uptextregular" align="justify" style="font-size: 14px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-          consequat.</p>
+          <span class="card-title uptext">SIN PROSPECCIÓN NO HAY VENTAS </span>
+          <p class="uptextregular" align="justify" style="font-size: 14px;">SIN SENOS NO HAY PARAISO = SIN PROSPECCIÓN NO HAY VENTAS La importancia de prospectar en el proceso de ventas hoy en dia ...te damos la solución para comenzar a incrementar tus ventas YA! En Update debatimos siempre este tema...</p>
           <div class="card_foo">
-            <span style="float: left;">12/12/2018</span> <span style="float: right;">BY: Luis Bernal</span>
+            <span style="float: left;">09/04/2018</span> <span style="float: right;">BY: Christian Haro</span>
           </div>
         </div>
 
@@ -162,17 +153,14 @@
     <div class="col s12 m4">
        <div class="card z-depth-2">
         <div class="card-image">
-          <img src="img/noty3.jpg">
-          <a class="btn-floating halfway-fab waves-effect waves-light red"  href="blog/post.php" target="blank_"><i class="material-icons">add</i></a>
+          <img src="img/post/comovendermas.jpg">
+          <a class="btn-floating halfway-fab waves-effect waves-light red"  href="blog/quiero-vender-mas.php" target="blank_"><i class="material-icons">add</i></a>
         </div>
         <div class="card-content">
           <span class="card-title uptext">TENGO MI EMPRESA Y QUIERO VENDER MÁS</span>
-          <p class="uptextregular" align="justify" style="font-size: 14px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-          consequat.</p>
+          <p class="uptextregular" align="justify" style="font-size: 14px;">Conforme cómo ha evolucionado el marketing hoy en día nos damos cuenta de la importancia de contar con una estrategia que no lleve al éxito, posicionar nuestra marca, acelerar nuestras ventas, lograr mejores resultados, es el pan de cada...</p>
           <div class="card_foo">
-            <span style="float: left;">12/12/2018</span> <span style="float: right;">BY: Luis Bernal</span>
+            <span style="float: left;">16/04/2018</span> <span style="float: right;">BY: Christian Haro</span>
           </div>
         </div>
 

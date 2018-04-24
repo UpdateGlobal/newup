@@ -63,7 +63,7 @@ $.src="https://v2.zopim.com/?5eb2dhLOYkK9hUr7TrwizgJSyPxysQlv";z.t=+new Date;$.
 type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
 </script>
 <!--End of Zendesk Chat Script-->
-  <!-- {/literal} END JIVOSITE CODE -->
+  
   </div>
 </div>
 
@@ -175,19 +175,14 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
                 <div class="col s12 m6">
                   <div class="card">
                     <div class="card-image">
-                      <img src="img/noty1.jpeg">
-                      <a class="btn-floating halfway-fab waves-effect waves-light red"  href="post.php" target="blank_"><i class="material-icons">add</i></a>
+                      <img src="img/post/tendenciasdiseno.jpg">
+                      <a class="btn-floating halfway-fab waves-effect waves-light red"  href="tendencias-diseño-web.php" target="blank_"><i class="material-icons">add</i></a>
                     </div>
                     <div class="card-content">
                       <span class="card-title uptext">TENDENCIAS PARA EL DISEÑO WEB 2018</span>
-                      <p class="card_text" align="justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                      <p class="card_text" align="justify">En Update Global Marketing analizamos las tendencias de diseño web para el 2018 como aspecto clave de cara al futuro, que es donde nuestras empresas deben apuntar. Este 2018 viene con muchas novedades en el diseño web. Desde la arquitectura hasta la programación. Desde la tipografía, el color, hasta el mismo estilo. Ya a mediados del 2017 se vislumbraban tendencias que marcarían tanto el diseño como lo mínimamente aprobable por el usuario.</p>
                           <div class="card_foo">
-                            <span style="float: left;">12/12/2018</span> <span style="float: right;">BY: Luis Bernal</span>
+                            <span style="float: left;">23/04/2018</span> <span style="float: right;">BY: Luiz Enrique Haro</span>
                           </div>
                     </div>
                   </div>
@@ -196,19 +191,14 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
                   <div class="col s12 m6">
                   <div class="card">
                     <div class="card-image">
-                      <img src="img/noty2.jpg">
-                       <a class="btn-floating halfway-fab waves-effect waves-light red"  href="post.php" target="blank_"><i class="material-icons">add</i></a>
+                      <img src="img/post/sinprospeccionnohayventas.jpg">
+                       <a class="btn-floating halfway-fab waves-effect waves-light red"  href="sin-prospección-no-hay-ventas.php" target="blank_"><i class="material-icons">add</i></a>
                     </div>
                     <div class="card-content">
                       <span class="card-title uptext">OJO, SIN PROSPECCIÓN NO HAY VENTAS </span>
-                      <p class="card_text" align="justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                      <p class="card_text" align="justify">SIN SENOS NO HAY PARAISO = SIN PROSPECCIÓN NO HAY VENTAS La importancia de prospectar en el proceso de ventas hoy en dia ...te damos la solución para comenzar a incrementar tus ventas YA! En Update debatimos siempre este tema con el objetivo de mejorar dia a dia nuestro proceso de gestion comercial, en ese sentido nos damos cuenta que hoy en día muchas empresas se enfrentan a la presión que significa lograr un optimo performance en la gestión... </p>
                           <div class="card_foo">
-                            <span style="float: left;">12/12/2018</span> <span style="float: right;">BY: Luis Bernal</span>
+                            <span style="float: left;">09/04/2018</span> <span style="float: right;">BY: Christian Haro</span>
                           </div>
                     </div>
                   </div>
@@ -220,18 +210,13 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
                   <div class="card">
                     <div class="card-image">
                       <img src="img/noty3.jpg">
-                       <a class="btn-floating halfway-fab waves-effect waves-light red"  href="post.php" target="blank_"><i class="material-icons">add</i></a>
+                       <a class="btn-floating halfway-fab waves-effect waves-light red"  href="quiero-vender-mas.php" target="blank_"><i class="material-icons">add</i></a>
                     </div>
                     <div class="card-content">
                       <span class="card-title uptext">TENGO MI EMPRESA Y QUIERO VENDER MÁS</span>
-                      <p class="card_text" align="justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                      <p class="card_text" align="justify">Conforme cómo ha evolucionado el marketing hoy en día nos damos cuenta de la importancia de contar con una estrategia que no lleve al éxito, posicionar nuestra marca, acelerar nuestras ventas, lograr mejores resultados, es el pan de cada día en este mundo y a esto  no escapa nuestro mercado, es aquí donde toma relevancia el MARKETING DIGITAL. Como asesor comercial,  cuando visito a un  nuevo cliente, luego de conversar un poco de...</p>
                         <div class="card_foo">
-                          <span style="float: left;">12/12/2018</span> <span style="float: right;">BY: Luis Bernal</span>
+                          <span style="float: left;">16/04/2018</span> <span style="float: right;">BY: Luis Bernal</span>
                         </div>
                     </div>
                   </div>
@@ -241,7 +226,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
                   <div class="card">
                     <div class="card-image">
                       <img src="img/noty4.jpg">
-                      <a class="btn-floating halfway-fab waves-effect waves-light red"  href="post.php" target="blank_"><i class="material-icons">add</i></a>
+                      <a class="btn-floating halfway-fab waves-effect waves-light red"  href="quiero-vender-mas.php" target="blank_"><i class="material-icons">add</i></a>
                     </div>
                     <div class="card-content">
                       <span class="card-title uptext">Titulo</span>
@@ -252,7 +237,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
                         cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
                         proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                         <div class="card_foo">
-                          <span style="float: left;">12/12/2018</span> <span style="float: right;">BY: Luis Bernal</span>
+                          <span style="float: left;">16/04/2018</span> <span style="float: right;">BY: Luis Bernal</span>
                         </div>
                     </div>
                   </div>
