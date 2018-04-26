@@ -257,10 +257,8 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
             </ul>
         </div>
 </div>
-
-
 <?php
-        include('../modulos/footer.php');
+  include('../modulos/footer.php');
 ?>
 
 
