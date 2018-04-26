@@ -102,6 +102,7 @@
       </li>       
     </ul>
   </div>
+<<<<<<< HEAD
   <!--menuluis-->
   <video class="responsive-video less2" autoplay="" muted="" loop="loop" style="width: 100%; height: 80%;">
     <source src="sliderfinal01.mp4" type="video/mp4">
@@ -128,6 +129,33 @@
               </div>
             </div>
           </div>
+=======
+<!--menuluis-->
+
+
+
+<video class="responsive-video less2" autoplay="" muted="" loop="loop" style="width: 100%; height: 80%;">
+  <source src="sliderfinal01.mp4" type="video/mp4">
+</video>
+
+<video class="responsive-video less" autoplay="" muted="" loop="loop">
+  <source src="slider-responsive.mp4" type="video/mp4">
+</video>
+
+<div class="container-fluid" style="background-color: #52bcbd50;">
+<div class="container">
+<div class="row" style="margin: 0px;">
+
+    <h3 class="uptext center-align" style=" margin-top: 0px; padding-top: 50px;">Ultimas Publicaciones</h3>
+    <p class="uptextregular subtitulo_info" align="center">Compartimos contigo novedades, tendencias y opiniones respecto al Marketing, el Desarrollo web, el marketing digital y la estrategia</p>
+
+
+    <div class="col s12 m4">
+      <div class="card z-depth-2">
+        <div class="card-image">
+          <img src="img/post/tendenciasdiseno.jpg">
+          <a class="btn-floating halfway-fab waves-effect waves-light red"  href="blog/tendencias-diseno-web.php" target="blank_"><i class="material-icons">add</i></a>
+>>>>>>> 267d47c4ff6e03bcc9d5d78c9d679257fc8d6a01
         </div>
         <div class="col s12 m4">
           <div class="card z-depth-2">
@@ -143,6 +171,18 @@
               </div>
             </div>
           </div>
+<<<<<<< HEAD
+=======
+        </div> 
+        
+      </div>
+    </div>
+    <div class="col s12 m4">
+     <div class="card z-depth-2">
+        <div class="card-image">
+          <img src="img/post/sinprospeccionnohayventas.jpg">
+          <a class="btn-floating halfway-fab waves-effect waves-light red"  href="blog/sin-prospeccion-no-hay-ventas.php" target="blank_"><i class="material-icons">add</i></a>
+>>>>>>> 267d47c4ff6e03bcc9d5d78c9d679257fc8d6a01
         </div>
         <div class="col s12 m4">
           <div class="card z-depth-2">
