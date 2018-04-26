@@ -122,7 +122,7 @@
       <div class="card z-depth-2">
         <div class="card-image">
           <img src="img/post/tendenciasdiseno.jpg">
-          <a class="btn-floating halfway-fab waves-effect waves-light red"  href="blog/tendencias-diseño-web.php" target="blank_"><i class="material-icons">add</i></a>
+          <a class="btn-floating halfway-fab waves-effect waves-light red"  href="blog/tendencias-diseno-web.php" target="blank_"><i class="material-icons">add</i></a>
         </div>
         <div class="card-content">
           <span class="card-title uptext">TENDENCIAS PARA EL DISEÑO WEB 2018</span>
@@ -138,7 +138,7 @@
      <div class="card z-depth-2">
         <div class="card-image">
           <img src="img/post/sinprospeccionnohayventas.jpg">
-          <a class="btn-floating halfway-fab waves-effect waves-light red"  href="blog/sin-prospección-no-hay-ventas.php" target="blank_"><i class="material-icons">add</i></a>
+          <a class="btn-floating halfway-fab waves-effect waves-light red"  href="blog/sin-prospeccion-no-hay-ventas.php" target="blank_"><i class="material-icons">add</i></a>
         </div>
         <div class="card-content">
           <span class="card-title uptext">SIN PROSPECCIÓN NO HAY VENTAS </span>
