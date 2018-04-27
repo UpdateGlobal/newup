@@ -1,8 +1,51 @@
 <?php include("../cms/module/conexion.php"); ?>
+<?php $cod_categoria=$_REQUEST['cod_categoria']; ?>
 <!DOCTYPE html>
 <html lang="es">
   <head>
-    <?php include("include/head.php"); ?>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Update - Blog</title>
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Somos una Agencia de Marketing en Perú, especializada en desarrollo de marca, Diseño y Desarrollo web, Estrategias de Marketing tradicional y Marketing Digital con visión global, anteponemos tus objetivos comerciales sin dejar el lado creativo." />
+    <meta name="keywords" content="marketing, marketing digital, diseño web, diseño grafico, desarrollo de marca, creación de logotipos, paginas webs, branding" />
+    <meta name="author" content="luis alberto bernal fuentes" />
+    <!-- Facebook and Twitter integration -->
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="" />
+    <meta property="og:url" content="" />
+    <meta property="og:site_name" content="" />
+    <meta property="og:description" content="" />
+    <meta name="twitter:title" content="" />
+    <meta name="twitter:image" content="" />
+    <meta name="twitter:url" content="" />
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+    <!--Import materialize.css-->
+    <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection" />
+    <link rel="stylesheet" type="text/css" href="css/animate.css" />
+    <link rel="stylesheet" type="text/css" href="css/font-awesome.css" />
+    <link rel="stylesheet" type="text/css" href="css/materialize.css" />
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <link rel="stylesheet" type="text/css" href="css/custom.css" />
+    <!-- Global site tag (gtag.js) - Google Pichuytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-74004200-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-74004200-1');
+    </script>
+    <!-- Global site tag (gtag.js) - Google Pichuytics -->
+    <!--normalizecss-->
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.css" />
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!--maquina de escribir-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
   </head>
   <body>
     <!--Start of Zendesk Chat Script-->
@@ -59,7 +102,7 @@
         <script type="text/javascript">
           $(function(){
             $("#typed").typed({
-              strings: ["Tecnología", "Desarrollo", "Robótica", "de cualquier interés", "Páginas Webs"],
+              strings: ["Tecnologia", "Desarrollo", "Robotica", "de cualquier interes", "Pagínas Webs"],
               typeSpeed: 30,
               backDelay: 1500,
               loop: true,
@@ -98,7 +141,7 @@
               $posicion = ($pagina-1)*$registros_por_paginas;
               $limite = "LIMIT $posicion, $registros_por_paginas";
 
-              $consultarNoticias = "SELECT * FROM noticias WHERE estado='1' ORDER BY fecha,cod_noticia ASC $limite";
+              $consultarNoticias = "SELECT * FROM noticias WHERE cod_categoria=$cod_categoria AND estado='1' ORDER BY fecha,cod_noticia ASC $limite";
               $resultadoNoticias = mysqli_query($enlaces,$consultarNoticias) or die('Consulta fallida: ' . mysqli_error($enlaces));
               while($filaNot = mysqli_fetch_array($resultadoNoticias)){
                 $xCodigo    = $filaNot['cod_noticia'];
@@ -109,37 +152,38 @@
                 $xAutor     = $filaNot['autor']; 
                 $xSlugn     = $filaNot['slug'];
           ?>
-          <div class="col s12 m12 l6 xl6">
-            <div class="card">
-              <div class="card-image">
-                <img src="../cms/assets/img/noticias/<?php echo $xImagen; ?>">
-                <a class="btn-floating halfway-fab waves-effect waves-light red" href="post.php?cod_noticia=<?php echo $xCodigo; ?>" target="blank_"><i class="material-icons">add</i></a>
-              </div>
-              <div class="card-content">
-                <span class="card-title uptext"><?php echo $xTitulo; ?></span>
-                <div class="card_text" align="justify">
-                  <?php
-                    $strCut = substr($xNoticia,0,280);
-                    $xNoticia = substr($strCut,0,strrpos($strCut, ' ')).'...';
-                    echo strip_tags($xNoticia);
-                  ?>
+            <div class="col s12 m12 l6 xl6">
+              <div class="card">
+                <div class="card-image">
+                  <img src="../cms/assets/img/noticias/<?php echo $xImagen; ?>">
+                  <a class="btn-floating halfway-fab waves-effect waves-light red" href="post.php?cod_noticia=<?php echo $xCodigo; ?>" target="blank_"><i class="material-icons">add</i></a>
                 </div>
-                <div class="card_foo post-blog-update">
-                  <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s4 m4 l5 xl5 left-align"><?php echo $xFecha; ?></div>
-                    <div class="col s8 m8 l7 xl7 right-align">BY: <?php echo $xAutor; ?></div>
+                <div class="card-content">
+                  <span class="card-title uptext"><?php echo $xTitulo; ?></span>
+                  <div class="card_text" align="justify">
+                    <?php
+                      $strCut = substr($xNoticia,0,280);
+                      $xNoticia = substr($strCut,0,strrpos($strCut, ' ')).'...';
+                      echo strip_tags($xNoticia);
+                    ?>
+                  </div>
+                  <div class="card_foo post-blog-update">
+                    
+                    <div class="row" style="margin-bottom: 0px;">
+                      <div class="col s4 m4 l5 xl5 left-align"><?php echo $xFecha; ?></div>
+                      <div class="col s8 m8 l7 xl7 right-align">BY: <?php echo $xAutor; ?></div>
+                    </div>
                   </div>
                 </div>
               </div>
             </div>
+            <?php 
+              }
+              mysqli_free_result($resultadoNoticias);
+            ?>
           </div>
-          <?php 
-            }
-            mysqli_free_result($resultadoNoticias);
-          ?>
         </div>
       </div>
-    </div>
       <?php   
         $paginas_mostrar = 10;
         if ($total_paginas>1){
@@ -166,8 +210,8 @@
           }
         }
       ?>
-  </div>
-  <?php include('../modulos/footer.php'); ?>
+    </div>
+    <?php include('../modulos/footer.php'); ?>
     <!--contenidoBODY-->
     <!--Import jQuery before materialize.js-->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>

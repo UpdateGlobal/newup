@@ -1,3 +1,4 @@
+<?php include("cms/module/conexion.php"); ?>
 <!DOCTYPE html>
 <html>
   <head>
@@ -33,9 +34,11 @@
     <!--Import materialize.css-->
     <link type="text/css" rel="stylesheet" href="css/materialize.css"  media="screen,projection"/>
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.css">
-  
     <script src="https://use.fontawesome.com/3c86cf9c2d.js"></script>
 
+    <link rel="stylesheet" href="assets/style.css">
+    <link rel="stylesheet" href="css/custom.css">
+    
     <!--Let browser know website is optimized for mobile-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <link rel="stylesheet" type="text/css" href="css/responsive.css">
@@ -45,7 +48,6 @@
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-
       gtag('config', 'UA-74004200-1');
     </script>
     <!-- Global site tag (gtag.js) - Google Pichuytics -->
@@ -62,188 +64,131 @@
       }
     }
   </style>
-<body>
-<!--menuluis-->
-  <style type="text/css">
-    .colormenu4{background-color: #4db6ac;}
-  </style>
-  <ul id="slide-out" class="side-nav">
-    <li>
-      <script id="bx24_form_inline" data-skip-moving="true">
-        (function(w,d,u,b){w['Bitrix24FormObject']=b;w[b] = w[b] || function(){arguments[0].ref=u;
-        (w[b].forms=w[b].forms||[]).push(arguments[0])};
-        if(w[b]['forms']) return;
-        var s=d.createElement('script');s.async=1;s.src=u+'?'+(1*new Date());
-        var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
-        })(window,document,'https://updatemarketing.bitrix24.es/bitrix/js/crm/form_loader.js','b24form');
-        b24form({"id":"8","lang":"la","sec":"82jy61","type":"inline"});
-      </script>
-    </li>
-  </ul>
-  <div class="fixed-action-btn vertical click-to-toggle">
-    <a class="btn-floating btn-large colormenu1 pulse" >
-      <i class="large material-icons">apps</i>
-    </a>
-    <ul>
+  <body>
+    <!--menuluis-->
+    <style type="text/css">
+      .colormenu4{background-color: #4db6ac;}
+    </style>
+    <ul id="slide-out" class="side-nav">
       <li>
-        <a href="#" class="btn-floating colormenu4 tooltipped button-collapse" data-position="left"  data-delay="50" data-tooltip="Contacto" data-activates="slide-out"><i class="material-icons">perm_phone_msg</i></a>
+        <script id="bx24_form_inline" data-skip-moving="true">
+          (function(w,d,u,b){w['Bitrix24FormObject']=b;w[b] = w[b] || function(){arguments[0].ref=u;
+            (w[b].forms=w[b].forms||[]).push(arguments[0])};
+            if(w[b]['forms']) return;
+            var s=d.createElement('script');s.async=1;s.src=u+'?'+(1*new Date());
+            var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+          })(window,document,'https://updatemarketing.bitrix24.es/bitrix/js/crm/form_loader.js','b24form');
+          b24form({"id":"8","lang":"la","sec":"82jy61","type":"inline"});
+        </script>
       </li>
-      <li>
-        <a href="https://api.whatsapp.com/send?phone=0051934244258" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Puedes Escribir por Whatsapp"><img src="img/whatsapp.svg" width="27" style="color: white; padding-top: 6px;"></a>
-      </li>
-      <li>
-        <a href="blog/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Blog"><i class="material-icons">developer_mode</i></a>
-      </li>
-      <li>
-        <a href="webs/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Diseño Web"><i class="material-icons">desktop_mac</i></a>
-      </li>
-      <li>
-        <a href="marcas/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Desarrollo de Marcas" href=""><i class="material-icons">brush</i></a>
-      </li>       
     </ul>
-  </div>
-<<<<<<< HEAD
-  <!--menuluis-->
-  <video class="responsive-video less2" autoplay="" muted="" loop="loop" style="width: 100%; height: 80%;">
-    <source src="sliderfinal01.mp4" type="video/mp4">
-  </video>
-  <video class="responsive-video less" autoplay="" muted="" loop="loop">
-    <source src="slider-responsive.mp4" type="video/mp4">
-  </video>
-  <div class="container-fluid" style="background-color: #52bcbd50;">
-    <div class="container">
-      <div class="row" style="margin: 0px;">
-        <h3 class="uptext center-align" style=" margin-top: 0px; padding-top: 50px;">Ultimas Publicaciones</h3>
-        <p class="uptextregular subtitulo_info" align="center">Compartimos contigo novedades, tendencias y opiniones respecto al Marketing, el Desarrollo web, el marketing digital y la estrategia</p>
-        <div class="col s12 m4">
-          <div class="card z-depth-2">
-            <div class="card-image">
-              <img src="img/post/tendenciasdiseno.jpg">
-              <a class="btn-floating halfway-fab waves-effect waves-light red"  href="blog/tendencias-diseño-web.php" target="blank_"><i class="material-icons">add</i></a>
-            </div>
-            <div class="card-content">
-              <span class="card-title uptext">TENDENCIAS PARA EL DISEÑO WEB 2018</span>
-              <p class="uptextregular" align="justify" style="font-size: 14px;">En Update Global Marketing analizamos las tendencias de diseño web para el 2018 como aspecto clave de cara al futuro, que es donde nuestras empresas deben apuntar. Este 2018 viene con muchas novedades en el diseño web. Desde la ...</p>
-              <div class="card_foo">
-                <span style="float: left;">23/04/2018</span> <span style="float: right;">BY: Luiz Enrique Haro</span>
-              </div>
-            </div>
-          </div>
-=======
-<!--menuluis-->
-
-
-
-<video class="responsive-video less2" autoplay="" muted="" loop="loop" style="width: 100%; height: 80%;">
-  <source src="sliderfinal01.mp4" type="video/mp4">
-</video>
-
-<video class="responsive-video less" autoplay="" muted="" loop="loop">
-  <source src="slider-responsive.mp4" type="video/mp4">
-</video>
-
-<div class="container-fluid" style="background-color: #52bcbd50;">
-<div class="container">
-<div class="row" style="margin: 0px;">
-
-    <h3 class="uptext center-align" style=" margin-top: 0px; padding-top: 50px;">Ultimas Publicaciones</h3>
-    <p class="uptextregular subtitulo_info" align="center">Compartimos contigo novedades, tendencias y opiniones respecto al Marketing, el Desarrollo web, el marketing digital y la estrategia</p>
-
-
-    <div class="col s12 m4">
-      <div class="card z-depth-2">
-        <div class="card-image">
-          <img src="img/post/tendenciasdiseno.jpg">
-          <a class="btn-floating halfway-fab waves-effect waves-light red"  href="blog/tendencias-diseno-web.php" target="blank_"><i class="material-icons">add</i></a>
->>>>>>> 267d47c4ff6e03bcc9d5d78c9d679257fc8d6a01
-        </div>
-        <div class="col s12 m4">
-          <div class="card z-depth-2">
-            <div class="card-image">
-              <img src="img/post/sinprospeccionnohayventas.jpg">
-              <a class="btn-floating halfway-fab waves-effect waves-light red"  href="blog/sin-prospección-no-hay-ventas.php" target="blank_"><i class="material-icons">add</i></a>
-            </div>
-            <div class="card-content">
-              <span class="card-title uptext">SIN PROSPECCIÓN NO HAY VENTAS </span>
-              <p class="uptextregular" align="justify" style="font-size: 14px;">SIN SENOS NO HAY PARAISO = SIN PROSPECCIÓN NO HAY VENTAS La importancia de prospectar en el proceso de ventas hoy en dia ...te damos la solución para comenzar a incrementar tus ventas YA! En Update debatimos siempre este tema...</p>
-              <div class="card_foo">
-                <span style="float: left;">09/04/2018</span> <span style="float: right;">BY: Christian Haro</span>
-              </div>
-            </div>
-          </div>
-<<<<<<< HEAD
-=======
-        </div> 
-        
-      </div>
+    <div class="fixed-action-btn vertical click-to-toggle">
+      <a class="btn-floating btn-large colormenu1 pulse" >
+        <i class="large material-icons">apps</i>
+      </a>
+      <ul>
+        <li><a href="#" class="btn-floating colormenu4 tooltipped button-collapse" data-position="left"  data-delay="50" data-tooltip="Contacto" data-activates="slide-out"><i class="material-icons">perm_phone_msg</i></a></li>
+        <li><a href="https://api.whatsapp.com/send?phone=0051934244258" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Puedes Escribir por Whatsapp" ><img src="img/whatsapp.svg" width="27" style="color: white; padding-top: 6px;"></a></li>
+        <li><a href="blog/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Blog"><i class="material-icons">developer_mode</i></a></li>
+        <li><a href="webs/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Diseño Web">  <i class="material-icons">desktop_mac</i></a></li>
+        <li><a href="marcas/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Desarrollo de Marcas" href=""><i class="material-icons">brush</i></a></li>       
+      </ul>
     </div>
-    <div class="col s12 m4">
-     <div class="card z-depth-2">
-        <div class="card-image">
-          <img src="img/post/sinprospeccionnohayventas.jpg">
-          <a class="btn-floating halfway-fab waves-effect waves-light red"  href="blog/sin-prospeccion-no-hay-ventas.php" target="blank_"><i class="material-icons">add</i></a>
->>>>>>> 267d47c4ff6e03bcc9d5d78c9d679257fc8d6a01
-        </div>
-        <div class="col s12 m4">
-          <div class="card z-depth-2">
-            <div class="card-image">
-              <img src="img/post/comovendermas.jpg">
-              <a class="btn-floating halfway-fab waves-effect waves-light red"  href="blog/quiero-vender-mas.php" target="blank_"><i class="material-icons">add</i></a>
-            </div>
-            <div class="card-content">
-              <span class="card-title uptext">TENGO MI EMPRESA Y QUIERO VENDER MÁS</span>
-              <p class="uptextregular" align="justify" style="font-size: 14px;">Conforme cómo ha evolucionado el marketing hoy en día nos damos cuenta de la importancia de contar con una estrategia que no lleve al éxito, posicionar nuestra marca, acelerar nuestras ventas, lograr mejores resultados, es el pan de cada...</p>
-              <div class="card_foo">
-                <span style="float: left;">16/04/2018</span> <span style="float: right;">BY: Christian Haro</span>
+    <!--menuluis-->
+    <video class="responsive-video less2" autoplay="" muted="" loop="loop" style="width: 100%; height: 80%;">
+      <source src="sliderfinal01.mp4" type="video/mp4">
+    </video>
+    <video class="responsive-video less" autoplay="" muted="" loop="loop">
+      <source src="slider-responsive.mp4" type="video/mp4">
+    </video>
+    <div class="container-fluid" style="background-color: #52bcbd50;">
+      <div class="container">
+        <div class="row" style="margin: 0px;">
+          <h3 class="uptext center-align" style=" margin-top: 0px; padding-top: 50px;">Ultimas Publicaciones</h3>
+          <p class="uptextregular subtitulo_info" align="center">Compartimos contigo novedades, tendencias y opiniones respecto al Marketing, el Desarrollo web, el marketing digital y la estrategia</p>
+          <?php
+            $consultarNoticias = "SELECT * FROM noticias ORDER BY fecha LIMIT 3";
+            $resultadoNoticias = mysqli_query($enlaces,$consultarNoticias) or die('Consulta fallida: ' . mysqli_error($enlaces));
+            while($filaNot = mysqli_fetch_array($resultadoNoticias)){
+              $xCodigo    = $filaNot['cod_noticia'];
+              $xTitulo    = $filaNot['titulo'];
+              $xImagen    = $filaNot['imagen'];
+              $xNoticia   = $filaNot['noticia'];
+              $xAutor     = $filaNot['autor'];
+              $xFecha     = $filaNot['fecha'];
+              $xEstado    = $filaNot['estado'];
+          ?>
+          <div class="col s12 m12 l12 xl4">
+            <div class="card z-depth-2">
+              <div class="card-image">
+                <img src="cms/assets/img/noticias/<?php echo $xImagen; ?>">
+                <a class="btn-floating halfway-fab waves-effect waves-light red" href="blog/post.php?cod_noticia=<?php echo $xCodigo; ?>" target="blank_"><i class="material-icons">add</i></a>
               </div>
+              <div class="card-content">
+                <span class="card-title uptext"><?php echo $xTitulo; ?></span>
+                <p class="card_text uptextregular" align="justify" style="font-size: 14px;"><?php
+                      $strCut = substr($xNoticia,0,280);
+                      $xNoticia = substr($strCut,0,strrpos($strCut, ' ')).'...';
+                      echo strip_tags($xNoticia);
+                    ?></p>
+                <div class="card_foo post-blog-update">
+                  <div class="row" style="margin-bottom: 0px;">
+                    <div class="col s4 m4 l5 xl5 left-align"><?php echo $xFecha; ?></div>
+                    <div class="col s8 m8 l7 xl7 right-align">BY: <?php echo $xAutor; ?></div>
+                  </div>
+                </div>
+              </div>     
             </div>
           </div>
+          <?php
+            }
+            mysqli_free_result($resultadoNoticias); 
+          ?>
         </div>
       </div>
     </div>
-  </div>
-  <!--Start of Zendesk Chat Script-->
-  <script type="text/javascript">
-  window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
-  d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
-  _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
-  $.src="https://v2.zopim.com/?5eb2dhLOYkK9hUr7TrwizgJSyPxysQlv";z.t=+new Date;$.
-  type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
-  </script>
-  <!--End of Zendesk Chat Script-->
+    <!--Start of Zendesk Chat Script-->
+    <script type="text/javascript">
+    window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+    d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+    _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+    $.src="https://v2.zopim.com/?5eb2dhLOYkK9hUr7TrwizgJSyPxysQlv";z.t=+new Date;$.
+    type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+    </script>
+    <!--End of Zendesk Chat Script-->
   <footer class="page-footer">
-    <div class="container" align="center">
-      <div class="row">
-        <div class="col l12 s12">
-          <img src="img/logo-update-2018.png" class="img_foo">
-          <p class="grey-text text-lighten-4 text_foot img_foo">Somos una Agencia de Marketing en Perú, especializada en Desarrollo de marca, Diseño y Desarrollo web, Estrategias de Marketing Tradicional y Marketing Digital con visión global, anteponemos tus objetivos comerciales sin dejar el lado creativo.</p>
-          <div class="row img_foo">
-            <a href="https://www.behance.net/ventas326d" target="_blank"><span class="social"> <i class="fab fa-behance"></i></span></a>
-            <a href="https://www.linkedin.com/company/update-global-marketing" target="_blank"><span class="social"> <i class="fab fa-linkedin-in"></i></span></a>
-            <a href="https://www.facebook.com/updatemarketing/" target="_blank"><span class="social"> <i class="fab fa-facebook-f"></i></span></a>
-            <a href="https://www.instagram.com/update.pe/" target="_blank"><span class="social"> <i class="fab fa-instagram"></i></span></a>         
-          </div>
+  <div class="container" align="center">
+    <div class="row">
+      <div class="col l12 s12">
+        <img src="img/logo-update-2018.png" class="img_foo">
+        <p class="grey-text text-lighten-4 text_foot img_foo">Somos una Agencia de Marketing en Perú, especializada en Desarrollo de marca, Diseño y Desarrollo web, Estrategias de Marketing Tradicional y Marketing Digital con visión global, anteponemos tus objetivos comerciales sin dejar el lado creativo.</p>
+        <div class="row img_foo">
+          <a href="https://www.behance.net/ventas326d" target="_blank"><span class="social"> <i class="fab fa-behance"></i></span></a>
+          <a href="https://www.linkedin.com/company/update-global-marketing" target="_blank"><span class="social"> <i class="fab fa-linkedin-in"></i></span></a>
+          <a href="https://www.facebook.com/updatemarketing/" target="_blank"><span class="social"> <i class="fab fa-facebook-f"></i></span></a>
+          <a href="https://www.instagram.com/update.pe/" target="_blank"><span class="social"> <i class="fab fa-instagram"></i></span></a>
         </div>
       </div>
     </div>
-    <div class="footer-copyright bgfoote">
-      <div class="container" style="font-size: 10px;">
-        <a class="grey-text text-lighten-4 right">Update Global Marketing &copy; | <i class="material-icons" style="vertical-align: middle; font-size: 10px;">perm_phone_msg</i>+51934244258 | <i class="material-icons" style="vertical-align: middle; font-size: 10px;">mail_outline</i>info@update.pe</a>
-      </div>
-      <!--  <div class="container">
-              <div class="row" align="center">
-              <div class="col s12 m4" align="right">Update Global Marketing © </div>
-              <div class="col s12 m4"><i class="material-icons" style="vertical-align: middle;">perm_phone_msg</i>+51934244258</div>
-              <div class="col s12 m4" align="left"><i class="material-icons" style="vertical-align: middle;">mail_outline</i>info@update.pe</div> 
-              </div>  
-            </div> -->
+  </div>
+  <div class="footer-copyright bgfoote">
+    <div class="container" style="font-size: 10px;">
+      <a class="grey-text text-lighten-4 right">Update Global Marketing &copy; | <i class="material-icons" style="vertical-align: middle; font-size: 10px;">perm_phone_msg</i>+51934244258 | <i class="material-icons" style="vertical-align: middle; font-size: 10px;">mail_outline</i>info@update.pe</a>
     </div>
-  </footer>
-  <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
-  <!--Import jQuery before materialize.js-->
-  <script type="text/javascript" src="js/jquery-3.2.1.js"></script>
-  <script type="text/javascript" src="js/materialize.js"></script>
-  <script type="text/javascript">
+    <!--  <div class="container">
+      <div class="row" align="center">
+        <div class="col s12 m4" align="right">Update Global Marketing © </div>
+        <div class="col s12 m4"><i class="material-icons" style="vertical-align: middle;">perm_phone_msg</i>+51934244258</div>
+        <div class="col s12 m4" align="left"><i class="material-icons" style="vertical-align: middle;">mail_outline</i>info@update.pe</div> 
+      </div>  
+    </div> -->
+  </div>
+</footer>
+<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+<!--Import jQuery before materialize.js-->
+<script type="text/javascript" src="js/jquery-3.2.1.js"></script>
+<script type="text/javascript" src="js/materialize.js"></script>
+<script type="text/javascript">
     $(document).ready(function(){
       $('.slider').slider({
         effect: 'random',

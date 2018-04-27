@@ -149,7 +149,7 @@ if($proceso == "Registrar"){
                   <label class="col-form-label" for="noticia">Noticias:</label>
                 </div>
                 <div class="col-8 col-lg-10">
-                  <textarea data-provide="summernote" id="noticia" name="noticia" data-min-height="150"></textarea>
+                  <textarea data-provide="summernote" data-toolbar="full" id="noticia" name="noticia" data-min-height="150"></textarea>
                 </div>
               </div>
 
