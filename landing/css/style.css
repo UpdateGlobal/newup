@@ -1,0 +1,112 @@
+/*Stylegeneral*/
+.verde{
+    color:  #53bcbd;
+}
+
+.bg_grey{
+    background-color: #787878; 
+    color: white;
+    text-align: center;
+}
+
+.hr{
+    margin: 0px;
+    border: 0;
+    border-top: 5px solid #53b6ba;
+    width: 180px;
+}
+
+/*Slider*/
+
+.sd_ti{
+    font-size: 50px;
+    font-family: "update";
+    color: #fff;  
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+
+.sd_suti{
+    font-family: "updateregular";
+    font-size: 60px;
+    color: #787878;
+    font-weight: 900;
+}
+
+.sd_suti_info{
+    font-family: "updateregular";
+    font-size: 34px;
+    color: white;
+    font-weight: 900;
+    margin: 50px;
+}
+
+
+.item_menu{
+    margin: 40px;
+    font-family: "updateregular";
+    font-size: 22px;
+    color: white;
+}
+
+ /*NEED*/
+
+.bg_1{
+    background-color: #ddf2f2;
+
+
+}
+
+.bg_2{
+    background-color: #fff;
+
+}
+
+/*footer*/
+.text_foot{
+  font-size: 12px;
+}
+
+.social{
+    display: inline-block;
+    vertical-align: top;
+    height: 37px;
+    width: 37px;
+    line-height: 33px;
+    border: 2px solid #fff;
+    border-radius: 100%;
+    text-align: center;
+    margin-right: 10px;
+    font-size: 18px;
+    color: #2cb8c7;
+    float: center;
+    margin-top: 4px;
+    background-color: black;
+}
+
+
+.social:hover{
+    display: inline-block;
+    vertical-align: top;
+    height: 37px;
+    width: 37px;
+    line-height: 33px;
+    border: 2px solid #fff;
+    border-radius: 100%;
+    text-align: center;
+    margin-right: 10px;
+    font-size: 18px;
+    color: white;
+    float: center;
+    margin-top: 4px;
+    background-color: #2cb8c7;
+}
+.img_foo{
+  padding: 15px;
+}
+
+
+.justi{
+    text-align: justify;
+}
