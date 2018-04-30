@@ -1,0 +1,178 @@
+/*Stylegeneral*/
+.verde{
+    color:  #53bcbd;
+}
+.bg_verde{
+    background-color: #53bcbd;
+    text-align: center;
+    color: white;
+}
+
+.bg_grey{
+    background-color: #787878; 
+    color: white;
+    text-align: center;
+}
+
+.hr{
+    margin: 0px;
+    border: 0;
+    border-top: 5px solid #53b6ba;
+    width: 180px;
+}
+
+/*Slider*/
+
+.sd_ti{
+    font-size: 35px;
+    font-family: "update";
+    color: #fff;  
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+
+.sd_suti{
+    font-family: "updateregular";
+    font-size: 40px;
+    color: #787878;
+    font-weight: 900;
+}
+
+.sd_suti_info{
+    font-family: "updateregular";
+    font-size: 34px;
+    color: white;
+    font-weight: 900;
+    margin: 50px;
+}
+
+.sd_suti_info2{
+    font-family: "updateregular";
+    font-size: 40px;
+    color: #53b6ba;
+    font-weight: 900;
+
+}
+
+.item_menu{
+    margin: 40px;
+    font-family: "updateregular";
+    font-size: 22px;
+    color: white;
+}
+
+.mg_l{
+    margin-top: 50px;
+}
+
+.mg_r{
+    margin-bottom:  50px;
+}
+
+
+ /*NEED*/
+.bg_item{
+    background-color: white;
+}
+
+.bg_1{
+    background-color: #ddf2f2;
+
+
+}
+
+.bg_2{
+    background-color: #fff;
+
+}
+
+
+.sd_sut2{
+    font-family: "update";
+    font-size: 30px;
+    color: #787878;
+    font-weight: 900;
+}
+
+.sd_sut3{
+    font-family: "updateregular";
+    font-size: 25px;
+    color: #fff;
+    font-weight: 900;
+    margin: 0;
+}
+.sd_sut4{
+    font-family: "updateregular";
+    font-size: 16px;
+    color: #fff;
+    font-weight: 100;
+}
+
+
+/*Contacto*/
+
+.bg_contac{
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 100%;
+    height: auto;
+}
+.ubicatex{
+    margin-bottom: 0px;
+    margin-top: -3px;
+}
+
+/*footer*/
+.text_foot{
+  font-size: 12px;
+}
+
+.social{
+    display: inline-block;
+    vertical-align: top;
+    height: 37px;
+    width: 37px;
+    line-height: 33px;
+    border: 2px solid #fff;
+    border-radius: 100%;
+    text-align: center;
+    margin-right: 10px;
+    font-size: 18px;
+    color: #2cb8c7;
+    float: center;
+    margin-top: 4px;
+    background-color: black;
+}
+
+.servives{
+    color: #585858;
+    font-family: "updateregular";
+    line-height: 33px;
+    font-size: 18px;
+}
+
+.social:hover{
+    display: inline-block;
+    vertical-align: top;
+    height: 37px;
+    width: 37px;
+    line-height: 33px;
+    border: 2px solid #fff;
+    border-radius: 100%;
+    text-align: center;
+    margin-right: 10px;
+    font-size: 18px;
+    color: white;
+    float: center;
+    margin-top: 4px;
+    background-color: #2cb8c7;
+}
+.img_foo{
+  padding: 15px;
+}
+
+
+.justi{
+    text-align: justify;
+}
