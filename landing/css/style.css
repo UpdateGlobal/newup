@@ -8,6 +8,19 @@
     color: white;
 }
 
+.bg_v{
+    background-color: #53bcbd50;
+    text-align: center;
+    color: white;
+}
+
+
+.bg_v{
+    background-color: #53bcbd50;
+    text-align: center;
+    color: white;
+}
+
 .bg_grey{
     background-color: #787878; 
     color: white;
@@ -22,6 +35,38 @@
 }
 
 /*Slider*/
+
+.title_movil{
+    padding: 100px 10px 100px;
+    text-align: right;
+    margin: 0px;
+    font-size: 32px;
+    font-family: "update";
+    color: #787878;
+}
+
+
+.logo_menu{
+    z-index: 9;
+    width: 250px;
+}
+
+.movilslide{
+    text-align: center;
+    padding: 50px;
+}
+
+.capitan{
+    position: absolute;
+    top: 25%;
+    left: 48%;
+    width: 40%;
+    opacity: 0;
+    background-color: #53bcbd50;
+    text-align: center;
+    padding: 50px;
+}
+
 
 .sd_ti{
     font-size: 35px;

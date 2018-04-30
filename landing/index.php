@@ -50,35 +50,50 @@
 
 
 
-    <nav>
-      <div class="nav-wrapper" style="color: white;">
-        <ul id="nav-mobile" class="right hide-on-med-and-down">
-          <li class="item_menu">Sass</li>
-          <li class="item_menu">Components</li>
-          <li class="item_menu">JavaScript</li>
-        </ul>
-      </div>
-    </nav>
-       
-  <div class="slider">
-    <ul class="slides">
-      <li>
-        <img src="images/993.jpg"> 
-        <div class="caption" style="padding: 20px;">
+
+  <nav class="hide-on-med-and-up">
+    <div class="nav-wrapper">
+      <!-- <a href="#" class="brand-logo">Logo</a> -->
+      <ul id="nav-mobile" class="right hide-on-med-and-down">
+        <li><a href="#!">Preguntas frecuentes</a></li>
+        <li><a href="#!">Casos de éxito</a></li>
+        <li><a href="#!">Lo que incluye </a></li>
+        <li><a href="#contac">Contacto</a></li>
+      </ul>
+    </div>
+  </nav>
+
+
+    <!--sliderDesktop-->  
+    <div class="slider hide-on-med-and-down">
+      <ul class="slides">
+        <li>
+          <img src="images/993.jpg"> 
+          <div class="caption" style="padding: 20px; ">
+            <h3 class="sd_ti">Esto es sólo “para empresarios soñadores”</h3>
+            <h5 class="sd_suti">NO TE QUEDES EN LO MISMO</h5>
+          </div>
+        </li>
+      </ul>
+    </div>
+
+    <!--sliderDesktop-->
+    
+    <!--sliderMovil-->  
+    <div class="bg_v hide-on-med-and-up">
+      <div class="caption" style="padding: 20px; margin-top: -55px;">
           <h3 class="sd_ti">Esto es sólo “para empresarios soñadores”</h3>
-          <h5 class="sd_suti">NO TE QUEDES EN LO MISMO</h5>
-        </div>
-      </li>
-     
-    </ul>
-  </div>
-    <!--slider-->
+      </div>
+    </div>
+    <div class="row hide-on-med-and-up" style="margin: 0px; background-image: url('images/993.jpg'); background-size: cover; background-repeat: no-repeat;">
+    <h3 class="title_movil">NO TE QUEDES<br> EN LO MISMO</h3>
+    </div>
+    <!--sliderMovil-->
 
     <!--efectmachiwrite-->
-    <div style="background-color: #53bcbd; margin-top: 0px;" align="center">
+    <div style="background-color: #53bcbd; margin-top: -4px;" align="center">
       <div class="row" style="padding: 30px 30px 30px; margin-bottom: 0px;">
       <h1 class="uptext">Es el momento de pasar al siguiente nivel:  <br><span class="gris" id="typed"></span></h1>
-<!--       <h1 class="updateregular">Con los más altos estandares</h1>  -->
             <script type="text/javascript">
               $(function(){
                 $("#typed").typed({
@@ -99,7 +114,7 @@
 
     <div class="container-fluid" align="center">
       <div class="row" style="margin: 0px;">
-          <h5 class="sd_suti" style="margin: 70px;">Lo que <span class="verde">necesitas saber</span> </h5>
+          <h5 class="sd_suti" style="margin: 50px 0px 50px;">Lo que <span class="verde">necesitas saber</span> </h5>
       </div>
     </div>
 
@@ -108,7 +123,7 @@
         <div class="row" style="margin: 0;">
           <div class="col s12 m6 l6 bg_1 ">
           <div class="container mg_l mg_r">
-            <span><img src="img/person.png" class="item_img" ></span>
+            <span><img src="images/icon-09.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Qué conseguiré desarrollando mi marca con Update ?</h3>
             <hr class="hr">
             <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -116,7 +131,7 @@
           </div>
           <div class="col s12 m6 l6   bg_2">
           <div class="container mg_l mg_r">
-            <span><img src="img/pincel.png" class="item_img" ></span>
+            <span><img src="images/icon-02.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Qué necesito para empezar con el servicio de desarrollo de marca?</h3>
             <hr class="hr">
             <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -126,7 +141,7 @@
         <div class="row" style="margin: 0;">
           <div class="col s12 m6 l6 bg_2">
           <div class="container mg_l mg_r">
-            <span><img src="img/person.png" class="item_img" ></span>
+            <span><img src="images/icon-03.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Con el servicio puedo obtener una página web para mi marca?</h3>
             <hr class="hr">
             <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -134,7 +149,7 @@
           </div>
         <div class="col s12 m6 l6 bg_1">
           <div class="container mg_l mg_r">
-            <span><img src="img/pincel.png" class="item_img" ></span>
+            <span><img src="images/icon-04.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Cuanto cuesta el servicio desarrollo de Marca?</h3>
             <hr class="hr">
             <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -148,7 +163,7 @@
         <div class="row" style="margin: 0;">
           <div class="col s12 m6 l6 bg_1 ">
           <div class="container mg_l mg_r">
-            <span><img src="img/person.png" class="item_img" ></span>
+            <span><img src="images/icon-09.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Qué conseguiré desarrollando mi marca con Update ?</h3>
             <hr class="hr">
             <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -156,7 +171,7 @@
           </div>
           <div class="col s12 m6 l6   bg_2">
           <div class="container mg_l mg_r">
-            <span><img src="img/pincel.png" class="item_img" ></span>
+            <span><img src="images/icon-02.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Qué necesito para empezar con el servicio de desarrollo de marca?</h3>
             <hr class="hr">
             <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -166,7 +181,7 @@
         <div class="row" style="margin: 0;">
           <div class="col s12 m6 l6 bg_1">
           <div class="container mg_l mg_r">
-            <span><img src="img/person.png" class="item_img" ></span>
+            <span><img src="images/icon-03.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Con el servicio puedo obtener una página web para mi marca?</h3>
             <hr class="hr">
             <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -174,7 +189,7 @@
           </div>
         <div class="col s12 m6 l6 bg_2">
           <div class="container mg_l mg_r">
-            <span><img src="img/pincel.png" class="item_img" ></span>
+            <span><img src="images/icon-04.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Cuanto cuesta el servicio desarrollo de Marca?</h3>
             <hr class="hr">
             <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -202,7 +217,7 @@
         <div class="row" style="margin: 0;">
           <div class="col s12 m12 l12" align="center">
           <div class="container mg_l mg_r">
-              <span><img src="img/person.png" class="item_img" ></span>
+            <span><img src="images/icon-10.png" class="item_img" ></span>
               <p class="servives">Creación de Nombre <br>  Logotipo Imagotipo, Isotipo, Isologo <br> Personalidad de marca <br> Manual de usabilidad de Logo <br> Diseño de Carpeta de Presentación: <br> (Tarjetas, Folder, Hoja M) <br> Diseño de Brouchure <br> Diseño de Firma Digital <br> Diseño de Packagying</p>
               <hr class="hr">
               <p class="servives">Estrategia de posicionamiento Primer Slogan</p>
@@ -212,6 +227,8 @@
               <p class="servives">Línea Gráfica de 2 redes sociales <br> (Perfil,  Portada, Formato de Publicación)</p>
               <hr class="hr">
               <p class="servives">1 envio de Email Marketing Implementación de: <br> 1 campaña google <br> ó <br> 1 campaña en red social </p>
+
+              <a href="#contac" class="btn">Contactanos YA!</a>
 
             </div> 
           </div>
@@ -227,16 +244,16 @@
         <div class="row" style="margin: 0;">
           <div class="col s12 m6 l6 bg_1 ">
           <div class="container mg_l mg_r">
-            <span><img src="img/person.png" class="item_img" ></span>
-            <h3 class="item_info uptext">¿Qué conseguiré desarrollando mi marca con Update ?</h3>
+            <span><img src="images/icon-05.png" class="item_img" ></span>
+            <h3 class="item_info uptext">¿Cuanto tiempo dura el desarrollo de marca con Update?</h3>
             <hr class="hr">
             <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
             </div> 
           </div>
           <div class="col s12 m6 l6   bg_2">
           <div class="container mg_l mg_r">
-            <span><img src="img/pincel.png" class="item_img" ></span>
-            <h3 class="item_info uptext">¿Qué necesito para empezar con el servicio de desarrollo de marca?</h3>
+            <span><img src="images/icon-06.png" class="item_img" ></span>
+            <h3 class="item_info uptext">¿Aceptan todos los medios de pago posibles?</h3>
             <hr class="hr">
             <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
             </div> 
@@ -245,16 +262,16 @@
         <div class="row" style="margin: 0;">
           <div class="col s12 m6 l6 bg_2">
           <div class="container mg_l mg_r">
-            <span><img src="img/person.png" class="item_img" ></span>
-            <h3 class="item_info uptext">¿Con el servicio puedo obtener una página web para mi marca?</h3>
+            <span><img src="images/icon-07.png" class="item_img" ></span>
+            <h3 class="item_info uptext">¿Es factible trabajar con formas de pago financiadas?</h3>
             <hr class="hr">
             <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
             </div> 
           </div>
         <div class="col s12 m6 l6 bg_1">
           <div class="container mg_l mg_r">
-            <span><img src="img/pincel.png" class="item_img" ></span>
-            <h3 class="item_info uptext">¿Cuanto cuesta el servicio desarrollo de Marca?</h3>
+            <span><img src="images/icon-08.png" class="item_img" ></span>
+            <h3 class="item_info uptext">¿Cómo garantizan los resultados en Update Global Marketing?</h3>
             <hr class="hr">
             <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
             </div> 
@@ -267,16 +284,16 @@
         <div class="row" style="margin: 0;">
           <div class="col s12 m6 l6 bg_1 ">
           <div class="container mg_l mg_r">
-            <span><img src="img/person.png" class="item_img" ></span>
-            <h3 class="item_info uptext">¿Qué conseguiré desarrollando mi marca con Update ?</h3>
+            <span><img src="images/icon-05.png" class="item_img" ></span>
+            <h3 class="item_info uptext">¿Cuanto tiempo dura el desarrollo de marca con Update?</h3>
             <hr class="hr">
             <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
             </div> 
           </div>
           <div class="col s12 m6 l6   bg_2">
           <div class="container mg_l mg_r">
-            <span><img src="img/pincel.png" class="item_img" ></span>
-            <h3 class="item_info uptext">¿Qué necesito para empezar con el servicio de desarrollo de marca?</h3>
+            <span><img src="images/icon-06.png" class="item_img" ></span>
+            <h3 class="item_info uptext">¿Aceptan todos los medios de pago posibles?</h3>
             <hr class="hr">
             <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
             </div> 
@@ -285,16 +302,16 @@
         <div class="row" style="margin: 0;">
           <div class="col s12 m6 l6 bg_1">
           <div class="container mg_l mg_r">
-            <span><img src="img/person.png" class="item_img" ></span>
-            <h3 class="item_info uptext">¿Con el servicio puedo obtener una página web para mi marca?</h3>
+            <span><img src="images/icon-07.png" class="item_img" ></span>
+            <h3 class="item_info uptext">¿Es factible trabajar con formas de pago financiadas?</h3>
             <hr class="hr">
             <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
             </div> 
           </div>
         <div class="col s12 m6 l6 bg_2">
           <div class="container mg_l mg_r">
-            <span><img src="img/pincel.png" class="item_img" ></span>
-            <h3 class="item_info uptext">¿Cuanto cuesta el servicio desarrollo de Marca?</h3>
+            <span><img src="images/icon-08.png" class="item_img" ></span>
+            <h3 class="item_info uptext">¿Cómo garantizan los resultados en Update Global Marketing?</h3>
             <hr class="hr">
             <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
             </div> 
@@ -328,10 +345,10 @@
       <div class="row" style="margin: 0;">
         <div class="col s12 m6 l6 bg_contac" style="padding: 0px;"> 
 
-          <img src="images/a-9-decc-888.jpg" class="bg_contac">
+          <img src="images/a-9-decc-888.jpg" class="bg_contac responsive-img">
           
         </div>
-        <div class="col s12 m6 l6"> 
+        <div class="col s12 m6 l6" id="contac"> 
           <div class="container">
            <div class="row">
               <form><br>

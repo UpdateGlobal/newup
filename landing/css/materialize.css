@@ -2585,10 +2585,6 @@ a {
           box-shadow: none !important;
 }
 
-.z-depth-1, nav, .card-panel, .card, .toast, .btn, .btn-large, .btn-floating, .dropdown-content, .collapsible, .side-nav {
-  -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
-  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
-}
 
 .z-depth-1-half, .btn:hover, .btn-large:hover, .btn-floating:hover {
   -webkit-box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.14), 0 1px 7px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -1px rgba(0, 0, 0, 0.2);
@@ -4347,7 +4343,7 @@ nav ul a {
   -webkit-transition: background-color .3s;
   transition: background-color .3s;
   font-size: 1rem;
-  color: #fff;
+  color: #0d0000;
   display: block;
   padding: 0 15px;
   cursor: pointer;
@@ -8120,7 +8116,7 @@ input[type=range]:focus::-ms-fill-upper {
     position: relative;
     height: 400px;
     width: 100%;
-    margin-top: -70px;
+  /*  margin-top: -70px;*/
 }
 
 .slider.fullscreen {
