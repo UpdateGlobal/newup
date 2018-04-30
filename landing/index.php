@@ -4,7 +4,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <title>Update - Desarrollo de Marca</title>
+      <title>Update - Landing</title>
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <link rel=”canonical” href=”https://update.pe/marcas>
       <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
@@ -49,61 +49,42 @@
 
 
 
-<div class="navbar-fixed">
-  <nav>
-    <div class="nav-wrapper" style="color: white;">
-      <ul id="nav-mobile" class="right hide-on-med-and-down">
-        <li class="item_menu">Sass</li>
-        <li class="item_menu">Components</li>
-        <li class="item_menu">JavaScript</li>
-      </ul>
-    </div>
-  </nav>
-</div>       
 
-        
-
-
-
-
-    <!--slider-->
-      <div class="slider">
-        <ul class="slides">
-          <li>
-            <img src="images/993@2x.jpg"> <!-- random image -->
-            <div class="caption" style="padding: 50px;">
-              <h3 class="sd_ti">Esto es sólo “para empresarios soñadores”</h3>
-              <h5 class="sd_suti">NO TE QUEDES EN LO MISMO</h5>
-            </div>
-          </li>
-         <!--  <li>
-            <img src="images/993.jpg"> 
-            <div class="caption left-align">
-              <h3>Left Aligned Caption</h3>
-              <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-            </div>
-          </li>
-          <li>
-            <img src="images/993.jpg"> 
-            <div class="caption right-align">
-              <h3>Right Aligned Caption</h3>
-              <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-            </div>
-          </li> -->
+    <nav>
+      <div class="nav-wrapper" style="color: white;">
+        <ul id="nav-mobile" class="right hide-on-med-and-down">
+          <li class="item_menu">Sass</li>
+          <li class="item_menu">Components</li>
+          <li class="item_menu">JavaScript</li>
         </ul>
       </div>
+    </nav>
+       
+  <div class="slider">
+    <ul class="slides">
+      <li>
+        <img src="images/993.jpg"> 
+        <div class="caption" style="padding: 20px;">
+          <h3 class="sd_ti">Esto es sólo “para empresarios soñadores”</h3>
+          <h5 class="sd_suti">NO TE QUEDES EN LO MISMO</h5>
+        </div>
+      </li>
+     
+    </ul>
+  </div>
     <!--slider-->
+
     <!--efectmachiwrite-->
     <div style="background-color: #53bcbd; margin-top: 0px;" align="center">
       <div class="row" style="padding: 30px 30px 30px; margin-bottom: 0px;">
-      <h1 class="uptext">Desarrollamos <span class="gris" id="typed"></span></h1>
-      <h1 class="updateregular">Con los más altos estandares</h1> 
+      <h1 class="uptext">Es el momento de pasar al siguiente nivel:  <br><span class="gris" id="typed"></span></h1>
+<!--       <h1 class="updateregular">Con los más altos estandares</h1>  -->
             <script type="text/javascript">
               $(function(){
                 $("#typed").typed({
-                  strings: ["Marcas Poderosas", "Conceptos Fuertes", "Marcas que enganchan", "Ideas que venden"],
+                  strings: ["Desarrolla tu Marca  y...", "Potencia tu negocio"],
                   typeSpeed: 30,
-                  backDelay: 1500,
+                  backDelay: 500,
                   loop: true,
                   loopCount: false,
                   callback: function(){ foo(); }
@@ -123,37 +104,85 @@
     </div>
 
     <!--infoItem-->
-    <div class="container-fluid info_txt bg_info" align="center">
+    <div class="container-fluid hide-on-med-and-down" align="center">
         <div class="row" style="margin: 0;">
-          <div class="col s12 m6 l6 bg_1" style="padding: 50px 150px 50px;"> 
+          <div class="col s12 m6 l6 bg_1 ">
+          <div class="container mg_l mg_r">
             <span><img src="img/person.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Qué conseguiré desarrollando mi marca con Update ?</h3>
             <hr class="hr">
             <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            </div> 
           </div>
-          <div class="col s12 m6 l6 bg_2" style="padding: 50px 150px 50px;"> 
+          <div class="col s12 m6 l6   bg_2">
+          <div class="container mg_l mg_r">
             <span><img src="img/pincel.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Qué necesito para empezar con el servicio de desarrollo de marca?</h3>
             <hr class="hr">
             <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            </div> 
           </div>
         </div>
         <div class="row" style="margin: 0;">
-          <div class="col s12 m6 l6 bg_2" style="padding: 50px 150px 50px;"> 
+          <div class="col s12 m6 l6 bg_2">
+          <div class="container mg_l mg_r">
             <span><img src="img/person.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Con el servicio puedo obtener una página web para mi marca?</h3>
             <hr class="hr">
             <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            </div> 
           </div>
-          <div class="col s12 m6 l6 bg_1" style="padding: 50px 150px 50px;"> 
+        <div class="col s12 m6 l6 bg_1">
+          <div class="container mg_l mg_r">
             <span><img src="img/pincel.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Cuanto cuesta el servicio desarrollo de Marca?</h3>
             <hr class="hr">
             <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            </div> 
           </div>
         </div>
     </div>
     <!--infoItem-->
+    <!--infoItemMovil-->
+    <div class="container-fluid hide-on-med-and-up" align="center">
+        <div class="row" style="margin: 0;">
+          <div class="col s12 m6 l6 bg_1 ">
+          <div class="container mg_l mg_r">
+            <span><img src="img/person.png" class="item_img" ></span>
+            <h3 class="item_info uptext">¿Qué conseguiré desarrollando mi marca con Update ?</h3>
+            <hr class="hr">
+            <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            </div> 
+          </div>
+          <div class="col s12 m6 l6   bg_2">
+          <div class="container mg_l mg_r">
+            <span><img src="img/pincel.png" class="item_img" ></span>
+            <h3 class="item_info uptext">¿Qué necesito para empezar con el servicio de desarrollo de marca?</h3>
+            <hr class="hr">
+            <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            </div> 
+          </div>
+        </div>
+        <div class="row" style="margin: 0;">
+          <div class="col s12 m6 l6 bg_1">
+          <div class="container mg_l mg_r">
+            <span><img src="img/person.png" class="item_img" ></span>
+            <h3 class="item_info uptext">¿Con el servicio puedo obtener una página web para mi marca?</h3>
+            <hr class="hr">
+            <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            </div> 
+          </div>
+        <div class="col s12 m6 l6 bg_2">
+          <div class="container mg_l mg_r">
+            <span><img src="img/pincel.png" class="item_img" ></span>
+            <h3 class="item_info uptext">¿Cuanto cuesta el servicio desarrollo de Marca?</h3>
+            <hr class="hr">
+            <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            </div> 
+          </div>
+        </div>
+    </div>
+    <!--infoItemmovil-->
 
  
 
@@ -164,82 +193,186 @@
         <div class="container-fluid bg_grey collapsible-header">
           <div class="row" style="margin-bottom: 0px;">
              <div class="col s12 m12">
-              <h5 class="sd_suti_info">¿Qué incluye el servicio <span class="verde">de Desarrollo de marca? <br> Para Da </span> le click <a href="#!">AQUI</a> </h5>
+              <h5 class="sd_suti_info">¿Qué incluye el servicio <span class="verde">de Desarrollo de marca? <br> Para Dale </span>  click <a href="#!" style="text-rendering: all;">AQUI</a> </h5>
             </div>
           </div>
         </div>
-        <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
+        <div class="collapsible-body">
+
+        <div class="row" style="margin: 0;">
+          <div class="col s12 m12 l12" align="center">
+          <div class="container mg_l mg_r">
+              <span><img src="img/person.png" class="item_img" ></span>
+              <p class="servives">Creación de Nombre <br>  Logotipo Imagotipo, Isotipo, Isologo <br> Personalidad de marca <br> Manual de usabilidad de Logo <br> Diseño de Carpeta de Presentación: <br> (Tarjetas, Folder, Hoja M) <br> Diseño de Brouchure <br> Diseño de Firma Digital <br> Diseño de Packagying</p>
+              <hr class="hr">
+              <p class="servives">Estrategia de posicionamiento Primer Slogan</p>
+              <hr class="hr">
+              <p class="servives">1 Sitio Web ó <br> E-Commerce</p>
+              <hr class="hr">
+              <p class="servives">Línea Gráfica de 2 redes sociales <br> (Perfil,  Portada, Formato de Publicación)</p>
+              <hr class="hr">
+              <p class="servives">1 envio de Email Marketing Implementación de: <br> 1 campaña google <br> ó <br> 1 campaña en red social </p>
+
+            </div> 
+          </div>
+        </div>
+
+        </div>
       </li>
     </ul>
-<br>
+
+
+    <!--infoItem-->
+    <div class="container-fluid hide-on-med-and-down" align="center">
+        <div class="row" style="margin: 0;">
+          <div class="col s12 m6 l6 bg_1 ">
+          <div class="container mg_l mg_r">
+            <span><img src="img/person.png" class="item_img" ></span>
+            <h3 class="item_info uptext">¿Qué conseguiré desarrollando mi marca con Update ?</h3>
+            <hr class="hr">
+            <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            </div> 
+          </div>
+          <div class="col s12 m6 l6   bg_2">
+          <div class="container mg_l mg_r">
+            <span><img src="img/pincel.png" class="item_img" ></span>
+            <h3 class="item_info uptext">¿Qué necesito para empezar con el servicio de desarrollo de marca?</h3>
+            <hr class="hr">
+            <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            </div> 
+          </div>
+        </div>
+        <div class="row" style="margin: 0;">
+          <div class="col s12 m6 l6 bg_2">
+          <div class="container mg_l mg_r">
+            <span><img src="img/person.png" class="item_img" ></span>
+            <h3 class="item_info uptext">¿Con el servicio puedo obtener una página web para mi marca?</h3>
+            <hr class="hr">
+            <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            </div> 
+          </div>
+        <div class="col s12 m6 l6 bg_1">
+          <div class="container mg_l mg_r">
+            <span><img src="img/pincel.png" class="item_img" ></span>
+            <h3 class="item_info uptext">¿Cuanto cuesta el servicio desarrollo de Marca?</h3>
+            <hr class="hr">
+            <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            </div> 
+          </div>
+        </div>
+    </div>
+    <!--infoItem-->
+    <!--infoItemMovil-->
+    <div class="container-fluid hide-on-med-and-up" align="center">
+        <div class="row" style="margin: 0;">
+          <div class="col s12 m6 l6 bg_1 ">
+          <div class="container mg_l mg_r">
+            <span><img src="img/person.png" class="item_img" ></span>
+            <h3 class="item_info uptext">¿Qué conseguiré desarrollando mi marca con Update ?</h3>
+            <hr class="hr">
+            <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            </div> 
+          </div>
+          <div class="col s12 m6 l6   bg_2">
+          <div class="container mg_l mg_r">
+            <span><img src="img/pincel.png" class="item_img" ></span>
+            <h3 class="item_info uptext">¿Qué necesito para empezar con el servicio de desarrollo de marca?</h3>
+            <hr class="hr">
+            <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            </div> 
+          </div>
+        </div>
+        <div class="row" style="margin: 0;">
+          <div class="col s12 m6 l6 bg_1">
+          <div class="container mg_l mg_r">
+            <span><img src="img/person.png" class="item_img" ></span>
+            <h3 class="item_info uptext">¿Con el servicio puedo obtener una página web para mi marca?</h3>
+            <hr class="hr">
+            <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            </div> 
+          </div>
+        <div class="col s12 m6 l6 bg_2">
+          <div class="container mg_l mg_r">
+            <span><img src="img/pincel.png" class="item_img" ></span>
+            <h3 class="item_info uptext">¿Cuanto cuesta el servicio desarrollo de Marca?</h3>
+            <hr class="hr">
+            <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            </div> 
+          </div>
+        </div>
+    </div>
+    <!--infoItemmovil-->
+
+
     <div class="container-fluid bg_grey">
       <div class="row" style="margin-bottom: 0px;">
         <div class="col s12 m12">
-          <h5 class="sd_suti_info">¿Tiene Update casos de exito en desarrollo de marca?
-            <span class="verde">Porsupuesto, revísalos, </span><a href="#!" style="color: white;">AQUI</a>
+          <h5 class="sd_suti_info">¿Tiene Update casos de éxito en desarrollo de marca?
+            <span class="verde">Porsupuesto, revísalos, </span><a href="#!" style="color: white;">AQUÍ</a>
           </h5>
         </div>
       </div>
     </div>
-<br>
+
     <div class="container-fluid bg_verde">
       <div class="row" style="margin-bottom: 0px;">
         <div class="col s12 m12" style="padding: 35px;">
-        
           <h5 class="sd_sut2">¿Cómo puedo contactarlos?</h5>
           <P class="sd_sut3">Comunícate ahora al w934244258 o bríndanos tus datos aquí</P>
           <P class="sd_sut4">También puedes escribirnos a info@update.pe</P>
-      
+        </div>
+      </div>
+    </div>
+
+    <div class="container-fluid info_txt bg_info" align="center">
+      <div class="row" style="margin: 0;">
+        <div class="col s12 m6 l6 bg_contac" style="padding: 0px;"> 
+
+          <img src="images/a-9-decc-888.jpg" class="bg_contac">
+          
+        </div>
+        <div class="col s12 m6 l6"> 
+          <div class="container">
+           <div class="row">
+              <form><br>
+                <div class="row">
+                  <div class="input-field col s12">
+                    <input id="first_name" type="text" class="validate">
+                    <label for="first_name">Nombre Apellido</label>
+                  </div>
+                   <div class="input-field col s12">
+                    <input id="first_name" type="text" class="validate">
+                    <label for="first_name">Tu Email</label>
+                  </div>
+                   <div class="input-field col s12">
+                    <input id="first_name" type="text" class="validate">
+                    <label for="first_name">Tu Celular</label>
+                  </div>
+                   <div class="input-field col s12">
+                    <input id="first_name" type="text" class="validate">
+                    <label for="first_name">Tu Consulta</label>
+                  </div>
+                </div>
+                <a href="#!" class="btn">Contactame</a>
+              </form>
+            </div>
+          </div>  
+        </div>
+      </div>
+    </div>
+
+    <div class="container-fluid bg_grey">
+      <div class="row ubicatex">
+        <div class="col s12 m12" style="padding: 50px;">
+          <h5 class="sd_suti_info2">Ubícanos</h5>
+          <P class="sd_sut4">Calle Martín de Murúa 150 - Edificio Empresarial PLEXUS, San Miguel, LIMA - PERÚ</P>
         </div>
       </div>
     </div>
 
 
 
-
-
-<div class="container-fluid info_txt bg_info" align="center">
-  <div class="row" style="margin: 0;">
-    <div class="col s12 m6 l6 bg_contac" style="padding: 0px;"> 
-
-      <img src="images/a-9-decc-888.jpg" class="bg_contac">
-      
-    </div>
-    <div class="col s12 m6 l6"> 
-
-       <div class="row">
-          <form>
-            <div class="row">
-              <div class="input-field col s12">
-                <input id="first_name" type="text" class="validate">
-                <label for="first_name">Nombre Apellido</label>
-              </div>
-               <div class="input-field col s12">
-                <input id="first_name" type="text" class="validate">
-                <label for="first_name">Tu Email</label>
-              </div>
-               <div class="input-field col s12">
-                <input id="first_name" type="text" class="validate">
-                <label for="first_name">Tu Celular</label>
-              </div>
-               <div class="input-field col s12">
-                <input id="first_name" type="text" class="validate">
-                <label for="first_name">Tu Consulta</label>
-              </div>
-            </div>
-            <a href="#!" class="btn">Contactame</a>
-          </form>
-        </div>
-    
-    </div>
-  </div>
-</div>
-
-
-
-
-
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d975.38335528687!2d-77.09345382634368!3d-12.075590421389505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c96ff8023dc7%3A0xe2b0a2ebfb211589!2sPlexus+Centro+Empresarial!5e0!3m2!1ses-419!2spe!4v1525122313720" height="450" frameborder="0" style="border:0; width: 100%;" allowfullscreen></iframe>
 
 
 

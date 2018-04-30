@@ -5218,7 +5218,7 @@ small {
 .btn, .btn-large {
   text-decoration: none;
   color: #fff;
-  background-color: #26a69a;
+  background-color: #787878;
   text-align: center;
   letter-spacing: .5px;
   -webkit-transition: .2s ease-out;
@@ -8167,13 +8167,15 @@ input[type=range]:focus::-ms-fill-upper {
 }
 
 .slider .slides li .caption {
-  position: absolute;
-    top: 15%;
-    left: 45%;
-    width: 50%;
+    position: absolute;
+    top: 25%;
+    left: 48%;
+    width: 40%;
     opacity: 0;
     background-color: #53bcbd50;
     text-align: center;
+    padding: 50px;
+
 }
 
 .slider .slides li .caption p {
