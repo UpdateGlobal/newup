@@ -2,6 +2,11 @@
 .verde{
     color:  #53bcbd;
 }
+.bg_verde{
+    background-color: #53bcbd;
+    text-align: center;
+    color: white;
+}
 
 .bg_grey{
     background-color: #787878; 
@@ -62,6 +67,38 @@
     background-color: #fff;
 
 }
+
+
+.sd_sut2{
+    font-family: "update";
+    font-size: 30px;
+    color: #787878;
+    font-weight: 900;
+}
+
+.sd_sut3{
+    font-family: "updateregular";
+    font-size: 25px;
+    color: #fff;
+    font-weight: 900;
+    margin: 0;
+}
+.sd_sut4{
+    font-family: "updateregular";
+    font-size: 12px;
+    color: #fff;
+    font-weight: 900;
+}
+
+
+/*Contacto*/
+
+.bg_contac{
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 100%;
+}
+
 
 /*footer*/
 .text_foot{

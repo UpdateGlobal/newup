@@ -116,11 +116,11 @@
     <!--efectmachiwrite-->
 
 
-<div class="container-fluid" align="center">
-  <div class="row" style="margin: 0px;">
-      <h5 class="sd_suti" style="margin: 70px;">Lo que <span class="verde">necesitas saber</span> </h5>
-  </div>
-</div>
+    <div class="container-fluid" align="center">
+      <div class="row" style="margin: 0px;">
+          <h5 class="sd_suti" style="margin: 70px;">Lo que <span class="verde">necesitas saber</span> </h5>
+      </div>
+    </div>
 
     <!--infoItem-->
     <div class="container-fluid info_txt bg_info" align="center">
@@ -159,50 +159,81 @@
 
 
 
-  <ul class="collapsible">
-    <li>
-      <div class="container-fluid bg_grey collapsible-header">
-        <div class="row" style="margin-bottom: 0px;">
-          <div class="col s12 m12">
-            <h5 class="sd_suti_info">¿Qué incluye el servicio <span class="verde">de Desarrollo de marca? <br> Para Da </span> le click <a href="#!">AQUI</a> </h5>
+    <ul class="collapsible">
+      <li>
+        <div class="container-fluid bg_grey collapsible-header">
+          <div class="row" style="margin-bottom: 0px;">
+             <div class="col s12 m12">
+              <h5 class="sd_suti_info">¿Qué incluye el servicio <span class="verde">de Desarrollo de marca? <br> Para Da </span> le click <a href="#!">AQUI</a> </h5>
+            </div>
           </div>
         </div>
+        <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
+      </li>
+    </ul>
+<br>
+    <div class="container-fluid bg_grey">
+      <div class="row" style="margin-bottom: 0px;">
+        <div class="col s12 m12">
+          <h5 class="sd_suti_info">¿Tiene Update casos de exito en desarrollo de marca?
+            <span class="verde">Porsupuesto, revísalos, </span><a href="#!" style="color: white;">AQUI</a>
+          </h5>
+        </div>
       </div>
+    </div>
+<br>
+    <div class="container-fluid bg_verde">
+      <div class="row" style="margin-bottom: 0px;">
+        <div class="col s12 m12" style="padding: 35px;">
+        
+          <h5 class="sd_sut2">¿Cómo puedo contactarlos?</h5>
+          <P class="sd_sut3">Comunícate ahora al w934244258 o bríndanos tus datos aquí</P>
+          <P class="sd_sut4">También puedes escribirnos a info@update.pe</P>
+      
+        </div>
+      </div>
+    </div>
 
 
 
 
 
+<div class="container-fluid info_txt bg_info" align="center">
+  <div class="row" style="margin: 0;">
+    <div class="col s12 m6 l6 bg_contac" style="padding: 0px;"> 
 
-      <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
-    </li>
-  </ul>
+      <img src="images/a-9-decc-888.jpg" class="bg_contac">
+      
+    </div>
+    <div class="col s12 m6 l6"> 
 
-
-
-
-
-
-
-
-
-<!--   <ul class="collapsible">
-    <li>
-      <div class="collapsible-header">First</div>
-      <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
-    </li>
-  </ul>
-
-
-
-
-
-
-
- -->
-
-
-
+       <div class="row">
+          <form>
+            <div class="row">
+              <div class="input-field col s12">
+                <input id="first_name" type="text" class="validate">
+                <label for="first_name">Nombre Apellido</label>
+              </div>
+               <div class="input-field col s12">
+                <input id="first_name" type="text" class="validate">
+                <label for="first_name">Tu Email</label>
+              </div>
+               <div class="input-field col s12">
+                <input id="first_name" type="text" class="validate">
+                <label for="first_name">Tu Celular</label>
+              </div>
+               <div class="input-field col s12">
+                <input id="first_name" type="text" class="validate">
+                <label for="first_name">Tu Consulta</label>
+              </div>
+            </div>
+            <a href="#!" class="btn">Contactame</a>
+          </form>
+        </div>
+    
+    </div>
+  </div>
+</div>
 
 
 
