@@ -89,7 +89,7 @@
       <ul>
         <li><a href="#" class="btn-floating colormenu4 tooltipped button-collapse" data-position="left"  data-delay="50" data-tooltip="Contacto" data-activates="slide-out"><i class="material-icons">perm_phone_msg</i></a></li>
         <li><a href="https://api.whatsapp.com/send?phone=0051934244258" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Puedes Escribir por Whatsapp" ><img src="img/whatsapp.svg" width="27" style="color: white; padding-top: 6px;"></a></li>
-        <li><a href="blog/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Blog"><i class="material-icons">developer_mode</i></a></li>
+        <li><a href="blog.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Blog"><i class="material-icons">developer_mode</i></a></li>
         <li><a href="webs/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Diseño Web">  <i class="material-icons">desktop_mac</i></a></li>
         <li><a href="marcas/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Desarrollo de Marcas" href=""><i class="material-icons">brush</i></a></li>       
       </ul>
@@ -112,6 +112,7 @@
             while($filaNot = mysqli_fetch_array($resultadoNoticias)){
               $xCodigo    = $filaNot['cod_noticia'];
               $xTitulo    = $filaNot['titulo'];
+              $xSlug      = $filaNot['slug'];
               $xImagen    = $filaNot['imagen'];
               $xNoticia   = $filaNot['noticia'];
               $xAutor     = $filaNot['autor'];
@@ -122,7 +123,7 @@
             <div class="card z-depth-2">
               <div class="card-image">
                 <img src="cms/assets/img/noticias/<?php echo $xImagen; ?>">
-                <a class="btn-floating halfway-fab waves-effect waves-light red" href="blog/post.php?cod_noticia=<?php echo $xCodigo; ?>" target="blank_"><i class="material-icons">add</i></a>
+                <a class="btn-floating halfway-fab waves-effect waves-light red" href="/blog/<?php echo $xSlug; ?>" target="blank_"><i class="material-icons">add</i></a>
               </div>
               <div class="card-content">
                 <span class="card-title uptext"><?php echo $xTitulo; ?></span>

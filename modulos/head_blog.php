@@ -7,16 +7,16 @@
 <meta name="description" content="Somos una Agencia de Marketing en Perú, especializada en desarrollo de marca, Diseño y Desarrollo web, Estrategias de Marketing tradicional y Marketing Digital con visión global, anteponemos tus objetivos comerciales sin dejar el lado creativo." />
 <meta name="keywords" content="marketing, marketing digital, diseño web, diseño grafico, desarrollo de marca, creación de logotipos, paginas webs, branding" />
 <meta name="author" content="luis alberto bernal fuentes" />
-    
+
 <!--Import Google Icon Font-->
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
 <!--Import materialize.css-->
-<link type="text/css" rel="stylesheet" href="/css/materialize.min.css"  media="screen,projection" />
+<link type="text/css" rel="stylesheet" href="/css/materialize.min_blog.css"  media="screen,projection" />
 <link rel="stylesheet" type="text/css" href="/css/animate.css" />
 <link rel="stylesheet" type="text/css" href="/css/font-awesome.css" />
-<link rel="stylesheet" type="text/css" href="/css/materialize.css" />
-<link rel="stylesheet" type="text/css" href="/css/style.css" />
-<link rel="stylesheet" type="text/css" href="/css/custom.css" />
+<link rel="stylesheet" type="text/css" href="/css/materialize_blog.css" />
+<link rel="stylesheet" type="text/css" href="/css/style_blog.css" />
+<link rel="stylesheet" type="text/css" href="/css/custom_blog.css" />
 <!-- Global site tag (gtag.js) - Google Pichuytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-74004200-1"></script>
 <script>
