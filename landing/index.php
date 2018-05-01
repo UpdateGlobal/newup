@@ -132,7 +132,7 @@
           <div class="col s12 m6 l6   bg_2">
           <div class="container mg_l mg_r">
             <span><img src="images/icon-02.png" class="item_img" ></span>
-            <h3 class="item_info uptext">¿Qué necesito para empezar con el servicio de desarrollo de marca?</h3>
+            <h3 class="item_info uptext">¿Qué necesito para empezar a desarrollar mi marca?</h3>
             <hr class="hr">
             <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
             </div> 
@@ -208,7 +208,7 @@
         <div class="container-fluid bg_grey collapsible-header">
           <div class="row" style="margin-bottom: 0px;">
              <div class="col s12 m12">
-              <h5 class="sd_suti_info">¿Qué incluye el servicio <span class="verde">de Desarrollo de marca? <br> Para Dale </span>  click <a href="#!" style="text-rendering: all;">AQUI</a> </h5>
+              <h5 class="sd_suti_info">¿Qué incluye el servicio <span class="verde">de Desarrollo de marca? <br> Para enterarte Dale </span>  click AQUI <a href="#!" style="text-rendering: all;"></a> </h5>
             </div>
           </div>
         </div>
@@ -218,9 +218,9 @@
           <div class="col s12 m12 l12" align="center">
           <div class="container mg_l mg_r">
             <span><img src="images/icon-10.png" class="item_img" ></span>
-              <p class="servives">Creación de Nombre <br>  Logotipo Imagotipo, Isotipo, Isologo <br> Personalidad de marca <br> Manual de usabilidad de Logo <br> Diseño de Carpeta de Presentación: <br> (Tarjetas, Folder, Hoja M) <br> Diseño de Brouchure <br> Diseño de Firma Digital <br> Diseño de Packagying</p>
+              <p class="servives">Creación de Nombre <br>  Logotipo Imagotipo, Isotipo, Isologo <br> Personalidad de marca <br> Manual de usabilidad de Logo <br> Diseño de Carpeta de Presentación: <br> (Tarjetas, Folder, Hoja M) <br> Diseño de Brouchure <br> Diseño de Firma Digital <br> Diseño de Packaging</p>
               <hr class="hr">
-              <p class="servives">Estrategia de posicionamiento Primer Slogan</p>
+              <p class="servives">Estrategia de posicionamiento<br>Primer Slogan</p>
               <hr class="hr">
               <p class="servives">1 Sitio Web ó <br> E-Commerce</p>
               <hr class="hr">
