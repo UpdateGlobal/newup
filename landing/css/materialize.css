@@ -5214,7 +5214,7 @@ small {
 .btn, .btn-large {
   text-decoration: none;
   color: #fff;
-  background-color: #787878;
+  background-color: #343438;
   text-align: center;
   letter-spacing: .5px;
   -webkit-transition: .2s ease-out;
@@ -6026,12 +6026,12 @@ textarea.materialize-textarea {
   height: 3rem;
   width: 100%;
   font-size: 1rem;
-  margin: 0 0 20px 0;
+  /* margin: 0 0 0px 0; */
   padding: 0;
   -webkit-box-shadow: none;
-          box-shadow: none;
+  box-shadow: none;
   -webkit-box-sizing: content-box;
-          box-sizing: content-box;
+  box-sizing: content-box;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
 }
@@ -8164,7 +8164,7 @@ input[type=range]:focus::-ms-fill-upper {
 
 .slider .slides li .caption {
     position: absolute;
-    top: 25%;
+    top: 15%;
     left: 48%;
     width: 40%;
     opacity: 0;

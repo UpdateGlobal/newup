@@ -42,16 +42,50 @@
        <!-- Global site tag (gtag.js) - Google Pichuytics -->
       <!--maquina de escribir-->
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-      
-
 </head>
 <body>
 
+<!--menuluis-->
+<style type="text/css">
+.colormenu4{background-color: #4db6ac;}
+</style>
+<ul id="slide-out" class="side-nav">
+  <li>
+    <script id="bx24_form_inline" data-skip-moving="true">
+            (function(w,d,u,b){w['Bitrix24FormObject']=b;w[b] = w[b] || function(){arguments[0].ref=u;
+                    (w[b].forms=w[b].forms||[]).push(arguments[0])};
+                    if(w[b]['forms']) return;
+                    var s=d.createElement('script');s.async=1;s.src=u+'?'+(1*new Date());
+                    var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+            })(window,document,'https://updatemarketing.bitrix24.es/bitrix/js/crm/form_loader.js','b24form');
+
+            b24form({"id":"8","lang":"la","sec":"82jy61","type":"inline"});
+    </script>
+  </li>
+</ul>
+ <div class="fixed-action-btn vertical click-to-toggle">
+    <a class="btn-floating btn-large colormenu1 pulse" >
+      <i class="large material-icons">apps</i>
+    </a>
+    <ul>
+      <li><a href="#" class="btn-floating colormenu4 tooltipped button-collapse" data-position="left"  data-delay="50" data-tooltip="Contacto" data-activates="slide-out"><i class="material-icons">perm_phone_msg</i></a></li>
+      <li><a href="https://api.whatsapp.com/send?phone=0051934244258" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Puedes Escribir por Whatsapp">
+        <img src="img/whatsapp.svg" width="27" style="color: white; padding-top: 6px;">
+      </a></li>
+      <li><a href="../blog/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Blog">   <i class="material-icons">developer_mode</i></a></li>
+      <li><a href="../webs/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Diseño Web">  <i class="material-icons">desktop_mac</i></a></li> 
+       <li><a href="../index.php" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Ir al Inicio">
+        <img src="img/home.svg" width="27" style="color: white; padding-top: 8px;">
+      </a></li>     
+    </ul>
+  </div>
+<!--menuluis-->
 
 
 
 
-  <nav class="hide-on-med-and-up">
+
+    <nav class="hide-on-med-and-up">
     <div class="nav-wrapper">
       <!-- <a href="#" class="brand-logo">Logo</a> -->
       <ul id="nav-mobile" class="right hide-on-med-and-down">
@@ -61,9 +95,7 @@
         <li><a href="#contac">Contacto</a></li>
       </ul>
     </div>
-  </nav>
-
-
+    </nav>
     <!--sliderDesktop-->  
     <div class="slider hide-on-med-and-down">
       <ul class="slides">
@@ -76,17 +108,22 @@
         </li>
       </ul>
     </div>
-
+    <div class="div hide-on-med-and-down" align="right"><a href="../index.php">
+    <img src="images/logo-update-20185@2x.png" class="responsive-img"></a>
+    </div>
     <!--sliderDesktop-->
     
     <!--sliderMovil-->  
     <div class="bg_v hide-on-med-and-up">
-      <div class="caption" style="padding: 20px; margin-top: -55px;">
-          <h3 class="sd_ti">Esto es sólo “para empresarios soñadores”</h3>
+      <div class="caption" style="padding: 8px; margin-top: -55px;">
+          <h3 class="sd_ti">Esto es sólo “para <span class="tet"> Empresarios Soñadores”</span> </h3>
       </div>
     </div>
     <div class="row hide-on-med-and-up" style="margin: 0px; background-image: url('images/993.jpg'); background-size: cover; background-repeat: no-repeat;">
     <h3 class="title_movil">NO TE QUEDES<br> EN LO MISMO</h3>
+    </div>
+    <div class="div2 hide-on-med-and-up" align="right">
+    <img src="images/logo-update-20185.png" class="responsive-img">
     </div>
     <!--sliderMovil-->
 
@@ -110,14 +147,11 @@
       </div>
     </div>
     <!--efectmachiwrite-->
-
-
     <div class="container-fluid" align="center">
       <div class="row" style="margin: 0px;">
           <h5 class="sd_suti" style="margin: 50px 0px 50px;">Lo que <span class="verde">necesitas saber</span> </h5>
       </div>
     </div>
-
     <!--infoItem-->
     <div class="container-fluid hide-on-med-and-down" align="center">
         <div class="row" style="margin: 0;">
@@ -198,11 +232,6 @@
         </div>
     </div>
     <!--infoItemmovil-->
-
- 
-
-
-
     <ul class="collapsible">
       <li>
         <div class="container-fluid bg_grey collapsible-header">
@@ -237,8 +266,6 @@
         </div>
       </li>
     </ul>
-
-
     <!--infoItem-->
     <div class="container-fluid hide-on-med-and-down" align="center">
         <div class="row" style="margin: 0;">
@@ -325,7 +352,7 @@
       <div class="row" style="margin-bottom: 0px;">
         <div class="col s12 m12">
           <h5 class="sd_suti_info">¿Tiene Update casos de éxito en desarrollo de marca?
-            <span class="verde">Porsupuesto, revísalos, </span><a href="#!" style="color: white;">AQUÍ</a>
+            <span class="verde">Porsupuesto, revísalos, </span><a href="../marcas" style="color: white;">AQUÍ</a>
           </h5>
         </div>
       </div>
@@ -335,7 +362,7 @@
       <div class="row" style="margin-bottom: 0px;">
         <div class="col s12 m12" style="padding: 35px;">
           <h5 class="sd_sut2">¿Cómo puedo contactarlos?</h5>
-          <P class="sd_sut3">Comunícate ahora al w934244258 o bríndanos tus datos aquí</P>
+          <P class="sd_sut3">Comunícate ahora al <i class="fab fa-whatsapp"></i> 934244258 o bríndanos tus datos aquí</P>
           <P class="sd_sut4">También puedes escribirnos a info@update.pe</P>
         </div>
       </div>
@@ -345,7 +372,7 @@
       <div class="row" style="margin: 0;">
         <div class="col s12 m6 l6 bg_contac" style="padding: 0px;"> 
 
-          <img src="images/a-9-decc-888.jpg" class="bg_contac responsive-img">
+          <img src="images/a-9-decc-888.jpg" class="bg_contac responsive-img" style="height: 325px;">
           
         </div>
         <div class="col s12 m6 l6" id="contac"> 
@@ -386,10 +413,7 @@
         </div>
       </div>
     </div>
-
-
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d975.38335528687!2d-77.09345382634368!3d-12.075590421389505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c96ff8023dc7%3A0xe2b0a2ebfb211589!2sPlexus+Centro+Empresarial!5e0!3m2!1ses-419!2spe!4v1525122313720" height="450" frameborder="0" style="border:0; width: 100%;" allowfullscreen></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d975.38335528687!2d-77.09345382634368!3d-12.075590421389505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c96ff8023dc7%3A0xe2b0a2ebfb211589!2sPlexus+Centro+Empresarial!5e0!3m2!1ses-419!2spe!4v1525122313720" height="450" frameborder="0" style="border:0; width: 100%;" allowfullscreen></iframe>
 
 
 
@@ -427,12 +451,12 @@
           $('select').material_select();
           $('.slider').slider({
             indicators: false,
-            height: 1000
+            height: 700
           });
           $(".button-collapse").sideNav();
 
         });
 
     </script>
- </body>
- </html>
+</body>
+</html>

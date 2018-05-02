@@ -9,20 +9,15 @@
 }
 
 .bg_v{
-    background-color: #53bcbd50;
+    background-color: #343438;
     text-align: center;
     color: white;
 }
 
 
-.bg_v{
-    background-color: #53bcbd50;
-    text-align: center;
-    color: white;
-}
 
 .bg_grey{
-    background-color: #787878; 
+    background-color: #343438; 
     color: white;
     text-align: center;
 }
@@ -36,13 +31,35 @@
 
 /*Slider*/
 
+.tet{
+    color:#53b6ba;
+    font-size: 28px;
+}
+
+.div {
+    width: 35vh;
+    position: absolute;
+    right: 170px;
+    margin-top: -250px;
+    z-index: 99;
+}
+
+.div2 {
+    position: absolute;
+    z-index: 99;
+    right: 12px;
+    margin-top: -90px;
+    width: 128px;
+}
+
+
 .title_movil{
     padding: 100px 10px 100px;
     text-align: right;
     margin: 0px;
     font-size: 32px;
     font-family: "update";
-    color: #787878;
+    color: #343438;
 }
 
 
@@ -69,9 +86,10 @@
 
 
 .sd_ti{
-    font-size: 35px;
+    font-size: 26px;
+    line-height: 35px;
     font-family: "update";
-    color: #fff;  
+    color: #fff;
     margin-left: 8%;
     margin-right: 8%;
 }
@@ -191,7 +209,7 @@
 }
 
 .servives{
-    color: #585858;
+    color: #343438;
     font-family: "updateregular";
     line-height: 33px;
     font-size: 18px;
