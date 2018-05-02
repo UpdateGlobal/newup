@@ -107,7 +107,7 @@
                 $posicion = ($pagina-1)*$registros_por_paginas;
                 $limite = "LIMIT $posicion, $registros_por_paginas";
 
-                $consultarNoticias = "SELECT * FROM noticias WHERE cod_categoria='$cod_categoria' ORDER BY fecha,cod_noticia ASC $limite";
+                $consultarNoticias = "SELECT * FROM noticias WHERE cod_categoria='$cod_categoria' ORDER BY fecha,cod_noticia DESC $limite";
                 $resultadoNoticias = mysqli_query($enlaces,$consultarNoticias) or die('Consulta fallida: ' . mysqli_error($enlaces));
                 while($filaNot = mysqli_fetch_array($resultadoNoticias)){
                   $xCodigo    = $filaNot['cod_noticia'];
