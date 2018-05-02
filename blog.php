@@ -115,7 +115,7 @@
               <div class="card">
                 <div class="card-image">
                   <img src="/cms/assets/img/noticias/<?php echo $xImagen; ?>">
-                  <a class="btn-floating halfway-fab waves-effect waves-light red" href="/blog/<?php echo $xSlugn; ?>" target="blank_"><i class="material-icons">add</i></a>
+                  <a class="btn-floating halfway-fab waves-effect waves-light red" href="/blog/<?php echo $xSlugn; ?>"><i class="material-icons">add</i></a>
                 </div>
                 <div class="card-content">
                   <span class="card-title uptext"><?php echo $xTitulo; ?></span>
