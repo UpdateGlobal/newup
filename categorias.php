@@ -55,7 +55,7 @@
     <div class="parallax-container">
       <div class="parallax"><img src="/img/base-icon.jpg" style=" opacity: 0.5"></div>
       <div class="row" align="center">
-        <h1 class="uptext2 gris" style="font-size: 72px; margin-top: 90px;" >Blog de Noticias Update</h1>
+        <h1 class="uptext2 text-titulo-blog gris" >Blog de Noticias Update</h1>
       </div>
     </div>
     <!--efectmachiwrite-->
