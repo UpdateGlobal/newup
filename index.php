@@ -107,7 +107,7 @@
           <h3 class="uptext center-align" style=" margin-top: 0px; padding-top: 50px;">Ultimas Publicaciones</h3>
           <p class="uptextregular subtitulo_info" align="center">Compartimos contigo novedades, tendencias y opiniones respecto al Marketing, el Desarrollo web, el marketing digital y la estrategia</p>
           <?php
-            $consultarNoticias = "SELECT * FROM noticias ORDER BY fecha DESC LIMIT 3";
+            $consultarNoticias = "SELECT * FROM noticias WHERE estado='1' ORDER BY fecha DESC LIMIT 3";
             $resultadoNoticias = mysqli_query($enlaces,$consultarNoticias) or die('Consulta fallida: ' . mysqli_error($enlaces));
             while($filaNot = mysqli_fetch_array($resultadoNoticias)){
               $xCodigo    = $filaNot['cod_noticia'];
@@ -123,7 +123,7 @@
             <div class="card z-depth-2">
               <div class="card-image">
                 <img src="cms/assets/img/noticias/<?php echo $xImagen; ?>">
-                <a class="btn-floating halfway-fab waves-effect waves-light red" href="/blog/<?php echo $xSlug; ?>" target="blank_"><i class="material-icons">add</i></a>
+                <a class="btn-floating halfway-fab waves-effect waves-light red" href="/blog/<?php echo $xSlug; ?>"><i class="material-icons">add</i></a>
               </div>
               <div class="card-content">
                 <span class="card-title uptext"><?php echo $xTitulo; ?></span>
