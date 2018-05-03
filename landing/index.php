@@ -255,7 +255,8 @@
               <hr class="hr">
               <p class="servives">Línea Gráfica de 2 redes sociales <br> (Perfil,  Portada, Formato de Publicación)</p>
               <hr class="hr">
-              <p class="servives">1 envio de Email Marketing Implementación de: <br> 1 campaña google <br> ó <br> 1 campaña en red social </p>
+              <p class="servives">1 envio de Email Marketing<br>
+              	Implementación de: <br> 1 campaña google <br> ó <br> 1 campaña en red social </p>
 
               <a href="#contac" class="btn">Contactanos YA!</a>
 
