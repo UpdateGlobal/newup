@@ -100,7 +100,21 @@
     <div class="slider hide-on-med-and-down">
       <ul class="slides">
         <li>
-          <img src="images/993.jpg"> 
+          <img src="images/996.jpg"> 
+          <div class="caption" style="padding: 20px; ">
+            <h3 class="sd_ti">Esto es sólo “para empresarios soñadores”</h3>
+            <h5 class="sd_suti">NO TE QUEDES EN LO MISMO</h5>
+          </div>
+        </li>
+         <li>
+          <img src="images/994.jpg"> 
+          <div class="caption" style="padding: 20px; ">
+            <h3 class="sd_ti">Esto es sólo “para empresarios soñadores”</h3>
+            <h5 class="sd_suti">NO TE QUEDES EN LO MISMO</h5>
+          </div>
+        </li>
+         <li>
+          <img src="images/995.jpg"> 
           <div class="caption" style="padding: 20px; ">
             <h3 class="sd_ti">Esto es sólo “para empresarios soñadores”</h3>
             <h5 class="sd_suti">NO TE QUEDES EN LO MISMO</h5>
@@ -193,7 +207,7 @@
     </div>
     <!--infoItem-->
     <!--infoItemMovil-->
-    <div class="container-fluid hide-on-med-and-up" align="center">
+    <div class="container-fluid hide-on-large-only" align="center">
         <div class="row" style="margin: 0;">
           <div class="col s12 m6 l6 bg_1 ">
           <div class="container mg_l mg_r">
@@ -307,7 +321,7 @@
     </div>
     <!--infoItem-->
     <!--infoItemMovil-->
-    <div class="container-fluid hide-on-med-and-up" align="center">
+    <div class="container-fluid hide-on-large-only" align="center">
         <div class="row" style="margin: 0;">
           <div class="col s12 m6 l6 bg_1 ">
           <div class="container mg_l mg_r">
@@ -360,7 +374,7 @@
 
     <div class="container-fluid bg_verde">
       <div class="row" style="margin-bottom: 0px;">
-        <div class="col s12 m12" style="padding: 35px;">
+        <div class="col s12 m12 " style="padding: 35px;">
           <h5 class="sd_sut2">¿Cómo puedo contactarlos?</h5>
           <P class="sd_sut3">Comunícate ahora al <i class="fab fa-whatsapp"></i> 934244258 o bríndanos tus datos aquí</P>
           <P class="sd_sut4">También puedes escribirnos a info@update.pe</P>
@@ -370,15 +384,15 @@
 
     <div class="container-fluid info_txt bg_info" align="center">
       <div class="row" style="margin: 0;">
-        <div class="col s12 m6 l6 bg_contac" style="padding: 0px;"> 
+        <div class="col s12 m8 l7 bg_contac" style="padding: 0px;"> 
 
-          <img src="images/a-9-decc-888.jpg" class="bg_contac responsive-img" style="height: 325px;">
+          <img src="images/a-9-decc-888.jpg" class="bg_contac responsive-img" style="height: auto;">
           
         </div>
-        <div class="col s12 m6 l6" id="contac"> 
+        <div class="col s12 m4 l5" id="contac"> 
           <div class="container">
-           <div class="row">
-              <form><br>
+           <div class="row" style="margin: 0px;">
+              <form>
                 <div class="row">
                   <div class="input-field col s12">
                     <input id="first_name" type="text" class="validate">
@@ -398,7 +412,8 @@
                   </div>
                 </div>
                 <a href="#!" class="btn">Contactame</a>
-              </form>
+
+              </form><br>
             </div>
           </div>  
         </div>
