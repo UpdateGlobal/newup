@@ -87,7 +87,7 @@
         <div class="col s12 m9">
           <div class="row">
             <?php
-              $consultarNoticias = "SELECT * FROM noticias WHERE cod_categoria='$cod_categoria' AND estado='1' DESC";
+              $consultarNoticias = "SELECT * FROM noticias WHERE cod_categoria='$cod_categoria' AND estado='1'";
               $resultadoNoticias = mysqli_query($enlaces, $consultarNoticias);
               $total_registros = mysqli_num_rows($resultadoNoticias);
               if($total_registros==0){ 
@@ -107,7 +107,7 @@
                 $posicion = ($pagina-1)*$registros_por_paginas;
                 $limite = "LIMIT $posicion, $registros_por_paginas";
 
-                $consultarNoticias = "SELECT * FROM noticias WHERE cod_categoria='$cod_categoria' ORDER BY fecha DESC $limite";
+                $consultarNoticias = "SELECT * FROM noticias WHERE cod_categoria='$cod_categoria' AND estado='1' ORDER BY fecha DESC $limite";
                 $resultadoNoticias = mysqli_query($enlaces,$consultarNoticias) or die('Consulta fallida: ' . mysqli_error($enlaces));
                 while($filaNot = mysqli_fetch_array($resultadoNoticias)){
                   $xCodigo    = $filaNot['cod_noticia'];
