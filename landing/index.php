@@ -30,7 +30,7 @@
       <script src="https://use.fontawesome.com/3c86cf9c2d.js"></script>
       <!--Import Google Icon Font-->
       <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-      <!-- Global site tag (gtag.js) - Google Pichuytics -->
+      <!-- Global site tag (gtag.js) - Google Pichulytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-74004200-1"></script>
         <script>
           window.dataLayer = window.dataLayer || [];
@@ -39,7 +39,7 @@
 
           gtag('config', 'UA-74004200-1');
         </script>
-       <!-- Global site tag (gtag.js) - Google Pichuytics -->
+       <!-- Global site tag (gtag.js) - Google Pichulytics -->
       <!--maquina de escribir-->
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 </head>
@@ -100,7 +100,14 @@
     <div class="slider hide-on-med-and-down">
       <ul class="slides">
         <li>
-          <img src="images/996.jpg"> 
+          <img src="images/995.jpg"> 
+          <div class="caption" style="padding: 20px; ">
+            <h3 class="sd_ti">Es momento de "Llevar a tu empresa al siguiente nivel"</h3>
+            <h5 class="sd_suti">DALE POTENCIA TU NEGOCIO</h5>
+          </div>
+        </li>
+         <li>
+          <img src="images/993.jpg"> 
           <div class="caption" style="padding: 20px; ">
             <h3 class="sd_ti">Esto es sólo “para empresarios soñadores”</h3>
             <h5 class="sd_suti">NO TE QUEDES EN LO MISMO</h5>
@@ -109,15 +116,8 @@
          <li>
           <img src="images/994.jpg"> 
           <div class="caption" style="padding: 20px; ">
-            <h3 class="sd_ti">Esto es sólo “para empresarios soñadores”</h3>
-            <h5 class="sd_suti">NO TE QUEDES EN LO MISMO</h5>
-          </div>
-        </li>
-         <li>
-          <img src="images/995.jpg"> 
-          <div class="caption" style="padding: 20px; ">
-            <h3 class="sd_ti">Esto es sólo “para empresarios soñadores”</h3>
-            <h5 class="sd_suti">NO TE QUEDES EN LO MISMO</h5>
+            <h3 class="sd_ti">No todo es "sólo lo que pagas, sino lo que recibes”</h3>
+            <h5 class="sd_suti">NO HAY TIEMPO PARA EXCUSAS</h5>
           </div>
         </li>
       </ul>
@@ -130,11 +130,11 @@
     <!--sliderMovil-->  
     <div class="bg_v hide-on-med-and-up">
       <div class="caption" style="padding: 8px; margin-top: -55px;">
-          <h3 class="sd_ti">Esto es sólo “para <span class="tet"> Empresarios Soñadores”</span> </h3>
+          <h3 class="sd_ti">Es momento de <span class="tet"> "llevar a tu empresa a otro nivel”</span> </h3>
       </div>
     </div>
     <div class="row hide-on-med-and-up" style="margin: 0px; background-image: url('images/993.jpg'); background-size: cover; background-repeat: no-repeat;">
-    <h3 class="title_movil">NO TE QUEDES<br> EN LO MISMO</h3>
+    <h3 class="title_movil">DALE POTENCIA<br> A TU NEGOCIO</h3>
     </div>
     <div class="div2 hide-on-med-and-up" align="right">
     <img src="images/logo-update-20185.png" class="responsive-img">
@@ -144,11 +144,11 @@
     <!--efectmachiwrite-->
     <div style="background-color: #53bcbd; margin-top: -4px;" align="center">
       <div class="row" style="padding: 30px 30px 30px; margin-bottom: 0px;">
-      <h1 class="uptext">Es el momento de pasar al siguiente nivel:  <br><span class="gris" id="typed"></span></h1>
+      <h1 class="uptext">Desarrollamos tu marca:  <br><span class="gris" id="typed"></span></h1>
             <script type="text/javascript">
               $(function(){
                 $("#typed").typed({
-                  strings: ["Desarrolla tu Marca  y...", "Potencia tu negocio"],
+                  strings: ["Engancha con tu público", "Posiciona tu marca","Adáptate a la era digital y...", "Vende más!!!"],
                   typeSpeed: 30,
                   backDelay: 500,
                   loop: true,
@@ -163,7 +163,7 @@
     <!--efectmachiwrite-->
     <div class="container-fluid" align="center">
       <div class="row" style="margin: 0px;">
-          <h5 class="sd_suti" style="margin: 50px 0px 50px;">Lo que <span class="verde">necesitas saber</span> </h5>
+          <h5 class="sd_suti" style="margin: 50px 0px 50px;">Lo que <span class="verde">necesitas saber ¿?</span> </h5>
       </div>
     </div>
     <!--infoItem-->
@@ -174,7 +174,7 @@
             <span><img src="images/icon-09.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Qué conseguiré desarrollando mi marca con Update ?</h3>
             <hr class="hr">
-            <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p class="uptext_icon">Una imagen fresca, potente  en la era digital, conecta con tu público objetivo con un concepto, desde tu sitio web y redes sociales. NO HAY EMPRESA CHICA NI GRANDE, solo sirve LA PRESENTACIÓN  con una identidad digital profesional.</p>
             </div> 
           </div>
           <div class="col s12 m6 l6   bg_2">
@@ -182,7 +182,7 @@
             <span><img src="images/icon-02.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Qué necesito para empezar a desarrollar mi marca?</h3>
             <hr class="hr">
-            <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p class="uptext_icon">Sólo necesitas convicción, decisión, las ganas de hacerlo y estar convencido. Todo inicia por la confianza en que eres capaz. En Update te guiamos y nos encargamos de todo el proceso con entregables de primera calidad.</p>
             </div> 
           </div>
         </div>
@@ -192,7 +192,7 @@
             <span><img src="images/icon-03.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Con el servicio puedo obtener una página web para mi marca?</h3>
             <hr class="hr">
-            <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p class="uptext_icon">Por supuesto, nuestro servicio de desarrollo de marca incluye un sitio web acorde a las necesidades de la era digital. Bien dirigida, muy bien diseñada, Optimizada para google, Responsiva y, sobre todo que impacte, comunique y venda.</p>
             </div> 
           </div>
         <div class="col s12 m6 l6 bg_1">
@@ -200,7 +200,7 @@
             <span><img src="images/icon-04.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Cuanto cuesta el servicio desarrollo de Marca?</h3>
             <hr class="hr">
-            <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p class="uptext_icon">El costo de nuestro servicio esta en función de lo que tu empresa requiere. Obten una consultoría gratuita llamando al +51934244258. También brindamos consultorias gratuitas a los asociados a la Camara de Comercio, los días miercoles.</p>
             </div> 
           </div>
         </div>
@@ -214,7 +214,7 @@
             <span><img src="images/icon-09.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Qué conseguiré desarrollando mi marca con Update ?</h3>
             <hr class="hr">
-            <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p class="uptext_icon">Una imagen fresca, potente  en la era digital, conecta con tu público objetivo con un concepto, desde tu sitio web y redes sociales. NO HAY EMPRESA CHICA NI GRANDE, solo sirve LA PRESENTACIÓN  con una identidad digital profesional.</p>
             </div> 
           </div>
           <div class="col s12 m6 l6   bg_2">
@@ -222,7 +222,7 @@
             <span><img src="images/icon-02.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Qué necesito para empezar con el servicio de desarrollo de marca?</h3>
             <hr class="hr">
-            <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p class="uptext_icon">Sólo necesitas convicción, decisión, las ganas de hacerlo y estar convencido. Todo inicia por la confianza en que eres capaz. En Update te guiamos y nos encargamos de todo el proceso con entregables de primera calidad.</p>
             </div> 
           </div>
         </div>
@@ -232,7 +232,7 @@
             <span><img src="images/icon-03.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Con el servicio puedo obtener una página web para mi marca?</h3>
             <hr class="hr">
-            <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p class="uptext_icon">Por supuesto, nuestro servicio de desarrollo de marca incluye un sitio web acorde a las necesidades de la era digital. Bien dirigida, muy bien diseñada, Optimizada para google, Responsiva y, sobre todo que impacte, comunique y venda.</p>
             </div> 
           </div>
         <div class="col s12 m6 l6 bg_2">
@@ -240,7 +240,7 @@
             <span><img src="images/icon-04.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Cuanto cuesta el servicio desarrollo de Marca?</h3>
             <hr class="hr">
-            <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p class="uptext_icon">Sólo necesitas convicción, decisión, las ganas de hacerlo y estar convencido. Todo inicia por la confianza en que eres capaz. En Update te guiamos y nos encargamos de todo el proceso con entregables de primera calidad.</p>
             </div> 
           </div>
         </div>
@@ -261,13 +261,13 @@
           <div class="col s12 m12 l12" align="center">
           <div class="container mg_l mg_r">
             <span><img src="images/icon-10.png" class="item_img" ></span>
-              <p class="servives">Creación de Nombre <br>  Logotipo Imagotipo, Isotipo, Isologo <br> Personalidad de marca <br> Manual de usabilidad de Logo <br> Diseño de Carpeta de Presentación: <br> (Tarjetas, Folder, Hoja M) <br> Diseño de Brouchure <br> Diseño de Firma Digital <br> Diseño de Packaging</p>
+              <p class="servives">Análisis y Diagnostico de tu marca, producto o servicio <br> Creación o Análisis de Nombre <br>  Logotipo Imagotipo, Isotipo, Isologo <br> Personalidad de marca <br> Manual de usabilidad de Logo <br> Diseño de Carpeta de Presentación: <br> (Tarjetas, Folder, Hoja M) <br> Diseño de Brouchure <br> Diseño de Firma Digital <br> Diseño de Packaging</p>
               <hr class="hr">
-              <p class="servives">Estrategia de posicionamiento<br>Primer Slogan</p>
+              <p class="servives">Estrategia de posicionamiento<br>Propuesta de Valor única<br>Primer Slogan</p>
               <hr class="hr">
               <p class="servives">1 Sitio Web ó <br> E-Commerce</p>
               <hr class="hr">
-              <p class="servives">Línea Gráfica de 2 redes sociales <br> (Perfil,  Portada, Formato de Publicación)</p>
+              <p class="servives">Creación y desarrollo de 2 redes sociales<br>(difunde tu sitio web, tus productos y servicios)<br>(Perfil,  Portada, Formato de Publicación)</p>
               <hr class="hr">
               <p class="servives">1 envio de Email Marketing<br>
               	Implementación de: <br> 1 campaña google <br> ó <br> 1 campaña en red social </p>
@@ -289,7 +289,7 @@
             <span><img src="images/icon-05.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Cuanto tiempo dura el desarrollo de marca con Update?</h3>
             <hr class="hr">
-            <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p class="uptext_icon">Dependiendo de tu proyecto, los estimados para lograr el desarrollo de tu marca son entre 15 y 20 ó entre 20 y 30 días. Tiempo que dedicaremos plenamente a entender tu negocio y así brindarte los mejores entregables.</p>
             </div> 
           </div>
           <div class="col s12 m6 l6   bg_2">
@@ -297,7 +297,7 @@
             <span><img src="images/icon-06.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Aceptan todos los medios de pago posibles?</h3>
             <hr class="hr">
-            <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p class="uptext_icon">SI, aceptamos todos los medios de pago. Todas las tarjetas de crédito, cheques, etc. Brindamos esta facilidad con el objetivo que no tengas excusa para desarrollar tu proyecto. Somos tu aliado comercial.</p>
             </div> 
           </div>
         </div>
@@ -307,7 +307,7 @@
             <span><img src="images/icon-07.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Es factible trabajar con formas de pago financiadas?</h3>
             <hr class="hr">
-            <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p class="uptext_icon">SI, es posible. No busques excusas para quedarte en lo mismo. Plantea a Update una forma de pago y empezamos a trabajar. Así de simple. Todo es posible con tu decisión. No esperes más tiempo. Conversemos ya!</p>
             </div> 
           </div>
         <div class="col s12 m6 l6 bg_1">
@@ -315,7 +315,7 @@
             <span><img src="images/icon-08.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Cómo garantizan los resultados en Update Global Marketing?</h3>
             <hr class="hr">
-            <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p class="uptext_icon">Somos una Agencia de Marketing con profesionales de mucha experiencia, casos de éxito demostrables y especialistas en los procesos de desarrollo de marca. Nuestros trabajos, nuestra mejor carta de presentación.</p>
             </div> 
           </div>
         </div>
@@ -329,7 +329,7 @@
             <span><img src="images/icon-05.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Cuanto tiempo dura el desarrollo de marca con Update?</h3>
             <hr class="hr">
-            <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p class="uptext_icon">Dependiendo de tu proyecto, los estimados para lograr el desarrollo de tu marca son entre 15 y 20 ó entre 20 y 30 días. Tiempo que dedicaremos plenamente a entender tu negocio y así brindarte los mejores entregables.</p>
             </div> 
           </div>
           <div class="col s12 m6 l6   bg_2">
@@ -337,7 +337,7 @@
             <span><img src="images/icon-06.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Aceptan todos los medios de pago posibles?</h3>
             <hr class="hr">
-            <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p class="uptext_icon">SI, aceptamos todos los medios de pago. Todas las tarjetas de crédito, cheques, etc. Brindamos esta facilidad con el objetivo que no tengas excusa para desarrollar tu proyecto. Somos tu aliado comercial.</p>
             </div> 
           </div>
         </div>
@@ -347,7 +347,7 @@
             <span><img src="images/icon-07.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Es factible trabajar con formas de pago financiadas?</h3>
             <hr class="hr">
-            <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p class="uptext_icon">SI, es posible. No busques excusas para quedarte en lo mismo. Plantea a Update una forma de pago y empezamos a trabajar. Así de simple. Todo es posible con tu decisión. No esperes más tiempo. Conversemos ya!</p>
             </div> 
           </div>
         <div class="col s12 m6 l6 bg_2">
@@ -355,7 +355,7 @@
             <span><img src="images/icon-08.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Cómo garantizan los resultados en Update Global Marketing?</h3>
             <hr class="hr">
-            <p class="uptext_icon">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p class="uptext_icon">Somos una Agencia de Marketing con profesionales de mucha experiencia, casos de éxito demostrables y especialistas en los procesos de desarrollo de marca. Nuestros trabajos, nuestra mejor carta de presentación.</p>
             </div> 
           </div>
         </div>
