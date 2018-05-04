@@ -28,6 +28,7 @@
       <link rel="stylesheet" type="text/css" href="css/responsivemarcas.css">
       <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
       <script src="https://use.fontawesome.com/3c86cf9c2d.js"></script>
+      
       <!--Import Google Icon Font-->
       <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
       <!-- Global site tag (gtag.js) - Google Pichulytics -->
@@ -393,28 +394,70 @@
         <div class="col s12 m4 l5" id="contac"> 
           <div class="container">
            <div class="row" style="margin: 0px;">
-              <form>
+            <script>
+              function sendContact() {
+                  var valid;
+                  valid = validateContact();
+                  if(valid) {
+                      jQuery.ajax({
+                          url: "contact_form.php",
+                          data:'nombre='+$("#nombre").val()+'&mail='+$("#mail").val()+'&telefono='+$("#telefono").val()+'&mensaje='+$("#mensaje").val(),
+                          type: "POST",
+                          success:function(data){
+                              $("#mail-status").html(data);
+                          },
+                          error:function (){}
+                      });
+                  }
+              }
+
+              function validateContact() {
+                  var valid = true;
+                  if(!$("#nombre").val()) {
+                      $("#nombre").css('background-color','#f2dede');
+                      valid = false;
+                  }
+                  if(!$("#mail").val()) {
+                      $("#mail").css('background-color','#f2dede');
+                      valid = false;
+                  }
+                  if(!$("#mail").val().match(/^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/)) {
+                      $("#mail").css('background-color','#f2dede');
+                      valid = false;
+                  }
+                  if(!$("#telefono").val()) {
+                      $("#telefono").css('background-color','#f2dede');
+                      valid = false;
+                  }
+                  if(!$("#mensaje").val()) {
+                      $("#mensaje").css('background-color','#f2dede');
+                      valid = false;
+                  }    
+                  return valid;
+              }
+            </script>
                 <div class="row">
                   <div class="input-field col s12">
-                    <input id="first_name" type="text" class="validate">
-                    <label for="first_name">Nombre Apellido</label>
+                    <input id="nombre" type="text" class="validate">
+                    <label for="nombre">Nombre Apellido</label>
                   </div>
                    <div class="input-field col s12">
-                    <input id="first_name" type="text" class="validate">
-                    <label for="first_name">Tu Email</label>
+                    <input id="mail" type="email" class="validate">
+                    <label for="mail">Tu Email</label>
                   </div>
                    <div class="input-field col s12">
-                    <input id="first_name" type="text" class="validate">
-                    <label for="first_name">Tu Celular</label>
+                    <input id="telefono" type="text" class="validate">
+                    <label for="telefono">Tu Celular</label>
                   </div>
                    <div class="input-field col s12">
-                    <input id="first_name" type="text" class="validate">
-                    <label for="first_name">Tu Consulta</label>
+                    <input id="mensaje" type="text" class="validate">
+                    <label for="mensaje">Tu Consulta</label>
                   </div>
+                  <div style="clear:both;"></div>
+                  <div id="mail-status"></div>
                 </div>
-                <a href="#!" class="btn">Contactame</a>
-
-              </form><br>
+                <button class="btn" name="submit" onClick="sendContact();">Contactame</button>
+              <br>
             </div>
           </div>  
         </div>
