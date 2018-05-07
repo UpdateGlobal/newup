@@ -468,7 +468,7 @@
       <div class="row ubicatex">
         <div class="col s12 m12" style="padding: 50px;">
           <h5 class="sd_suti_info2">Ubícanos</h5>
-          <P class="sd_sut4">Calle Martín de Murúa 150 - Edificio Empresarial PLEXUS, San Miguel, LIMA - PERÚ</P>
+          <P class="sd_sut4">Calle Martín de Murúa 150 - Edificio Empresarial PLEXUS<br>San Miguel, LIMA - PERÚ</P>
         </div>
       </div>
     </div>
