@@ -4,7 +4,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <title>Update - Landing</title>
+      <title>Update - Desarrollo de Marca</title>
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <link rel=”canonical” href=”https://update.pe/marcas>
       <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
@@ -104,7 +104,7 @@
           <img src="images/995.jpg"> 
           <div class="caption" style="padding: 20px; ">
             <h3 class="sd_ti">Es momento de "Llevar a tu empresa al siguiente nivel"</h3>
-            <h5 class="sd_suti">DALE POTENCIA TU NEGOCIO</h5>
+            <h5 class="sd_suti">DALE POTENCIA A TU NEGOCIO</h5>
           </div>
         </li>
          <li>
@@ -117,7 +117,7 @@
          <li>
           <img src="images/994.jpg"> 
           <div class="caption" style="padding: 20px; ">
-            <h3 class="sd_ti">No todo es "sólo lo que pagas, sino lo que recibes”</h3>
+            <h3 class="sd_ti">Es momento de "Llevar a tu empresa al siguiente nivel"</h3>
             <h5 class="sd_suti">NO HAY TIEMPO PARA EXCUSAS</h5>
           </div>
         </li>
@@ -175,7 +175,7 @@
             <span><img src="images/icon-09.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Qué conseguiré desarrollando mi marca con Update ?</h3>
             <hr class="hr">
-            <p class="uptext_icon">Una imagen fresca, potente  en la era digital, conecta con tu público objetivo con un concepto, desde tu sitio web y redes sociales. NO HAY EMPRESA CHICA NI GRANDE, solo sirve LA PRESENTACIÓN  con una identidad digital profesional.</p>
+            <p class="uptext_icon">Una imagen fresca, potente  en la era digital, conecta con tu público objetivo con un concepto, desde tu sitio web y redes sociales. NO HAY EMPRESA CHICA NI GRANDE, sólo sirve LA PRESENTACIÓN  con una identidad digital profesional.</p>
             </div> 
           </div>
           <div class="col s12 m6 l6   bg_2">
@@ -193,7 +193,7 @@
             <span><img src="images/icon-03.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Con el servicio puedo obtener una página web para mi marca?</h3>
             <hr class="hr">
-            <p class="uptext_icon">Por supuesto, nuestro servicio de desarrollo de marca incluye un sitio web acorde a las necesidades de la era digital. Bien dirigida, muy bien diseñada, Optimizada para google, Responsiva y, sobre todo que impacte, comunique y venda.</p>
+            <p class="uptext_icon">Por supuesto, nuestro servicio de desarrollo de marca incluye un sitio web acorde a las necesidades de la era digital: Bien dirigida, muy bien diseñada, Optimizada para google, Responsiva y, sobre todo, que impacte, comunique y venda.</p>
             </div> 
           </div>
         <div class="col s12 m6 l6 bg_1">
@@ -201,7 +201,7 @@
             <span><img src="images/icon-04.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Cuanto cuesta el servicio desarrollo de Marca?</h3>
             <hr class="hr">
-            <p class="uptext_icon">El costo de nuestro servicio esta en función de lo que tu empresa requiere. Obten una consultoría gratuita llamando al +51934244258. También brindamos consultorias gratuitas a los asociados a la Camara de Comercio, los días miercoles.</p>
+            <p class="uptext_icon">El costo de nuestro servicio está en función de lo que tu empresa requiere. Obtén una consultoría gratuita llamando al +51934244258. También brindamos consultorías gratuitas a los asociados a la Cámara de Comercio, los días miércoles.</p>
             </div> 
           </div>
         </div>
@@ -215,7 +215,7 @@
             <span><img src="images/icon-09.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Qué conseguiré desarrollando mi marca con Update ?</h3>
             <hr class="hr">
-            <p class="uptext_icon">Una imagen fresca, potente  en la era digital, conecta con tu público objetivo con un concepto, desde tu sitio web y redes sociales. NO HAY EMPRESA CHICA NI GRANDE, solo sirve LA PRESENTACIÓN  con una identidad digital profesional.</p>
+            <p class="uptext_icon">Una imagen fresca, potente  en la era digital, conecta con tu público objetivo con un concepto, desde tu sitio web y redes sociales. NO HAY EMPRESA CHICA NI GRANDE, sólo sirve LA PRESENTACIÓN  con una identidad digital profesional.</p>
             </div> 
           </div>
           <div class="col s12 m6 l6   bg_2">
@@ -233,7 +233,7 @@
             <span><img src="images/icon-03.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Con el servicio puedo obtener una página web para mi marca?</h3>
             <hr class="hr">
-            <p class="uptext_icon">Por supuesto, nuestro servicio de desarrollo de marca incluye un sitio web acorde a las necesidades de la era digital. Bien dirigida, muy bien diseñada, Optimizada para google, Responsiva y, sobre todo que impacte, comunique y venda.</p>
+            <p class="uptext_icon">Por supuesto, nuestro servicio de desarrollo de marca incluye un sitio web acorde a las necesidades de la era digital: Bien dirigida, muy bien diseñada, Optimizada para google, Responsiva y, sobre todo, que impacte, comunique y venda.</p>
             </div> 
           </div>
         <div class="col s12 m6 l6 bg_2">
@@ -241,7 +241,7 @@
             <span><img src="images/icon-04.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Cuanto cuesta el servicio desarrollo de Marca?</h3>
             <hr class="hr">
-            <p class="uptext_icon">Sólo necesitas convicción, decisión, las ganas de hacerlo y estar convencido. Todo inicia por la confianza en que eres capaz. En Update te guiamos y nos encargamos de todo el proceso con entregables de primera calidad.</p>
+            <p class="uptext_icon">El costo de nuestro servicio está en función de lo que tu empresa requiere. Obtén una consultoría gratuita llamando al +51934244258. También brindamos consultorías gratuitas a los asociados a la Cámara de Comercio, los días miércoles.</p>
             </div> 
           </div>
         </div>
@@ -298,7 +298,7 @@
             <span><img src="images/icon-06.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Aceptan todos los medios de pago posibles?</h3>
             <hr class="hr">
-            <p class="uptext_icon">SI, aceptamos todos los medios de pago. Todas las tarjetas de crédito, cheques, etc. Brindamos esta facilidad con el objetivo que no tengas excusa para desarrollar tu proyecto. Somos tu aliado comercial.</p>
+            <p class="uptext_icon">SI, aceptamos todas las tarjetas de crédito, cheques, efectivo, depósitos, transferencias, etc. Brindamos esta facilidad con el objetivo que no tengas excusa para desarrollar tu proyecto. Somos tu aliado comercial.</p>
             </div> 
           </div>
         </div>
@@ -316,7 +316,7 @@
             <span><img src="images/icon-08.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Cómo garantizan los resultados en Update Global Marketing?</h3>
             <hr class="hr">
-            <p class="uptext_icon">Somos una Agencia de Marketing con profesionales de mucha experiencia, casos de éxito demostrables y especialistas en los procesos de desarrollo de marca. Nuestros trabajos, nuestra mejor carta de presentación.</p>
+            <p class="uptext_icon">Somos una Agencia de Marketing con profesionales de mucha experiencia, casos de éxito demostrables y especialistas en los procesos de desarrollo de marca. Nuestros trabajos, la mejor carta de presentación.</p>
             </div> 
           </div>
         </div>
@@ -338,7 +338,7 @@
             <span><img src="images/icon-06.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Aceptan todos los medios de pago posibles?</h3>
             <hr class="hr">
-            <p class="uptext_icon">SI, aceptamos todos los medios de pago. Todas las tarjetas de crédito, cheques, etc. Brindamos esta facilidad con el objetivo que no tengas excusa para desarrollar tu proyecto. Somos tu aliado comercial.</p>
+            <p class="uptext_icon">SI, aceptamos todas las tarjetas de crédito, cheques, efectivo, depósitos, transferencias, etc. Brindamos esta facilidad con el objetivo que no tengas excusa para desarrollar tu proyecto. Somos tu aliado comercial.</p>
             </div> 
           </div>
         </div>
@@ -356,7 +356,7 @@
             <span><img src="images/icon-08.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Cómo garantizan los resultados en Update Global Marketing?</h3>
             <hr class="hr">
-            <p class="uptext_icon">Somos una Agencia de Marketing con profesionales de mucha experiencia, casos de éxito demostrables y especialistas en los procesos de desarrollo de marca. Nuestros trabajos, nuestra mejor carta de presentación.</p>
+            <p class="uptext_icon">Somos una Agencia de Marketing con profesionales de mucha experiencia, casos de éxito demostrables y especialistas en los procesos de desarrollo de marca. Nuestros trabajos, la mejor carta de presentación.</p>
             </div> 
           </div>
         </div>
@@ -439,24 +439,24 @@
                 <div class="row">
                   <div class="input-field col s12">
                     <input id="nombre" type="text" class="validate">
-                    <label for="nombre">Nombre Apellido</label>
+                    <label for="nombre">Tu Nombre y tu Apellido</label>
                   </div>
                    <div class="input-field col s12">
                     <input id="mail" type="email" class="validate">
-                    <label for="mail">Tu Email</label>
+                    <label for="mail">Cuál es tu Email</label>
                   </div>
                    <div class="input-field col s12">
                     <input id="telefono" type="text" class="validate">
-                    <label for="telefono">Tu Celular</label>
+                    <label for="telefono">Bríndanos tu Celular</label>
                   </div>
                    <div class="input-field col s12">
                     <input id="mensaje" type="text" class="validate">
-                    <label for="mensaje">Tu Consulta</label>
+                    <label for="mensaje">Escribe tu Consulta</label>
                   </div>
                   <div style="clear:both;"></div>
                   <div id="mail-status"></div>
                 </div>
-                <button class="btn" name="submit" onClick="sendContact();">Contactame</button>
+                <button class="btn" name="submit" onClick="sendContact();">Contáctame</button>
               <br>
             </div>
           </div>  
