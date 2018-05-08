@@ -368,7 +368,7 @@
         <div class="container-fluid bg_grey collapsible-header">
           <div class="row" style="margin-bottom: 0px;">
              <div class="col s12 m12">
-              <h5 class="sd_suti_info">¿Tiene Update casos de éxito en desarrollo de marca? <span class="verde"> Por supuesto, revísalos, </span> AQUÍ <a href="#!" style="text-rendering: all;"></a> </h5>
+              <h5 class="sd_suti_info">¿Necesitas saber quienes confían en Update Global Marketing? <br><span class="verde">Entonces dale click </span> AQUÍ <a href="#!" style="text-rendering: all;"></a> </h5>
             </div>
           </div>
         </div>
