@@ -4,7 +4,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <title>Update - Desarrollo de Marca</title>
+      <title>Update - Branding</title>
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <link rel=”canonical” href=”https://update.pe/marcas>
       <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
@@ -266,7 +266,7 @@
               <hr class="hr">
               <p class="servives">Estrategia de posicionamiento<br>Propuesta de Valor única<br>Primer Slogan</p>
               <hr class="hr">
-              <p class="servives">1 Sitio Web ó <br> E-Commerce</p>
+              <p class="servives">1 Sitio Web <br> ó <br> E-Commerce</p>
               <hr class="hr">
               <p class="servives">Creación y desarrollo de 2 redes sociales<br>(difunde tu sitio web, tus productos y servicios)<br>(Perfil,  Portada, Formato de Publicación)</p>
               <hr class="hr">
@@ -362,17 +362,191 @@
         </div>
     </div>
     <!--infoItemmovil-->
-
-
-    <div class="container-fluid bg_grey">
-      <div class="row" style="margin-bottom: 0px;">
-        <div class="col s12 m12">
-          <h5 class="sd_suti_info">¿Tiene Update casos de éxito en desarrollo de marca?
-            <span class="verde">Porsupuesto, revísalos, </span><a href="../marcas" style="color: white;">AQUÍ</a>
-          </h5>
+    <!--intemDeMarcas-->
+    <ul class="collapsible">
+      <li>
+        <div class="container-fluid bg_grey collapsible-header">
+          <div class="row" style="margin-bottom: 0px;">
+             <div class="col s12 m12">
+              <h5 class="sd_suti_info">¿Tiene Update casos de éxito en desarrollo de marca? <span class="verde"> Por supuesto, revísalos, </span> AQUÍ <a href="#!" style="text-rendering: all;"></a> </h5>
+            </div>
+          </div>
         </div>
-      </div>
-    </div>
+        <div class="collapsible-body">
+          <div class="">
+            <div class="row">    
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/1.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/2.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/3.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/4.png">
+              </div>
+            </div>
+            <div class="row">    
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/5.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/6.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/7.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/8.png">
+              </div>
+            </div>
+            <div class="row">    
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/9.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/10.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/11.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/12.png">
+              </div>
+            </div>
+            <div class="row">    
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/13.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/14.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/15.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/16.png">
+              </div>
+            </div>
+            <div class="row">    
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/17.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/18.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/19.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/20.png">
+              </div>
+            </div>
+            <div class="row">    
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/21.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/22.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/23.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/24.png">
+              </div>
+            </div>
+            <div class="row">    
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/25.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/26.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/27.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/28.png">
+              </div>
+            </div>
+            <div class="row">    
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/29.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/30.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/31.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/32.png">
+              </div>
+            </div>
+            <div class="row">    
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/33.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/34.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/35.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/36.png">
+              </div>
+            </div>
+            <div class="row">    
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/38.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/39.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/40.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/41.png">
+              </div>
+            </div>
+            <div class="row">    
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/42.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/43.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/44.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/45.png">
+              </div>
+            </div>
+            <div class="row">    
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/46.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/47.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/48.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/4.png">
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+    </ul>
+    <!--intemDeMarcas-->
 
     <div class="container-fluid bg_verde">
       <div class="row" style="margin-bottom: 0px;">

@@ -175,330 +175,131 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
 
 
 <div class="col s12" align="left">
-<!--contenidoDeMarca-->
-<div class="row wrapper" style="display: inline-block;">
-      <div class="col s12 l4 offset-l2 c-test js-tilt responsive-img hide-on-small-only hide-on-med-only"  style="background-image: url(img/sanus.png); background-repeat: no-repeat; margin-top: -4%;"></div>
-      <div class="col s12 l4 offset-l2 hide-on-large-only" align="center">
-        <img class="responsive-img" src="img/sanus.png">
-      </div>
-      <div class="col s12 l6 thin">
-            <h2 class="uptext " ><a href="" class="effect-box "style=" color: #50bdbe;"> Sanus</a></h2>
-            <h3 class="updateregular">Una Historia de Telesalud</h3>
-            <span class="updateregular" style="font-size: 14px;">Servicio brindado</span>
-            <p class="updateregular justi" style="font-size: 14px;">Sanus es una plataforma digital que nació del emprendimiento médico, con vocación de servicio. Originado en la visión de la telesalud con experiencia de usuario. Sanus acorta distancias de consulta médica mediante la tecnología. Por eso creamos un concepto de atención a distancia, creando una marca fuerte y desarrollando su linea de comunicación de forma que los usuarios puedan obtener una estadía placentera en la clínica virtual. </p>
-      </div>
-</div>
-<!--contenidoDeMarca-->
-
-          <div class="col  s12 l6 offset-l6">
-              <!-- Modal Trigger -->
-              <a class="waves-effect waves-light chip modal-trigger sanuscolor" href="#modal123" href="#down">Diseño de Logotipo</a>
-
-              <!-- Modal Structure -->
-              <div id="modal123" class="modal" style="background-color: rgb(63, 187, 197);">
-                <div class="modal-content "  align="center">
-
-                  <div class="row" align="right" style="margin-right: 30px;">
-                     <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
-                  </div>
-                  <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/sanus/book-sanus-logo-lineas.jpg"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/sanus/monitor-sanus-logo.jpg"></li>
-                  </ul>
-                 </div>
-
-                <div class="modal-footer" style="background-color: rgb(63, 187, 197);">
-                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat" style="margin-top: 10px;"><i class="material-icons" style="font-size: 32px; color: white;" >close</i></a>
-                </div>
-              </div>
-
-
-              <!-- Modal Trigger -->
-              <a class="waves-effect waves-light chip modal-trigger sanuscolor" href="#ashfg">Línea Gráfica</a>
-
-              <!-- Modal Structure -->
-              <div id="ashfg" class="modal" style="background-color: rgb(63, 187, 197);">
-                <div class="modal-content "  align="center">
-
-                  <div class="row" align="right" style="margin-right: 30px;">
-                    <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
-                  </div>
-                  <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/sanus/tarjetas-sanus.jpg"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/sanus/sobre-sanus.jpg"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/sanus/folder-SANUS.jpg"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/sanus/hoja-SANUS.jpg"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/sanus/monitor-sanus.jpg"></li>
-                  </ul>
-                 </div>
-
-                <div class="modal-footer" style="background-color: rgb(63, 187, 197);">
-                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat" style="margin-top: 10px;"><i class="material-icons" style="font-size: 32px; color: white;" >close</i></a>
-                </div>
-              </div>
-
-              <!-- Modal Trigger -->
-              <a class="waves-effect waves-light chip modal-trigger sanuscolor" href="#odsifosh">Presentación Comercial</a>
-
-              <!-- Modal Structure -->
-              <div id="odsifosh" class="modal" style="background-color: rgb(63, 187, 197);">
-                <div class="modal-content "  align="center">
-
-                  <div class="row" align="right" style="margin-right: 30px;">
-                     <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
-                  </div>
-                  <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/sanus/tarjetas-sanus.jpg"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/sanus/sobre-sanus.jpg"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/sanus/folder-SANUS.jpg"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/sanus/hoja-SANUS.jpg"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/sanus/monitor-sanus.jpg"></li>
-                  </ul>
-                 </div>
-
-                <div class="modal-footer" style="background-color: rgb(63, 187, 197);">
-                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat" style="margin-top: 10px;"><i class="material-icons" style="font-size: 32px; color: white;" >close</i></a>
-                </div>
-              </div>
-              <!-- Modal Trigger -->
-              <a class="waves-effect waves-light chip modal-trigger sanuscolor" href="#ashfg">Desarrollo website</a>
-              <!-- Modal Structure -->
-              <div id="ashfg" class="modal" style="background-color: rgb(63, 187, 197);">
-                <div class="modal-content "  align="center">
-
-                  <div class="row" align="right" style="margin-right: 30px;">
-                    <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
-                  </div>
-                  <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/sanus/monitor-sanus.jpg"></li>
-                  </ul>
-                 </div>
-
-                <div class="modal-footer" style="background-color: rgb(63, 187, 197);">
-                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat" style="margin-top: 10px;"><i class="material-icons" style="font-size: 32px; color: white;" >close</i></a>
-                </div>
-              </div>
-            </div><!--modales-->  
-          </div><!--cols12-->
-
-
-<div class="hrtes"></div>
-
-<div class="row wrapper" style="display: inline-block;">
-      <div class="col s12 l4 offset-l2 c-test js-tilt responsive-img hide-on-small-only hide-on-med-only"  style="background-image: url(img/idr.png); background-repeat: no-repeat; margin-top: -4%;"></div>
-      <div class="col s12 l4 offset-l2 hide-on-large-only" align="center">
-        <img class="responsive-img" src="img/idr.png">
-      </div>
-      <div class="col s12 l6 thin">
-            <h1 class="uptext " ><a href="" class="effect-box "style=" color: #2074bd;"> IDR - Profesionals</a></h1>
-            <h3 class="updateregular ">Una experiencia Científica</h3>
-            <span class="updateregular " style="font-size: 14px;">Servicio brindado</span>
-            <p class="updateregular justi" style="font-size: 14px;">IDR - Profesionals es una empresa consultora en investigación científica. Se busco conceptualizar una experiencia y una linea gráfica acorde con la amplia naturaleza  de sus servicios. Un froyecto muy ambicioso en estructura y contenido. El resultado fue una imagen limpia, fresca y como mucha fuerza de comunicación.</p>
-      </div>
-</div>
-<div class="col s12 l6 offset-l6">
-              <!-- Modal Trigger -->
-              <a class="waves-effect waves-light chip modal-trigger idrcolor" href="#asfef">Diseño de logotipo</a>
-
-              <!-- Modal Structure -->
-              <div id="asfef" class="modal" style="background-color: rgb(16, 109, 186);">
-                <div class="modal-content "  align="center">
-
-                  <div class="row" align="right" style="margin-right: 30px;">
-                     <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
-                  </div>
-                  <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/idr/book-idr-logo-lineas.jpg"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/idr/monitor-IDR-logo.jpg"></li>
-                  </ul>
-                 </div>
-                <div class="modal-footer" style="background-color: rgb(16, 109, 186);">
-                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat" style="margin-top: 10px;"><i class="material-icons" style="font-size: 32px; color: white;" >close</i></a>
-                </div>
-              </div>
-
-
-              <!-- Modal Trigger -->
-              <a class="waves-effect waves-light chip modal-trigger idrcolor" href="#asdasda">Línea gráfica</a>
-
-              <!-- Modal Structure -->
-              <div id="asdasda" class="modal" style="background-color: rgb(16, 109, 186);">
-                <div class="modal-content "  align="center">
-
-                  <div class="row" align="right" style="margin-right: 30px;">
-                     <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
-                  </div>
-                  <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/idr/tarjetas-IDR.jpg"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/idr/folder-IDR.jpg"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/idr/sobre-IDR.jpg"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/idr/hoja-IDR.jpg"></li>
-                        
-                  </ul>
-                 </div>
-                <div class="modal-footer" style="background-color: rgb(16, 109, 186);">
-                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat" style="margin-top: 10px;"><i class="material-icons" style="font-size: 32px; color: white;" >close</i></a>
-                </div>
-              </div>
-
-              <!-- Modal Trigger -->
-              <a class="waves-effect waves-light chip modal-trigger idrcolor" href="#asdasda">Presentación Comercial</a>
-
-              <!-- Modal Structure -->
-              <div id="asdasda" class="modal" style="background-color: rgb(16, 109, 186);">
-                <div class="modal-content "  align="center">
-
-                  <div class="row" align="right" style="margin-right: 30px;">
-                     <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
-                  </div>
-                  <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/idr/tarjetas-IDR.jpg"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/idr/folder-IDR.jpg"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/idr/sobre-IDR.jpg"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/idr/hoja-IDR.jpg"></li>
-                       
-                  </ul>
-                 </div>
-                <div class="modal-footer" style="background-color: rgb(16, 109, 186);">
-                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat" style="margin-top: 10px;"><i class="material-icons" style="font-size: 32px; color: white;" >close</i></a>
-                </div>
-              </div>
-
-              <!-- Modal Trigger -->
-              <a class="waves-effect waves-light chip modal-trigger idrcolor" href="#asdasdsad">Desarollo website</a>
-
-              <!-- Modal Structure -->
-              <div id="asdasdsad" class="modal" style="background-color: rgb(16, 109, 186);">
-                <div class="modal-content "  align="center">
-
-                  <div class="row" align="right" style="margin-right: 30px;">
-                     <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
-                  </div>
-                  <ul>
-                        
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/idr/monitor-IDR.jpg"></li>
-                  </ul>
-                 </div>
-                  <div class="modal-footer" style="background-color: rgb(16, 109, 186);">
-                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat" style="margin-top: 10px;"><i class="material-icons" style="font-size: 32px; color: white;" >close</i></a>
-                </div>
-
-            
 
 
 
-</div> </div><!--modales-->
+<?php
+  include 'marcas/sanus.php';
+  include 'marcas/idr.php';
+  include 'marcas/iso.php';
+  include 'marcas/frelatos.php';
+  include 'marcas/auton.php';
+  include 'marcas/yunta.php';
 
-
-
-
-
-
-<div class="hrtes"></div>
-
-<div class="row wrapper" style="display: inline-block;">
-      <div class="col s12 l4 offset-l2 c-test js-tilt responsive-img hide-on-small-only hide-on-med-only"  style="background-image: url(img/iso.png); background-repeat: no-repeat; margin-top: -4%;"></div>
-      <div class="col s12 l4 offset-l2 hide-on-large-only" align="center">
-        <img class="responsive-img" src="img/iso.png">
-      </div>
-
-      <div class="col s12 l6 thin">
-            <h1 class="uptext " ><a href="" class="effect-box "style=" color: #fa6928;"> Isotech</a></h1>
-            <h3 class="updateregular">Empresa</h3>
-            <span class="updateregular" style="font-size: 14px;">Servicio brindado</span>
-            <p class="updateregular justi" style="font-size: 14px;">Isotech Perú es una empresa que comercializa insumos para la industria del plástico. Se requería refrescar la imagen de la empresa con el objetivo de comunicar seriedad, confianza y solidez. Se estableció una linea gráfica nueva empezando por un logotipo ágil, un diseño web que propone una escalabilidad al e-comerce y con una navegabilidad optima con el objetivo que el usuario encuentre lo que busca.</p>
-      </div>
-</div>
-<div class="col s12 l6 offset-l6">
-              <!-- Modal Trigger -->
-              <a class="waves-effect waves-light chip modal-trigger isocolor" href="#modal1">Desarrollo logotipo</a>
-
-              <!-- Modal Structure -->
-              <div id="modal1" class="modal" style="background-color: rgb(254, 105, 42);">
-                <div class="modal-content "  align="center">
-
-                  <div class="row" align="right" style="margin-right: 30px;">
-                     <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
-                  </div>
-                  <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/isotech/book-isotech-logo-lineas.jpg"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/isotech/monitor-ISOTECH-logo.jpg"></li>
-                  </ul>
-                 </div>
-                <div class="modal-footer" style="background-color: rgb(254, 105, 42);">
-                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat" style="margin-top: 10px;"><i class="material-icons" style="font-size: 32px; color: white;" >close</i></a>
-                </div>
-              </div>
-
-
-              <!-- Modal Trigger -->
-              <a class="waves-effect waves-light chip modal-trigger isocolor" href="#modal">Línea Gráfica</a>
-
-              <!-- Modal Structure -->
-              <div id="modal" class="modal" style="background-color: rgb(254, 105, 42);">
-                <div class="modal-content "  align="center">
-
-                  <div class="row" align="right" style="margin-right: 30px;">
-                     <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
-                  </div>
-                  <ul>
-                         <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 " src="img/modal/isotech/tarjeta-ISOTECH-BASE.jpg" style="width: 405px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 " src="img/modal/isotech/hoja-isotech.jpg" style="width: 405px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 " src="img/modal/isotech/folder-ISOTECH-WEB.jpg" style="width: 405px; height: 185px;"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 " src="img/modal/isotech/sobre-ISOTECH.jpg" style="width: 405px; height: 185px;"></li>
-                                          </ul>
-                 </div>
-                <div class="modal-footer" style="background-color: rgb(254, 105, 42);">
-                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat" style="margin-top: 10px;"><i class="material-icons" style="font-size: 32px; color: white;" >close</i></a>
-                </div>
-              </div>
-
-              <!-- Modal Trigger -->
-              <a class="waves-effect waves-light chip modal-trigger isocolor" href="#modal">Presentación comercial</a>
-
-              <!-- Modal Structure -->
-              <div id="modal" class="modal" style="background-color: rgb(254, 105, 42);">
-                <div class="modal-content "  align="center">
-
-                  <div class="row" align="right" style="margin-right: 30px;">
-                     <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
-                  </div>
-                  <ul>
-                         <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/isotech/tarjeta-ISOTECH-BASE.jpg"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/isotech/hoja-isotech.jpg"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/isotech/folder-ISOTECH-WEB.jpg"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/isotech/sobre-ISOTECH.jpg"></li>
-                        </ul>
-                 </div>
-                <div class="modal-footer" style="background-color: rgb(254, 105, 42);">
-                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat" style="margin-top: 10px;"><i class="material-icons" style="font-size: 32px; color: white;" >close</i></a>
-                </div>
-              </div>
-
-              <!-- Modal Trigger -->
-              <a class="waves-effect waves-light chip modal-trigger isocolor" href="#modals">Dsarrollo website</a>
-
-              <!-- Modal Structure -->
-              <div id="modals" class="modal" style="background-color: rgb(254, 105, 42);">
-                <div class="modal-content "  align="center">
-
-                  <div class="row" align="right" style="margin-right: 30px;">
-                     <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
-                  </div>
-                  <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/isotech/monitor-ISOTECH.jpg"></li>
-                  </ul>
-                 </div>
-                <div class="modal-footer" style="background-color: rgb(254, 105, 42);">
-                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat" style="margin-top: 10px;"><i class="material-icons" style="font-size: 32px; color: white;" >close</i></a>
-                </div>
-              </div>
-</div><!--modales-->
+?>
 
 
  </div><!--row-->
+ </div><!--row-->
 </div><!--conatiner dir-->
 
+
+
+
+<div class="container-fluid bg_verde">
+      <div class="row" style="margin-bottom: 0px;">
+        <div class="col s12 m12 " style="padding: 35px;">
+          <h5 class="sd_sut2">¿Cómo puedo contactarlos?</h5>
+          <p class="sd_sut3">Comunícate ahora al <svg class="svg-inline--fa fa-whatsapp fa-w-14" aria-hidden="true" data-prefix="fab" data-icon="whatsapp" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"></path></svg><!-- <i class="fab fa-whatsapp"></i> --> 934244258 o bríndanos tus datos aquí</p>
+          <p class="sd_sut4">También puedes escribirnos a info@update.pe</p>
+        </div>
+      </div>
+    </div>
+
+
+
+<!--contacform-->
+<div class="container-fluid info_txt bg_info" align="center">
+      <div class="row" style="margin: 0;">
+        <div class="col s12 m8 l7 bg_contac" style="padding: 0px;"> 
+
+          <img src="img/a-9-decc-888.jpg" class="bg_contac responsive-img" style="height: auto;">
+          
+        </div>
+        <div class="col s12 m4 l5" id="contac"> 
+          <div class="container">
+           <div class="row" style="margin: 0px;">
+            <script>
+              function sendContact() {
+                  var valid;
+                  valid = validateContact();
+                  if(valid) {
+                      jQuery.ajax({
+                          url: "contact_form.php",
+                          data:'nombre='+$("#nombre").val()+'&mail='+$("#mail").val()+'&telefono='+$("#telefono").val()+'&mensaje='+$("#mensaje").val(),
+                          type: "POST",
+                          success:function(data){
+                              $("#mail-status").html(data);
+                          },
+                          error:function (){}
+                      });
+                  }
+              }
+
+              function validateContact() {
+                  var valid = true;
+                  if(!$("#nombre").val()) {
+                      $("#nombre").css('background-color','#f2dede');
+                      valid = false;
+                  }
+                  if(!$("#mail").val()) {
+                      $("#mail").css('background-color','#f2dede');
+                      valid = false;
+                  }
+                  if(!$("#mail").val().match(/^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/)) {
+                      $("#mail").css('background-color','#f2dede');
+                      valid = false;
+                  }
+                  if(!$("#telefono").val()) {
+                      $("#telefono").css('background-color','#f2dede');
+                      valid = false;
+                  }
+                  if(!$("#mensaje").val()) {
+                      $("#mensaje").css('background-color','#f2dede');
+                      valid = false;
+                  }    
+                  return valid;
+              }
+            </script>
+                <div class="row">
+                  <div class="input-field col s12">
+                    <input id="nombre" type="text" class="validate">
+                    <label for="nombre">Tu Nombre y tu Apellido</label>
+                  </div>
+                   <div class="input-field col s12">
+                    <input id="mail" type="email" class="validate">
+                    <label for="mail">Cuál es tu Email</label>
+                  </div>
+                   <div class="input-field col s12">
+                    <input id="telefono" type="text" class="validate">
+                    <label for="telefono">Bríndanos tu Celular</label>
+                  </div>
+                   <div class="input-field col s12">
+                    <input id="mensaje" type="text" class="validate">
+                    <label for="mensaje">Escribe tu Consulta</label>
+                  </div>
+                  <div style="clear:both;"></div>
+                  <div id="mail-status"></div>
+                </div>
+                <button class="btn" name="submit" onClick="sendContact();">Contáctame</button>
+              <br>
+            </div>
+          </div>  
+        </div>
+      </div>
+<!--contacform-->
+<!--GoogleMaps-->
+ <div class="container-fluid bg_grey">
+      <div class="row ubicatex">
+        <div class="col s12 m12" style="padding: 50px;">
+          <h5 class="sd_suti_info2">Ubícanos</h5>
+          <P class="sd_sut4">Calle Martín de Murúa 150 - Edificio Empresarial PLEXUS<br>San Miguel, LIMA - PERÚ</P>
+        </div>
+      </div>
+    </div>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d975.38335528687!2d-77.09345382634368!3d-12.075590421389505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c96ff8023dc7%3A0xe2b0a2ebfb211589!2sPlexus+Centro+Empresarial!5e0!3m2!1ses-419!2spe!4v1525122313720" height="450" frameborder="0" style="border:0; width: 100%;" allowfullscreen></iframe>
+
+<!--GoogleMaps-->
         <?php
         include('../modulos/footer.php');
         ?>

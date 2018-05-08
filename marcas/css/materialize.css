@@ -5827,7 +5827,7 @@ button.btn-floating {
 .chip {
   display: inline-block;
   height: 32px;
-  font-size: 9px;
+  font-size: 12px;
   font-weight: 500;
   color: #fff;
   line-height: 32px;
@@ -5842,14 +5842,14 @@ button.btn-floating {
 .chip:hover {
     display: inline-block;
     height: 32px;
-    font-size: 14px;
+    font-size: 12px;
     font-weight: 500;
-    color: #fff;
+    color: #000;
     line-height: 32px;
     padding: 0 12px;
     border-radius: 16px;
-    background-color: #555153;
-    margin-bottom: 5px;
+    background-color: #fff;
+    margin-top: -5px;
     margin-right: 5px;
 }
 
@@ -6030,12 +6030,12 @@ textarea.materialize-textarea {
   height: 3rem;
   width: 100%;
   font-size: 1rem;
-  margin: 0 0 20px 0;
+  /* margin: 0 0 0px 0; */
   padding: 0;
   -webkit-box-shadow: none;
-          box-shadow: none;
+  box-shadow: none;
   -webkit-box-sizing: content-box;
-          box-sizing: content-box;
+  box-sizing: content-box;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
 }
