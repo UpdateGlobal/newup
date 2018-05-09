@@ -278,6 +278,8 @@ nav {
 .sliders{
   width: 100%;
   height: 650px;
+  padding-top: -4px;
+  margin-top: -30px;
 }
 
 .info_txt{
