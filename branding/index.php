@@ -539,7 +539,32 @@
                     <img src="images/logos/48.png">
               </div>
               <div class="col s12 m6 l3" align="center">
-                    <img src="images/logos/4.png">
+                    <img src="images/logos/49.png">
+              </div>
+            </div>
+            <div class="row">    
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/50.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/51.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/52.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/53.png">
+              </div>
+            </div>
+            <div class="row">    
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/54.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/55.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/logos/56.png">
               </div>
             </div>
           </div>
