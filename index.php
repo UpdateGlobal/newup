@@ -124,8 +124,8 @@
               $xFecha     = $filaNot['fecha'];
               $xEstado    = $filaNot['estado'];
           ?>
-          <div class="col s12 m12 l12 xl4">
-            <div class="card z-depth-2">
+          <div class="col s12 m6 l6 xl4">
+            <div class="card z-depth-2" style="margin-bottom: 40px;">
               <div class="card-image">
                 <img src="cms/assets/img/noticias/<?php echo $xImagen; ?>">
                 <a class="btn-floating halfway-fab waves-effect waves-light red" href="/blog/<?php echo $xSlug; ?>"><i class="material-icons">add</i></a>
