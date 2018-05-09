@@ -6,9 +6,9 @@
 
       <div class="col s12 l6 thin">
             <h1 class="uptext " ><a href="" class="effect-box "style=" color: #6b1f1b;;"> Yunta</a></h1>
-            <h3 class="updateregular">Empresa</h3>
+            <h3 class="updateregular">Un concepto de Maceración Peruano</h3>
             <span class="updateregular" style="font-size: 14px;">Servicio brindado</span>
-            <p class="updateregular justi" style="font-size: 14px;">Isotech Perú es una empresa que comercializa insumos para la industria del plástico. Se requería refrescar la imagen de la empresa con el objetivo de comunicar seriedad, confianza y solidez. Se estableció una linea gráfica nueva empezando por un logotipo ágil, un diseño web que propone una escalabilidad al e-comerce y con una navegabilidad optima con el objetivo que el usuario encuentre lo que busca.</p>
+            <p class="updateregular justi" style="font-size: 14px;">Macerados yunta es fruto de la visión de una pareja de emprendedores asociados de la Cámara de Comercio de Lima. El concepto de compartir entre peruanos con nuestro licor de bandera llevado a otro nivel, fue fundamental para el desarrollo de las redes sociales y  producir engagement con el target. La marca fue llevada a redes sociales donde viene destacando con un buen posicionamiento en su categoría.</p>
       </div>
     </div>
     <div class="col s12 l6 offset-l6">

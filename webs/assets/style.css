@@ -400,12 +400,54 @@ padding: 10px;
     font-size: 24px;
 }
 
+/*************************/
 
-/*
-  video{
-  -moz-transform:rotate(90deg);
-  -webkit-transform:rotate(90deg);
-  -o-transform:rotate(90deg);
-  -ms-transform:rotate(90deg);
-  transform:rotate(90deg);
-  }*/
+.bg_verde {
+    background-color: #53bcbd;
+    text-align: center;
+    color: white;
+}
+.sd_sut2 {
+    font-family: "update";
+    font-size: 30px;
+    color: #787878;
+    font-weight: 900;
+}
+.sd_sut3 {
+    font-family: "updateregular";
+    font-size: 25px;
+    color: #fff;
+    font-weight: 900;
+    margin: 0;
+}
+.sd_sut4 {
+    font-family: "updateregular";
+    font-size: 16px;
+    color: #fff;
+    font-weight: 100;
+}
+
+.bg_grey {
+    background-color: #343438;
+    color: white;
+    text-align: center;
+}
+.sd_suti_info2 {
+    font-family: "updateregular";
+    font-size: 40px;
+    color: #53b6ba;
+    font-weight: 900;
+}
+.bg_info {
+    background-color: #dff2f2;
+}
+.bg_contac {
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 100%;
+    height: auto;
+}
+.ubicatex {
+    margin-bottom: 0px;
+    margin-top: -4px;
+}

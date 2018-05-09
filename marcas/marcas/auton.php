@@ -6,9 +6,9 @@
 
       <div class="col s12 l6 thin">
             <h1 class="uptext " ><a href="" class="effect-box "style=" color: #34b2f2;;"> Auton A/C</a></h1>
-            <h3 class="updateregular">Empresa</h3>
+            <h3 class="updateregular">Concepto de buen servicio y confianza</h3>
             <span class="updateregular" style="font-size: 14px;">Servicio brindado</span>
-            <p class="updateregular justi" style="font-size: 14px;">Isotech Perú es una empresa que comercializa insumos para la industria del plástico. Se requería refrescar la imagen de la empresa con el objetivo de comunicar seriedad, confianza y solidez. Se estableció una linea gráfica nueva empezando por un logotipo ágil, un diseño web que propone una escalabilidad al e-comerce y con una navegabilidad optima con el objetivo que el usuario encuentre lo que busca.</p>
+            <p class="updateregular justi" style="font-size: 14px;">Autón es una empresa especializada en aire acondicionado para autos. Nace de un emprendimiento en la Cámara de Comercio de Lima con el concepto de transformar su servicio y llevar a la empresa a un nivel que lo diferencie de sus competidores. El resultado es una imagen corporativa limpia, muy profesional con un diseño web muy minimalista que contiene los objetivos de comunicación que el cliente necesita.</p>
       </div>
     </div>
     <div class="col s12 l6 offset-l6">

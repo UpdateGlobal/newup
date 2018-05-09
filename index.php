@@ -109,8 +109,8 @@
     <div class="container-fluid" style="background-color: #52bcbd50;">
       <div class="container">
         <div class="row" style="margin: 0px;">
-          <h3 class="uptext center-align" style=" margin-top: 0px; padding-top: 50px;">Ultimas Publicaciones</h3>
-          <p class="uptextregular subtitulo_info" align="center">Compartimos contigo novedades, tendencias y opiniones respecto al Marketing, el Desarrollo web, el marketing digital y la estrategia</p>
+          <H1 class="uptext center-align" style=" margin-top: 0px; padding-top: 50px; font-size: 4rem;">Agencia de Marketing Digital 360 y desarrollo de Marca</H1>
+          <p class="uptextregular subtitulo_info" align="center">Compartimos contigo novedades, tendencias y opiniones respecto al Marketing, el Desarrollo web, estrategia de marketing digital y desarrollo de marca</p>
           <?php
             $consultarNoticias = "SELECT * FROM noticias WHERE estado='1' ORDER BY fecha DESC LIMIT 3";
             $resultadoNoticias = mysqli_query($enlaces,$consultarNoticias) or die('Consulta fallida: ' . mysqli_error($enlaces));
