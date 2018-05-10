@@ -4734,7 +4734,7 @@ small {
 }
 
 .card .card-title {
-  font-size: 24px;
+  font-size: 22px;
   font-weight: 300;
 }
 
@@ -4876,7 +4876,7 @@ small {
 .card .card-content .card-title {
   display: block;
   line-height: 32px;
-  margin-bottom: 8px;
+  margin-bottom: 12px;
 }
 
 .card .card-content .card-title i {
