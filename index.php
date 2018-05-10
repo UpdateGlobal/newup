@@ -87,8 +87,13 @@
         <i class="large material-icons">apps</i>
       </a>
       <ul>
+
+<!-- 
+        href="https://api.whatsapp.com/send?phone=51934244258&text=Me%20gustaria%20Información%20sobre%20el%20Seminario" -->
+
+
         <li><a href="#" class="btn-floating colormenu4 tooltipped button-collapse" data-position="left"  data-delay="50" data-tooltip="Contacto" data-activates="slide-out"><i class="material-icons">perm_phone_msg</i></a></li>
-        <li><a href="https://api.whatsapp.com/send?phone=0051934244258" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Puedes Escribir por Whatsapp" ><img src="img/whatsapp.svg" width="27" style="color: white; padding-top: 6px;"></a></li>
+        <li><a href="https://api.whatsapp.com/send?phone=51934244258&text=Hola%20Me%20Gustaria%20información%20de%20sus%20servicios" target="new" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Puedes Escribir por Whatsapp" ><img src="img/whatsapp.svg" width="27" style="color: white; padding-top: 6px;"></a></li>
         <li><a href="blog.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Blog"><i class="material-icons">developer_mode</i></a></li>
         <li><a href="webs/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Diseño Web">  <i class="material-icons">desktop_mac</i></a></li>
         <li><a href="marcas/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Desarrollo de Marcas" href=""><i class="material-icons">brush</i></a></li>       
@@ -104,8 +109,8 @@
     <div class="container-fluid" style="background-color: #52bcbd50;">
       <div class="container">
         <div class="row" style="margin: 0px;">
-          <h3 class="uptext center-align" style=" margin-top: 0px; padding-top: 50px;">Ultimas Publicaciones</h3>
-          <p class="uptextregular subtitulo_info" align="center">Compartimos contigo novedades, tendencias y opiniones respecto al Marketing, el Desarrollo web, el marketing digital y la estrategia</p>
+          <H1 class="uptext center-align" style=" margin-top: 0px; padding-top: 50px; font-size: 4rem;">Agencia de Marketing Digital 360 y desarrollo de Marca</H1>
+          <p class="uptextregular subtitulo_info" align="center">Compartimos contigo novedades, tendencias y opiniones respecto al Marketing, el Desarrollo web, estrategia de marketing digital y desarrollo de marca</p>
           <?php
             $consultarNoticias = "SELECT * FROM noticias WHERE estado='1' ORDER BY fecha DESC LIMIT 3";
             $resultadoNoticias = mysqli_query($enlaces,$consultarNoticias) or die('Consulta fallida: ' . mysqli_error($enlaces));
@@ -119,8 +124,8 @@
               $xFecha     = $filaNot['fecha'];
               $xEstado    = $filaNot['estado'];
           ?>
-          <div class="col s12 m12 l12 xl4">
-            <div class="card z-depth-2">
+          <div class="col s12 m6 l6 xl4">
+            <div class="card z-depth-2" style="margin-bottom: 40px;">
               <div class="card-image">
                 <img src="cms/assets/img/noticias/<?php echo $xImagen; ?>">
                 <a class="btn-floating halfway-fab waves-effect waves-light red" href="/blog/<?php echo $xSlug; ?>"><i class="material-icons">add</i></a>

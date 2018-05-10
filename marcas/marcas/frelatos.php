@@ -12,19 +12,18 @@
       </div>
     </div>
     <div class="col s12 l6 offset-l6">
+
               <!-- Modal Trigger -->
               <a class="waves-effect waves-light chip modal-trigger frelatocolor" href="#uejudjd">Desarrollo logotipo</a>
-
               <!-- Modal Structure -->
               <div id="uejudjd" class="modal" style="background-color: #ff2464">
                 <div class="modal-content "  align="center">
-
                   <div class="row" align="right" style="margin-right: 30px;">
                      <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/frelatos/book-FRELATOS-logo-lineas.jpg"></li>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/frelatos/monitor-FRELATOS-con-logo.jpg"></li>
+                    <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/frelatos/book-FRELATOS-logo-lineas.jpg"></li>
+                    <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/frelatos/monitor-FRELATOS-con-logo.jpg"></li>
                   </ul>
                  </div>
                 <div class="modal-footer" style="background-color: #ff2464">
@@ -35,11 +34,9 @@
 
               <!-- Modal Trigger -->
               <a class="waves-effect waves-light chip modal-trigger frelatocolor" href="#quwery">Redes Sociales</a>
-
               <!-- Modal Structure -->
               <div id="quwery" class="modal" style="background-color: #ff2464">
                 <div class="modal-content "  align="center">
-
                   <div class="row" align="right" style="margin-right: 30px;">
                      <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
@@ -58,25 +55,44 @@
               </div>
 
 
-
               <!-- Modal Trigger -->
               <a class="waves-effect waves-light chip modal-trigger frelatocolor" href="#iolkid">Desarrollo website</a>
-
               <!-- Modal Structure -->
               <div id="iolkid" class="modal" style="background-color: #ff2464">
                 <div class="modal-content "  align="center">
-
                   <div class="row" align="right" style="margin-right: 30px;">
                      <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
                   </div>
                   <ul>
-                        <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1  responsive-img" src="img/modal/frelatos/monitor-FRELATOS.jpg"></li>
+                    <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1  responsive-img" src="img/modal/frelatos/monitor-FRELATOS.jpg"></li>
                   </ul>
                  </div>
                 <div class="modal-footer" style="background-color: #ff2464">
                   <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat" style="margin-top: 10px;"><i class="material-icons" style="font-size: 32px; color: white;" >close</i></a>
                 </div>
               </div>
+
+
+
+              <!-- Modal Trigger -->
+              <a class="waves-effect waves-light chip modal-trigger frelatocolor" href="#quwery">Otros</a>
+              <!-- Modal Structure -->
+              <div id="quwery" class="modal" style="background-color: #ff2464">
+                <div class="modal-content "  align="center">
+                  <div class="row" align="right" style="margin-right: 30px;">
+                     <i class="material-icons" style="font-size: 32px; color: white;" >arrow_downward</i>
+                  </div>
+                  <ul>
+                    <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/frelatos/ropa.jpg" ></li>
+                    <li style="margin-bottom: 10px;"><img class="materialboxed z-depth-1 responsive-img" src="img/modal/frelatos/stand.jpg" ></li>
+                  </ul>
+                 </div>
+                  <div class="modal-footer" style="background-color: #ff2464">
+                  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat" style="margin-top: 10px;"><i class="material-icons" style="font-size: 32px; color: white;" >close</i></a>
+                </div>
+              </div>
+
+
         </div><!--modales-->
 
 <div class="hrtes"></div>

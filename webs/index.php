@@ -103,7 +103,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
     </a>
     <ul>
       <li><a href="#" class="btn-floating colormenu4 tooltipped button-collapse" data-position="left"  data-delay="50" data-tooltip="Contacto" data-activates="slide-out"><i class="material-icons">perm_phone_msg</i></a></li>
-       <li><a href="https://api.whatsapp.com/send?phone=0051934244258" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Puedes Escribir por Whatsapp">
+       <li><a href="https://api.whatsapp.com/send?phone=51934244258&text=Hola%20Me%20Gustaria%20información%20de%20sus%20servicios" target="new" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Puedes Escribir por Whatsapp">
         <img src="img/whatsapp.svg" width="27" style="color: white; padding-top: 6px;">
       </a></li>
       <li><a href="../blog.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Blog">   <i class="material-icons">developer_mode</i></a></li>
@@ -300,6 +300,122 @@ video{
                     </div>
                 </div> 
             </section>  
+
+
+   <div class="container-fluid bg_verde">
+      <div class="row" style="margin-bottom: 0px;">
+        <div class="col s12 m12 " style="padding: 35px;">
+          <h5 class="sd_sut2">¿Cómo puedo contactarlos?</h5>
+          <P class="sd_sut3">Comunícate ahora al <i class="fab fa-whatsapp"></i> 934244258 o bríndanos tus datos aquí</P>
+          <P class="sd_sut4">También puedes escribirnos a info@update.pe</P>
+        </div>
+      </div>
+    </div>
+
+    <div class="container-fluid bg_info" align="center">
+      <div class="row" style="margin: 0;">
+        <div class="col s12 m8 l7 bg_contac" style="padding: 0px;"> 
+
+          <img src="img/a-9-decc-888.jpg" class="bg_contac responsive-img" style="height: auto;">
+          
+        </div>
+        <div class="col s12 m4 l5" id="contac"> 
+          <div class="container">
+           <div class="row" style="margin: 0px;">
+            <script>
+              function sendContact() {
+                  var valid;
+                  valid = validateContact();
+                  if(valid) {
+                      jQuery.ajax({
+                          url: "contact_form.php",
+                          data:'nombre='+$("#nombre").val()+'&mail='+$("#mail").val()+'&telefono='+$("#telefono").val()+'&mensaje='+$("#mensaje").val(),
+                          type: "POST",
+                          success:function(data){
+                              $("#mail-status").html(data);
+                          },
+                          error:function (){}
+                      });
+                  }
+              }
+
+              function validateContact() {
+                  var valid = true;
+                  if(!$("#nombre").val()) {
+                      $("#nombre").css('background-color','#f2dede');
+                      valid = false;
+                  }
+                  if(!$("#mail").val()) {
+                      $("#mail").css('background-color','#f2dede');
+                      valid = false;
+                  }
+                  if(!$("#mail").val().match(/^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/)) {
+                      $("#mail").css('background-color','#f2dede');
+                      valid = false;
+                  }
+                  if(!$("#telefono").val()) {
+                      $("#telefono").css('background-color','#f2dede');
+                      valid = false;
+                  }
+                  if(!$("#mensaje").val()) {
+                      $("#mensaje").css('background-color','#f2dede');
+                      valid = false;
+                  }    
+                  return valid;
+              }
+            </script>
+                <div class="row">
+                  <div class="input-field col s12">
+                    <input id="nombre" type="text" class="validate">
+                    <label for="nombre">Tu Nombre y tu Apellido</label>
+                  </div>
+                   <div class="input-field col s12">
+                    <input id="mail" type="email" class="validate">
+                    <label for="mail">Cuál es tu Email</label>
+                  </div>
+                   <div class="input-field col s12">
+                    <input id="telefono" type="text" class="validate">
+                    <label for="telefono">Bríndanos tu Celular</label>
+                  </div>
+                   <div class="input-field col s12">
+                    <input id="mensaje" type="text" class="validate">
+                    <label for="mensaje">Escribe tu Consulta</label>
+                  </div>
+                  <div style="clear:both;"></div>
+                  <div id="mail-status"></div>
+                </div>
+                <button class="btn" name="submit" onClick="sendContact();">Contáctame</button>
+              <br>
+            </div>
+          </div>  
+        </div>
+      </div>
+    </div>
+
+    <div class="container-fluid bg_grey">
+      <div class="row ubicatex" style="margin-bottom:  0px;">
+        <div class="col s12 m12" style="padding: 50px;">
+          <h5 class="sd_suti_info2">Ubícanos</h5>
+          <P class="sd_sut4">Calle Martín de Murúa 150 - Edificio Empresarial PLEXUS<br>San Miguel, LIMA - PERÚ</P>
+        </div>
+      </div>
+    </div>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d975.38335528687!2d-77.09345382634368!3d-12.075590421389505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c96ff8023dc7%3A0xe2b0a2ebfb211589!2sPlexus+Centro+Empresarial!5e0!3m2!1ses-419!2spe!4v1525122313720" height="450" frameborder="0" style="border:0; width: 100%;" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         <?php
         include('../modulos/footer.php');
