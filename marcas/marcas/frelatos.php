@@ -6,9 +6,9 @@
 
       <div class="col s12 l6 thin">
             <h1 class="uptext " ><a href="" class="effect-box "style=" color: #ff2464;"> Frelatos</a></h1>
-            <h3 class="updateregular">Empresa</h3>
+            <h3 class="updateregular">Una historia congelada</h3>
             <span class="updateregular" style="font-size: 14px;">Servicio brindado</span>
-            <p class="updateregular justi" style="font-size: 14px;">Isotech Perú es una empresa que comercializa insumos para la industria del plástico. Se requería refrescar la imagen de la empresa con el objetivo de comunicar seriedad, confianza y solidez. Se estableció una linea gráfica nueva empezando por un logotipo ágil, un diseño web que propone una escalabilidad al e-comerce y con una navegabilidad optima con el objetivo que el usuario encuentre lo que busca.</p>
+            <p class="updateregular justi" style="font-size: 14px;">Frelatos es la idea de un emprendimiento peruano desde cero. Se nos encomendó la misión de creación de marca, las redes sociales, Desarrollar el sitio web, la linea gráfica, uniformes, packaging, modulo de atención, entre otros elementos que suman valor a una marca fuerte. El resultado, una experiencia dulce en el Megaplaza de Lima Norte. Una grata experiencia con mucho sabor y éxito rumbo a la franquicia.</p>
       </div>
     </div>
     <div class="col s12 l6 offset-l6">
