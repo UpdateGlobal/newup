@@ -115,7 +115,7 @@
                   $xImagen    = $filaNot['imagen'];
                   $xNoticia   = $filaNot['noticia'];
                   $xFecha     = $filaNot['fecha'];
-                  $xAutor     = $filaNot['autor']; 
+                  $xAutor     = $filaNot['autor'];
                   $xSlugn     = $filaNot['slug'];
             ?>
             <div class="col s12 m12 l6 xl6">
