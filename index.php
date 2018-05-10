@@ -133,9 +133,10 @@
               <div class="card-content">
                 <span class="card-title uptext"><?php echo $xTitulo; ?></span>
                 <p class="card_text uptextregular" align="justify" style="font-size: 14px;"><?php
-                      $strCut = substr($xNoticia,0,280);
-                      $xNoticia = substr($strCut,0,strrpos($strCut, ' ')).'...';
-                      echo strip_tags($xNoticia);
+                      $xNoticia_r = strip_tags($xNoticia);
+                      $strCut = substr($xNoticia_r,0,250);
+                      $xNoticia_r = substr($strCut,0,strrpos($strCut, ' ')).'...';
+                      echo $xNoticia_r;
                     ?></p>
                 <div class="card_foo post-blog-update">
                   <div class="row" style="margin-bottom: 0px;">

@@ -128,9 +128,10 @@
                   <span class="card-title uptext"><?php echo $xTitulo; ?></span>
                   <div class="card_text" align="justify">
                     <?php
-                      $strCut = substr($xNoticia,0,280);
-                      $xNoticia = substr($strCut,0,strrpos($strCut, ' ')).'...';
-                      echo strip_tags($xNoticia);
+                      $xNoticia_r = strip_tags($xNoticia);
+                      $strCut = substr($xNoticia_r,0,280);
+                      $xNoticia_r = substr($strCut,0,strrpos($strCut, ' ')).'...';
+                      echo $xNoticia_r;
                     ?>
                   </div>
                   <div class="card_foo post-blog-update">        
