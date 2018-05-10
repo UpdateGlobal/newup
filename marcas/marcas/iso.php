@@ -6,7 +6,7 @@
 
       <div class="col s12 l6 thin">
             <h1 class="uptext " ><a href="" class="effect-box "style=" color: #fa6928;"> Isotech</a></h1>
-            <h3 class="updateregular">Empresa</h3>
+            <h3 class="updateregular">Una Experiencia de Importación</h3>
             <span class="updateregular" style="font-size: 14px;">Servicio brindado</span>
             <p class="updateregular justi" style="font-size: 14px;">Isotech Perú es una empresa que comercializa insumos para la industria del plástico. Se requería refrescar la imagen de la empresa con el objetivo de comunicar seriedad, confianza y solidez. Se estableció una linea gráfica nueva empezando por un logotipo ágil, un diseño web que propone una escalabilidad al e-comerce y con una navegabilidad optima con el objetivo que el usuario encuentre lo que busca.</p>
       </div>
