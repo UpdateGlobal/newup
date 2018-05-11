@@ -55,13 +55,13 @@
     <div class="parallax-container">
       <div class="parallax"><img src="/img/base-icon.jpg" style=" opacity: 0.5"></div>
       <div class="row" align="center">
-        <h1 class="uptext2 text-titulo-blog gris" >Blog de Noticias Update</h1>
+        <h1 class="uptext2 text-titulo-blog gris" >Blog de Marketing Update</h1>
       </div>
     </div>
     <!--efectmachiwrite-->
     <div style="background-color: #53bcbd; margin-top: 0px;" align="center">
       <div class="row" style="padding: 30px 30px 30px; margin-bottom: 50px;">
-        <h2 class="uptext2" style="color: white; font-size: 42px;" >Nuestro Blog hay Noticias de: <span class="gris" id="typed"></span></h2>
+        <h2 class="uptext2" style="color: white; font-size: 42px;" >Nuestro Blog hay Marketing de: <span class="gris" id="typed"></span></h2>
         <h2 class="uptextregular">Con los más altos estandares</h2>
         <script type="text/javascript">
           $(function(){

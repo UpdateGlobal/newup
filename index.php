@@ -124,7 +124,7 @@
               $xFecha     = $filaNot['fecha'];
               $xEstado    = $filaNot['estado'];
           ?>
-          <div class="col s12 m6 l6 xl4">
+          <div class="col s12 m12 l6 xl4">
             <div class="card z-depth-2" style="margin-bottom: 40px;">
               <div class="card-image">
                 <img src="cms/assets/img/noticias/<?php echo $xImagen; ?>">
@@ -134,7 +134,7 @@
                 <span class="card-title uptext"><?php echo $xTitulo; ?></span>
                 <p class="card_text uptextregular" align="justify" style="font-size: 14px;"><?php
                       $xNoticia_r = strip_tags($xNoticia);
-                      $strCut = substr($xNoticia_r,0,250);
+                      $strCut = substr($xNoticia_r,0,230);
                       $xNoticia_r = substr($strCut,0,strrpos($strCut, ' ')).'...';
                       echo $xNoticia_r;
                     ?></p>

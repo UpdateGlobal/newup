@@ -3,7 +3,7 @@
 } */
 
 .card .card-content .card-title {
-	height: 64px;
+	height: 96px;
 }
 
 .card_text {
@@ -31,7 +31,16 @@
 }
 
 .card .card-content p {
-	margin: 0px 0px 10px 0px;
+    margin: 0px 0px 10px 0px;
+    color: #59585885 !important;
+    font-family: "updateregular";
+}
+
+.card .card-content ul li {
+    color: #59585885 !important;
+    font-family: "updateregular";
+    line-height: 24px;
+    list-style-type: square;
 }
 
 .text-titulo-blog{
@@ -39,9 +48,11 @@
     margin-top: 90px;
 }
 
+
+
 @media only screen and (max-width:1200px){
 	.card .card-content .card-title {
-		height: 64px;
+		height: 96px;
 	}
 	.card_text {
 	    height: 146px;
