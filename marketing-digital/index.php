@@ -135,10 +135,11 @@
       </div>
     </div>
     <div class="row hide-on-med-and-up" style="margin: 0px; background-image: url('images/empresario2.jpg'); background-size: cover; background-repeat: no-repeat;">
+        <img src="images/logo-update-20185.png" class="responsive-img logog">
     <h3 class="title_movil">MARKETING DIGITAL<br> PARA TU NEGOCIO</h3>
     </div>
     <div class="div2 hide-on-med-and-up" align="right">
-    <img src="images/logo-update-20185.png" class="responsive-img">
+  
     </div>
     <!--sliderMovil-->
 
@@ -167,86 +168,76 @@
           <h5 class="sd_suti" style="margin: 50px 0px 50px;">¡Hagamos<span class="verde"> Marketing Digital!</span> </h5>
       </div>
     </div>
-    <!--infoItem-->
-    <div class="container-fluid hide-on-med-and-down" align="center">
-        <div class="row" style="margin: 0;">
-          <div class="col s12 m6 l6 bg_1 ">
-          <div class="container mg_l mg_r">
-            <span><img src="images/icon-09.png" class="item_img" ></span>
-            <h3 class="item_info uptext">¿Qué conseguiré desarrollando mi marca con Update ?</h3>
-            <hr class="hr">
-            <p class="uptext_icon">Una imagen fresca, potente  en la era digital, conecta con tu público objetivo con un concepto, desde tu sitio web y redes sociales. NO HAY EMPRESA CHICA NI GRANDE, sólo sirve LA PRESENTACIÓN  con una identidad digital profesional.</p>
-            </div> 
+    
+
+<section class="bg_11">
+<div class="container-fluid">
+ <div class="row" style="margin: 0px;">
+        <div class="col s12 m4"><img src="http://via.placeholder.com/400x300" class="responsive-img"></div>
+        <div class="col s12 m8">
+          <div class="row" align="center">
+            <h3 class="mkt_title">loren ipsum</h3>
           </div>
-          <div class="col s12 m6 l6   bg_2">
-          <div class="container mg_l mg_r">
-            <span><img src="images/icon-02.png" class="item_img" ></span>
-            <h3 class="item_info uptext">¿Qué necesito para empezar a desarrollar mi marca?</h3>
-            <hr class="hr">
-            <p class="uptext_icon">Sólo necesitas convicción, decisión, las ganas de hacerlo y estar convencido. Todo inicia por la confianza en que eres capaz. En Update te guiamos y nos encargamos de todo el proceso con entregables de primera calidad.</p>
-            </div> 
+        <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+        cillum dolore eu fugiat nulla pariatur.</p>
+       </div>
+
+       <div class="row" align="center" style="margin: 0px;">
+            <a href="#contact" class="btn clas">Contáctame</a>
+       </div> 
+  </div>
+</div>
+</section>
+
+<section class="bg_21">
+<div class="container-fluid">
+ <div class="row" style="margin: 0px;">
+        <div class="col s12 m4"><img src="http://via.placeholder.com/400x300" class="responsive-img"></div>
+        <div class="col s12 m8">
+          <div class="row" align="center">
+            <h3 class="mkt_title">loren ipsum</h3>
           </div>
-        </div>
-        <div class="row" style="margin: 0;">
-          <div class="col s12 m6 l6 bg_2">
-          <div class="container mg_l mg_r">
-            <span><img src="images/icon-03.png" class="item_img" ></span>
-            <h3 class="item_info uptext">¿Con el servicio puedo obtener una página web para mi marca?</h3>
-            <hr class="hr">
-            <p class="uptext_icon">Por supuesto, nuestro servicio de desarrollo de marca incluye un sitio web acorde a las necesidades de la era digital: Bien dirigida, muy bien diseñada, Optimizada para google, Responsiva y, sobre todo, que impacte, comunique y venda.</p>
-            </div> 
-          </div>
-        <div class="col s12 m6 l6 bg_1">
-          <div class="container mg_l mg_r">
-            <span><img src="images/icon-04.png" class="item_img" ></span>
-            <h3 class="item_info uptext">¿Cuanto cuesta el servicio desarrollo de Marca?</h3>
-            <hr class="hr">
-            <p class="uptext_icon">El costo de nuestro servicio está en función de lo que tu empresa requiere. Obtén una consultoría gratuita llamando al +51934244258. También brindamos consultorías gratuitas a los asociados a la Cámara de Comercio, los días miércoles.</p>
-            </div> 
-          </div>
-        </div>
+        <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+        cillum dolore eu fugiat nulla pariatur.</p>
+       </div>
+
+       <div class="row" align="center" style="margin: 0px;">
+            <a href="#contact" class="btn clas">Contáctame</a>
+       </div
     </div>
-    <!--infoItem-->
-    <!--infoItemMovil-->
-    <div class="container-fluid hide-on-large-only" align="center">
-        <div class="row" style="margin: 0;">
-          <div class="col s12 m6 l6 bg_1 ">
-          <div class="container mg_l mg_r">
-            <span><img src="images/icon-09.png" class="item_img" ></span>
-            <h3 class="item_info uptext">¿Qué conseguiré desarrollando mi marca con Update ?</h3>
-            <hr class="hr">
-            <p class="uptext_icon">Una imagen fresca, potente  en la era digital, conecta con tu público objetivo con un concepto, desde tu sitio web y redes sociales. NO HAY EMPRESA CHICA NI GRANDE, sólo sirve LA PRESENTACIÓN  con una identidad digital profesional.</p>
-            </div> 
+</div>
+</section>
+
+<section class="bg_31">
+<div class="container-fluid">
+ <div class="row" style="margin: 0px;">
+        <div class="col s12 m4"><img src="http://via.placeholder.com/400x300" class="responsive-img"></div>
+        <div class="col s12 m8">
+          <div class="row" align="center">
+            <h3 class="mkt_title">loren ipsum</h3>
           </div>
-          <div class="col s12 m6 l6   bg_2">
-          <div class="container mg_l mg_r">
-            <span><img src="images/icon-02.png" class="item_img" ></span>
-            <h3 class="item_info uptext">¿Qué necesito para empezar con el servicio de desarrollo de marca?</h3>
-            <hr class="hr">
-            <p class="uptext_icon">Sólo necesitas convicción, decisión, las ganas de hacerlo y estar convencido. Todo inicia por la confianza en que eres capaz. En Update te guiamos y nos encargamos de todo el proceso con entregables de primera calidad.</p>
-            </div> 
-          </div>
-        </div>
-        <div class="row" style="margin: 0;">
-          <div class="col s12 m6 l6 bg_1">
-          <div class="container mg_l mg_r">
-            <span><img src="images/icon-03.png" class="item_img" ></span>
-            <h3 class="item_info uptext">¿Con el servicio puedo obtener una página web para mi marca?</h3>
-            <hr class="hr">
-            <p class="uptext_icon">Por supuesto, nuestro servicio de desarrollo de marca incluye un sitio web acorde a las necesidades de la era digital: Bien dirigida, muy bien diseñada, Optimizada para google, Responsiva y, sobre todo, que impacte, comunique y venda.</p>
-            </div> 
-          </div>
-        <div class="col s12 m6 l6 bg_2">
-          <div class="container mg_l mg_r">
-            <span><img src="images/icon-04.png" class="item_img" ></span>
-            <h3 class="item_info uptext">¿Cuanto cuesta el servicio desarrollo de Marca?</h3>
-            <hr class="hr">
-            <p class="uptext_icon">El costo de nuestro servicio está en función de lo que tu empresa requiere. Obtén una consultoría gratuita llamando al +51934244258. También brindamos consultorías gratuitas a los asociados a la Cámara de Comercio, los días miércoles.</p>
-            </div> 
-          </div>
-        </div>
+        <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+        cillum dolore eu fugiat nulla pariatur.</p>
+       </div>
+
+       <div class="row" align="center" style="margin: 0px;">
+            <a href="#contact" class="btn clas">Contáctame</a>
+       </div
     </div>
-    <!--infoItemmovil-->
+</div>
+</section>
+
+
+
     <ul class="collapsible">
       <li>
         <div class="container-fluid bg_grey collapsible-header">
@@ -573,7 +564,7 @@
     </ul>
     <!--intemDeMarcas-->
 
-    <div class="container-fluid bg_verde">
+    <div class="container-fluid bg_verde" id="contact">
       <div class="row" style="margin-bottom: 0px;">
         <div class="col s12 m12 " style="padding: 35px;">
           <h5 class="sd_sut2">¿Cómo puedo contactarlos?</h5>
@@ -635,7 +626,7 @@
                   return valid;
               }
             </script>
-                <div class="row">
+                <div class="row" >
                   <div class="input-field col s12">
                     <input id="nombre" type="text" class="validate">
                     <label for="nombre">Tu Nombre y tu Apellido</label>
@@ -715,6 +706,34 @@
 
         });
 
+    </script>
+    <script>
+    $(function(){
+
+         $('a[href*=#]').click(function() {
+
+         if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
+             && location.hostname == this.hostname) {
+
+                 var $target = $(this.hash);
+
+                 $target = $target.length && $target || $('[name=' + this.hash.slice(1) +']');
+
+                 if ($target.length) {
+
+                     var targetOffset = $target.offset().top;
+
+                     $('html,body').animate({scrollTop: targetOffset}, 1000);
+
+                     return false;
+
+                }
+
+           }
+
+       });
+
+    });
     </script>
 </body>
 </html>

@@ -54,7 +54,7 @@
 
 
 .title_movil{
-    padding: 100px 10px 100px;
+    padding: 140px 10px 100px;
     text-align: right;
     margin: 0px;
     font-size: 32px;
@@ -238,4 +238,53 @@
 
 .justi{
     text-align: justify;
+}
+
+
+.bg_11{
+background-color: #3be3c8; 
+color: #5f7571;
+padding: 30px;
+font-family: "updateregular";
+font-size: 18px;
+text-align: justify;
+line-height: 30px;
+}
+.bg_21{
+background-color: #31c1aa; 
+color: #5f7571;
+padding: 30px;
+font-family: "updateregular";
+font-size: 18px;
+text-align: justify;
+line-height: 30px;
+}
+.bg_31{
+ background-color: #2aab97; 
+ color: #5f7571;
+ padding: 30px; 
+ font-family: "updateregular";
+ font-size: 18px;
+ text-align: justify;
+ line-height: 30px;  
+}
+
+.mkt_title{
+    font-size: 36px;
+    font-family: "updateregular";
+    color: #5f7571;
+    text-align: center;
+    font-weight: 900;
+}
+.clas{
+    margin-top:20px;
+}
+
+
+
+.logog{
+        float: right;
+    width: 140px;
+    margin-top: 10px;
+    margin-right: 10px;
 }
