@@ -4,7 +4,7 @@
             <div class="row">
               <div class="col l12 s12">
                 <img src="../img/logo-update-2018.png" class="img_foo">
-                <p class="grey-text text-lighten-4 text_foot img_foo">Somos una Agencia de Marketing en Perú, especializada en Desarrollo de marca, Diseño y Desarrollo web, Estrategias de Marketing Tradicional y Marketing Digital con visión global, anteponemos tus objetivos comerciales sin dejar el lado creativo.</p>
+                <p class="grey-text text-lighten-4 text_foot img_foo">Somos una Agencia de Marketing en Perú, especializada en Estrategias de Marketing  Digital y off line con visión global, Desarrollo de marca, Diseño y Desarrollo web; anteponemos tus objetivos comerciales sin dejar el lado creativo.</p>
                   <div class="row img_foo">
                     <a href="https://www.behance.net/ventas326d" target="_blank"><span class="social"> <i class="fab fa-behance"></i></span></a>
                     <a href="https://www.linkedin.com/company/update-global-marketing" target="_blank"><span class="social"> <i class="fab fa-linkedin-in"></i></span></a>

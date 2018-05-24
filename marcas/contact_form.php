@@ -1,6 +1,6 @@
 <?php
-$toEmail = "luizupdate@gmail.com";
-$subject = "Mensaje enviado desde el landing de UPDATE";
+$toEmail = "luizupdate@gmail.com, , updatechristian@gmail.com";
+$subject = "Mensaje enviado desde Marcas UPDATE";
 $mailHeaders = "From: " . $_POST["nombre"] . "<". $_POST["mail"] .">\r\n";
 
 $mensaje .= "Informacion del Contacto\n";
