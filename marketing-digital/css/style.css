@@ -98,7 +98,7 @@
 .sd_suti{
     font-family: "updateregular";
     font-size: 40px;
-    color: #656464;
+    color: #4a4949;
     font-weight: 900;
 }
 
@@ -154,7 +154,7 @@
 .sd_sut2{
     font-family: "update";
     font-size: 30px;
-    color: #787878;
+    color: #464646;
     font-weight: 900;
 }
 
@@ -241,38 +241,25 @@
 }
 
 
-.bg_11{
-background-color: #3be3c8; 
-color: #5f7571;
-padding: 30px;
-font-family: "updateregular";
-font-size: 18px;
-text-align: justify;
-line-height: 30px;
-}
-.bg_21{
-background-color: #31c1aa; 
-color: #5f7571;
-padding: 30px;
-font-family: "updateregular";
-font-size: 18px;
-text-align: justify;
-line-height: 30px;
-}
+.bg_11{background-color: #ddf2f273;color: #343438;padding: 30px;font-family: "updateregular";font-size: 16px;text-align: justify;line-height: 30px;}
+.bg_21{background-color: #ddf2f2;color: #343438;padding: 30px;font-family: "updateregular";font-size: 16px;text-align: justify;line-height: 30px;}
 .bg_31{
- background-color: #2aab97; 
- color: #5f7571;
- padding: 30px; 
+ background-color: #57d8d182;
+ color: #343438;
+ padding: 30px;
  font-family: "updateregular";
- font-size: 18px;
+ font-size: 16px;
  text-align: justify;
- line-height: 30px;  
+ line-height: 30px;
 }
 
+.bg_41{background-color: #44b7ab96;color: #343438;padding: 30px;font-family: "updateregular";font-size: 16px;text-align: justify;line-height: 30px;}
+
+.bg_51{background-color: #28a69991;color: #343438;padding: 30px;font-family: "updateregular";font-size: 16px;text-align: justify;line-height: 30px;}
 .mkt_title{
     font-size: 36px;
     font-family: "updateregular";
-    color: #5f7571;
+    color: #343438;
     text-align: center;
     font-weight: 900;
 }

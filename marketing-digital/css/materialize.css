@@ -9495,7 +9495,8 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
 
 .uptext_icon{
    color: #585858;
-    font-family: "update";
+   font-family: "update";
+   line-height: 1.5;
 }
 
 .item_title {

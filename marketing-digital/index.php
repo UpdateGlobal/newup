@@ -110,7 +110,7 @@
          <li>
           <img src="images/crecimiento.jpg"> 
           <div class="caption" style="padding: 20px; ">
-            <h3 class="sd_ti">Estrategia creativa, analisis y seguimiento</h3>
+            <h3 class="sd_ti">Estrategia creativa, análisis y seguimiento</h3>
             <h5 class="sd_suti">CONSIGUE RESULTADOS MEDIBLES</h5>
           </div>
         </li>
@@ -173,20 +173,17 @@
 <section class="bg_11">
 <div class="container-fluid">
  <div class="row" style="margin: 0px;">
-        <div class="col s12 m4"><img src="http://via.placeholder.com/400x300" class="responsive-img"></div>
+        <div class="col s12 m4"><img src="images/logos-sem/google-logo.png" class="responsive-img"></div>
         <div class="col s12 m8">
           <div class="row" align="center">
-            <h3 class="mkt_title">loren ipsum</h3>
+            <h3 class="mkt_title">Google Adwords y Display Networks</h3>
           </div>
-        <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-        cillum dolore eu fugiat nulla pariatur.</p>
+        <p> Vende por internet, aparece primero con formatos de búsqueda y palabras clave de tu rubro (Keywords), youtube (videos), shopping ads y con la red Display (banners). Atrae el interés de la audiencia, genera contactos y leads interesados en tu producto o servicio en Google y la red de webs afiliadas (Google Display Network) Blogs, aplicaciones con audiencias, etc; afines a tu público objetivo. Retargeting. Recomendado.
+        </p>
        </div>
 
        <div class="row" align="center" style="margin: 0px;">
-            <a href="#contact" class="btn clas">Contáctame</a>
+            <a href="#contact" class="btn clas">Quiero una Cotización</a>
        </div> 
   </div>
 </div>
@@ -195,20 +192,17 @@
 <section class="bg_21">
 <div class="container-fluid">
  <div class="row" style="margin: 0px;">
-        <div class="col s12 m4"><img src="http://via.placeholder.com/400x300" class="responsive-img"></div>
+        <div class="col s12 m4"><img src="images/logos-sem/facebook-linkedin.png" class="responsive-img"></div>
         <div class="col s12 m8">
           <div class="row" align="center">
-            <h3 class="mkt_title">loren ipsum</h3>
+            <h3 class="mkt_title">Social Media Marketing</h3>
           </div>
-        <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-        cillum dolore eu fugiat nulla pariatur.</p>
+        <p> Capta clientes y vende por redes sociales,crea interacciones con personas, consigue seguidores, crea una comunidad acorde a tu producto o servicio en Facebook ó Instagram. Lanza ofertas ó colecciones, Promociona posts. Publicita tus servicios para empresas en Linkedin, la red profesionales más grande del mundo con atractivos formatos publicidtarios en redes sociales, post patrocinados, canvas, Retargenting, etc. 
+        </p>
        </div>
 
        <div class="row" align="center" style="margin: 0px;">
-            <a href="#contact" class="btn clas">Contáctame</a>
+            <a href="#contact" class="btn clas">Quiero una cotización</a>
        </div
     </div>
 </div>
@@ -217,25 +211,57 @@
 <section class="bg_31">
 <div class="container-fluid">
  <div class="row" style="margin: 0px;">
-        <div class="col s12 m4"><img src="http://via.placeholder.com/400x300" class="responsive-img"></div>
+        <div class="col s12 m4"><img src="images/logos-sem/digilant.png" class="responsive-img"></div>
         <div class="col s12 m8">
           <div class="row" align="center">
-            <h3 class="mkt_title">loren ipsum</h3>
+            <h3 class="mkt_title">Publicidad Programática</h3>
           </div>
-        <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-        cillum dolore eu fugiat nulla pariatur.</p>
+        <p> Herramienta superpotente: Geolocaliza, lanza Notificaciones en smartphones, inserta banners interactivos con funciones o aplicativos personalizados como catálogos, audio o videos en Apps como Spotify, Waze, Shazam, Blogs, webs afiliados; ordenadas por Audiencias segmentadas o por cercania a tus locales, excelente para promociones, branding y estudio de comportamiento de usuarios. Crea públicos similares partir de sus intereses, comportamientos y haz "retargeting" Recomendado.
+</p>
        </div>
 
        <div class="row" align="center" style="margin: 0px;">
-            <a href="#contact" class="btn clas">Contáctame</a>
+            <a href="#contact" class="btn clas">Quiero una Cotización</a>
        </div
     </div>
 </div>
 </section>
 
+<section class="bg_41">
+<div class="container-fluid">
+ <div class="row" style="margin: 0px;">
+        <div class="col s12 m4"><img src="images/logos-sem/landing.png" class="responsive-img"></div>
+        <div class="col s12 m8">
+          <div class="row" align="center">
+            <h3 class="mkt_title">Landing Pages | Páginas webs de campaña</h3>
+          </div>
+        <p> Crea páginas webs exclusivas y únicas para informar tu oferta, promoción, producto o servicio. Guia a tus visitantes hacia tu objetivo: VENDER. Optimiza tu presupuesto y haz crecer el número de leads de tu campaña con una landing page diseñada estrategicamente con mensajes atractivos y con llamados a la acción (Calls to Action) pensados en hacer reaccionar a tu público. Altamente recomendado. </p>
+       </div>
+
+       <div class="row" align="center" style="margin: 0px;">
+            <a href="#contact" class="btn clas">Quiero una Cotización</a>
+       </div> 
+  </div>
+</div>
+</section>
+
+<section class="bg_51">
+<div class="container-fluid">
+ <div class="row" style="margin: 0px;">
+        <div class="col s12 m4"><img src="images/logos-sem/emaili.png" class="responsive-img"></div>
+        <div class="col s12 m8">
+          <div class="row" align="center">
+            <h3 class="mkt_title">Campañas de Email Marketing</h3>
+          </div>
+        <p> No confundas el Email Marketing con la mala práctica de envíos de correos masivos (spam) Aprovecha tu base de datos y crea comunicaciones personalizados. Aumenta las probabilidades de venta, programa envíos por motivo y obtén resultados esperados. Recibe informes de control de tus envíos, crea mensajes potentes y atrae más clientes con una estrategia de email marketing. Te sorprenderás con los resultados.</p>
+       </div>
+
+       <div class="row" align="center" style="margin: 0px;">
+            <a href="#contact" class="btn clas">Quiero una Cotización</a>
+       </div> 
+  </div>
+</div>
+</section>
 
 
     <ul class="collapsible">
@@ -247,30 +273,69 @@
             </div>
           </div>
         </div>
-        <div class="collapsible-body">
-
-        <div class="row" style="margin: 0;">
-          <div class="col s12 m12 l12" align="center">
-          <div class="container mg_l mg_r">
-            <span><img src="images/icon-10.png" class="item_img" ></span>
-              <p class="servives">Análisis y Diagnostico de tu marca, producto o servicio <br> Creación o Análisis de Nombre <br>  Logotipo Imagotipo, Isotipo, Isologo <br> Personalidad de marca <br> Manual de usabilidad de Logo <br> Diseño de Carpeta de Presentación: <br> (Tarjetas, Folder, Hoja M) <br> Diseño de Brouchure <br> Diseño de Firma Digital <br> Diseño de Packaging</p>
-              <hr class="hr">
-              <p class="servives">Estrategia de posicionamiento<br>Propuesta de Valor única<br>Primer Slogan</p>
-              <hr class="hr">
-              <p class="servives">1 Sitio Web <br> ó <br> E-Commerce</p>
-              <hr class="hr">
-              <p class="servives">Creación y desarrollo de 2 redes sociales<br>(difunde tu sitio web, tus productos y servicios)<br>(Perfil,  Portada, Formato de Publicación)</p>
-              <hr class="hr">
-              <p class="servives">1 envio de Email Marketing<br>
-              	Implementación de: <br> 1 campaña google <br> ó <br> 1 campaña en red social </p>
-
-              <a href="#contac" class="btn">Contactanos YA!</a>
-
-            </div> 
+ <div class="collapsible-body">
+          <div class="">
+            <div class="row">    
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/plataformas/adwords.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/plataformas/facebook.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/plataformas/youtube.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/plataformas/digilant.png">
+              </div>
+            </div>
+            <div class="row">    
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/plataformas/gmail.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/plataformas/twitter.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/plataformas/instagram.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/plataformas/linkedin.png">
+              </div>
+            </div>
+            <div class="row">    
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/plataformas/spotify.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/plataformas/waze.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/plataformas/shazam.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/plataformas/elcomercio.png">
+              </div>
+            </div>
+            <div class="row">    
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/plataformas/rpp.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/plataformas/analytics.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/plataformas/google.png">
+              </div>
+              <div class="col s12 m6 l3" align="center">
+                    <img src="images/plataformas/mas.png">
+              </div>
+            </div>
           </div>
         </div>
 
-        </div>
+
+
       </li>
     </ul>
     <!--infoItem-->
@@ -278,28 +343,28 @@
         <div class="row" style="margin: 0;">
           <div class="col s12 m6 l6 bg_1 ">
           <div class="container mg_l mg_r">
-            <span><img src="images/icon-05.png" class="item_img" ></span>
-            <h3 class="item_info uptext">¿Cuanto tiempo dura el desarrollo de marca con Update?</h3>
+            <span><img src="images/icon-07.png" class="item_img" ></span>
+            <h3 class="item_info uptext">¿Cuanto necesito invertir en Marketing Digital?</h3>
             <hr class="hr">
-            <p class="uptext_icon">Dependiendo de tu proyecto, los estimados para lograr el desarrollo de tu marca son entre 15 y 20 ó entre 20 y 30 días. Tiempo que dedicaremos plenamente a entender tu negocio y así brindarte los mejores entregables.</p>
-            </div> 
+            <p class="uptext_icon">Dependiendo de tus objetivos, debes ir por etapas y obtener resultados, no necesitas empezar con un gran presupuesto. Considera a los medios digitales como un refuerzo a de tu área comercial: obtendrás prospectos (leads) y ventas. Debe tratarse con mucha seriedad y por profesionales.</p>
+          </div> 
           </div>
           <div class="col s12 m6 l6   bg_2">
           <div class="container mg_l mg_r">
-            <span><img src="images/icon-06.png" class="item_img" ></span>
-            <h3 class="item_info uptext">¿Aceptan todos los medios de pago posibles?</h3>
+            <span><img src="images/icon-05.png" class="item_img" ></span>
+            <h3 class="item_info uptext">¿En cuanto tiempo lograre ver resultados tangibles?</h3>
             <hr class="hr">
-            <p class="uptext_icon">SI, aceptamos todas las tarjetas de crédito, cheques, efectivo, depósitos, transferencias, etc. Brindamos esta facilidad con el objetivo que no tengas excusa para desarrollar tu proyecto. Somos tu aliado comercial.</p>
+            <p class="uptext_icon">Inmediatamente. Ya sea en primer lugar con incremento de tráfico, lo que se traduce en exposición de tu marca o servicio, por ventas nuevas, por llamadas telefónicas, contactos por whatsapp; siempre se proporcionarán los reportes que indican el rendimiento de tu campaña.</p>
             </div> 
           </div>
         </div>
         <div class="row" style="margin: 0;">
           <div class="col s12 m6 l6 bg_2">
           <div class="container mg_l mg_r">
-            <span><img src="images/icon-07.png" class="item_img" ></span>
-            <h3 class="item_info uptext">¿Es factible trabajar con formas de pago financiadas?</h3>
+            <span><img src="images/icon-02.png" class="item_img" ></span>
+            <h3 class="item_info uptext">Si no tengo página web ¿puedo hacer marketing digital?</h3>
             <hr class="hr">
-            <p class="uptext_icon">SI, es posible. No busques excusas para quedarte en lo mismo. Plantea a Update una forma de pago y empezamos a trabajar. Así de simple. Todo es posible con tu decisión. No esperes más tiempo. Conversemos ya!</p>
+            <p class="uptext_icon">SI, es posible. Trabajemos una landing page (página exclusiva para tu campaña) para que tus usuarios se informen adecuadamente de tu promoción, producto o servicio y no pierdas ventas. ¿Estás convencido? ¿Conversemos ya?</p>
             </div> 
           </div>
         <div class="col s12 m6 l6 bg_1">
@@ -307,7 +372,7 @@
             <span><img src="images/icon-08.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Cómo garantizan los resultados en Update Global Marketing?</h3>
             <hr class="hr">
-            <p class="uptext_icon">Somos una Agencia de Marketing con profesionales de mucha experiencia, casos de éxito demostrables y especialistas en los procesos de desarrollo de marca. Nuestros trabajos, la mejor carta de presentación.</p>
+            <p class="uptext_icon">Somos una Agencia de Marketing con profesionales de mucha experiencia, casos de éxito demostrables y especialistas en campañas de marketing digital. Nuestros clientes, la mejor carta de presentación.</p>
             </div> 
           </div>
         </div>
@@ -318,28 +383,28 @@
         <div class="row" style="margin: 0;">
           <div class="col s12 m6 l6 bg_1 ">
           <div class="container mg_l mg_r">
-            <span><img src="images/icon-05.png" class="item_img" ></span>
-            <h3 class="item_info uptext">¿Cuanto tiempo dura el desarrollo de marca con Update?</h3>
+            <span><img src="images/icon-07.png" class="item_img" ></span>
+            <h3 class="item_info uptext">¿Cuanto necesito invertir en Marketing Digital?</h3>
             <hr class="hr">
-            <p class="uptext_icon">Dependiendo de tu proyecto, los estimados para lograr el desarrollo de tu marca son entre 15 y 20 ó entre 20 y 30 días. Tiempo que dedicaremos plenamente a entender tu negocio y así brindarte los mejores entregables.</p>
+            <p class="uptext_icon">Dependiendo de tus objetivos, debes ir por etapas y obtener resultados, no necesitas empezar con un gran presupuesto. Considera a los medios digitales como un refuerzo a de tu área comercial: obtendrás prospectos (leads) y ventas. Debe tratarse con mucha seriedad y por profesionales.</p>
             </div> 
           </div>
           <div class="col s12 m6 l6   bg_2">
           <div class="container mg_l mg_r">
-            <span><img src="images/icon-06.png" class="item_img" ></span>
-            <h3 class="item_info uptext">¿Aceptan todos los medios de pago posibles?</h3>
+            <span><img src="images/icon-05.png" class="item_img" ></span>
+            <h3 class="item_info uptext">¿En cuanto tiempo lograre ver resultados tangibles?</h3>
             <hr class="hr">
-            <p class="uptext_icon">SI, aceptamos todas las tarjetas de crédito, cheques, efectivo, depósitos, transferencias, etc. Brindamos esta facilidad con el objetivo que no tengas excusa para desarrollar tu proyecto. Somos tu aliado comercial.</p>
+            <p class="uptext_icon">Inmediatamente. Ya sea en primer lugar con incremento de tráfico, lo que se traduce en exposición de tu marca o servicio, por ventas nuevas, por llamadas telefónicas, contactos por whatsapp; siempre se proporcionarán los reportes que indican el rendimiento de tu campaña.</p>
             </div> 
           </div>
         </div>
         <div class="row" style="margin: 0;">
           <div class="col s12 m6 l6 bg_1">
           <div class="container mg_l mg_r">
-            <span><img src="images/icon-07.png" class="item_img" ></span>
-            <h3 class="item_info uptext">¿Es factible trabajar con formas de pago financiadas?</h3>
+            <span><img src="images/icon-02.png" class="item_img" ></span>
+            <h3 class="item_info uptext">Si no tengo página web ¿puedo hacer marketing digital?</h3>
             <hr class="hr">
-            <p class="uptext_icon">SI, es posible. No busques excusas para quedarte en lo mismo. Plantea a Update una forma de pago y empezamos a trabajar. Así de simple. Todo es posible con tu decisión. No esperes más tiempo. Conversemos ya!</p>
+            <p class="uptext_icon">SI, es posible. Trabajemos una landing page (página exclusiva para tu campaña) para que tus usuarios se informen adecuadamente de tu promoción, producto o servicio y no pierdas ventas. ¿Estás convencido? ¿Conversemos ya?</p>
             </div> 
           </div>
         <div class="col s12 m6 l6 bg_2">
@@ -347,7 +412,7 @@
             <span><img src="images/icon-08.png" class="item_img" ></span>
             <h3 class="item_info uptext">¿Cómo garantizan los resultados en Update Global Marketing?</h3>
             <hr class="hr">
-            <p class="uptext_icon">Somos una Agencia de Marketing con profesionales de mucha experiencia, casos de éxito demostrables y especialistas en los procesos de desarrollo de marca. Nuestros trabajos, la mejor carta de presentación.</p>
+            <p class="uptext_icon">Somos una Agencia de Marketing con profesionales de mucha experiencia, casos de éxito demostrables y especialistas en campañas de marketing digital. Nuestros clientes, la mejor carta de presentación.</p>
             </div> 
           </div>
         </div>
