@@ -111,14 +111,14 @@
           <img src="images/crecimiento.jpg"> 
           <div class="caption" style="padding: 20px; ">
             <h3 class="sd_ti">Estrategia creativa, análisis y seguimiento</h3>
-            <h5 class="sd_suti">CONSIGUE RESULTADOS MEDIBLES</h5>
+            <h5 class="sd_suti">¡CONSIGUE RESULTADOS MEDIBLES!</h5>
           </div>
         </li>
          <li>
           <img src="images/analisis.jpg"> 
           <div class="caption" style="padding: 20px; ">
             <h3 class="sd_ti">Optimiza bien tus presupuestos</h3>
-            <h5 class="sd_suti">VENDE LO QUE ESPERAS AHORA</h5>
+            <h5 class="sd_suti">¡VENDE LO QUE ESPERAS AHORA!</h5>
           </div>
         </li>
       </ul>
