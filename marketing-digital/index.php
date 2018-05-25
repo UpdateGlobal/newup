@@ -207,7 +207,7 @@
           <div class="row" align="center">
             <h3 class="mkt_title">Social Media Marketing</h3>
           </div>
-        <p> Capta clientes y vende por redes sociales,crea interacciones con personas, consigue seguidores, crea una comunidad acorde a tu producto o servicio en Facebook ó Instagram. Lanza ofertas ó colecciones, Promociona posts. Publicita tus servicios para empresas en Linkedin, la red profesionales más grande del mundo con atractivos formatos publicidtarios en redes sociales, post patrocinados, canvas, Retargenting, etc. 
+        <p> Capta clientes y vende por redes sociales,crea interacciones con personas, consigue seguidores, crea una comunidad acorde a tu producto o servicio en Facebook ó Instagram. Lanza ofertas o colecciones, Promociona posts. Publicita tus servicios para empresas en Linkedin, la red profesionales más grande del mundo con atractivos formatos publicidtarios en redes sociales, post patrocinados, canvas, Retargenting, etc. 
         </p>
        </div>
 
@@ -354,15 +354,15 @@
           <div class="col s12 m6 l6 bg_1 ">
           <div class="container mg_l mg_r">
             <span><img src="images/icon-07.png" class="item_img" ></span>
-            <h3 class="item_info uptext">¿Cuanto necesito invertir en Marketing Digital?</h3>
+            <h3 class="item_info uptext">¿Cuánto necesito invertir en Marketing Digital?</h3>
             <hr class="hr">
-            <p class="uptext_icon">Dependiendo de tus objetivos, debes ir por etapas y obtener resultados, no necesitas empezar con un gran presupuesto. Considera a los medios digitales como un refuerzo a de tu área comercial: obtendrás prospectos (leads) y ventas. Debe tratarse con mucha seriedad y por profesionales.</p>
+            <p class="uptext_icon">Dependiendo de tus objetivos, debes ir por etapas y obtener resultados, no necesitas empezar con un gran presupuesto. Considera a los medios digitales como un refuerzo de tu área comercial: obtendrás prospectos (leads) y ventas. Debe tratarse con mucha seriedad y por profesionales.</p>
           </div> 
           </div>
           <div class="col s12 m6 l6   bg_2">
           <div class="container mg_l mg_r">
             <span><img src="images/icon-05.png" class="item_img" ></span>
-            <h3 class="item_info uptext">¿En cuanto tiempo lograre ver resultados tangibles?</h3>
+            <h3 class="item_info uptext">¿En Cuánto tiempo lograre ver resultados tangibles?</h3>
             <hr class="hr">
             <p class="uptext_icon">Inmediatamente. Ya sea en primer lugar con incremento de tráfico, lo que se traduce en exposición de tu marca o servicio, por ventas nuevas, por llamadas telefónicas, contactos por whatsapp; siempre se proporcionarán los reportes que indican el rendimiento de tu campaña.</p>
             </div> 
