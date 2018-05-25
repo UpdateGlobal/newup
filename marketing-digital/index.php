@@ -15,8 +15,8 @@
         <!-- twitter card starts from here, if you don't need remove this section -->
       <meta name="twitter:url" content="" />
       <meta name="twitter:title" content="Update | Marketing Digital para tu empresa" /> <!-- maximum 140 char -->
-      <meta name="twitter:description" content="Atrae, seduce y convence a nuevos clientes" /> <!-- maximum 140 char -->
-      <meta name="twitter:image" content="images/empresario2.jpg" /> <!-- when you post this page url in twitter , this image will be shown -->
+      <meta name="twitter:description" content="Atrae, seduce y convence a nuevos clientes. Contactanos al +51934244258" /> <!-- maximum 140 char -->
+      <meta name="twitter:image" content="images/vista.jpg" /> <!-- when you post this page url in twitter , this image will be shown -->
       <!-- twitter card ends from here -->
 
       <!-- facebook open graph starts from here, if you don't need then delete open graph related  -->
@@ -26,8 +26,8 @@
       <meta property="og:site_name" content="Update Global Marketing" />
       <!--meta property="fb:admins" content="" /-->  <!-- use this if you have  -->
       <meta property="og:type" content="website:landing" />
-      <meta property="og:description" content="Atrae, seduce y convence a nuevos clientes" />
-      <meta property="og:image" content="images/empresario2.jpg" /> <!-- when you post this page url in facebook , this image will be shown -->
+      <meta property="og:description" content="Atrae, seduce y convence a nuevos clientes. Contactanos al +51934244258" />
+      <meta property="og:image" content="images/vista.jpg" /> <!-- when you post this page url in facebook , this image will be shown -->
 
       <link rel="stylesheet" type="text/css" href="css/materialize.css" /> 
       <link rel="stylesheet" type="text/css" href="css/animate.css">  
