@@ -8,18 +8,28 @@
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <link rel=”canonical” href=”https://update.pe/marcas>
       <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-      <meta name="description" content="Somos una Agencia de Marketing en Perú, especializada en desarrollo de marca, Diseño y Desarrollo web, Estrategias de Marketing tradicional y Marketing Digital con visión global, anteponemos tus objetivos comerciales sin dejar el lado creativo." />
+      <meta name="description" content="Somos una Agencia de Marketing en Perú, especializada en Estrategias de Marketing Digital y off line con visión global, Desarrollo de marca, Diseño y Desarrollo web; anteponemos tus objetivos comerciales sin dejar el lado creativo." />
       <meta name="keywords" content="marketing, marketing digital, diseño web, diseño grafico, desarrollo de marca, creación de logotipos, paginas webs, branding" />
       <meta name="author" content="luis alberto bernal fuentes" />
-        <!-- Facebook and Twitter integration -->
-      <meta property="og:title" content=""/>
-      <meta property="og:image" content=""/>
-      <meta property="og:url" content=""/>
-      <meta property="og:site_name" content=""/>
-      <meta property="og:description" content=""/>
-      <meta name="twitter:title" content="" />
-      <meta name="twitter:image" content="" />
-      <meta name="twitter:url" content="" /> <link rel="stylesheet" type="text/css" href="css/materialize.css" /> 
+      
+        <!-- twitter card starts from here, if you don't need remove this section -->
+      <meta name="twitter:url" content="" />
+      <meta name="twitter:title" content="Update | Marketing Digital para tu empresa" /> <!-- maximum 140 char -->
+      <meta name="twitter:description" content="Atrae, seduce y convence a nuevos clientes" /> <!-- maximum 140 char -->
+      <meta name="twitter:image" content="images/empresario2.jpg" /> <!-- when you post this page url in twitter , this image will be shown -->
+      <!-- twitter card ends from here -->
+
+      <!-- facebook open graph starts from here, if you don't need then delete open graph related  -->
+      <meta property="og:title" content="Update | Marketing Digital para tu empresa" />
+      <meta property="og:url" content="" />
+      <meta property="og:locale" content="es_PE" />
+      <meta property="og:site_name" content="Update Global Marketing" />
+      <!--meta property="fb:admins" content="" /-->  <!-- use this if you have  -->
+      <meta property="og:type" content="website:landing" />
+      <meta property="og:description" content="Atrae, seduce y convence a nuevos clientes" />
+      <meta property="og:image" content="images/empresario2.jpg" /> <!-- when you post this page url in facebook , this image will be shown -->
+
+      <link rel="stylesheet" type="text/css" href="css/materialize.css" /> 
       <link rel="stylesheet" type="text/css" href="css/animate.css">  
       <link rel="stylesheet" type="text/css" href="css/style.css">
       <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.css">
