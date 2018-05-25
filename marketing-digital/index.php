@@ -69,6 +69,11 @@
           src="https://www.facebook.com/tr?id=1488462724608034&ev=PageView&noscript=1"
         /></noscript>
         <!-- End Facebook Pixel Code -->
+        <script>
+        fbq('track', 'ViewContent');
+        </script>
+        <!-- Finalizar código del píxel de Facebook -->
+
 
 
       <!--maquina de escribir-->
