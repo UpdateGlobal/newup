@@ -15,6 +15,17 @@
               </div>
             </div>
           </div>
+
+
+          <style type="text/css">
+
+            @media only screen and (max-width: 600px) {
+               .bgfoote{
+                margin-bottom: 50px;
+               }
+            }
+            
+          </style>
           <div class="footer-copyright bgfoote">
 
              <div class="container" style="font-size: 10px;">

@@ -1,0 +1,166 @@
+/*GLOBALES*/
+.spacelist{
+	padding-bottom: 5px;
+	font-size: 12px;
+	  color: #585858ab !important ;
+}
+
+.piclist{
+	margin: -15px 5px 5px;
+	  color: #585858ab !important ;
+}
+ .white.{
+    color: white !important;
+ }
+
+
+.puntoblog{s
+	/*color: #50bdbe;*/
+	background-color: #50bdbe69;
+	  color: #585858ab !important ;
+
+}
+
+
+@font-face {
+    font-family: "update";
+    src: url('../rimouski.ttf') format("opentype");
+}
+
+@font-face {
+    font-family: "updateregular";
+    src: url('../rimouskiregular.ttf') format("opentype");
+}
+
+.uptextregular {
+    color: #595858;
+    font-family: "updateregular";
+    font-size: 24px;
+}
+
+
+.card_text {
+    color: #59585885 !important;
+    font-family: "updateregular";
+    font-size: 14px;
+}
+
+.card_fa {
+	padding-top: 20px;
+    color: #59585850 !important;
+    font-family: "updateregular";
+    font-size: 14px;
+}
+
+.uptext {
+      color: #585858ab !important ;
+    font-family: "update";
+
+}
+
+.uptext_chip {
+    color: white !important ;
+    font-family: "update";
+}
+
+ /*BANNER*/
+ .bg_banner{
+ 
+
+ }
+
+
+/*INFOS*/
+
+.uptext2{
+
+    font-family: "update";
+    color: white;
+
+}
+.white{
+	color: white;
+	font-family: "update";
+}
+
+
+.upcolor{
+    color: #2cb8c7 !important;
+}
+
+.gris{
+	color: #585858;
+}
+.whitex{
+    color: white !important;
+}
+.card_foo{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+/*FOOTER*/
+
+.text_foot{
+  font-size: 12px;
+}
+
+.social{
+    display: inline-block;
+    vertical-align: top;
+    height: 37px;
+    width: 37px;
+    line-height: 33px;
+    border: 2px solid #fff;
+    border-radius: 100%;
+    text-align: center;
+    margin-right: 10px;
+    font-size: 18px;
+    color: #2cb8c7;
+    float: center;
+    margin-top: 4px;
+    background-color: black;
+}
+
+
+.social:hover{
+    display: inline-block;
+    vertical-align: top;
+    height: 37px;
+    width: 37px;
+    line-height: 33px;
+    border: 2px solid #fff;
+    border-radius: 100%;
+    text-align: center;
+    margin-right: 10px;
+    font-size: 18px;
+    color: white;
+    float: center;
+    margin-top: 4px;
+    background-color: #2cb8c7;
+}
+.img_foo{
+  padding: 15px;
+}
+
+
+.justi{
+    text-align: justify;
+}  
+
+.interline{
+    line-height: 22px;
+}
+
+
+.post_img{
+    height: 600px;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .post_img {
+        height: 350px;
+    }
+}
