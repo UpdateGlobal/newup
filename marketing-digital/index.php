@@ -232,7 +232,7 @@
           <div class="row" align="center">
             <h3 class="mkt_title">Social Media Marketing</h3>
           </div>
-        <p> Capta clientes y vende por redes sociales,crea interacciones con personas, consigue seguidores, crea una comunidad acorde a tu producto o servicio en Facebook ó Instagram. Lanza ofertas o colecciones, Promociona posts. Publicita tus servicios para empresas en Linkedin, la red profesionales más grande del mundo con atractivos formatos publicidtarios en redes sociales, post patrocinados, canvas, Retargenting, etc. 
+        <p> Capta clientes y vende por redes sociales, crea interacciones con personas, consigue seguidores, crea una comunidad acorde a tu producto o servicio en Facebook ó Instagram. Lanza ofertas o colecciones, Promociona posts. Publicita tus servicios para empresas en Linkedin, la red profesionales más grande del mundo con atractivos formatos publicitarios en redes sociales, post patrocinados, canvas, Retargenting, etc. 
         </p>
        </div>
 
