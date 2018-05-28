@@ -40,8 +40,9 @@
         <li><a href="#" class="btn-floating colormenu4 tooltipped button-collapse" data-position="left"  data-delay="50" data-tooltip="Contacto" data-activates="slide-out"><i class="material-icons">perm_phone_msg</i></a></li>
         <li><a href="https://api.whatsapp.com/send?phone=0051934244258" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Puedes Escribir por Whatsapp"><img src="img/whatsapp.svg" width="27" style="color: white; padding-top: 6px;"></a></li>
         <li><a href="../webs/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Diseño Web">  <i class="material-icons">desktop_mac</i></a></li>
+        <li><a href="../branding" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Branding"><i class="material-icons">format_color_fill</i></a></li>
            <li><a href="../marketing-digital/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Marketing Digital"><i class="material-icons">touch_app</i></a></li>
-        <li><a href="marcas/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Desarrollo de Marcas" href=""><i class="material-icons">brush</i></a></li>
+        <li><a href="proyectos/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Proyectos" href=""><i class="material-icons">brush</i></a></li>
         <li><a href="../index.php" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Ir al Inicio"><img src="img/home.svg" width="27" style="color: white; padding-top: 8px;"></a></li>
       </ul>
     </div>
