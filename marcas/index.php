@@ -98,6 +98,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
       </a></li>
       <li><a href="../blog.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Blog">   <i class="material-icons">developer_mode</i></a></li>
       <li><a href="../webs/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Diseño Web">  <i class="material-icons">desktop_mac</i></a></li> 
+         <li><a href="../marketing-digital/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Marketing Digital"><i class="material-icons">touch_app</i></a></li>
        <li><a href="../index.php" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Ir al Inicio">
         <img src="img/home.svg" width="27" style="color: white; padding-top: 8px;">
       </a></li>     
