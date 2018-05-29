@@ -105,22 +105,19 @@
     </a>
     <ul>
       <li><a href="#" class="btn-floating colormenu4 tooltipped button-collapse" data-position="left"  data-delay="50" data-tooltip="Contacto" data-activates="slide-out"><i class="material-icons">perm_phone_msg</i></a></li>
-      <li><a href="https://api.whatsapp.com/send?phone=51934244258&text=Hola%20Me%20Gustaria%20información%20de%20sus%20servicios" target="new" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Puedes Escribir por Whatsapp">
+      <li><a href="https://api.whatsapp.com/send?phone=51934244258&text=Hola%20Me%20Gustaria%20información%20de%20sus%20servicios" target="new" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Escribenos a Whatsapp">
         <img src="img/whatsapp.svg" width="27" style="color: white; padding-top: 6px;">
       </a></li>
       <li><a href="../blog.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Blog">   <i class="material-icons">developer_mode</i></a></li>
-      <li><a href="../webs/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Diseño Web">  <i class="material-icons">desktop_mac</i></a></li> 
-       <li><a href="../index.php" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Ir al Inicio">
+      <li><a href="../proyectos" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Proyectos" href=""><i class="material-icons">brush</i></a></li> 
+      <li><a href="../webs" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Diseño Web">  <i class="material-icons">desktop_mac</i></a></li> 
+      <li><a href="../branding" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Branding"><i class="material-icons">format_color_fill</i></a></li>      
+      <li><a href="../" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Ir al Inicio">
         <img src="img/home.svg" width="27" style="color: white; padding-top: 8px;">
-      </a></li>     
+      </a></li>    
     </ul>
   </div>
 <!--menuluis-->
-
-
-
-
-
     <nav class="hide-on-med-and-up">
     <div class="nav-wrapper">
       <!-- <a href="#" class="brand-logo">Logo</a> -->
@@ -835,8 +832,11 @@
 
     });
     </script>
-    <!-- Go to www.addthis.com/dashboard to customize your tools -->
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-59d8334b2f20c262"></script>
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5b0c6c7a037ab05f"></script>
+
+
 
 </body>
 </html>
