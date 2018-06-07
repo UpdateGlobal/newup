@@ -51,6 +51,15 @@
           gtag('config', 'UA-74004200-1');
         </script>
        <!-- Global site tag (gtag.js) - Google Pichulytics -->
+       <!-- Global site tag (gtag.js) - AdWords: 815766556 --> 
+        <script async src="https://www.googletagmanager.com/gtag/js?id=AW-815766556"></script> 
+        <script> 
+        window.dataLayer = window.dataLayer || [];
+         function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date()); gtag('config', 'AW-815766556'); 
+        </script>
+        <script> gtag('event', 'page_view', { 'send_to': 'AW-815766556', 'user_id': 'replace with value' }); </script>
+        <!-- Global site tag (gtag.js) - AdWords: 815766556 -->  
 
       <!-- Facebook Pixel Code -->
         <script>
