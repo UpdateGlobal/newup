@@ -40,7 +40,17 @@
 
           gtag('config', 'UA-74004200-1');
         </script>
-       <!-- Global site tag (gtag.js) - Google Pichulytics -->
+        <!-- Global site tag (gtag.js) - Google Pichulytics -->
+        <!-- Global site tag (gtag.js) - AdWords: 815766556 --> 
+        <script async src="https://www.googletagmanager.com/gtag/js?id=AW-815766556"></script> 
+        <script> 
+        window.dataLayer = window.dataLayer || [];
+         function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date()); gtag('config', 'AW-815766556'); 
+        </script>
+        <script> gtag('event', 'page_view', { 'send_to': 'AW-815766556', 'user_id': 'replace with value' }); </script>
+        <!-- Global site tag (gtag.js) - AdWords: 815766556 --> 
+        
       <!--maquina de escribir-->
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 </head>
@@ -74,11 +84,12 @@
         <img src="img/whatsapp.svg" width="27" style="color: white; padding-top: 6px;">
       </a></li>
       <li><a href="../blog.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Blog">   <i class="material-icons">developer_mode</i></a></li>
-      <li><a href="../marketing-digital/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Marketing Digital"><i class="material-icons">touch_app</i></a></li>
+      <li><a href="../proyectos" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Proyectos" href=""><i class="material-icons">brush</i></a></li>       
       <li><a href="../webs/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Diseño Web">  <i class="material-icons">desktop_mac</i></a></li> 
-       <li><a href="../index.php" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Ir al Inicio">
+      <li><a href="../marketing-digital/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Marketing Digital"><i class="material-icons">touch_app</i></a></li>
+      <li><a href="../index.php" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Ir al Inicio">
         <img src="img/home.svg" width="27" style="color: white; padding-top: 8px;">
-      </a></li>     
+      </a></li>   
     </ul>
   </div>
 <!--menuluis-->
