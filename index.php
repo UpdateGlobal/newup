@@ -87,17 +87,15 @@
         <i class="large material-icons">apps</i>
       </a>
       <ul>
-
-<!-- 
-        href="https://api.whatsapp.com/send?phone=51934244258&text=Me%20gustaria%20Información%20sobre%20el%20Seminario" -->
-
-
         <li><a href="#" class="btn-floating colormenu4 tooltipped button-collapse" data-position="left"  data-delay="50" data-tooltip="Contacto" data-activates="slide-out"><i class="material-icons">perm_phone_msg</i></a></li>
-        <li><a href="https://api.whatsapp.com/send?phone=51934244258&text=Hola%20Me%20Gustaria%20información%20de%20sus%20servicios" target="new" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Puedes Escribir por Whatsapp" ><img src="img/whatsapp.svg" width="27" style="color: white; padding-top: 6px;"></a></li>
+        <li><a href="https://api.whatsapp.com/send?phone=51934244258&text=Hola%20Me%20Gustaria%20información%20de%20sus%20servicios" target="new" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Escribenos a whatsapp" ><img src="img/whatsapp.svg" width="27" style="color: white; padding-top: 6px;"></a></li>
         <li><a href="blog.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Blog"><i class="material-icons">developer_mode</i></a></li>
-        <li><a href="marketing-digital/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Marketing Digital"><i class="material-icons">touch_app</i></a></li>
-        <li><a href="webs/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Diseño Web">  <i class="material-icons">desktop_mac</i></a></li>
-        <li><a href="marcas/index.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Desarrollo de Marcas" href=""><i class="material-icons">brush</i></a></li>       
+        <li><a href="proyectos" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Proyectos" href=""><i class="material-icons">brush</i></a></li>     
+        <li><a href="webs" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Diseño Web">  <i class="material-icons">desktop_mac</i></a></li>
+        <li><a href="branding" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Branding"><i class="material-icons">format_color_fill</i></a></li>
+        <li><a href="marketing-digital" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Marketing Digital"><i class="material-icons">touch_app</i></a></li>
+
+
       </ul>
     </div>
     <!--menuluis-->
@@ -132,7 +130,12 @@
                 <a class="btn-floating halfway-fab waves-effect waves-light red" href="/blog/<?php echo $xSlug; ?>"><i class="material-icons">add</i></a>
               </div>
               <div class="card-content">
-                <span class="card-title uptext"><?php echo $xTitulo; ?></span>
+                <span class="card-title uptext"><?php
+                      $xTitulo_r = strip_tags($xTitulo);
+                      $strCut = substr($xTitulo_r,0,105);
+                      $xTitulo_r = substr($strCut,0,strrpos($strCut, ' ')).'...';
+                      echo $xTitulo_r;
+                    ?></span>
                 <p class="card_text uptextregular" align="justify" style="font-size: 14px;"><?php
                       $xNoticia_r = strip_tags($xNoticia);
                       $strCut = substr($xNoticia_r,0,230);
