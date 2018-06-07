@@ -130,7 +130,12 @@
                 <a class="btn-floating halfway-fab waves-effect waves-light red" href="/blog/<?php echo $xSlug; ?>"><i class="material-icons">add</i></a>
               </div>
               <div class="card-content">
-                <span class="card-title uptext"><?php echo $xTitulo; ?></span>
+                <span class="card-title uptext"><?php
+                      $xTitulo_r = strip_tags($xTitulo);
+                      $strCut = substr($xTitulo_r,0,105);
+                      $xTitulo_r = substr($strCut,0,strrpos($strCut, ' ')).'...';
+                      echo $xTitulo_r;
+                    ?></span>
                 <p class="card_text uptextregular" align="justify" style="font-size: 14px;"><?php
                       $xNoticia_r = strip_tags($xNoticia);
                       $strCut = substr($xNoticia_r,0,230);

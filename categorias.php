@@ -128,7 +128,12 @@
                   <a class="btn-floating halfway-fab waves-effect waves-light red" href="/blog/<?php echo $xSlugn; ?>"><i class="material-icons">add</i></a>
                 </div>
                 <div class="card-content">
-                  <span class="card-title uptext"><?php echo $xTitulo; ?></span>
+                  <span class="card-title uptext"><?php
+                      $xTitulo_r = strip_tags($xTitulo);
+                      $strCut = substr($xTitulo_r,0,55);
+                      $xTitulo_r = substr($strCut,0,strrpos($strCut, ' ')).'...';
+                      echo $xTitulo_r;
+                    ?></span>
                   <div class="card_text" align="justify">
                     <?php
                       $xNoticia_r = strip_tags($xNoticia);
