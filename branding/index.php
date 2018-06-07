@@ -11,15 +11,26 @@
       <meta name="description" content="Somos una Agencia de Marketing en Perú, especializada en desarrollo de marca, Diseño y Desarrollo web, Estrategias de Marketing tradicional y Marketing Digital con visión global, anteponemos tus objetivos comerciales sin dejar el lado creativo." />
       <meta name="keywords" content="marketing, marketing digital, diseño web, diseño grafico, desarrollo de marca, creación de logotipos, paginas webs, branding" />
       <meta name="author" content="luis alberto bernal fuentes" />
+      
         <!-- Facebook and Twitter integration -->
-      <meta property="og:title" content=""/>
-      <meta property="og:image" content=""/>
-      <meta property="og:url" content=""/>
-      <meta property="og:site_name" content=""/>
-      <meta property="og:description" content=""/>
-      <meta name="twitter:title" content="" />
-      <meta name="twitter:image" content="" />
-      <meta name="twitter:url" content="" /> <link rel="stylesheet" type="text/css" href="css/materialize.css" /> 
+  <!-- twitter card starts from here, if you don't need remove this section -->
+      <meta name="twitter:url" content="" />
+      <meta name="twitter:title" content="Update | Desarrollamos tu marca" /> <!-- maximum 140 char -->
+      <meta name="twitter:description" content="Obtén una imagen fresca y potente en la era digital. Haz click con tu público. Contáctanos al +51934244258" /> <!-- maximum 140 char -->
+      <meta name="twitter:image" content="images/vista.jpg" /> <!-- when you post this page url in twitter , this image will be shown -->
+      <!-- twitter card ends from here -->
+
+      <!-- facebook open graph starts from here, if you don't need then delete open graph related  -->
+      <meta property="og:title" content="Update | Desarrollamos tu marca" />
+      <meta property="og:url" content="" />
+      <meta property="og:locale" content="es_PE" />
+      <meta property="og:site_name" content="Update Global Marketing" />
+      <!--meta property="fb:admins" content="" /-->  <!-- use this if you have  -->
+      <meta property="og:type" content="website:landing" />
+      <meta property="og:description" content="Obtén una imagen fresca y potente en la era digital. Haz click con tu público. Contáctanos al +51934244258" />
+      <meta property="og:image" content="images/vista.jpg" /> <!-- when you post this page url in facebook , this image will be shown -->
+
+      <link rel="stylesheet" type="text/css" href="css/materialize.css" /> 
       <link rel="stylesheet" type="text/css" href="css/animate.css">  
       <link rel="stylesheet" type="text/css" href="css/style.css">
       <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.css">
