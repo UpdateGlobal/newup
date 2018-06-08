@@ -61,6 +61,25 @@
         <script> gtag('event', 'page_view', { 'send_to': 'AW-815766556', 'user_id': 'replace with value' }); </script>
         <!-- Global site tag (gtag.js) - AdWords: 815766556 -->  
 
+          <!-- Event snippet for formulario conversion page
+          In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+          <script>
+          function gtag_report_conversion(url) {
+            var callback = function () {
+              if (typeof(url) != 'undefined') {
+                window.location = url;
+              }
+            };
+            gtag('event', 'conversion', {
+                'send_to': 'AW-815766556/GRVBCNnn1oMBEJy4_oQD',
+                'event_callback': callback
+            });
+            return false;
+          }
+          </script>
+
+
+
       <!-- Facebook Pixel Code -->
         <script>
           !function(f,b,e,v,n,t,s)

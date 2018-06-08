@@ -54,6 +54,7 @@
         <!-- Global site tag (gtag.js) - Google Pichulytics -->
         <!-- Global site tag (gtag.js) - AdWords: 815766556 --> 
         <script async src="https://www.googletagmanager.com/gtag/js?id=AW-815766556"></script> 
+
         <script> 
         window.dataLayer = window.dataLayer || [];
          function gtag(){dataLayer.push(arguments);}
@@ -61,6 +62,25 @@
         </script>
         <script> gtag('event', 'page_view', { 'send_to': 'AW-815766556', 'user_id': 'replace with value' }); </script>
         <!-- Global site tag (gtag.js) - AdWords: 815766556 --> 
+        
+        <!-- Event snippet for formulario conversion page
+        In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+        <script>
+        function gtag_report_conversion(url) {
+          var callback = function () {
+            if (typeof(url) != 'undefined') {
+              window.location = url;
+            }
+          };
+          gtag('event', 'conversion', {
+              'send_to': 'AW-815766556/GRVBCNnn1oMBEJy4_oQD',
+              'event_callback': callback
+          });
+          return false;
+        }
+        </script>
+
+
         
       <!--maquina de escribir-->
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
