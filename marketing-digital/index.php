@@ -706,7 +706,7 @@
           <img src="images/a-9-decc-888.jpg" class="bg_contac responsive-img" style="height: auto;">
           
         </div>
-        <div class="col s12 m4 l5" id="contac"> 
+        <div class="col s12 m4 l5" id="contac">
           <div class="container">
            <div class="row" style="margin: 0px;">
             <script>
@@ -714,6 +714,7 @@
                   var valid;
                   valid = validateContact();
                   if(valid) {
+                      alert("Gracias, su mensaje fue enviado exitosamente.");
                       jQuery.ajax({
                           url: "contact_form.php",
                           data:'nombre='+$("#nombre").val()+'&mail='+$("#mail").val()+'&telefono='+$("#telefono").val()+'&mensaje='+$("#mensaje").val(),

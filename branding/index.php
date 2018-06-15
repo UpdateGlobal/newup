@@ -641,6 +641,7 @@
                   var valid;
                   valid = validateContact();
                   if(valid) {
+                      alert("Gracias, su mensaje fue enviado exitosamente.");
                       jQuery.ajax({
                           url: "contact_form.php",
                           data:'nombre='+$("#nombre").val()+'&mail='+$("#mail").val()+'&telefono='+$("#telefono").val()+'&mensaje='+$("#mensaje").val(),
