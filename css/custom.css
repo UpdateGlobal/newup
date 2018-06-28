@@ -14,6 +14,19 @@
     max-width: 100% !important;
 }
 
+.card .card-content p, 
+.card .card-content div {
+	color: #595858 !important;
+}
+
+.uptextregular {
+    color: #595858 !important;
+}
+
+.uptext {
+    color: #585858 !important;
+}
+
 @media only screen and (max-width:1200px){
 	.card .card-title {
 		height: 96px;

@@ -30,22 +30,30 @@
 	display: none;
 }
 
+.uptext {
+    color: #585858 !important;
+}
+
+.uptextregular {
+	color: #595858 !important;
+}
+
 .card .card-content p, .card .card-content div {
     margin: 0px 0px 10px 0px;
-    color: #59585885 !important;
+    color: #595858 !important;
     line-height: 24px;
     font-family: "updateregular";
 }
 
 .card .card-content ul li {
-    color: #59585885 !important;
+    color: #595858 !important;
     font-family: "updateregular";
     line-height: 24px;
     list-style-type: square;
 }
 
 .card .card-content ol li {
-    color: #59585885 !important;
+    color: #595858 !important;
     font-family: "updateregular";
     line-height: 24px;
 }
