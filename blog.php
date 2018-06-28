@@ -122,14 +122,14 @@
                 <div class="card-content">
                   <span class="card-title uptext"><?php
                       $xTitulo_r = strip_tags($xTitulo);
-                      $strCut = substr($xTitulo_r,0,55);
+                      $strCut = substr($xTitulo_r,0,105);
                       $xTitulo_r = substr($strCut,0,strrpos($strCut, ' ')).'...';
                       echo $xTitulo_r;
                     ?></span>
                   <div class="card_text" align="justify">
                     <?php
                       $xNoticia_r = strip_tags($xNoticia);
-                      $strCut = substr($xNoticia_r,0,280);
+                      $strCut = substr($xNoticia_r,0,200);
                       $xNoticia_r = substr($strCut,0,strrpos($strCut, ' ')).'...';
                       echo $xNoticia_r;
                     ?>

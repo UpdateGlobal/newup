@@ -54,6 +54,7 @@
         <!-- Global site tag (gtag.js) - Google Pichulytics -->
         <!-- Global site tag (gtag.js) - AdWords: 815766556 --> 
         <script async src="https://www.googletagmanager.com/gtag/js?id=AW-815766556"></script> 
+
         <script> 
         window.dataLayer = window.dataLayer || [];
          function gtag(){dataLayer.push(arguments);}
@@ -61,6 +62,25 @@
         </script>
         <script> gtag('event', 'page_view', { 'send_to': 'AW-815766556', 'user_id': 'replace with value' }); </script>
         <!-- Global site tag (gtag.js) - AdWords: 815766556 --> 
+        
+        <!-- Event snippet for formulario conversion page
+        In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+        <script>
+        function gtag_report_conversion(url) {
+          var callback = function () {
+            if (typeof(url) != 'undefined') {
+              window.location = url;
+            }
+          };
+          gtag('event', 'conversion', {
+              'send_to': 'AW-815766556/GRVBCNnn1oMBEJy4_oQD',
+              'event_callback': callback
+          });
+          return false;
+        }
+        </script>
+
+
         
       <!--maquina de escribir-->
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
@@ -602,6 +622,7 @@
         <div class="col s12 m4 l5" id="contac"> 
           <div class="container" id="fromta">
            <div class="row" style="margin: 0px;">
+<<<<<<< HEAD
 
             <script id="bx24_form_inline" data-skip-moving="true">
                     (function(w,d,u,b){w['Bitrix24FormObject']=b;w[b] = w[b] || function(){arguments[0].ref=u;
@@ -612,6 +633,50 @@
                     })(window,document,'https://updatemarketing.bitrix24.es/bitrix/js/crm/form_loader.js','b24form');
 
                     b24form({"id":"13","lang":"la","sec":"yac5nu","type":"inline"});
+=======
+            <script>
+              function sendContact() {
+                  var valid;
+                  valid = validateContact();
+                  if(valid) {
+                      alert("Gracias, su mensaje fue enviado exitosamente.");
+                      jQuery.ajax({
+                          url: "contact_form.php",
+                          data:'nombre='+$("#nombre").val()+'&mail='+$("#mail").val()+'&telefono='+$("#telefono").val()+'&mensaje='+$("#mensaje").val(),
+                          type: "POST",
+                          success:function(data){
+                              $("#mail-status").html(data);
+                          },
+                          error:function (){}
+                      });
+                  }
+              }
+
+              function validateContact() {
+                  var valid = true;
+                  if(!$("#nombre").val()) {
+                      $("#nombre").css('background-color','#f2dede');
+                      valid = false;
+                  }
+                  if(!$("#mail").val()) {
+                      $("#mail").css('background-color','#f2dede');
+                      valid = false;
+                  }
+                  if(!$("#mail").val().match(/^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/)) {
+                      $("#mail").css('background-color','#f2dede');
+                      valid = false;
+                  }
+                  if(!$("#telefono").val()) {
+                      $("#telefono").css('background-color','#f2dede');
+                      valid = false;
+                  }
+                  if(!$("#mensaje").val()) {
+                      $("#mensaje").css('background-color','#f2dede');
+                      valid = false;
+                  }    
+                  return valid;
+              }
+>>>>>>> 5989e78cd1f4a382b24539885df1d2c682d8c8c1
             </script>
 
            </div>

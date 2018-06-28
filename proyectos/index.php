@@ -208,6 +208,7 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
         <div class="col s12 m4 l5" id="contac"> 
           <div class="container" id="format" >
            <div class="row" style="margin: 0px;">
+<<<<<<< HEAD
             
               <script id="bx24_form_inline" data-skip-moving="true">
                       (function(w,d,u,b){w['Bitrix24FormObject']=b;w[b] = w[b] || function(){arguments[0].ref=u;
@@ -216,6 +217,25 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
                               var s=d.createElement('script');s.async=1;s.src=u+'?'+(1*new Date());
                               var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
                       })(window,document,'https://updatemarketing.bitrix24.es/bitrix/js/crm/form_loader.js','b24form');
+=======
+            <script>
+              function sendContact() {
+                  var valid;
+                  valid = validateContact();
+                  if(valid) {
+                      alert("Gracias, su mensaje fue enviado exitosamente.");
+                      jQuery.ajax({
+                          url: "contact_form.php",
+                          data:'nombre='+$("#nombre").val()+'&mail='+$("#mail").val()+'&telefono='+$("#telefono").val()+'&mensaje='+$("#mensaje").val(),
+                          type: "POST",
+                          success:function(data){
+                              $("#mail-status").html(data);
+                          },
+                          error:function (){}
+                      });
+                  }
+              }
+>>>>>>> 5989e78cd1f4a382b24539885df1d2c682d8c8c1
 
                       b24form({"id":"8","lang":"la","sec":"82jy61","type":"inline"});
               </script>

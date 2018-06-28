@@ -61,6 +61,25 @@
         <script> gtag('event', 'page_view', { 'send_to': 'AW-815766556', 'user_id': 'replace with value' }); </script>
         <!-- Global site tag (gtag.js) - AdWords: 815766556 -->  
 
+          <!-- Event snippet for formulario conversion page
+          In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+          <script>
+          function gtag_report_conversion(url) {
+            var callback = function () {
+              if (typeof(url) != 'undefined') {
+                window.location = url;
+              }
+            };
+            gtag('event', 'conversion', {
+                'send_to': 'AW-815766556/GRVBCNnn1oMBEJy4_oQD',
+                'event_callback': callback
+            });
+            return false;
+          }
+          </script>
+
+
+
       <!-- Facebook Pixel Code -->
         <script>
           !function(f,b,e,v,n,t,s)
@@ -675,6 +694,7 @@
           <img src="images/a-9-decc-888x2.jpg" class="bg_contac responsive-img" style="height: auto;">
           
         </div>
+<<<<<<< HEAD
         <div class="col s12 m4 l5" id="contac"> 
           <div class="container" id="formta" >
            <div class="row" style="margin: 0px;">
@@ -690,6 +710,75 @@
                     b24form({"id":"15","lang":"la","sec":"0rf8lz","type":"inline"});
                 </script>
           
+=======
+        <div class="col s12 m4 l5" id="contac">
+          <div class="container">
+           <div class="row" style="margin: 0px;">
+            <script>
+              function sendContact() {
+                  var valid;
+                  valid = validateContact();
+                  if(valid) {
+                      alert("Gracias, su mensaje fue enviado exitosamente.");
+                      jQuery.ajax({
+                          url: "contact_form.php",
+                          data:'nombre='+$("#nombre").val()+'&mail='+$("#mail").val()+'&telefono='+$("#telefono").val()+'&mensaje='+$("#mensaje").val(),
+                          type: "POST",
+                          success:function(data){
+                              $("#mail-status").html(data);
+                          },
+                          error:function (){}
+                      });
+                  }
+              }
+
+              function validateContact() {
+                  var valid = true;
+                  if(!$("#nombre").val()) {
+                      $("#nombre").css('background-color','#f2dede');
+                      valid = false;
+                  }
+                  if(!$("#mail").val()) {
+                      $("#mail").css('background-color','#f2dede');
+                      valid = false;
+                  }
+                  if(!$("#mail").val().match(/^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/)) {
+                      $("#mail").css('background-color','#f2dede');
+                      valid = false;
+                  }
+                  if(!$("#telefono").val()) {
+                      $("#telefono").css('background-color','#f2dede');
+                      valid = false;
+                  }
+                  if(!$("#mensaje").val()) {
+                      $("#mensaje").css('background-color','#f2dede');
+                      valid = false;
+                  }    
+                  return valid;
+              }
+            </script>
+                <div class="row" >
+                  <div class="input-field col s12">
+                    <input id="nombre" type="text" class="validate">
+                    <label for="nombre">Tu Nombre y tu Apellido</label>
+                  </div>
+                   <div class="input-field col s12">
+                    <input id="mail" type="email" class="validate">
+                    <label for="mail">Cuál es tu Email</label>
+                  </div>
+                   <div class="input-field col s12">
+                    <input id="telefono" type="text" class="validate">
+                    <label for="telefono">Bríndanos tu Celular</label>
+                  </div>
+                   <div class="input-field col s12">
+                    <input id="mensaje" type="text" class="validate">
+                    <label for="mensaje">Escribe tu Consulta</label>
+                  </div>
+                  <div style="clear:both;"></div>
+                  <div id="mail-status"></div>
+                </div>
+                <button class="btn" name="submit" onClick="sendContact();">Contáctame</button>
+>>>>>>> 5989e78cd1f4a382b24539885df1d2c682d8c8c1
               <br>
             </div>
           </div>  
