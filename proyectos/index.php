@@ -73,26 +73,13 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
 <style type="text/css">
 .colormenu4{background-color: #4db6ac;}
 </style>
-<ul id="slide-out" class="side-nav">
-  <li>
-    <script id="bx24_form_inline" data-skip-moving="true">
-            (function(w,d,u,b){w['Bitrix24FormObject']=b;w[b] = w[b] || function(){arguments[0].ref=u;
-                    (w[b].forms=w[b].forms||[]).push(arguments[0])};
-                    if(w[b]['forms']) return;
-                    var s=d.createElement('script');s.async=1;s.src=u+'?'+(1*new Date());
-                    var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
-            })(window,document,'https://updatemarketing.bitrix24.es/bitrix/js/crm/form_loader.js','b24form');
 
-            b24form({"id":"8","lang":"la","sec":"82jy61","type":"inline"});
-    </script>
-  </li>
-</ul>
  <div class="fixed-action-btn vertical click-to-toggle">
     <a class="btn-floating btn-large colormenu1 pulse" >
       <i class="large material-icons">apps</i>
     </a>
     <ul>
-      <li><a href="#" class="btn-floating colormenu4 tooltipped button-collapse" data-position="left"  data-delay="50" data-tooltip="Contacto" data-activates="slide-out"><i class="material-icons">perm_phone_msg</i></a></li>
+      <li><a href="#format" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Contacto" data-activates="slide-out"><i class="material-icons">perm_phone_msg</i></a></li>
       <li><a href="https://api.whatsapp.com/send?phone=51934244258&text=Hola%20Me%20Gustaria%20información%20de%20sus%20servicios" target="new" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Escribenos a Whatsapp">
         <img src="img/whatsapp.svg" width="27" style="color: white; padding-top: 6px;">
       </a></li>
@@ -210,86 +197,36 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
 
 
 
-<!--contacform-->
-<div class="container-fluid info_txt bg_info" align="center">
+    <!--contact.-->
+    <div class="container-fluid info_txt" align="center">
       <div class="row" style="margin: 0;">
         <div class="col s12 m8 l7 bg_contac" style="padding: 0px;"> 
 
-          <img src="img/a-9-decc-888.jpg" class="bg_contac responsive-img" style="height: auto;">
+          <img src="img/a-9-decc-888x2.jpg" class="bg_contac responsive-img" style="height: auto;">
           
         </div>
         <div class="col s12 m4 l5" id="contac"> 
-          <div class="container">
+          <div class="container" id="format" >
            <div class="row" style="margin: 0px;">
-            <script>
-              function sendContact() {
-                  var valid;
-                  valid = validateContact();
-                  if(valid) {
-                      jQuery.ajax({
-                          url: "contact_form.php",
-                          data:'nombre='+$("#nombre").val()+'&mail='+$("#mail").val()+'&telefono='+$("#telefono").val()+'&mensaje='+$("#mensaje").val(),
-                          type: "POST",
-                          success:function(data){
-                              $("#mail-status").html(data);
-                          },
-                          error:function (){}
-                      });
-                  }
-              }
+            
+              <script id="bx24_form_inline" data-skip-moving="true">
+                      (function(w,d,u,b){w['Bitrix24FormObject']=b;w[b] = w[b] || function(){arguments[0].ref=u;
+                              (w[b].forms=w[b].forms||[]).push(arguments[0])};
+                              if(w[b]['forms']) return;
+                              var s=d.createElement('script');s.async=1;s.src=u+'?'+(1*new Date());
+                              var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+                      })(window,document,'https://updatemarketing.bitrix24.es/bitrix/js/crm/form_loader.js','b24form');
 
-              function validateContact() {
-                  var valid = true;
-                  if(!$("#nombre").val()) {
-                      $("#nombre").css('background-color','#f2dede');
-                      valid = false;
-                  }
-                  if(!$("#mail").val()) {
-                      $("#mail").css('background-color','#f2dede');
-                      valid = false;
-                  }
-                  if(!$("#mail").val().match(/^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/)) {
-                      $("#mail").css('background-color','#f2dede');
-                      valid = false;
-                  }
-                  if(!$("#telefono").val()) {
-                      $("#telefono").css('background-color','#f2dede');
-                      valid = false;
-                  }
-                  if(!$("#mensaje").val()) {
-                      $("#mensaje").css('background-color','#f2dede');
-                      valid = false;
-                  }    
-                  return valid;
-              }
-            </script>
-                <div class="row">
-                  <div class="input-field col s12">
-                    <input id="nombre" type="text" class="validate">
-                    <label for="nombre">Tu Nombre y tu Apellido</label>
-                  </div>
-                   <div class="input-field col s12">
-                    <input id="mail" type="email" class="validate">
-                    <label for="mail">Cuál es tu Email</label>
-                  </div>
-                   <div class="input-field col s12">
-                    <input id="telefono" type="text" class="validate">
-                    <label for="telefono">Bríndanos tu Celular</label>
-                  </div>
-                   <div class="input-field col s12">
-                    <input id="mensaje" type="text" class="validate">
-                    <label for="mensaje">Escribe tu Consulta</label>
-                  </div>
-                  <div style="clear:both;"></div>
-                  <div id="mail-status"></div>
-                </div>
-                <button class="btn" name="submit" onClick="sendContact();">Contáctame</button>
+                      b24form({"id":"8","lang":"la","sec":"82jy61","type":"inline"});
+              </script>
+          
               <br>
             </div>
           </div>  
         </div>
       </div>
-<!--contacform-->
+    </div>
+    <!--contact.-->
 <!--GoogleMaps-->
  <div class="container-fluid bg_grey">
       <div class="row ubicatex">
