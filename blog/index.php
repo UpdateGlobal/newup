@@ -61,7 +61,7 @@
         <script type="text/javascript">
           $(function(){
             $("#typed").typed({
-              strings: ["Tecnología", "Desarrollo", "Robótica", "de cualquier interés", "Páginas Webs"],
+              strings: ["Desarrollo Web", "Marketing", "Branding", "Tendicias Digitales"],
               typeSpeed: 30,
               backDelay: 1500,
               loop: true,

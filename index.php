@@ -6,9 +6,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>New Update Global Marketing</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Somos una Agencia de Marketing en Perú, especializada en Estrategias de Marketing Digital y off line con visión global, Desarrollo de marca, Diseño y Desarrollo web; anteponemos tus objetivos comerciales sin dejar el lado creativo." />
+    <meta name="description" content="Somos una Agencia de Marketing en Perú, especializada en Estrategias de Marketing Digital, Branding (Desarrollo de marca), Diseño y Desarrollo web; anteponemos tus objetivos comerciales sin dejar el lado creativo." />
     <meta name="keywords" content="marketing, marketing digital, diseño web, diseño grafico, desarrollo de marca, creación de logotipos, paginas webs, branding" />
-    <meta name="author" content="Update Global Marketing" />
+    <meta name="author" content="Update Global Marketing / Luis Bernal" />
     <link rel=”canonical” href=”https://update.pe”/>
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
@@ -111,21 +111,23 @@
       <div class="container">
         <div class="row">
           <div class="col s12 m12 l12">
-           <H1 class="uptext center-align" style=" margin-top: 0px; padding-top: 50px; font-size: 4rem;">Agencia de Marketing Digital 360 y desarrollo de Marca</H1>
-            <p class="uptextregular subtitulo_info" align="center">Loren ipsum moment text moted</p>
+           <H1 class="uptext center-align" style=" margin-top: 0px; padding-top: 50px; font-size: 3rem;color: white !important; line-height: 60px;">Agencia de Marketing Digital 360 y Branding - desarrollo de Marca</H1>
           </div>
         </div>
 
-        <div class="row" style="margin: 0px;">        
+        <div class="row" style="margin: 0px; padding-bottom: 40px;">        
         <!--item_servicios-->
           <div class="col s12 m12 l6 xl4">
             <div class="card z-depth-2" style="margin-bottom: 40px;">
               <div class="card-image img-contenedor">
-                <img src="cms/assets/img/noticias/comovendermas.jpg">
+                <img src="img/md2.jpg">
               </div>
-              <div class="card-content">
-                <span class="card-title uptext">Loren ipsum moment text moted</span>
-              </div>     
+              <div class="card-content" style="text-align: center;">
+                <span class="card-title uptext" style="height: 40px;">Marketing Digital</span>
+                <p class="card_text_ser uptextregular" align="justify" style="font-size: 14px;">Conforme cómo ha evolucionado el marketing hoy en día nos damos cuenta de la importancia de contar con una estrategia que no lleve al éxito.</p>
+                <br>
+              </div>
+               <a class="waves-effect2 waves-light btn2" href="marketing-digital/" target="new" style="width: 100%; height: 50px;">Mas Info</a>      
             </div>
           </div>
           <!--item_servicios-->
@@ -133,11 +135,14 @@
           <div class="col s12 m12 l6 xl4">
             <div class="card z-depth-2" style="margin-bottom: 40px;">
               <div class="card-image img-contenedor">
-                <img src="cms/assets/img/noticias/comovendermas.jpg">
+                <img src="img/branding2.jpg">
               </div>
-              <div class="card-content">
-                <span class="card-title uptext">Loren ipsum moment text moted</span>
-              </div>     
+              <div class="card-content"  style="text-align: center;">
+                <span class="card-title uptext" style="height: 40px;">Branding</span>
+                <p class="card_text_ser uptextregular" align="justify" style="font-size: 14px;">Conforme cómo ha evolucionado el marketing hoy en día nos damos cuenta de la importancia de contar con una estrategia que no lleve al éxito.</p>
+                <br>
+              </div>
+              <a class="waves-effect2 waves-light btn2" href="branding/" target="new" style="width: 100%; height: 50px;">Mas Info</a>       
             </div>
           </div>
         <!--item_servicios-->
@@ -145,11 +150,14 @@
           <div class="col s12 m12 l6 xl4">
             <div class="card z-depth-2" style="margin-bottom: 40px;">
               <div class="card-image img-contenedor">
-                <img src="cms/assets/img/noticias/comovendermas.jpg">
+                <img src="img/wek.jpg">
               </div>
-              <div class="card-content">
-                <span class="card-title uptext">Loren ipsum moment text moted</span>
-              </div>     
+              <div class="card-content"  style="text-align: center;">
+                <span class="card-title uptext" style="height: 40px;">Desarrollo Web</span>
+                <p class="card_text_ser uptextregular" align="justify" style="font-size: 14px;">Conforme cómo ha evolucionado el marketing hoy en día nos damos cuenta de la importancia de contar con una estrategia que no lleve al éxito.</p>
+                <br>
+              </div> 
+               <a class="waves-effect2 waves-light btn2" href="webs/" target="new" style="width: 100%; height: 50px;">Mas Info</a>       
             </div>
           </div>
         <!--item_servicios-->
@@ -164,7 +172,7 @@
     <div class="container-fluid" style="background-color: #52bcbd50;">
       <div class="container">
         <div class="row" style="margin: 0px;">
-          <h3 class="uptext center-align" style=" margin-top: 0px; padding-top: 50px; font-size: 4rem;">Agencia de Marketing Digital 360 y desarrollo de Marca</h3>
+          <h3 class="uptext center-align" style=" margin-top: 0px; padding-top: 50px; font-size: 3rem;">Blog de Marketing</h3>
           <p class="uptextregular subtitulo_info" align="center">Compartimos contigo novedades, tendencias y opiniones respecto al Marketing, el Desarrollo web, estrategia de marketing digital y desarrollo de marca</p>
           <?php
             $consultarNoticias = "SELECT * FROM noticias WHERE estado='1' ORDER BY fecha DESC LIMIT 3";

@@ -4876,7 +4876,7 @@ small {
 .card .card-content .card-title {
   display: block;
   line-height: 32px;
-  margin-bottom: 12px;
+  margin-bottom: 6px;
 }
 
 .card .card-content .card-title i {
@@ -9536,4 +9536,39 @@ INDEX SERVICIOS
     overflow:hidden;
 }
 
+.card .card-titl2 {
+    height: 0px;
+}
 
+.btn2{
+    font-size: 16px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #585858;
+    text-align: center;
+    letter-spacing: .5px;
+    -webkit-transition: .2s ease-out;
+    transition: .2s ease-out;
+    cursor: pointer;
+    padding-top: 16px;
+}
+
+.waves-effect2 {
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+    overflow: hidden;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    vertical-align: middle;
+    z-index: 1;
+    -webkit-transition: .3s ease-out;
+    transition: .3s ease-out;
+}
+
+.card_text_ser {
+    height: 56px;
+}
