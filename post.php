@@ -100,7 +100,7 @@
     <!--efectmachiwrite-->
     <div class="container">
       <div class="row">
-        <div class="col s12 m3">
+        <div class="col s12 m3 hide-on-small-only">
           <?php include("modulos/categorias-lista.php"); ?>
         </div>
         <?php
@@ -121,10 +121,10 @@
                   <img src="/cms/assets/img/noticias/<?php echo $xImagen; ?>" />
                 </div>
                 <div class="card-content">
-                  <?php echo $xNoticia; ?>
                   <!-- Go to www.addthis.com/dashboard to customize your tools -->
-                  <br>
                   <div class="addthis_inline_share_toolbox_5bu0"></div>
+                  <?php echo $xNoticia; ?>
+                  <br>
                   <div class="card_foo">
                     <span style="float: left;"><?php echo $xFecha; ?></span> <span style="float: right;">BY: <?php echo $xAutor; ?></span>
                   </div>
@@ -138,6 +138,9 @@
         <?php
           mysqli_free_result($ejecutarNoticias);
         ?>
+        <div class="col s12 m12 show-on-small hide-on-med-and-up">
+          <?php include("modulos/categorias-lista.php"); ?>
+        </div>
       </div>
     </div>
     <?php include('modulos/footer.php'); ?>

@@ -28,7 +28,23 @@
 }
 
 .card .card-content a {
-    color: #26A799;
+	color: #52bcbd;
+}
+
+.card .card-content a:hover{
+	color: #26a599;
+}
+
+.card .card-content ul:not(.browser-default) {
+	padding-left: 15px;
+}
+
+a {
+    color: #52bcbd;
+}
+
+a:hover {
+	color: #26a599;
 }
 
 @media only screen and (max-width:1200px){
