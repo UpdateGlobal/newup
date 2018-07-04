@@ -105,10 +105,66 @@
     <video class="responsive-video less" autoplay="" muted="" loop="loop">
       <source src="slider-responsive.mp4" type="video/mp4">
     </video>
+
+
+    <div class="container-fluid" style="background-color: #52bcbd;">
+      <div class="container">
+        <div class="row">
+          <div class="col s12 m12 l12">
+           <H1 class="uptext center-align" style=" margin-top: 0px; padding-top: 50px; font-size: 4rem;">Agencia de Marketing Digital 360 y desarrollo de Marca</H1>
+            <p class="uptextregular subtitulo_info" align="center">Loren ipsum moment text moted</p>
+          </div>
+        </div>
+
+        <div class="row" style="margin: 0px;">        
+        <!--item_servicios-->
+          <div class="col s12 m12 l6 xl4">
+            <div class="card z-depth-2" style="margin-bottom: 40px;">
+              <div class="card-image img-contenedor">
+                <img src="cms/assets/img/noticias/comovendermas.jpg">
+              </div>
+              <div class="card-content">
+                <span class="card-title uptext">Loren ipsum moment text moted</span>
+              </div>     
+            </div>
+          </div>
+          <!--item_servicios-->
+          <!--item_servicios-->
+          <div class="col s12 m12 l6 xl4">
+            <div class="card z-depth-2" style="margin-bottom: 40px;">
+              <div class="card-image img-contenedor">
+                <img src="cms/assets/img/noticias/comovendermas.jpg">
+              </div>
+              <div class="card-content">
+                <span class="card-title uptext">Loren ipsum moment text moted</span>
+              </div>     
+            </div>
+          </div>
+        <!--item_servicios-->
+        <!--item_servicios-->
+          <div class="col s12 m12 l6 xl4">
+            <div class="card z-depth-2" style="margin-bottom: 40px;">
+              <div class="card-image img-contenedor">
+                <img src="cms/assets/img/noticias/comovendermas.jpg">
+              </div>
+              <div class="card-content">
+                <span class="card-title uptext">Loren ipsum moment text moted</span>
+              </div>     
+            </div>
+          </div>
+        <!--item_servicios-->
+        </div>
+
+      </div>
+    </div>
+
+
+
+
     <div class="container-fluid" style="background-color: #52bcbd50;">
       <div class="container">
         <div class="row" style="margin: 0px;">
-          <H1 class="uptext center-align" style=" margin-top: 0px; padding-top: 50px; font-size: 4rem;">Agencia de Marketing Digital 360 y desarrollo de Marca</H1>
+          <h3 class="uptext center-align" style=" margin-top: 0px; padding-top: 50px; font-size: 4rem;">Agencia de Marketing Digital 360 y desarrollo de Marca</h3>
           <p class="uptextregular subtitulo_info" align="center">Compartimos contigo novedades, tendencias y opiniones respecto al Marketing, el Desarrollo web, estrategia de marketing digital y desarrollo de marca</p>
           <?php
             $consultarNoticias = "SELECT * FROM noticias WHERE estado='1' ORDER BY fecha DESC LIMIT 3";
