@@ -76,7 +76,7 @@
     <!--efectmachiwrite-->
     <div class="container">
       <div class="row">
-        <div class="col s12 m3">
+        <div class="col s12 m3 hide-on-small-only">
           <?php include("modulos/categorias-lista.php"); ?>
         </div>
         <div class="col s12 m9">
@@ -110,22 +110,22 @@
                   $xImagen    = $filaNot['imagen'];
                   $xNoticia   = $filaNot['noticia'];
                   $xFecha     = $filaNot['fecha'];
-                  $xAutor     = $filaNot['autor']; 
+                  $xAutor     = $filaNot['autor'];
                   $xSlugn     = $filaNot['slug'];
             ?>
             <div class="col s12 m12 l6 xl6">
               <div class="card">
                 <div class="card-image">
-                  <img src="/cms/assets/img/noticias/<?php echo $xImagen; ?>">
+                  <a href="/blog/<?php echo $xSlugn; ?>"><img src="/cms/assets/img/noticias/<?php echo $xImagen; ?>"></a>
                   <a class="btn-floating halfway-fab waves-effect waves-light red" href="/blog/<?php echo $xSlugn; ?>"><i class="material-icons">add</i></a>
                 </div>
                 <div class="card-content">
-                  <span class="card-title uptext"><?php
+                  <span class="card-title uptext"><a href="/blog/<?php echo $xSlugn; ?>"><?php
                       $xTitulo_r = strip_tags($xTitulo);
                       $strCut = substr($xTitulo_r,0,105);
                       $xTitulo_r = substr($strCut,0,strrpos($strCut, ' ')).'...';
                       echo $xTitulo_r;
-                    ?></span>
+                    ?></a></span>
                   <div class="card_text" align="justify">
                     <?php
                       $xNoticia_r = strip_tags($xNoticia);
@@ -190,6 +190,9 @@
               }
             ?>
           </div>
+        </div>
+        <div class="col s12 m12 show-on-small hide-on-med-and-up">
+          <?php include("modulos/categorias-lista.php"); ?>
         </div>
       </div>
     </div>

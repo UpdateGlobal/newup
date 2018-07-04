@@ -18,14 +18,6 @@
 	font-size: 14px;
 }
 
-.categorias li a{
-	color: #52bcbd;
-}
-
-.categorias li a:hover{
-	color: #26a599;
-}
-
 .show-992{
 	display: none;
 }
@@ -68,7 +60,27 @@
 }
 
 .card .card-content a {
-    color: #26A799;
+	color: #52bcbd;
+}
+
+.card .card-content a:hover{
+	color: #26a599;
+}
+
+.card .card-content ul:not(.browser-default) {
+	padding-left: 15px;
+}
+
+.card .card-content a.waves-effect.waves-light.btn {
+    color: #fff;
+}
+
+a {
+    color: #52bcbd;
+}
+
+a:hover {
+	color: #26a599;
 }
 
 @media only screen and (max-width:1200px){

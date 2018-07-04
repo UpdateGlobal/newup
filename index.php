@@ -108,7 +108,7 @@
     <div class="container-fluid" style="background-color: #52bcbd50;">
       <div class="container">
         <div class="row" style="margin: 0px;">
-          <H1 class="uptext center-align" style=" margin-top: 0px; padding-top: 50px; font-size: 4rem;">Agencia de Marketing Digital 360 y desarrollo de Marca</H1>
+          <h1 class="uptext center-align" style=" margin-top: 0px; padding-top: 50px; font-size: 4rem;">Agencia de Marketing Digital 360 y desarrollo de Marca</h1>
           <p class="uptextregular subtitulo_info" align="center">Compartimos contigo novedades, tendencias y opiniones respecto al Marketing, el Desarrollo web, estrategia de marketing digital y desarrollo de marca</p>
           <?php
             $consultarNoticias = "SELECT * FROM noticias WHERE estado='1' ORDER BY fecha DESC LIMIT 3";
@@ -126,16 +126,16 @@
           <div class="col s12 m12 l6 xl4">
             <div class="card z-depth-2" style="margin-bottom: 40px;">
               <div class="card-image">
-                <img src="cms/assets/img/noticias/<?php echo $xImagen; ?>">
+                <a href="/blog/<?php echo $xSlug; ?>"><img src="cms/assets/img/noticias/<?php echo $xImagen; ?>"></a>
                 <a class="btn-floating halfway-fab waves-effect waves-light red" href="/blog/<?php echo $xSlug; ?>"><i class="material-icons">add</i></a>
               </div>
               <div class="card-content">
-                <span class="card-title uptext"><?php
+                <span class="card-title uptext"><a href="/blog/<?php echo $xSlug; ?>"><?php
                       $xTitulo_r = strip_tags($xTitulo);
                       $strCut = substr($xTitulo_r,0,105);
                       $xTitulo_r = substr($strCut,0,strrpos($strCut, ' ')).'...';
                       echo $xTitulo_r;
-                    ?></span>
+                    ?></a></span>
                 <p class="card_text uptextregular" align="justify" style="font-size: 14px;"><?php
                       $xNoticia_r = strip_tags($xNoticia);
                       $strCut = substr($xNoticia_r,0,230);
