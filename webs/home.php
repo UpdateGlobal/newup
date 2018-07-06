@@ -184,133 +184,80 @@ video{
 
 
 <div class="container-fluid" style="background-color: white; margin: 0px;">
-  <div class="container">
-    <div class="row" style="margin: 0px;" align="center"><br>
+  <div class="container" align="center" style="padding: 50px 0px;">
 
-        <h3 class="uptext item_title" style="margin-bottom: 10px;">Galeris de web.</h3>
+        <h3 class="uptext item_title" style="margin:0px; ">Galeris de web.</h3>
         <p>loren Ipsum moment text morat</p>
 
-
-        <div class="toolbar mb2 mt2">
-          <button class="btn fil-cat" href="" data-rel="all">Todas</button>
-          <button class="btn fil-cat" data-rel="web">loren #1</button>
-          <button class="btn fil-cat" data-rel="flyers">loren #2</button>
-          <button class="btn fil-cat" data-rel="bcards">loren #3</button>
-        </div> 
-         
-        <div id="portfolio">
-
-
-
-<div class="tile scale-anm web all">
-  <div class="capa">
-    <img src="http://via.placeholder.com/300x280" alt="Avatar" >
-    <div class="overlay">
-      <div class="text">Hello World</div>
-    </div>
-  </div>
-</div>
-
-
-<div class="tile scale-anm flyers all">
-  <div class="capa">
-    <img src="http://via.placeholder.com/300x300" alt="Avatar" >
-    <div class="overlay">
-      <div class="text">Hello World</div>
-    </div>
-  </div>
-</div>
-
-
-<div class="tile scale-anm bcards all">
-  <div class="capa">
-    <img src="http://via.placeholder.com/300x250" alt="Avatar" >
-    <div class="overlay">
-      <div class="text">Hello World</div>
-    </div>
-  </div>
-</div>
-
-
-<div class="tile scale-anm web all">
-  <div class="capa">
-    <img src="http://via.placeholder.com/300x350" alt="Avatar" >
-    <div class="overlay">
-      <div class="text">Hello World</div>
-    </div>
-  </div>
-</div>
-
-
-<div class="tile scale-anm flyers all">
-  <div class="capa">
-    <img src="http://via.placeholder.com/300x250" alt="Avatar" >
-    <div class="overlay">
-      <div class="text">Hello World</div>
-    </div>
-  </div>
-</div>
-
-
-<div class="tile scale-anm bcards all">
-  <div class="capa">
-    <img src="http://via.placeholder.com/300x320" alt="Avatar" >
-    <div class="overlay">
-      <div class="text">Hello World</div>
-    </div>
-  </div>
-</div> 
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<!--            <div class="tile scale-anm web all">
-                <img src="http://via.placeholder.com/300x250" alt="" />
-          </div>
-
-          <div class="tile scale-anm web all">
-                <img src="http://via.placeholder.com/300x320" alt="" />
-          </div>
-
-          <div class="tile scale-anm web all">
-                <img src="http://via.placeholder.com/300x400" alt="" />
-          </div>
-          <div class="tile scale-anm flyers all">
-                <img src="http://via.placeholder.com/300x300" alt="" />
-          </div>
-          <div class="tile scale-anm flyers all">
-                <img src="http://via.placeholder.com/300x250" alt="" />
-          </div>
-          <div class="tile scale-anm flyers all">
-                <img src="http://via.placeholder.com/300x300" alt="" />
-          </div>
-          <div class="tile scale-anm bcards all">
-                <img src="http://via.placeholder.com/300x250" alt="" />
-          </div>
-          <div class="tile scale-anm bcards all">
-                <img src="http://via.placeholder.com/300x300" alt="" />
-          </div>
-          <div class="tile scale-anm bcards all">
-                <img src="http://via.placeholder.com/300x400" alt="" />
-          </div>  -->
-
-
-
-
+      <div class="row" style="margin: 0px;" align="center"><br>
+        <div class="col s12 m6">   
+          <figure class="snip1543">
+            <img src="http://via.placeholder.com/600x400" alt="sample108" />
+            <figcaption>
+              <h3>Loren Ipsum</h3>
+              <p>Loren ipsum text moment morat dat il dartump</p>
+            </figcaption>
+            <a href="#"></a>
+          </figure>
         </div>
+        <div class="col s12 m6">   
+          <figure class="snip1543">
+            <img src="http://via.placeholder.com/600x400" alt="sample108" />
+            <figcaption>
+              <h3>Loren Ipsum</h3>
+              <p>Loren ipsum text moment morat dat il dartump</p>
+            </figcaption>
+            <a href="#"></a>
+          </figure>
+        </div>
+      </div>
 
-        <div style="clear:both;"></div> 
+      <div class="row" style="margin: 0px;" align="center"><br>
+        <div class="col s12 m6">   
+          <figure class="snip1543">
+            <img src="http://via.placeholder.com/600x400" alt="sample108" />
+            <figcaption>
+              <h3>Loren Ipsum</h3>
+              <p>Loren ipsum text moment morat dat il dartump</p>
+            </figcaption>
+            <a href="#"></a>
+          </figure>
+        </div>
+        <div class="col s12 m6">   
+          <figure class="snip1543">
+            <img src="http://via.placeholder.com/600x400" alt="sample108" />
+            <figcaption>
+              <h3>Loren Ipsum</h3>
+              <p>Loren ipsum text moment morat dat il dartump</p>
+            </figcaption>
+            <a href="#"></a>
+          </figure>
+        </div>
+      </div>  
 
-  
-    </div> 
+      <div class="row" style="margin: 0px;" align="center"><br>
+        <div class="col s12 m6">   
+          <figure class="snip1543">
+            <img src="http://via.placeholder.com/600x400" alt="sample108" />
+            <figcaption>
+              <h3>Loren Ipsum</h3>
+              <p>Loren ipsum text moment morat dat il dartump</p>
+            </figcaption>
+            <a href="#"></a>
+          </figure>
+        </div>
+        <div class="col s12 m6">   
+          <figure class="snip1543">
+            <img src="http://via.placeholder.com/600x400" alt="sample108" />
+            <figcaption>
+              <h3>Loren Ipsum</h3>
+              <p>Loren ipsum text moment morat dat il dartump</p>
+            </figcaption>
+            <a href="#"></a>
+          </figure>
+        </div>
+      </div> 
+
   </div>
 </div>
 
@@ -388,25 +335,16 @@ video{
         ?>
 
 
+  <script src='https://code.jquery.com/jquery-2.2.4.min.js'></script>
+  <script type="text/javascript">
+    /* Demo purposes only */
+  $(".hover").mouseleave(
+    function() {
+      $(this).removeClass("hover");
+    }
+  );
+  </script>
 
-<!--galeeria morrizon-->
- <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
- <script type="text/javascript">
-   $(function() {
-    var selectedClass = "";
-    $(".fil-cat").click(function(){ 
-    selectedClass = $(this).attr("data-rel"); 
-     $("#portfolio").fadeTo(100, 0.1);
-    $("#portfolio div").not("."+selectedClass).fadeOut().removeClass('scale-anm');
-    setTimeout(function() {
-      $("."+selectedClass).fadeIn().addClass('scale-anm');
-      $("#portfolio").fadeTo(300, 1);
-    }, 300); 
-    
-  });
-});
- </script>
-<!--galeeria morrizon-->
 
 
 
