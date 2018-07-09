@@ -532,8 +532,8 @@ GALERIA WEBS
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 16px;
   margin: 10px 5px;
-  max-width: 400px;
-  min-width: 200px;
+  max-width: 100%;
+  min-width: 100%;
   overflow: hidden;
   position: relative;
   text-align: left;
