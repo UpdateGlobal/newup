@@ -185,78 +185,132 @@ video{
 
 <div class="container-fluid" style="background-color: white; margin: 0px;">
   <div class="container" align="center" style="padding: 50px 0px;">
+      <h3 class="uptext item_title" style="margin:0px; ">Galeris de web.</h3>
+      <p>loren Ipsum moment text morat</p>
 
-        <h3 class="uptext item_title" style="margin:0px; ">Galeris de web.</h3>
-        <p>loren Ipsum moment text morat</p>
 
-      <div class="row" style="margin: 0px;" align="center"><br>
-        <div class="col s12 m6">   
-          <figure class="snip1543">
-            <img src="http://via.placeholder.com/600x400" alt="sample108" />
-            <figcaption>
-              <h3>Loren Ipsum</h3>
-              <p>Loren ipsum text moment morat dat il dartump</p>
-            </figcaption>
-            <a href="#"></a>
-          </figure>
-        </div>
-        <div class="col s12 m6">   
-          <figure class="snip1543">
-            <img src="http://via.placeholder.com/600x400" alt="sample108" />
-            <figcaption>
-              <h3>Loren Ipsum</h3>
-              <p>Loren ipsum text moment morat dat il dartump</p>
-            </figcaption>
-            <a href="#"></a>
-          </figure>
-        </div>
-      </div>
 
-      <div class="row" style="margin: 0px;" align="center"><br>
-        <div class="col s12 m6">   
-          <figure class="snip1543">
-            <img src="http://via.placeholder.com/600x400" alt="sample108" />
-            <figcaption>
-              <h3>Loren Ipsum</h3>
-              <p>Loren ipsum text moment morat dat il dartump</p>
-            </figcaption>
-            <a href="#"></a>
-          </figure>
-        </div>
-        <div class="col s12 m6">   
-          <figure class="snip1543">
-            <img src="http://via.placeholder.com/600x400" alt="sample108" />
-            <figcaption>
-              <h3>Loren Ipsum</h3>
-              <p>Loren ipsum text moment morat dat il dartump</p>
-            </figcaption>
-            <a href="#"></a>
-          </figure>
-        </div>
-      </div>  
 
-      <div class="row" style="margin: 0px;" align="center"><br>
-        <div class="col s12 m6">   
-          <figure class="snip1543">
-            <img src="http://via.placeholder.com/600x400" alt="sample108" />
-            <figcaption>
-              <h3>Loren Ipsum</h3>
-              <p>Loren ipsum text moment morat dat il dartump</p>
-            </figcaption>
-            <a href="#"></a>
-          </figure>
-        </div>
-        <div class="col s12 m6">   
-          <figure class="snip1543">
-            <img src="http://via.placeholder.com/600x400" alt="sample108" />
-            <figcaption>
-              <h3>Loren Ipsum</h3>
-              <p>Loren ipsum text moment morat dat il dartump</p>
-            </figcaption>
-            <a href="#"></a>
-          </figure>
-        </div>
-      </div> 
+
+        <ul style="column-count: 3;">
+          <li>
+            <figure class="snip1321"><img src="galeria/ac-auton-pastelito.jpg" alt="sq-sample28"/>
+              <figcaption><i class="ion-share"></i>
+                <h4>Auton</h4>
+               <!--  <h2>Hollandaise</h2> -->
+              </figcaption>
+            </figure>         
+          </li>
+           <li>
+            <figure class="snip1321"><img src="galeria/aglab-PASTELITO.jpg" alt="sq-sample28"/>
+              <figcaption><i class="ion-share"></i>
+                <h4>Aglab</h4>
+               <!--  <h2>Hollandaise</h2> -->
+              </figcaption>
+            </figure>         
+          </li>
+           <li>
+            <figure class="snip1321"><img src="galeria/consultoras-peru-pastelito.jpg" alt="sq-sample28"/>
+              <figcaption><i class="ion-share"></i>
+                <h4>Consultoras</h4>
+               <!--  <h2>Hollandaise</h2> -->
+              </figcaption>
+            </figure>         
+          </li>
+           <li>
+            <figure class="snip1321"><img src="galeria/el-negro-pastelito.jpg" alt="sq-sample28"/>
+              <figcaption><i class="ion-share"></i>
+                <h4>El Negro</h4>
+               <!--  <h2>Hollandaise</h2> -->
+              </figcaption>
+            </figure>         
+          <li>
+            <figure class="snip1321"><img src="galeria/frelatos-pastelito.jpg" alt="sq-sample28"/>
+              <figcaption><i class="ion-share"></i>
+                <h4>Frelatos</h4>
+               <!--  <h2>Hollandaise</h2> -->
+              </figcaption>
+            </figure>         
+          </li>
+           <li>
+            <figure class="snip1321"><img src="galeria/integro-pastelito.jpg" alt="sq-sample28"/>
+              <figcaption><i class="ion-share"></i>
+                <h4>Integro</h4>
+               <!--  <h2>Hollandaise</h2> -->
+              </figcaption>
+            </figure>         
+          </li>
+           <li>
+            <figure class="snip1321"><img src="galeria/isotech-pastelito.jpg" alt="sq-sample28"/>
+              <figcaption><i class="ion-share"></i>
+                <h4>Isotech</h4>
+               <!--  <h2>Hollandaise</h2> -->
+              </figcaption>
+            </figure>         
+          </li>
+           <li>
+            <figure class="snip1321"><img src="galeria/naricitas-pastelito.jpg" alt="sq-sample28"/>
+              <figcaption><i class="ion-share"></i>
+                <h4>Naricitas</h4>
+               <!--  <h2>Hollandaise</h2> -->
+              </figcaption>
+            </figure>         
+          </li>
+            <figure class="snip1321"><img src="galeria/revum-pastelito-FLAT.jpg" alt="sq-sample28"/>
+              <figcaption><i class="ion-share"></i>
+                <h4>Revum</h4>
+               <!--  <h2>Hollandaise</h2> -->
+              </figcaption>
+            </figure>         
+          </li>
+          <li>
+            <figure class="snip1321"><img src="galeria/riesgos-pastelito.jpg" alt="sq-sample28"/>
+              <figcaption><i class="ion-share"></i>
+                <h4>Riesgo y Soluciones</h4>
+               <!--  <h2>Hollandaise</h2> -->
+              </figcaption>
+            </figure>         
+          </li>
+           <li>
+            <figure class="snip1321"><img src="galeria/sanus-pastelito.jpg" alt="sq-sample28"/>
+              <figcaption><i class="ion-share"></i>
+                <h4>Sanus</h4>
+               <!--  <h2>Hollandaise</h2> -->
+              </figcaption>
+            </figure>         
+          </li>
+           <li>
+            <figure class="snip1321"><img src="galeria/seven-PASTELITO.jpg" alt="sq-sample28"/>
+              <figcaption><i class="ion-share"></i>
+                <h4>Seven</h4>
+               <!--  <h2>Hollandaise</h2> -->
+              </figcaption>
+            </figure>         
+          </li>
+            <figure class="snip1321"><img src="galeria/tablet-bit-coin-pastelito.jpg" alt="sq-sample28"/>
+              <figcaption><i class="ion-share"></i>
+                <h4>Limacoin</h4>
+               <!--  <h2>Hollandaise</h2> -->
+              </figcaption>
+            </figure>         
+          </li>
+           </li>
+            <figure class="snip1321"><img src="galeria/telollevasya-Gris-bajito.jpg" alt="sq-sample28"/>
+              <figcaption><i class="ion-share"></i>
+                <h4>Telollevasya</h4>
+               <!--  <h2>Hollandaise</h2> -->
+              </figcaption>
+            </figure>         
+          </li>
+           </li>
+            <figure class="snip1321"><img src="galeria/tequecheese-pastelito.jpg" alt="sq-sample28"/>
+              <figcaption><i class="ion-share"></i>
+                <h4>Tequecheese</h4>
+               <!--  <h2>Hollandaise</h2> -->
+              </figcaption>
+            </figure>         
+          </li>
+        </ul>
 
   </div>
 </div>
@@ -347,6 +401,17 @@ video{
 
 
 
+<!-- masonry-->
+<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+
+<script type="text/javascript">
+/* Demo purposes only */
+$(".hover").mouseleave(
+  function () {
+    $(this).removeClass("hover");
+  }
+);
+</script>
 
 
         <!--Machinewrite-->
