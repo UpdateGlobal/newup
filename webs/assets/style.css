@@ -522,41 +522,6 @@ GALERIA WEBS
 
 
 
-
-
-/*.snip1543 {
-  background-color: #fff;
-  color: #ffffff;
-  display: inline-block;
-  font-family: 'Source Sans Pro', sans-serif;
-  font-size: 16px;
-  margin: 10px 5px;
-  max-width: 100%;
-  min-width: 100%;
-  overflow: hidden;
-  position: relative;
-  text-align: left;
-  width: 100%;
-  -webkit-transform: translateZ(0);
-  transform: translateZ(0);
-}
-.snip1543 img {
-  backface-visibility: hidden;
-  max-width: 100%;
-  vertical-align: top;
-}
-.snip1543 figcaption {
-  position: absolute;
-  top: 0px;
-  bottom: 0px;
-  left: 0px;
-  right: 0px;
-  z-index: 1;
-  bottom: 0;
-  padding: 25px 40% 25px 20px;
-}*/
-
-
 @import url(https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,500,800);
 figure.snip1321 {
@@ -673,9 +638,23 @@ height:auto;
 overflow:hidden;
 }
 
+.colum_style{
+column-count: 3;
+}
+@media screen and (max-width: 920px) {
+  .colum_style{
+column-count: 2;
+}
+}
+@media screen and (max-width: 450px) {
+  .colum_style{
+column-count: 1;
+}
 
-
-
+ul:not(.browser-default) {
+    padding-left: 30px !important;
+}
+}
 
 
 

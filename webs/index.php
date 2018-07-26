@@ -182,16 +182,13 @@ video{
 
 
 
-
+<!-- Galeria -->
 <div class="container-fluid" style="background-color: white; margin: 0px;">
   <div class="container" align="center" style="padding: 50px 0px;">
       <h3 class="uptext item_title" style="margin:0px; ">Galerias de web.</h3>
+      <br><br>
 
-
-
-
-
-        <ul style="column-count: 3;">
+        <ul class="colum_style">
           <li>
             <figure class="snip1321">
               <div class="img-contenedor">
@@ -355,10 +352,8 @@ video{
             </figure>         
           </li>
         </ul>
-
   </div>
-</div>
-
+<!-- Galeria -->
 
 
 <!-- cintillo-->
