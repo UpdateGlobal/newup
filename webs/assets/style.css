@@ -584,7 +584,7 @@ figure.snip1321 img {
   vertical-align: top;
 }
 figure.snip1321 img:hover {
-  max-width: 140%;
+  max-width: 100%;
   vertical-align: top;
 }
 
@@ -652,9 +652,25 @@ figure.snip1321.hover:after {
   transform: rotateX(0);
   opacity: 0.9;
 }
-/* Demo purposes only */
-body {
-  background-color: #212121;
+
+.img-contenedor img {
+-webkit-transition:all .9s ease; /* Safari y Chrome */
+-moz-transition:all .9s ease; /* Firefox */
+-o-transition:all .9s ease; /* IE 9 */
+-ms-transition:all .9s ease; /* Opera */
+width:100%;
+}
+.img-contenedor:hover img {
+-webkit-transform:scale(1.25);
+-moz-transform:scale(1.25);
+-ms-transform:scale(1.25);
+-o-transform:scale(1.25);
+transform:scale(1.25);
+}
+.img-contenedor {/*Ancho y altura son modificables al requerimiento de cada uno*/
+width:auto;
+height:auto;
+overflow:hidden;
 }
 
 

@@ -182,143 +182,114 @@ video{
 
 
 
+            <section id="horizontal">
+                <div class="jumbotron text-left" style="background: url('img/web2.jpg') repeat center;" data-paroller-factor="-2" data-paroller-direction="horizontal">
+                    <div class="card-block addcard container" align="center">
+                        <h1 class="py-2 text-white thin">frelatos.pe/</h1>
+                        <p class="text-white thin">El proyecto de Desarrollo de Marca de la heladería Frelatos incluyó el desarrollo de un sitio web. Propusimos conceptualizar el sitio web como una extensión de la propuesta comercial del cliente. El resultado  fue un sitio con el diseño de páginas web orientadas a destacar el producto utilizando una gama de color de background muy divertida y que cumpla con los objetivos de comunicación visual que se necesita en esta categoría.</p>
+                        <br>
+                        <a class="waves-effect waves-light btn" href="http://frelatos.pe/" target="_new" style=" background-color: #e91e63;">Ver Web</a>
+                        <br> <br>
+                        <div class="chip thin">Html 5</div>
+                        <div class="chip thin">Css 3</div>
+                        <div class="chip thin">Php 7.1</div>
+                        <div class="chip thin">J.S</div>
+                        <div class="chip thin">Jquery</div>
+                        <div class="chip thin">Bootstrap 4</div>
+                        <div class="chip thin">C.M.S</div>
+                        
+                    </div>
+                </div>
 
-<div class="container-fluid" style="background-color: white; margin: 0px;">
-  <div class="container" align="center" style="padding: 50px 0px;">
-      <h3 class="uptext item_title" style="margin:0px; ">Galeris de web.</h3>
-      <p>loren Ipsum moment text morat</p>
-
-
-
-
-
-        <ul style="column-count: 3;">
-          <li>
-            <figure class="snip1321"><img src="galeria/ac-auton-pastelito.jpg" alt="sq-sample28"/>
-              <figcaption><i class="ion-share"></i>
-                <h4>Auton</h4>
-               <!--  <h2>Hollandaise</h2> -->
-              </figcaption>
-            </figure>         
-          </li>
-           <li>
-            <figure class="snip1321"><img src="galeria/aglab-PASTELITO.jpg" alt="sq-sample28"/>
-              <figcaption><i class="ion-share"></i>
-                <h4>Aglab</h4>
-               <!--  <h2>Hollandaise</h2> -->
-              </figcaption>
-            </figure>         
-          </li>
-           <li>
-            <figure class="snip1321"><img src="galeria/consultoras-peru-pastelito.jpg" alt="sq-sample28"/>
-              <figcaption><i class="ion-share"></i>
-                <h4>Consultoras</h4>
-               <!--  <h2>Hollandaise</h2> -->
-              </figcaption>
-            </figure>         
-          </li>
-           <li>
-            <figure class="snip1321"><img src="galeria/el-negro-pastelito.jpg" alt="sq-sample28"/>
-              <figcaption><i class="ion-share"></i>
-                <h4>El Negro</h4>
-               <!--  <h2>Hollandaise</h2> -->
-              </figcaption>
-            </figure>         
-          <li>
-            <figure class="snip1321"><img src="galeria/frelatos-pastelito.jpg" alt="sq-sample28"/>
-              <figcaption><i class="ion-share"></i>
-                <h4>Frelatos</h4>
-               <!--  <h2>Hollandaise</h2> -->
-              </figcaption>
-            </figure>         
-          </li>
-           <li>
-            <figure class="snip1321"><img src="galeria/integro-pastelito.jpg" alt="sq-sample28"/>
-              <figcaption><i class="ion-share"></i>
-                <h4>Integro</h4>
-               <!--  <h2>Hollandaise</h2> -->
-              </figcaption>
-            </figure>         
-          </li>
-           <li>
-            <figure class="snip1321"><img src="galeria/isotech-pastelito.jpg" alt="sq-sample28"/>
-              <figcaption><i class="ion-share"></i>
-                <h4>Isotech</h4>
-               <!--  <h2>Hollandaise</h2> -->
-              </figcaption>
-            </figure>         
-          </li>
-           <li>
-            <figure class="snip1321"><img src="galeria/naricitas-pastelito.jpg" alt="sq-sample28"/>
-              <figcaption><i class="ion-share"></i>
-                <h4>Naricitas</h4>
-               <!--  <h2>Hollandaise</h2> -->
-              </figcaption>
-            </figure>         
-          </li>
-            <figure class="snip1321"><img src="galeria/revum-pastelito-FLAT.jpg" alt="sq-sample28"/>
-              <figcaption><i class="ion-share"></i>
-                <h4>Revum</h4>
-               <!--  <h2>Hollandaise</h2> -->
-              </figcaption>
-            </figure>         
-          </li>
-          <li>
-            <figure class="snip1321"><img src="galeria/riesgos-pastelito.jpg" alt="sq-sample28"/>
-              <figcaption><i class="ion-share"></i>
-                <h4>Riesgo y Soluciones</h4>
-               <!--  <h2>Hollandaise</h2> -->
-              </figcaption>
-            </figure>         
-          </li>
-           <li>
-            <figure class="snip1321"><img src="galeria/sanus-pastelito.jpg" alt="sq-sample28"/>
-              <figcaption><i class="ion-share"></i>
-                <h4>Sanus</h4>
-               <!--  <h2>Hollandaise</h2> -->
-              </figcaption>
-            </figure>         
-          </li>
-           <li>
-            <figure class="snip1321"><img src="galeria/seven-PASTELITO.jpg" alt="sq-sample28"/>
-              <figcaption><i class="ion-share"></i>
-                <h4>Seven</h4>
-               <!--  <h2>Hollandaise</h2> -->
-              </figcaption>
-            </figure>         
-          </li>
-            <figure class="snip1321"><img src="galeria/tablet-bit-coin-pastelito.jpg" alt="sq-sample28"/>
-              <figcaption><i class="ion-share"></i>
-                <h4>Limacoin</h4>
-               <!--  <h2>Hollandaise</h2> -->
-              </figcaption>
-            </figure>         
-          </li>
-           </li>
-            <figure class="snip1321"><img src="galeria/telollevasya-Gris-bajito.jpg" alt="sq-sample28"/>
-              <figcaption><i class="ion-share"></i>
-                <h4>Telollevasya</h4>
-               <!--  <h2>Hollandaise</h2> -->
-              </figcaption>
-            </figure>         
-          </li>
-           </li>
-            <figure class="snip1321"><img src="galeria/tequecheese-pastelito.jpg" alt="sq-sample28"/>
-              <figcaption><i class="ion-share"></i>
-                <h4>Tequecheese</h4>
-               <!--  <h2>Hollandaise</h2> -->
-              </figcaption>
-            </figure>         
-          </li>
-        </ul>
-
-  </div>
-</div>
+                <div class="jumbotron text-center" style="background: url('img/web1.jpg') repeat center;" data-paroller-factor="2" data-paroller-direction="vertical">
+                    <div class="card-block addcard container" align="center">
+                        <h1 class="py-5 text-white thin">Naricitasplaza.pe</h1>
+                        <p class="text-white thin">Naricitas Plaza es un E-Commerce desarrollado bajo un concepto fuerte de tienda virtual para pet lovers. La visión de Ecommerce planteada desde el inicio exigía una estrategia de comunicación fuerte, activa y siempre actualizable. Era preciso brindar un diseño y un flujo de comunicación ágil, divertido y con ese sentimiento que conlleva el mundo de los petlovers. Diseño de páginas webs desarrolladas en html5, css3 y PHP 7.1.</p>
+                        <br>
+                            <a class="waves-effect waves-light btn" href="https://naricitasplaza.pe/" target="_new" style=" background-color: #e91e63;">Ver Web</a>
+                        <br> <br>
+                        <div class="chip thin">Html 5</div>
+                        <div class="chip thin">Css 3</div>
+                        <div class="chip thin">Php 7.1</div>
+                        <div class="chip thin">J.S</div>
+                        <div class="chip thin">Jquery</div>
+                        <div class="chip thin">Bootstrap 4</div>
+                        <div class="chip thin">C.M.S</div>
+                        <br><br>
+                    </div>
+                </div>
+                <div class="jumbotron text-center" style="background: url('img/web6.jpg') center;" data-paroller-factor="-2" data-paroller-direction="horizontal">
+                    <div class="card-block addcard container" align="center">
+                        <h1 class="py-5 text-white thin">Isotech.pe</h1>
+                        <p class="text-white thin">Isotech Perú fue un reto ambicioso de desarrollo de marca. Comenzando por plantear una nueva imagen que fue replicada a la línea gráfica y hacia el diseño web como extensión de la línea de comunicación. El resultado fue un nuevo sitio web corporativo con una imagen fuerte y un flujo de comunicación asertivo. El siguiente paso, dar el salto hacia la tienda virtual, en este sentido se dejó la opción de escalar hacia su desarrollo.</p>
+                        <br>
+                            <a class="waves-effect waves-light btn" href="http://www.isotechperu.com/" target="_new" style=" background-color: #e91e63;">Ver Web</a>
+                        <br> <br>
+                        <div class="chip thin">Html 5</div>
+                        <div class="chip thin">Css 3</div>
+                        <div class="chip thin">Php 7.1</div>
+                        <div class="chip thin">J.S</div>
+                        <div class="chip thin">Jquery</div>
+                        <div class="chip thin">Bootstrap 4</div>
+                        <div class="chip thin">C.M.S</div>
+                        <br><br>
+                    </div>
+                </div>
+                <div class="jumbotron text-center" style="background: url('img/web4.jpg') center; background-size: cover;" data-paroller-factor="2" data-paroller-direction="vertical">
+                    <div class="card-block addcard container" align="center">
+                        <h1 class="py-5 text-white thin">Elaperu.org/</h1>
+                        <p class="text-white thin">Ela Perú es un proyecto desarrollado para una organización sin fines de lucro. Demandaba un flujo de información activo, propio de la misión de servir a personas que padecen la enfermedad de Esclerosis Lateral Amiotrófica. Se propuso una estrategia de comunicación muy dinámica, con énfasis en lo inmediato. El resultado, un sitio web con muchas herramientas que invita a leer, despierta el interés y cumple el objetivo: ayudar.</p>
+                        <br>
+                            <a class="waves-effect waves-light btn" href="http://www.elaperu.org/" target="_new" style=" background-color: #e91e63;">Ver Web</a>
+                        <br> <br>
+                        <div class="chip thin">Html 5</div>
+                        <div class="chip thin">Css 3</div>
+                        <div class="chip thin">Php 7.1</div>
+                        <div class="chip thin">J.S</div>
+                        <div class="chip thin">Jquery</div>
+                        <div class="chip thin">Bootstrap 4</div>
+                        <div class="chip thin">C.M.S</div>
+                        <br><br>
+                    </div>
+                </div>
+                <div class="jumbotron text-center" style="background: url('img/web5.jpg') center; background-size: cover;" data-paroller-factor="-2" data-paroller-direction="horizontal">
+                    <div class="card-block addcard container" align="center">
+                        <h1 class="py-5 text-white thin">Sanus.pe/</h1>
+                        <p class="text-white thin">Sanus es un emprendimiento peruano de telesalud. Pionero en su rubro. Se desarrolló una plataforma web en php con VMC Laravel como framework, con mucho énfasis en la experiencia de usuario (UX) Este proyecto de software es sin duda un proyecto muy ambicioso de un servicio visionario. Cumple con las exigencias médicas de historia clínica, manejo de clientes y el punto a favor: la interconexión por video conferencia médico y paciente.</p>
+                        <br>
+                            <a class="waves-effect waves-light btn" href="http://www.elaperu.org/" target="_new" style=" background-color: #e91e63;">Ver Web</a>
+                        <br> <br>
+                        <div class="chip thin">Html 5</div>
+                        <div class="chip thin">Css 3</div>
+                        <div class="chip thin">Php 7.1</div>
+                        <div class="chip thin">J.S</div>
+                        <div class="chip thin">Jquery</div>
+                        <div class="chip thin">Bootstrap 4</div>
+                        <div class="chip thin">C.M.S</div>
+                        <br><br>
+                    </div>
+                </div>
+                <div class="jumbotron text-center" style="background: url('img/web7.jpg') center; background-size: cover;" data-paroller-factor="2" data-paroller-direction="horizontal">
+                    <div class="card-block addcard container" align="center">
+                        <h1 class="py-5 text-white thin">integro365.com/</h1>
+                        <p class="text-white thin">Integro 365 es resultado del desarrollo de marca encargado a Update Global Marketing. Un sitio web con estrategia de comunicación onepage para enterar al usuario de manera rápida y precisa. muy dinámica y con formulario múltiple, conexión a redes sociales, blog y un editor de contenidos (CMS). Lo que una empresa que recién inicia necesita. Desarrollado en html5 y css3. 100% actualizable optimizada para google.</p>
+                        <br>
+                            <a class="waves-effect waves-light btn" href="http://www.integro365.com/" target="_new" style=" background-color: #e91e63;">Ver Web</a>
+                        <br> <br>
+                        <div class="chip thin">Html 5</div>
+                        <div class="chip thin">Css 3</div>
+                        <div class="chip thin">Php 7.1</div>
+                        <div class="chip thin">J.S</div>
+                        <div class="chip thin">Jquery</div>
+                        <div class="chip thin">Bootstrap 4</div>
+                        <div class="chip thin">C.M.S</div>
+                        <br><br>
+                    </div>
+                </div> 
+            </section>  
 
 
-
-<!-- cintillo-->
-    <div class="container-fluid bg_verde">
+   <div class="container-fluid bg_verde">
       <div class="row" style="margin-bottom: 0px;">
         <div class="col s12 m12 " style="padding: 35px;">
           <h5 class="sd_sut2">¿Cómo puedo contactarlos?</h5>
@@ -327,7 +298,7 @@ video{
         </div>
       </div>
     </div>
-<!-- cintillo-->
+
 <!--contaco-->
     <div class="container-fluid" align="center" style="background-color: white;">
       <div class="row" style="margin: 0;">
@@ -358,7 +329,8 @@ video{
       </div>
     </div>
 <!--contaco-->
-<!--googleMaps-->
+
+
     <div class="container-fluid bg_grey">
       <div class="row ubicatex" style="margin-bottom:  0px;">
         <div class="col s12 m12" style="padding: 50px;">
@@ -368,7 +340,7 @@ video{
       </div>
     </div>
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d975.38335528687!2d-77.09345382634368!3d-12.075590421389505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c96ff8023dc7%3A0xe2b0a2ebfb211589!2sPlexus+Centro+Empresarial!5e0!3m2!1ses-419!2spe!4v1525122313720" height="450" frameborder="0" style="border:0; width: 100%;" allowfullscreen></iframe>
-<!--googleMaps-->
+
 
 
 
@@ -388,32 +360,6 @@ video{
         include('../modulos/footer.php');
         ?>
 
-
-  <script src='https://code.jquery.com/jquery-2.2.4.min.js'></script>
-  <script type="text/javascript">
-    /* Demo purposes only */
-  $(".hover").mouseleave(
-    function() {
-      $(this).removeClass("hover");
-    }
-  );
-  </script>
-
-
-
-<!-- masonry-->
-<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
-
-<script type="text/javascript">
-/* Demo purposes only */
-$(".hover").mouseleave(
-  function () {
-    $(this).removeClass("hover");
-  }
-);
-</script>
-
-
         <!--Machinewrite-->
         <script  src="js/index.js"></script>
          <!-- Compiled and minified JavaScript -->
@@ -424,8 +370,20 @@ $(".hover").mouseleave(
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"></script>
         <script type="text/javascript" src="js/materialize.js"></script>
         <script type="text/javascript" src="js/materialize.min.js"></script>
-
-
+        <!--Paroller-->
+        <script src="dist/jquery.paroller.js"></script>
+        <script type="text/javascript" src="js/js.js"></script>
+        <script>
+         $(function () {
+         $('[data-paroller-factor]').paroller();
+         $('.paroller').paroller({
+            factor: 0.4,
+            type: 'foreground'
+         });
+         $('body').scrollspy({target: '#main-navbar'});
+         });
+     
+        </script>
           <script type="text/javascript">
             $(document).ready(function() {
                 $('.scrollspy').scrollSpy();
@@ -442,7 +400,7 @@ $(".hover").mouseleave(
               });
 
           </script>
-        <script> 
+        <script>
             // When the user scrolls the page, execute myFunction 
             window.onscroll = function() {myFunction()};
             function myFunction() {
