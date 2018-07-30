@@ -205,7 +205,6 @@ video{
               </div>
               <figcaption><i class="ion-share"></i>
                  <img src="http://via.placeholder.com/150x100">
-                <h4>Naricitas</h4>
               </figcaption>
             </figure>         
           </li>
@@ -216,7 +215,6 @@ video{
               </div>
               <figcaption><i class="ion-share"></i>
                  <img src="http://via.placeholder.com/150x100">
-                <h4>Frelatos</h4>
               </figcaption>
             </figure>         
           </li>
@@ -227,7 +225,6 @@ video{
               </div>
               <figcaption><i class="ion-share"></i>
                  <img src="http://via.placeholder.com/150x100">
-                <h4>Auton</h4>
               </figcaption>
             </figure>         
           </li>
@@ -238,7 +235,6 @@ video{
               </div>
               <figcaption><i class="ion-share"></i>
                  <img src="http://via.placeholder.com/150x100">
-                <h4>Isotech</h4>
               </figcaption>
             </figure>         
           </li>
@@ -259,7 +255,6 @@ video{
               </div>
               <figcaption><i class="ion-share"></i>
                  <img src="http://via.placeholder.com/150x100">
-                <h4>El Negro</h4>
               </figcaption>
             </figure> 
           </li>
@@ -270,7 +265,6 @@ video{
               </div>
               <figcaption><i class="ion-share"></i>
                  <img src="http://via.placeholder.com/150x100">
-                <h4>Integro</h4>
               </figcaption>
             </figure>         
           </li>
@@ -281,7 +275,6 @@ video{
               </div> 
               <figcaption><i class="ion-share"></i>
                  <img src="http://via.placeholder.com/150x100">
-                <h4>Seven</h4>
               </figcaption>
             </figure>         
           </li>
@@ -292,7 +285,6 @@ video{
               </div> 
               <figcaption><i class="ion-share"></i>
                  <img src="http://via.placeholder.com/150x100">
-                <h4>Telollevasya</h4>
               </figcaption>
             </figure>         
           </li> 
@@ -313,7 +305,6 @@ video{
               </div>
               <figcaption><i class="ion-share"></i>
                  <img src="http://via.placeholder.com/150x100">
-                <h4>Sanus</h4>
               </figcaption>
             </figure>         
           </li>
@@ -324,7 +315,6 @@ video{
               </div>
               <figcaption><i class="ion-share"></i>
                  <img src="http://via.placeholder.com/150x100">
-                <h4>Aglab</h4>
               </figcaption>
             </figure>         
           </li>
@@ -335,7 +325,6 @@ video{
               </div> 
               <figcaption><i class="ion-share"></i>
                  <img src="http://via.placeholder.com/150x100">
-                <h4>Limacoin</h4>
               </figcaption>
             </figure>         
           </li>
@@ -346,7 +335,6 @@ video{
               </div>
               <figcaption><i class="ion-share"></i>
                  <img src="http://via.placeholder.com/150x100">
-                <h4>Revum</h4>
               </figcaption>
             </figure>         
           </li>
