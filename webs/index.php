@@ -194,7 +194,7 @@ video{
                 <img src="galeria/tequecheese-adaptado.png" alt="sq-sample28"/>
               </div> 
               <figcaption><i class="ion-share"></i>
-                 <img src="http://via.placeholder.com/150x100">
+                 <img src="galeria/icons/tequecheese-negativo.png">
               </figcaption>
             </figure>         
           </li>
@@ -204,7 +204,7 @@ video{
                 <img src="galeria/naricitas-adaptado.png" alt="sq-sample28"/>
               </div>
               <figcaption><i class="ion-share"></i>
-                 <img src="http://via.placeholder.com/150x100">
+                 <img src="galeria/icons/naricitas-negativo.png">
               </figcaption>
             </figure>         
           </li>
@@ -214,7 +214,7 @@ video{
                 <img src="galeria/frelatos-adaptado.png" alt="sq-sample28"/>
               </div>
               <figcaption><i class="ion-share"></i>
-                 <img src="http://via.placeholder.com/150x100">
+                 <img src="galeria/icons/frelatos-negativo.png">
               </figcaption>
             </figure>         
           </li>
@@ -224,7 +224,7 @@ video{
               <img src="galeria/ac-auton-adaptado.png" alt="sq-sample28"/>
               </div>
               <figcaption><i class="ion-share"></i>
-                 <img src="http://via.placeholder.com/150x100">
+                 <img src="galeria/icons/auton-negativo.png">
               </figcaption>
             </figure>         
           </li>
@@ -234,7 +234,7 @@ video{
                 <img src="galeria/isotech-adaptado.png" alt="sq-sample28"/>
               </div>
               <figcaption><i class="ion-share"></i>
-                 <img src="http://via.placeholder.com/150x100">
+                 <img src="galeria/icons/isotech-negativo.png">
               </figcaption>
             </figure>         
           </li>
@@ -244,7 +244,7 @@ video{
                 <img src="galeria/consultoras-adaptado.png" alt="sq-sample28"/>
               </div>
               <figcaption><i class="ion-share"></i>
-                 <img src="http://via.placeholder.com/150x100">
+                 <img src="galeria/icons/consultoras-negativo.png">
               </figcaption>
             </figure>         
           </li>
@@ -254,7 +254,7 @@ video{
                 <img src="galeria/el-negro.png" alt="sq-sample28"/>
               </div>
               <figcaption><i class="ion-share"></i>
-                 <img src="http://via.placeholder.com/150x100">
+                 <img src="galeria/icons/el-negro-negativo.png">
               </figcaption>
             </figure> 
           </li>
@@ -264,7 +264,7 @@ video{
                 <img src="galeria/integro-adaptado.png" alt="sq-sample28"/>
               </div>
               <figcaption><i class="ion-share"></i>
-                 <img src="http://via.placeholder.com/150x100">
+                 <img src="galeria/icons/integro-negativo.png">
               </figcaption>
             </figure>         
           </li>
@@ -274,7 +274,7 @@ video{
                 <img src="galeria/seventies-adaptado.png" alt="sq-sample28"/>
               </div> 
               <figcaption><i class="ion-share"></i>
-                 <img src="http://via.placeholder.com/150x100">
+                 <img src="galeria/icons/seventies-negativo.png">
               </figcaption>
             </figure>         
           </li>
@@ -284,7 +284,7 @@ video{
                 <img src="galeria/telollevasya-adaptado.png" alt="sq-sample28"/>
               </div> 
               <figcaption><i class="ion-share"></i>
-                 <img src="http://via.placeholder.com/150x100">
+                 <img src="galeria/icons/telollevas-negativo.png">
               </figcaption>
             </figure>         
           </li> 
@@ -294,7 +294,7 @@ video{
                 <img src="galeria/riesgos-adaptado.png" alt="sq-sample28"/>
               </div>
               <figcaption><i class="ion-share"></i>
-                 <img src="http://via.placeholder.com/150x100">
+                 <img src="galeria/icons/riesgos-negativo.png">
               </figcaption>
             </figure>         
           </li>
@@ -304,7 +304,7 @@ video{
                 <img src="galeria/sanus-apaptado.png" alt="sq-sample28"/>
               </div>
               <figcaption><i class="ion-share"></i>
-                 <img src="http://via.placeholder.com/150x100">
+                 <img src="galeria/icons/sanus-negativo.png">
               </figcaption>
             </figure>         
           </li>
@@ -314,7 +314,7 @@ video{
                 <img src="galeria/aglab-adaptado.png" alt="sq-sample28"/>
               </div>
               <figcaption><i class="ion-share"></i>
-                 <img src="http://via.placeholder.com/150x100">
+                 <img src="galeria/icons/aglab-negativo.png">
               </figcaption>
             </figure>         
           </li>
@@ -324,7 +324,7 @@ video{
                 <img src="galeria/limacoin-adaptado.png" alt="sq-sample28"/>
               </div> 
               <figcaption><i class="ion-share"></i>
-                 <img src="http://via.placeholder.com/150x100">
+                 <img src="galeria/icons/limacoin-negativo.png">
               </figcaption>
             </figure>         
           </li>
@@ -334,7 +334,7 @@ video{
                 <img src="galeria/revum-adaptado.png" alt="sq-sample28"/>
               </div>
               <figcaption><i class="ion-share"></i>
-                 <img src="http://via.placeholder.com/150x100">
+                 <img src="galeria/icons/revum-negativo.png">
               </figcaption>
             </figure>         
           </li>
