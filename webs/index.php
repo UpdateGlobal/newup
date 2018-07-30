@@ -181,7 +181,6 @@ video{
 
 
 
-
 <!-- Galeria -->
 <div class="container-fluid" style="background-color: white; margin: 0px;">
   <div class="container" align="center" style="padding: 50px 0px;">
@@ -192,162 +191,162 @@ video{
           <li>
             <figure class="snip1321">
               <div class="img-contenedor">
-              <img src="galeria/ac-auton-pastelito.jpg" alt="sq-sample28"/>
-              </div>
+                <img src="galeria/tequecheese-adaptado.png" alt="sq-sample28"/>
+              </div> 
               <figcaption><i class="ion-share"></i>
-                <h4>Auton</h4>
-               <!--  <h2>Hollandaise</h2> -->
+                 <img src="http://via.placeholder.com/150x100">
               </figcaption>
             </figure>         
           </li>
-           <li>
-            <figure class="snip1321">
-              <div class="img-contenedor">
-                <img src="galeria/aglab-PASTELITO.jpg" alt="sq-sample28"/>
-              </div>
-              <figcaption><i class="ion-share"></i>
-                <h4>Aglab</h4>
-               <!--  <h2>Hollandaise</h2> -->
-              </figcaption>
-            </figure>         
-          </li>
-           <li>
-            <figure class="snip1321">
-              <div class="img-contenedor">
-                <img src="galeria/consultoras-peru-pastelito.jpg" alt="sq-sample28"/>
-              </div>
-              <figcaption><i class="ion-share"></i>
-                <h4>Consultoras</h4>
-               <!--  <h2>Hollandaise</h2> -->
-              </figcaption>
-            </figure>         
-          </li>
-           <li>
-            <figure class="snip1321">
-              <div class="img-contenedor">
-                <img src="galeria/el-negro-pastelito.jpg" alt="sq-sample28"/>
-              </div>
-              <figcaption><i class="ion-share"></i>
-                <h4>El Negro</h4>
-               <!--  <h2>Hollandaise</h2> -->
-              </figcaption>
-            </figure>         
           <li>
             <figure class="snip1321">
               <div class="img-contenedor">
-                <img src="galeria/frelatos-pastelito.jpg" alt="sq-sample28"/>
+                <img src="galeria/naricitas-adaptado.png" alt="sq-sample28"/>
               </div>
               <figcaption><i class="ion-share"></i>
-                <h4>Frelatos</h4>
-               <!--  <h2>Hollandaise</h2> -->
-              </figcaption>
-            </figure>         
-          </li>
-           <li>
-            <figure class="snip1321">
-              <div class="img-contenedor">
-                <img src="galeria/integro-pastelito.jpg" alt="sq-sample28"/>
-              </div>
-              <figcaption><i class="ion-share"></i>
-                <h4>Integro</h4>
-               <!--  <h2>Hollandaise</h2> -->
-              </figcaption>
-            </figure>         
-          </li>
-           <li>
-            <figure class="snip1321">
-              <div class="img-contenedor">
-                <img src="galeria/isotech-pastelito.jpg" alt="sq-sample28"/>
-              </div>
-              <figcaption><i class="ion-share"></i>
-                <h4>Isotech</h4>
-               <!--  <h2>Hollandaise</h2> -->
-              </figcaption>
-            </figure>         
-          </li>
-           <li>
-            <figure class="snip1321">
-              <div class="img-contenedor">
-                <img src="galeria/naricitas-pastelito.jpg" alt="sq-sample28"/>
-              </div>
-              <figcaption><i class="ion-share"></i>
+                 <img src="http://via.placeholder.com/150x100">
                 <h4>Naricitas</h4>
-               <!--  <h2>Hollandaise</h2> -->
-              </figcaption>
-            </figure>         
-          </li>
-            <figure class="snip1321">
-              <div class="img-contenedor">
-                <img src="galeria/revum-pastelito-FLAT.jpg" alt="sq-sample28"/>
-              </div>
-              <figcaption><i class="ion-share"></i>
-                <h4>Revum</h4>
-               <!--  <h2>Hollandaise</h2> -->
               </figcaption>
             </figure>         
           </li>
           <li>
             <figure class="snip1321">
               <div class="img-contenedor">
-                <img src="galeria/riesgos-pastelito.jpg" alt="sq-sample28"/>
+                <img src="galeria/frelatos-adaptado.png" alt="sq-sample28"/>
               </div>
               <figcaption><i class="ion-share"></i>
-                <h4>Riesgo y Soluciones</h4>
-               <!--  <h2>Hollandaise</h2> -->
+                 <img src="http://via.placeholder.com/150x100">
+                <h4>Frelatos</h4>
               </figcaption>
             </figure>         
           </li>
-           <li>
+          <li>
             <figure class="snip1321">
               <div class="img-contenedor">
-                <img src="galeria/sanus-pastelito.jpg" alt="sq-sample28"/>
+              <img src="galeria/ac-auton-adaptado.png" alt="sq-sample28"/>
               </div>
               <figcaption><i class="ion-share"></i>
-                <h4>Sanus</h4>
-               <!--  <h2>Hollandaise</h2> -->
+                 <img src="http://via.placeholder.com/150x100">
+                <h4>Auton</h4>
               </figcaption>
             </figure>         
           </li>
-           <li>
+          <li>
             <figure class="snip1321">
               <div class="img-contenedor">
-                <img src="galeria/seven-PASTELITO.jpg" alt="sq-sample28"/>
+                <img src="galeria/isotech-adaptado.png" alt="sq-sample28"/>
+              </div>
+              <figcaption><i class="ion-share"></i>
+                 <img src="http://via.placeholder.com/150x100">
+                <h4>Isotech</h4>
+              </figcaption>
+            </figure>         
+          </li>
+          <li>
+            <figure class="snip1321">
+              <div class="img-contenedor">
+                <img src="galeria/consultoras-adaptado.png" alt="sq-sample28"/>
+              </div>
+              <figcaption><i class="ion-share"></i>
+                 <img src="http://via.placeholder.com/150x100">
+              </figcaption>
+            </figure>         
+          </li>
+          <li>
+            <figure class="snip1321">
+              <div class="img-contenedor">
+                <img src="galeria/el-negro.png" alt="sq-sample28"/>
+              </div>
+              <figcaption><i class="ion-share"></i>
+                 <img src="http://via.placeholder.com/150x100">
+                <h4>El Negro</h4>
+              </figcaption>
+            </figure> 
+          </li>
+          <li>
+            <figure class="snip1321">
+              <div class="img-contenedor">
+                <img src="galeria/integro-adaptado.png" alt="sq-sample28"/>
+              </div>
+              <figcaption><i class="ion-share"></i>
+                 <img src="http://via.placeholder.com/150x100">
+                <h4>Integro</h4>
+              </figcaption>
+            </figure>         
+          </li>
+          <li>
+            <figure class="snip1321">
+              <div class="img-contenedor">
+                <img src="galeria/seventies-adaptado.png" alt="sq-sample28"/>
               </div> 
               <figcaption><i class="ion-share"></i>
+                 <img src="http://via.placeholder.com/150x100">
                 <h4>Seven</h4>
-               <!--  <h2>Hollandaise</h2> -->
               </figcaption>
             </figure>         
           </li>
+          <li>
             <figure class="snip1321">
               <div class="img-contenedor">
-                <img src="galeria/tablet-bit-coin-pastelito.jpg" alt="sq-sample28"/>
+                <img src="galeria/telollevasya-adaptado.png" alt="sq-sample28"/>
               </div> 
               <figcaption><i class="ion-share"></i>
-                <h4>Limacoin</h4>
-               <!--  <h2>Hollandaise</h2> -->
-              </figcaption>
-            </figure>         
-          </li>
-           </li>
-            <figure class="snip1321">
-              <div class="img-contenedor">
-                <img src="galeria/telollevasya-Gris-bajito.jpg" alt="sq-sample28"/>
-              </div> 
-              <figcaption><i class="ion-share"></i>
+                 <img src="http://via.placeholder.com/150x100">
                 <h4>Telollevasya</h4>
-               <!--  <h2>Hollandaise</h2> -->
+              </figcaption>
+            </figure>         
+          </li> 
+          <li>
+            <figure class="snip1321">
+              <div class="img-contenedor">
+                <img src="galeria/riesgos-adaptado.png" alt="sq-sample28"/>
+              </div>
+              <figcaption><i class="ion-share"></i>
+                 <img src="http://via.placeholder.com/150x100">
               </figcaption>
             </figure>         
           </li>
-           </li>
+          <li>
             <figure class="snip1321">
               <div class="img-contenedor">
-                <img src="galeria/tequecheese-pastelito.jpg" alt="sq-sample28"/>
+                <img src="galeria/sanus-apaptado.png" alt="sq-sample28"/>
+              </div>
+              <figcaption><i class="ion-share"></i>
+                 <img src="http://via.placeholder.com/150x100">
+                <h4>Sanus</h4>
+              </figcaption>
+            </figure>         
+          </li>
+          <li>
+            <figure class="snip1321">
+              <div class="img-contenedor">
+                <img src="galeria/aglab-adaptado.png" alt="sq-sample28"/>
+              </div>
+              <figcaption><i class="ion-share"></i>
+                 <img src="http://via.placeholder.com/150x100">
+                <h4>Aglab</h4>
+              </figcaption>
+            </figure>         
+          </li>
+          <li>
+            <figure class="snip1321">
+              <div class="img-contenedor">
+                <img src="galeria/limacoin-adaptado.png" alt="sq-sample28"/>
               </div> 
               <figcaption><i class="ion-share"></i>
-                <h4>Tequecheese</h4>
-               <!--  <h2>Hollandaise</h2> -->
+                 <img src="http://via.placeholder.com/150x100">
+                <h4>Limacoin</h4>
+              </figcaption>
+            </figure>         
+          </li>
+          <li>
+            <figure class="snip1321">
+              <div class="img-contenedor">
+                <img src="galeria/revum-adaptado.png" alt="sq-sample28"/>
+              </div>
+              <figcaption><i class="ion-share"></i>
+                 <img src="http://via.placeholder.com/150x100">
+                <h4>Revum</h4>
               </figcaption>
             </figure>         
           </li>
