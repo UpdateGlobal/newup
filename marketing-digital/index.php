@@ -121,14 +121,14 @@
     <ul>
       <li><a href="#formta" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Contacto" data-activates="slide-out"><i class="material-icons">perm_phone_msg</i></a></li>
       <li><a href="https://api.whatsapp.com/send?phone=51934244258&text=Hola%20Me%20Gustaria%20información%20de%20sus%20servicios" target="new" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Escribenos a Whatsapp">
-        <img src="img/whatsapp.svg" width="27" style="color: white; padding-top: 6px;">
+        <img src="images/whatsapp.svg" width="27" style="color: white; padding-top: 6px;">
       </a></li>
       <li><a href="../blog.php" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Blog">   <i class="material-icons">developer_mode</i></a></li>
       <li><a href="../proyectos" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Proyectos" href=""><i class="material-icons">brush</i></a></li> 
       <li><a href="../webs" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Diseño Web">  <i class="material-icons">desktop_mac</i></a></li> 
       <li><a href="../branding" class="btn-floating colormenu4 tooltipped" data-position="left" data-delay="50" data-tooltip="Branding"><i class="material-icons">format_color_fill</i></a></li>      
       <li><a href="../" class="btn-floating colormenu4 tooltipped" data-position="left"  data-delay="50" data-tooltip="Ir al Inicio">
-        <img src="img/home.svg" width="27" style="color: white; padding-top: 8px;">
+        <img src="images/home.svg" width="27" style="color: white; padding-top: 8px;">
       </a></li>    
     </ul>
   </div>
