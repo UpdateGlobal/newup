@@ -3364,6 +3364,7 @@ nav ul a span.badge {
   -webkit-font-feature-settings: 'liga';
      -moz-font-feature-settings: 'liga';
           font-feature-settings: 'liga';
+          vertical-align: middle;
 }
 
 .container {
@@ -5402,7 +5403,7 @@ button.btn-floating {
   -webkit-box-shadow: none;
           box-shadow: none;
   background-color: transparent;
-  color: #343434;
+  color: #26a69a;;
   cursor: pointer;
   -webkit-transition: background-color .2s;
   transition: background-color .2s;
@@ -5634,8 +5635,8 @@ button.btn-floating {
   right: 0;
   background-color: #fafafa;
   padding: 0;
-  max-height: 70%;
-  width: 55%;
+  max-height: 80%;
+  width: 80%;
   margin: auto;
   overflow-y: auto;
   border-radius: 2px;
@@ -5653,7 +5654,8 @@ button.btn-floating {
 }
 
 .modal .modal-content {
-  padding: 24px;
+      padding-left: 20px;
+      padding-right: 20px;
 }
 
 .modal .modal-close {
