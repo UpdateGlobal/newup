@@ -265,7 +265,7 @@
         </span>
       </p>
     </div>
-      <img src="galeria/web/auton_website.png" style="width: 100%;">
+      <img src="galeria/web/auton_website.jpg" style="width: 100%;">
     <div class="modal-footer">
       <a href="#!" class="modal-close waves-effect btn-flat">Cerrar <i class="Medium material-icons"> clear</i></a>
     </div>  
@@ -283,7 +283,7 @@
         </span>
       </p>
     </div>
-      <img src="galeria/web/aglab_website.png" style="width: 100%;">
+      <img src="galeria/web/aglab_website.jpg" style="width: 100%;">
     <div class="modal-footer">
       <a href="#!" class="modal-close waves-effect btn-flat">Cerrar <i class="Medium material-icons"> clear</i></a>
     </div>  
@@ -301,7 +301,7 @@
         </span>
       </p>
     </div>
-      <img src="galeria/web/consul_website.png" style="width: 100%;">
+      <img src="galeria/web/consul_website.jpg" style="width: 100%;">
     <div class="modal-footer">
       <a href="#!" class="modal-close waves-effect btn-flat">Cerrar <i class="Medium material-icons"> clear</i></a>
     </div>  
@@ -319,7 +319,7 @@
         </span>
       </p>
     </div>
-      <img src="galeria/web/elnegro_website.png" style="width: 100%;">
+      <img src="galeria/web/elnegro_website.jpg" style="width: 100%;">
     <div class="modal-footer">
       <a href="#!" class="modal-close waves-effect btn-flat">Cerrar <i class="Medium material-icons"> clear</i></a>
     </div>  
@@ -337,7 +337,7 @@
         </span>
       </p>
     </div>
-      <img src="galeria/web/frelatos_website.png" style="width: 100%;">
+      <img src="galeria/web/frelatos_website.jpg" style="width: 100%;">
     <div class="modal-footer">
       <a href="#!" class="modal-close waves-effect btn-flat">Cerrar <i class="Medium material-icons"> clear</i></a>
     </div>  
@@ -355,7 +355,7 @@
         </span>
       </p>
     </div>
-      <img src="galeria/web/isotech_website.png" style="width: 100%;">
+      <img src="galeria/web/isotech_website.jpg" style="width: 100%;">
     <div class="modal-footer">
       <a href="#!" class="modal-close waves-effect btn-flat">Cerrar <i class="Medium material-icons"> clear</i></a>
     </div>  
@@ -373,7 +373,7 @@
         </span>
       </p>
     </div>
-      <img src="galeria/web/limacoin_website.png" style="width: 100%;">
+      <img src="galeria/web/limacoin_website.jpg" style="width: 100%;">
     <div class="modal-footer">
       <a href="#!" class="modal-close waves-effect btn-flat">Cerrar <i class="Medium material-icons"> clear</i></a>
     </div>  
@@ -391,7 +391,7 @@
         </span>
       </p>
     </div>
-      <img src="galeria/web/naricitas_website.png" style="width: 100%;">
+      <img src="galeria/web/naricitas_website.jpg" style="width: 100%;">
     <div class="modal-footer">
       <a href="#!" class="modal-close waves-effect btn-flat">Cerrar <i class="Medium material-icons"> clear</i></a>
     </div>  
@@ -409,7 +409,7 @@
         </span>
       </p>
     </div>
-      <img src="galeria/web/revum_website.png" style="width: 100%;">
+      <img src="galeria/web/revum_website.jpg" style="width: 100%;">
     <div class="modal-footer">
       <a href="#!" class="modal-close waves-effect btn-flat">Cerrar <i class="Medium material-icons"> clear</i></a>
     </div>  
@@ -427,7 +427,7 @@
         </span>
       </p>
     </div>
-      <img src="galeria/web/riesgo_website.png" style="width: 100%;">
+      <img src="galeria/web/riesgo_website.jpg" style="width: 100%;">
     <div class="modal-footer">
       <a href="#!" class="modal-close waves-effect btn-flat">Cerrar <i class="Medium material-icons"> clear</i></a>
     </div>  
@@ -445,7 +445,7 @@
         </span>
       </p>
     </div>
-      <img src="galeria/web/sanus_website.png" style="width: 100%;">
+      <img src="galeria/web/sanus_website.jpg" style="width: 100%;">
     <div class="modal-footer">
       <a href="#!" class="modal-close waves-effect btn-flat">Cerrar <i class="Medium material-icons"> clear</i></a>
     </div>  
@@ -463,7 +463,7 @@
         </span>
       </p>
     </div>
-      <img src="galeria/web/seveties_website.png" style="width: 100%;">
+      <img src="galeria/web/seveties_website.jpg" style="width: 100%;">
     <div class="modal-footer">
       <a href="#!" class="modal-close waves-effect btn-flat">Cerrar <i class="Medium material-icons"> clear</i></a>
     </div>  
@@ -481,7 +481,7 @@
         </span>
       </p>
     </div>
-      <img src="galeria/web/tequecheese_website.png" style="width: 100%;">
+      <img src="galeria/web/tequecheese_website.jpg" style="width: 100%;">
     <div class="modal-footer">
       <a href="#!" class="modal-close waves-effect btn-flat">Cerrar <i class="Medium material-icons"> clear</i></a>
     </div>  
