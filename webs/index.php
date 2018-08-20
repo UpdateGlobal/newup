@@ -34,8 +34,7 @@
       <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
       <link rel="stylesheet" type="text/css" href="assets/font-awesome.css">
       <link rel="stylesheet" type="text/css" href="assets/materialize.css">
-      <link rel="stylesheet" type="text/css" href="assets/normalize.css">
-      <!--Machinewrite-->
+            <!--Machinewrite-->
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 
       <!-- Global site tag (gtag.js) - Google Pichuytics -->
@@ -161,6 +160,8 @@
   </div>
   <!--infoItem-->
 
+
+
   <!-- Galeria -->
   <div class="container-fluid" style="background-color: white; margin: 0px;">
     <div class="container" align="center" style="padding: 50px 0px;">
@@ -171,83 +172,107 @@
           <ul class="colum_style">
             <li>
               <!-- Modal Trigger -->
-              <a class="waves-effect waves-light modal-trigger" href="#modal1">
-                <img class="mg_b"  src="galeria/ac-auton-adaptado.png">
-              </a>
+              <div class="image-hover img-zoom-in">
+                <a class="waves-effect waves-light modal-trigger" href="#modal1">
+                  <img  src="galeria/ac-auton-adaptado.png">
+                </a>  
+              </div>
             </li>
             <li>
               <!-- Modal Trigger -->
-              <a class="waves-effect waves-light modal-trigger" href="#modal2">
-                <img class="mg_b"  src="galeria/aglab-adaptado.png">
-              </a>
+              <div class="image-hover img-zoom-in">
+                <a class="waves-effect waves-light modal-trigger" href="#modal2">
+                  <img  src="galeria/aglab-adaptado.png">
+                </a>
+            </div>
             </li>
             <li>
               <!-- Modal Trigger -->
-              <a class="waves-effect waves-light modal-trigger" href="#modal3">
-                <img class="mg_b"  src="galeria/consultoras-adaptado.png">
-              </a>
+              <div class="image-hover img-zoom-in">
+                <a class="waves-effect waves-light modal-trigger" href="#modal3">
+                  <img  src="galeria/consultoras-adaptado.png">
+                </a>
+            </div>
             </li>
             <li>
               <!-- Modal Trigger -->
-              <a class="waves-effect waves-light modal-trigger" href="#modal4">
-                <img class="mg_b"  src="galeria/el-negro.png">
-              </a>
+              <div class="image-hover img-zoom-in">
+                <a class="waves-effect waves-light modal-trigger" href="#modal4">
+                  <img  src="galeria/el-negro.png">
+                </a>
+              </div>
             </li>
             <li>
               <!-- Modal Trigger -->
-              <a class="waves-effect waves-light modal-trigger" href="#modal5">
-                <img class="mg_b"  src="galeria/frelatos-adaptado.png">
-              </a>
+              <div class="image-hover img-zoom-in">
+                <a class="waves-effect waves-light modal-trigger" href="#modal5">
+                  <img  src="galeria/frelatos-adaptado.png">
+                </a>
+              </div>
             </li> 
             <li>
               <!-- Modal Trigger -->
-              <a class="waves-effect waves-light modal-trigger" href="#modal6">
-                <img class="mg_b"  src="galeria/isotech-adaptado.png">
-              </a>
+              <div class="image-hover img-zoom-in">
+                <a class="waves-effect waves-light modal-trigger" href="#modal6">
+                  <img  src="galeria/isotech-adaptado.png">
+                </a>
+              </div>
             </li>
             <li>
               <!-- Modal Trigger -->
-              <a class="waves-effect waves-light modal-trigger" href="#modal7">
-                <img class="mg_b"  src="galeria/limacoin-adaptado.png">
-              </a>
+              <div class="image-hover img-zoom-in">
+                <a class="waves-effect waves-light modal-trigger" href="#modal7">
+                  <img  src="galeria/limacoin-adaptado.png">
+                </a>
+              </div>
             </li>
             <li>
               <!-- Modal Trigger -->
-              <a class="waves-effect waves-light modal-trigger" href="#modal8">
-                <img class="mg_b"  src="galeria/naricitas-adaptado.png">
-              </a>
+              <div class="image-hover img-zoom-in">
+                <a class="waves-effect waves-light modal-trigger" href="#modal8">
+                  <img  src="galeria/naricitas-adaptado.png">
+                </a>
+              </div>
             </li>
             <li>
               <!-- Modal Trigger -->
-              <a class="waves-effect waves-light modal-trigger" href="#modal9">
-                <img class="mg_b"  src="galeria/revum-adaptado.png">
-              </a>
-            </li>
-
-            <li>
-              <!-- Modal Trigger -->
-              <a class="waves-effect waves-light modal-trigger" href="#modal10">
-                <img class="mg_b"  src="galeria/riesgos-adaptado.png">
-              </a>
-            </li>
-
-            <li>
-              <!-- Modal Trigger -->
-              <a class="waves-effect waves-light modal-trigger" href="#modal11">
-                <img class="mg_b"  src="galeria/sanus-apaptado.png">
-              </a>
+              <div class="image-hover img-zoom-in">
+                <a class="waves-effect waves-light modal-trigger" href="#modal9">
+                  <img  src="galeria/revum-adaptado.png">
+                </a>
+              </div>
             </li>
             <li>
               <!-- Modal Trigger -->
-              <a class="waves-effect waves-light modal-trigger" href="#modal12">
-                <img class="mg_b"  src="galeria/seventies-adaptado.png">
-              </a>
+              <div class="image-hover img-zoom-in">
+                <a class="waves-effect waves-light modal-trigger" href="#modal10">
+                  <img  src="galeria/riesgos-adaptado.png">
+                </a>
+              </div>
             </li>
             <li>
               <!-- Modal Trigger -->
-              <a class="waves-effect waves-light modal-trigger" href="#modal13">
-                <img class="mg_b"  src="galeria/tequecheese-adaptado.png">
-              </a>
+              <div class="image-hover img-zoom-in">
+                <a class="waves-effect waves-light modal-trigger" href="#modal11">
+                  <img  src="galeria/sanus-apaptado.png">
+                </a>
+              </div>
+            </li>
+            <li>
+              <!-- Modal Trigger -->
+              <div class="image-hover img-zoom-in">
+                <a class="waves-effect waves-light modal-trigger" href="#modal12">
+                  <img  src="galeria/seventies-adaptado.png">
+                </a>
+              </div>
+            </li>
+            <li>
+              <!-- Modal Trigger -->
+              <div class="image-hover img-zoom-in">
+                <a class="waves-effect waves-light modal-trigger" href="#modal13">
+                  <img  src="galeria/tequecheese-adaptado.png">
+                </a>
+              </div>
             </li>
           </ul>
     </div>
@@ -558,7 +583,7 @@
         );
         </script>
         <!-- masonry-->
-        <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 
         <script type="text/javascript">
         /* Demo purposes only */
